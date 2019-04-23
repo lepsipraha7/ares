@@ -12,7 +12,7 @@ echo "Fetching from wwwinfo.mfcr.cz..." &&
 ./fetcher.rb &&
 echo "Pushing to github.com..." &&
 cd /source &&
-git add *.json &&
+git add *.xml &&
 git diff --quiet &&
 git diff --staged --quiet ||
 (git commit -am 'Auto imported new data' && git push $REPO source)

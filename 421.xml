@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01161954</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Aleš Fojtík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8010010107</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01647474</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Herkules Trading s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=01647474</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12515337</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miloslav ZAPADLO</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=520810007</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24211974</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>CETI, organizační složka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25717758</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Sara &amp; Dino spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25717758</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26528843</dtt:ico>
+<dtt:pf>161</dtt:pf>
+<dtt:ojm>Cesta domů, z.ú.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26528843</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26528843</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27099873</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CTS corp., s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27099873</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27223183</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JISO, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27223183</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28798058</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BlueFort s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28798058</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42519306</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Bohuslav Večeřa</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61540595</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivana Navrátilová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63095220</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbara Vybíralová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66462681</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Tomáš Joska</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66463602</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Jan BEZUCHA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66464307</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>RNDr. Zdenko PROCHÁZKA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68854692</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michaela Šebelová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69430993</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Rais</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7711192522</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70100543</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Sdružení K3</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71765298</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Monika Kiszová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7752260406</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73632821</dtt:ico>
+<dtt:pf>722</dtt:pf>
+<dtt:ojm>Sbor Křesťanské společenství Praha - město</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rcns>0</dtt:rcns>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>74923081</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Soták</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8308057252</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75106299</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků domu Bubenská č.p 421, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75121000</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. Jaroslava Fojtíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01717260</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Bloomtime, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02915065</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DLC management s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02915065</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02944740</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Dvořák &amp; Lád Companies a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02944740</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03131688</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ProCestu s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03131688</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=3131688</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03289168</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. BcA. Radka Josková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04293231</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana Černá Vlčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04718577</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Kristýna Šulcová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06695515</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina Večeřová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07804989</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DLC engineering s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 421/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07804989</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

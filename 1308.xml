@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01574965</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AGA Accounting s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1308/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=01574965</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28393112</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Poupětova 1308, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1308/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28481127</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Datatop s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1308/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28481127</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=28481127</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29134544</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>H-PreC, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1308/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=29134544</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68850549</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Halyna Pronyshyn</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1308/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68850654</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Andriy Pronyschyn</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1308/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70352691</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Žáček Tomáš, Ing.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1308/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7303120374</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74236709</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Armand Guri</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1308/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7904279966</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75617633</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jitka Konečná</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1308/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76492991</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel Měsíc</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1308/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86989618</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Kresta</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1308/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87047926</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. Andrea Guri</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1308/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88237761</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Violetta Karpushina</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1308/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8859123350</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02277573</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Tonder</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1308/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03203824</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AGA Moving s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1308/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03203824</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04482671</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kajetán Mota Lemos</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1308/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>16</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

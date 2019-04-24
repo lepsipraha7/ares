@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>28372913</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MELANSTAV s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 140/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28372913</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28946154</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JAZA REAL s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 140/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29031834</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SANDY CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 140/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29151601</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Promo 24 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 140/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=29151601</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48592528</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Cestovní kancelář PRAŽSKÁ, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 140/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64768635</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Igor JANÁK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 140/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6205206843</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65937783</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Ehrlichová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 140/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67974589</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Vasyl Bobynets</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 140/32</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7203083943</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70349321</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivan Jurčík</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 140/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03801730</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Smýkal</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 140/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>10</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

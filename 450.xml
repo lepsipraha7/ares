@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>10194771</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Tomáš BILÍK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12626929</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslav Cirhan</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6010230809</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13821709</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>JUDr. Tomáš VAVŘINEC</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6201280470</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16497945</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslava VEDRALOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 450/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18904874</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva CIRHANOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6152020677</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25668129</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Družstvo Havanská 4, v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26698412</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Ortenovo náměstí 10</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 450/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27179621</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Serhiy Chaklosh</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27604535</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SUPER PRODUCTION s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27604535</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28411226</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ET produkt s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 450/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28411226</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28464621</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>REINVEX s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28464621</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40869431</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karel Vedral</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 450/10</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43925642</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Emilie SVOBODOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43943233</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk Snopek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6110201658</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48022543</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Zuzana Wienerová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48944637</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Čejka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 450/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60172193</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JAN ŠTÝBER</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 450/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=510731018</dtt:p_dph>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61459259</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MOTORSPORT VAVŘINEC s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=61459259</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66028493</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Iveta Bilíková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67786812</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karel SLIACKY</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 450/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>67787401</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef ŠŤASTNÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 450/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71900209</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Wanner</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 450/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74648985</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel ŠIMÁNĚ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74708465</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Jana Chaklosh</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75238811</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Juraj Valent</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 450/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01717626</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tadeáš Cirhan</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03652335</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SENIOR PRODUCTION s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03735818</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>SENIOR CLUB EU z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03907805</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Danilo Spirito</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 450/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04503724</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Čadek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 450/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04682424</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků domu Havanská 4, Praha</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04948955</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Klára Neumannová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 450/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05480175</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>CZECH RACING CLUB v AČR</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06214070</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Štěpán Cirhan</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07630808</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel Vašek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 450/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9406131141</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07685335</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Cirhanová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 450/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>36</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

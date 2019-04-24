@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>16126670</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Zdeněk PROCHÁZKA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18342671</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Kvapil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22635343</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Daniel Janík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27894487</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Ortenovo náměstí 9</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45316473</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Alsitec s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=45316473</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48107191</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Renata JANÍKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49248430</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Rohan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63263092</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Pavel Hejcman</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7707301536</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64764516</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel FINGER</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66467519</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Tůma</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71672621</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Regina ROHANOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74155113</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Ondřej Mašek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74935275</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Bilý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76582302</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Veronika Romanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86635964</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Věra Dufková, DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87729725</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Věra Adina Šefraná</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87762773</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Roman Šantúr</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7012036603</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87810930</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Strejcová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02723778</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Zachraň Jídlo, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02723778</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=2723778</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02970058</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ladislav Mašek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>03144836</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Agnes Gdovínová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03647021</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Anatole Křepela</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 448/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>27106195</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek v domě č.p.1140,1141, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 1140/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27426629</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Dmytro Betsyn</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 1140/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47091592</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka KRÁLOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 1140/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66472806</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jitka Svobodová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 1140/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6556071753</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68868570</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Simona VERNEROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 1140/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74508440</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Maryša Medřická</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 1140/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75577241</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Doová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 1140/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86757555</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk Jamečný</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 1140/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05577926</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Niki Cassolová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 1140/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07422512</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Chuchvalec</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 1140/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>10</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

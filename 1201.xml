@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>12581518</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Vladimír NEUMANN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1201/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=440603042</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13140787</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>RNDr. Hana MAŘÍKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1201/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5854181971</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22688234</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Občanské sdružení důstojného bydlení</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1201/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27179702</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Agentura Regio, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1201/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27179702</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=27179702</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27443973</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek U Průhonu 1201/23, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1201/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=27443973</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27656489</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ivan Borys</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1201/23</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28556640</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Sdružení pro obnovu a provozování zámku BRNKY,o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1201/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=28556640</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40863743</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alice Neumannová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1201/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49368516</dtt:ico>
+<dtt:pf>118</dtt:pf>
+<dtt:ojm>Nadační fond Růže</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1201/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=49368516</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61063576</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MERCOS s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1201/23</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=61063576</dtt:p_dph>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66463645</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Pavel Váleček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1201/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70103682</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Cech české-moravských uměleckých dráteníků</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1201/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=70103682</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71443240</dtt:ico>
+<dtt:pf>711</dtt:pf>
+<dtt:ojm>Česká Suverenita</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1201/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:psh>0</dtt:psh>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73586943</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Volfová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1201/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74421247</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petra Řezníčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1201/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76432521</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Minařík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1201/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02283042</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kristýna Koreis</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1201/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02707721</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Brown Asset Management s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1201/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02707721</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>18</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

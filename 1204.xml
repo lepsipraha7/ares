@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>13163680</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk DVOŘÁK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1204/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16913892</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michael Maxa</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1204/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25638904</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DANIEL'S STORE, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1204/45</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25638904</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26464632</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek V Háji 45/1204, Praha7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1204/45</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60217944</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Ivan Marinka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1204/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5604081087</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61294012</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniela Hajdová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1204/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71671650</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Aleš Kružík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1204/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7710150041</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74212567</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Quaiser</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1204/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03062333</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Wachtl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1204/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03294528</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Robert Pelc</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1204/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03851231</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Richter</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1204/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05144221</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Medek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1204/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>12</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

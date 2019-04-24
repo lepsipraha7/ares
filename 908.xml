@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00908088</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Bakumenko</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01346610</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbara Hanousek Eckhardová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14983427</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Kateřina Šubertová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6361260092</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25109511</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ŠIMÁČKOVA, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43935991</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří PODROUŽEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69529060</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Aleš Vašíček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71521364</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Pavel Snítilý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8007191489</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71626042</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Jan Oraský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7805010389</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74268040</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Kateřina Oraská Borecká</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74987844</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Filip Kotlář</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01784218</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Filip Šubert</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01930389</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kristýna Nevanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02326990</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Šimáčkova 908/17</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02543915</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Klára Marešová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8757223442</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03324184</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Ludorum Ventum s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03324184</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03485943</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ALIMONTA CLINIC s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03485943</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04319133</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AppYours s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04319133</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04437632</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Dafa puppet theater s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04500903</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Flying Freedom Festival, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05393264</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Sokoban studio s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05393264</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>05623243</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RE 4 all, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06311237</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marek Hanousek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9108060599</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07212275</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Provozovna Šimáčkova s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07639848</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MarcusApp s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07814721</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>iOFF s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

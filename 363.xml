@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>14949601</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Václav Kopecký</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5506291384</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18403735</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Forejt Kopecká</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24182702</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MGM Solutions s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24182702</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24188972</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>U-klid Praha s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27208354</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Cityresources s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27208354</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27426882</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Trigga Účet-CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27426882</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28993276</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ExtraDeco s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29039355</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GRUNT 112 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 363/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29039355</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=29039355</dtt:p_cedr>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29142741</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>PURS akciová společnost</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 363/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=29142741</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43934609</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vlasta PLÍHALOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44850093</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SHUANG XING, spol.s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45613281</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Jabůrková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 363/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7554144697</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45694184</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marek Rokůsek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7404260391</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48567213</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin ŠTENGL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48568546</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bedřich TOMAN</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 363/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49846710</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Smrkovsky</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 363/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7307280805</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60203129</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TONI spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=60203129</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66174066</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Večerek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 363/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7211205485</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66853958</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Aleš Vebr</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67791832</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Štěpán ONDRÁK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>67886833</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. František Jandoš</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 363/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8002252049</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70787662</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Urx</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 363/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8506230788</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71661808</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Barbora Skalová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 363/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7562290274</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72059133</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Ovenecká 30, Praha</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 363/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74454323</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Klein</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76100677</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Hana Valentová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 363/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87136589</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Eva Smrkovsky</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 363/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87923611</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adéla Kopecká</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03168441</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michael Kopecký</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8602260007</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06417248</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Mama Baby Studio s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 363/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06417248</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01960806</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marek Vodrážka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>15076024</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Miroslav Pospíšil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 846/51</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5704130718</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27090957</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Heřmanova 51/846</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 846/51</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=27090957</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44802731</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdenka Hozáková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 846/94</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5557082531</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60656638</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel BARNÁŠ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 846/51</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6703021171</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64973221</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radana Čechová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 846/94</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66493676</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karolina Paseková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 846/51</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8155190791</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70352551</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ludmila MAKOVCOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 846/94</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71045422</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Pérez Lescay</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 846/51</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8253090329</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71548521</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Volek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 846/51</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74960547</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Dvořák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 846/51</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86622218</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jeannetta Lučanová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 846/94</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87765021</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Houdl</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 846/94</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87964813</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Svetlana Simonoska</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 846/94</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>13</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

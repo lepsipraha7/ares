@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>11231670</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Carvan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1356/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5407042355</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14922762</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Pavel Schneider</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1356/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16125207</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Brůžek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1356/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7110201582</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16496256</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslava Carvanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1356/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25709917</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AS STUDIO,spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1356/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25709917</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25986996</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BRENTECH s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1356/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25986996</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29014301</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek čp. 1356/8 Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1356/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=29014301</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48567345</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslav GLEICH</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1356/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49679643</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SEIVA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1356/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=49679643</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=49679643</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60220279</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan Kaisler</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1356/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66465249</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Emerida Elena RUIZ CASQUINO</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1356/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66466865</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav BÓGYI</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1356/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6603136430</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70353271</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eliška ŠOCHOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1356/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71651217</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Hamrníková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1356/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03852067</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Carvan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1356/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07029586</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan Kurdějovský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1356/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07605960</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>mvf s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1356/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>17</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

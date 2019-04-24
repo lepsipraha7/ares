@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00570681</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RENO, spol. s r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01342959</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Július Bemš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12274291</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hana FIŠEROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=485604217</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12601918</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Pavel Sedláček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=410704049</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12620769</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Jaroslava ČAJOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=525413019</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13153544</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav MILFORT</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5903270043</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24800872</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků pro dům V Háji 1068</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25626167</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MJS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25626167</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26747227</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AEROPACT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26747227</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27045919</dtt:ico>
+<dtt:pf>161</dtt:pf>
+<dtt:ojm>ALT@RT z.ú.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27045919</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=27045919</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43691200</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Luboš Zámiš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45690782</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Wittenberg</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5406023667</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45693234</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miloš PAUKERT</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48563561</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Voříšek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6206081420</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48568881</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiřina MILFORTOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48607177</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Petr Ducháček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60219823</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiřina SVOBODOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62824511</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Markéta Koryčánková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65239202</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Julie Honyšová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66462304</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Evžen Erzigoj</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>68370512</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Martina Pospíšilová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70350124</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Rychlý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71328751</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petra Hiršová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74288270</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš SVOBODA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87426889</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Nina Moravcová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02248999</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Declan Birney</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03533913</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Lucia Kašiarová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05862591</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Douglas Young</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06428169</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Mgr. Daniel Kozlík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07444800</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Kristýna Boková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1068/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

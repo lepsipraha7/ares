@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01425706</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ruslana Maletska</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 590/43</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26164922</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ABC-garáže s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 590/43</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26164922</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27314227</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Nataliya Boychuk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 590/43</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40764079</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>AC Sparta Praha fotbal klub</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 590/43</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43726038</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Pavel Kymlička</dtt:ojm>
+<dtt:jmn>Praha 6, Břevnov, Dvořeckého 628/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6703010820</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45799911</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>WIPO spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 590/43</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=45799911</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47536390</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>REAL s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 590/43</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ceu>-2</dtt:ceu>
+<dtt:p_ceu>ico=47536390</dtt:p_ceu>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47540192</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Endurance Lab s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 590/43</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=47540192</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49791192</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>FEMME a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 590/43</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=49791192</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=49791192</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60219335</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva MICHÁLKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 590/43</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71836101</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Eliášová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 590/43</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87733854</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Gelembyn</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 590/43</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04479530</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FEMME ALFA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 590/43</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04479530</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04479947</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FEMME BETA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 590/43</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04479947</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05015570</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Matěj Vejdělek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 590/43</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07933339</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mariya Shvyd</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 590/43</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>16</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

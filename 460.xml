@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00941131</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Magdaléna Tomanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01050842</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivo Andrle</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12626244</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Námořní a obchodní agencie</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13793756</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lubomír Fiala</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22734465</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>M.T.H. SPORT CLUB SEDM o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22842136</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Pro-OKO z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=22842136</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=22842136</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24789071</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Co Nás Baví, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24789071</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26993406</dtt:ico>
+<dtt:pf>161</dtt:pf>
+<dtt:ojm>Sdružení Plán B, z. ú.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26993406</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28406885</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Manzini s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28406885</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28530063</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Hany Koi, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28591763</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MVDr. Ing. Olga Rum'Yantseva</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28992407</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LeConte s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28992407</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=28992407</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40672051</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Frolík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6305210670</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40862755</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Veronika Svobodová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6552040891</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41866967</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Houdková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45307725</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Bohemia Group, spol. s r.o. - v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45694711</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel Exner</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7006200377</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45694982</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan WZOREK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48080535</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marcela Nevšímalová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61492914</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivan SMETÁČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>63061333</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiřina Dušková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63669544</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FADE, spol. s r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66465648</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Dvořáková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7856300375</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=66465648</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67345107</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Renata Vlčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6951265519</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=67345107</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67786880</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Albert PRAŽÁK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67789749</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Miroslav Svoboda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67790917</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Jitka PRAŽÁKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68761805</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Jana Kostelecká</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7559223793</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=68761805</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68864647</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdena Matoušková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69312346</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Dvořák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7504100131</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70353590</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michaela HAMPLOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70374422</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing.arch. Pavel Tatar</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7404220120</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71049720</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Michal Votruba</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7701080332</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73799416</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Matěj Lipský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74220497</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Aleš ZÁBRANSKÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74345923</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr.A. Gabriela NÁHLÍKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75106311</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků domu Františka Křížka, č.p. 460, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=75106311</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75423456</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kristina Bredárová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75921596</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radim Grulich</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76551385</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Murtinová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>86881141</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Exner</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87286491</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Holzknechtová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87465060</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adéla Potáčová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01767275</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. DAGMAR ŠTĚDRÁ, advokátka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8457052252</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02155656</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miloš Keller</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02299097</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Gabriela Rothbauerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03277160</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>zakonomat.cz, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03640442</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Perla, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03695093</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michaela Mužíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8757061819</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04474317</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Sherpas Ride, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04010710</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Melting group s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04010710</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04631587</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Aneta Nevšímalová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04632788</dtt:ico>
+<dtt:pf>118</dtt:pf>
+<dtt:ojm>Nadační fond Moje velké přání</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04691954</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Becanzl s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04691954</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04657713</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Miloš Zábranský Film s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04965400</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BLONESSE Property s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05638119</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Renata Nohemi Treviňo De La Cruz</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06690203</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TokenInvest s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06833667</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Crypto s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07572514</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karolina Herciková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 460/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>60</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

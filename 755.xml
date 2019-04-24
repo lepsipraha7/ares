@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01198963</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Bartková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01351346</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marcela Voděrková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01401904</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Ergado s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01401904</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01582577</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Virtu White s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01582577</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12244287</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Majer</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5704070240</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13141848</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. Jiří Voděrka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=530123055</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15889432</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>STROJEXPORT. CZ-ech s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=15889432</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24119814</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AMAVERIX TRADE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24119814</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24161772</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GREEN YARD DEVELOPMENT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24161772</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24199320</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>2scape s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24199320</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24199991</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Expert Sports s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24199991</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24270202</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Konstanta trade s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24270202</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24717452</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Sales Growth Czech s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24717452</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24717533</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VLAKR restaurant s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24717533</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24722367</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MEXAGAVE, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24722367</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24735141</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Office Gate s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24735141</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24794147</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>BORPOS TRADE a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25114301</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>N Metal, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25114301</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25604066</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>OMNI ANIMAL s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25604066</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25873075</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AVG Achat Gold s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25873075</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>27134253</dtt:ico>
+<dtt:pf>117</dtt:pf>
+<dtt:ojm>Nadace smer</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27629228</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>PPE EUROPE a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27629228</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28383818</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AZ Group Czech s. r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28383818</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28419766</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RoadMedia s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28419766</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28877691</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GAVOTA Praha 74, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28877691</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28912781</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Mellow a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28912781</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28948459</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Gamespace s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29130557</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SME Energo s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=29130557</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48039276</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GAZEX, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=48039276</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48538566</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AGENCY MEZON spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49618903</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BELLCO, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ceu>-2</dtt:ceu>
+<dtt:p_ceu>ico=49618903</dtt:p_ceu>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60464526</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LTI spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=60464526</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60468009</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NEODUAL s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=60468009</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60468416</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VÁŠ MAKLÉŘ.CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=60468416</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60472626</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>IGEES s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=60472626</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61058823</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Golf and Country Club, a.s., v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71470484</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JUDr. Pavel Ulrych, advokátní kancelář</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8008100166</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72189614</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Rudolf Chramosta</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88901785</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Tereza Vavrečková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01623087</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Virtu Black s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01623087</dtt:p_dph>
+<dtt:sd>0</dtt:sd>
+<dtt:p_sd>dic=01623087</dtt:p_sd>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>02637111</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DEXED petrol s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02658666</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RoyalD s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=02658666</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03260437</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AL.CU.FER s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=03260437</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03375951</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Velocite Capital s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=03375951</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03578216</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EMOTIKON s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=03578216</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03613836</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>J + K trade servis, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03613836</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03909735</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EP Spot s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03922049</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Smart logistics services s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=03922049</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03929981</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Turistika a rekreační sporty Praha, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04971230</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BL trade, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04971230</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05149142</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NORDEX EUROPE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05149142</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06434797</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Lucia Kubášová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>52</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>24155608</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Stomalex CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24217972</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>UnionPharma s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24239780</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ALERGO-IMUNO POINT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24265845</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Medibona s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26199688</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BENE Bohemia , s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26199688</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26731878</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Lékařský dům Holešovice s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26731878</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27141462</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Damiana s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27141462</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27198910</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MEDIC CENTRE, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29411734</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MedicaVia s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49370979</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDR.AMCHA, STOMATOLOGICKÁ ORDINACE</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>1</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49371088</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDR.MICHAELA FRKALOVÁ, STOMATOLOGICKÁ ORDINACE</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>1</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49658191</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Jiří Taufer</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=49658191</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60436824</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>PHDR. EVA SINGEROVÁ, PSYCHOLOGICKÁ ORDINACE</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62388088</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Jiří CHALOUPECKÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6711190585</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64742130</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. PAVEL PICK- ordinace praktického lékaře</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72542497</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Andrea BAŠTÝŘOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76045200</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Milena Corredorová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02769701</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Horoculus s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03593878</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MUDr. RIPOVÁ Lidmila ušní, nosní, krční, audio s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03678458</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MUDr. Michaela Frkalová s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>04775708</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Gastroambulance Praha s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05291003</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GynUp! s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

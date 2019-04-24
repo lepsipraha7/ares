@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01338374</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Kateřina Říhová, advokátka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8451045086</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24299162</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Uloženka s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24299162</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24732931</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Alexander Mann Solutions s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24732931</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25084682</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Contract Administration, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25084682</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25655701</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CZC.cz s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25655701</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=25655701</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25698818</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>IT Signet spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25698818</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26194813</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Onlio, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26194813</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26194813</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26204967</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Internet Mall, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26204967</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26204967</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27207871</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Goshawk, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27575021</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>E-commerce Holding, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27575021</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27599248</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Rozbaleno.cz s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27599248</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27755151</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Crowe Advartis Audit s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27755151</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28209290</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Nighthawk, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28226640</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Shearwater, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28239717</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CA Property Services s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28486781</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TGC Corporate Lawyers s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28486781</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28509145</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Capital &amp; Invest Co LLC s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28958624</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>GET EnTra Sp. z o.o., organizační složka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29014174</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>Mercuria Energy Trading SA, organizační složka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29359279</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Crowe Advartis Accounting s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29359279</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>29361842</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Crowe Advartis Management s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48593591</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Kaiser+Kraft,spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=48593591</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01678248</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. Lucie Švarcová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02270901</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>eDoCat Cloud s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02270901</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=2270901</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02492199</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. et Bc. Andrea Kleinová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02917327</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>REGATTA-POLSKA s.r.o.-pobočka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02917327</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03266834</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. RADOSLAV VAGASKÝ, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04126751</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>LGSTCS, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04126751</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04196830</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Mall Group a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04196830</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04374886</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Great Content s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04374886</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07093331</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MallPay s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07093331</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

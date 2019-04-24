@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>24239291</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Ozlen s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29458366</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AAAE hospodářská, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29458366</dtt:p_dph>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60203455</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>P.S.SYSTEMY s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=60203455</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64595854</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Martin Sikora</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67244459</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karolína Fráňová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71561633</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Monika Koubová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6460291354</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74420852</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marek Švábeník</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8702105159</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87460025</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Felix Kiema</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87683300</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Svoboda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88000273</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. PETR STRAKOŠ, advokát</dtt:ojm>
+<dtt:jmn>Praha 1, Nové Město, Klimentská 1207/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8907055432</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88085406</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Lucie Simpartlová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02304741</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anders Torbjorn Jensen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02740206</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivana Jindřichová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8962140880</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03240029</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CONTADORIA CZ, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03240029</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03736032</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Juraj Kuliška</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=683579227</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04078551</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SpiritAesthetic s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04078551</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04578635</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Nikita Timoshkin</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04783336</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina Baštářová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04796195</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Kylarová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8356230894</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05061342</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Michael Pavlík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01750330</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Sanitrník</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8202014414</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06128602</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Resort Boží Oko, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06128602</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06129480</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Scarabella Jewelry, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06304885</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek v domě č. p. 1616, k. ú. Holešovice, obec Praha.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06708790</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HAMOON s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 2, Vinohrady, Na Smetance 1582/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07056681</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Zuzana Gedeonová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07115261</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Urban Services s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07199724</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Radoslav Bogomilov Dobrev</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07289651</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>A.M. Ventures s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07317123</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ADMINSCLOUD s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07317123</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07405022</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Nicolas Mario Abeles</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1616/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

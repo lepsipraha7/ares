@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>26002752</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PERMED s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1353/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26756463</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek domu Schnirchova 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1353/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41187377</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TRACO, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1353/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=41187377</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45692327</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Pavel Klimenda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1353/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6809200838</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48318051</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiřina D'Alonzo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1353/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61862371</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Schnirchova 7 v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1353/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63828103</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDR.HELENA PERGLEROVÁ - ORDINACE PL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1353/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>1</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65686861</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. František CINK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1353/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7307303487</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71666893</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lubomír Janýška</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1353/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76371107</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivana Cinková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1353/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7359152867</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87730880</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Johannes Anton Schuschu</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1353/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7109023779</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07166052</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Klimenda, DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1353/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>12</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

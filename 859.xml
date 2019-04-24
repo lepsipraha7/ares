@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>14946807</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>PAVEL ŠAFAŘÍK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 859/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26141841</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Klaus-Peter Zander, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 859/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26141841</dtt:p_dph>
+<dtt:ceu>2</dtt:ceu>
+<dtt:p_ceu>ico=26141841</dtt:p_ceu>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44781881</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Hlivka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 859/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66462193</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Remeň</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 859/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69270881</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Jiří Procházka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 859/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7712112309</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69738769</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Zita Navrátilová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 859/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72826177</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adriana Takáčová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 859/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88079619</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Novotná</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 859/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02009510</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>ZDrSEM - první pomoc zážitkem</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 859/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02009510</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>9</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

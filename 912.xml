@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>47116668</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>MC  &amp; C, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 912/51</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=47116668</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47116676</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>MK &amp; K, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 912/51</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=47116676</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48593966</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TRENTI, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 912/51</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=48593966</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62410008</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bubenské bytové družstvo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 912/51</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64764575</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Bacík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 912/51</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70921695</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Eva ŠAFRÁNKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 912/51</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71616233</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Romana Jiřičková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 912/51</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>7</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

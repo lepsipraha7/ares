@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01353322</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>&#8222;SUA - Sdružení umělců a architektů&#8221;</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01510461</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HESKAUER print s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=01510461</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01563394</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Asociace filmových střihačů a střihaček z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14890020</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>BEKO družstevní podnik UVD Dobřichovice v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22727868</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Unsic ČR z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22833315</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Art Movement, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=22833315</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=22833315</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22860657</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Brmlab, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24161225</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Shining Pictures s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24161225</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=24161225</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24197840</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>door design s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24197840</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24823147</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JAROŠ DESIGN s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24823147</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27543978</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MOLO ARCHITEKTI s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27543978</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28191447</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Liv Ducci Lab a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28191447</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28466691</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>The Chemistry Production, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28466691</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=28466691</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28533194</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>WARIO CZECH, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28533194</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28618254</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JPA PRODUKCE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28618254</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29060460</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FILMCREW PRODUCTION s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29060460</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29148626</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Red Eggs s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29148626</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41196023</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Sdružení romských autorů ROMANI ČHIB</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41196031</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Romská asociace mládeže a dětí ČR /RAMAD/</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47127431</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef PLÍVA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>49369288</dtt:ico>
+<dtt:pf>733</dtt:pf>
+<dtt:ojm>ZO KULTURNÍ DŮM VLTAVSKÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49689461</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PRAGOCOOP investiční společnost, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62576135</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FOX Industrial s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=62576135</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64768911</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Luďa Matoušů</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67983324</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Česká společnost pro trénování paměti a mozkový jogging, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=67983324</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70922241</dtt:ico>
+<dtt:pf>751</dtt:pf>
+<dtt:ojm>Profesní společenstvo českých výrobců a provozovatelů dopravních zdvihacích zařízení</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76100782</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Barbora Hartmannová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 1477/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88169596</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Přemysl Olšanský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01717405</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ENVIOM s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01717405</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02434539</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Vědeckotechnický klub při DP hl.m.Prahy</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02780607</dtt:ico>
+<dtt:pf>751</dtt:pf>
+<dtt:ojm>Profesní společenstvo českých výrobců a provozovatelů dopravních zdvihacích zařízení</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03663451</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PROGRES ARCHITEKTI s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05418836</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Czech Design Production, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05528313</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Já na tom dělám z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>34</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

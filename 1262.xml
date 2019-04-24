@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00912859</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Jan Rytíř</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1262/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01466275</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Pavlína Gabrhelíková, Ph.D.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1262/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13140922</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Skala</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1262/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5512270203</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18907873</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslava MORÁVKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1262/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25789325</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Heritage travel-PJP,s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1262/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26480859</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Tusarova 5</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1262/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26480859</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26745372</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Pražská telefonní s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1262/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26745372</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47093269</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>RNDr. František WOLLER</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1262/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63937557</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Věra Sluková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1262/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=465920103</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70349215</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr BLAŽEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1262/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7706180174</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=70349215</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71893679</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Roman Gabrhelík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1262/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76343723</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Baranijaková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1262/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76534766</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hoa Nguyen Thi My</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1262/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04752244</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Skala</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1262/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>14</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

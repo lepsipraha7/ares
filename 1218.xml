@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>16905687</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MARKÉTA DUŠKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26418053</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TRANSPORT S.M.A.R.T. s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26418053</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26504979</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo U Smaltovny 17, v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27648044</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Ing. Karel Hlad - víno, lihoviny s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27648044</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27901726</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>IV Agentura s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27901726</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42520215</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Vlastimil SALVET</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=430809449</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43933882</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Švarcbachová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43935257</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef ŠVARCBACH</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6302110474</dtt:p_dph>
+<dtt:ceu>-2</dtt:ceu>
+<dtt:p_ceu>ico=43935257</dtt:p_ceu>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45690812</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Božena SOBOTKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45694974</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Milan VONDRÁŠEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60343435</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Guryčová Láníčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61496723</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Vorlíček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63930757</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David ŠTĚPÁNSKÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7205100529</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66464609</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adam Salvet</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67750788</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Robert Sedmík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70335699</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Matejzík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71442847</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Ivanka Voženílková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74389203</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Veselý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75674254</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Lukáš Mejsnar</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8212103438</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87039311</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Lukáš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7407270057</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>87395665</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Irena Ševčíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87823390</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Zelinka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02306581</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Lenka Patrasová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02325896</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petra Slušňáková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03321886</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Brilliant Solutions s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03708748</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek U Smaltovny 17</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06723373</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>24právník.cz s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1218/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>27</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

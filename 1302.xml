@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>26432927</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BLACK BOX ENTERTAINMENT, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1302/18</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26432927</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40819680</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Viktor HAKEN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1302/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6507051947</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41188764</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>IMMO Stav spol.s r.o. -v českém jazyce IMMO Stav GmbH -v německém jazyce</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1302/18</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=41188764</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41807618</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Vácha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1302/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43924573</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana PÍZOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1302/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49628771</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Beran František, JUDr., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1302/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=520922022</dtt:p_dph>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63094207</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Marie Havránková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1302/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63095530</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena PRŮCHOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1302/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63964091</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Valerie ŠTÁFKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1302/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67773893</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Ivana PELIKÁNOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1302/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68406975</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Dámský klub MOIRA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1302/18</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70756171</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Renáta Fousková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1302/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71995897</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Klícha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1302/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73702528</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Ladislava Nová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1302/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88323641</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Marková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1302/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02845041</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Balous</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1302/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>16</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

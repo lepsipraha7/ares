@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>15293335</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Jan Barták, DrSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18903991</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>RNDr. Milan FÁBRY, CSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24827711</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Authenta s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 209/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24827711</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25412809</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FREESPORT, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 209/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25412809</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26199556</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AVL, s.r.o.,</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 209/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26199556</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27062805</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků STROMOVKA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 209/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27162842</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Valentyna Stukalo</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 209/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27423689</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Albina Stukalo</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 209/31</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40869351</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lubomír FIALEK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 209/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43840400</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. SCHMITT ROMAN</dtt:ojm>
+<dtt:jmn>Strakonice, Přední Ptákovice, Podsrpenská 139</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6106070355</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45773301</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>TOMI KART PRAHA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48030881</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Družstvo E X E M P L U M</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49115839</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika MUDRANINCOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60216808</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Mudraninec</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=510725399</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60221801</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří SIROTEK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 209/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60433469</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr Jana Hainerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>1</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61492558</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Vojtěch HAINER, CSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63094461</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Helena Hnilicová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 209/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63169045</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Markéta Vinkelhoferová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 209/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63656591</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina Mrázová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 209/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>64115046</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Kovařík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7404034968</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65409256</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ARCHICZECH Group, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65991826</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>BENET</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67889107</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Marek Plánička</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 209/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71882111</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana MLÝNKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74168371</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Sirotek, DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 209/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75316943</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Hnilica</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 209/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86630466</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr SYROVÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7107210440</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05826667</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Veletržní 209</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07479743</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Sirotek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 209/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

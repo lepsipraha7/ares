@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01484001</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RMA sen, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 848/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>10195793</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan FISCHER</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=491207146</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14975998</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Poláček Martin, Ing.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5705131135</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16123565</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva MARKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=446219057</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16918142</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jiří Wolff, CSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22829300</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Sdružení Kytlice 2100, o. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24142913</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VOLLMONDEN GROUP s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 848/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24142913</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26732114</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Milady Horákové 848/90</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27253074</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CHEMOLAB, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 848/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>1</dtt:rzz>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27253074</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27780473</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>SILESCOM, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 848/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27780473</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27946100</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Bohemian Club Inc. a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 848/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27946100</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28935632</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Admass s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 848/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28935632</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40858472</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Miroslav Kunštát</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40859991</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr MARUSIČ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43035302</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena VACULÍKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43682413</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. Vaculík Petr</dtt:ojm>
+<dtt:jmn>Milady Horákové, Praha 7 170 00</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43926258</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr NEKOLA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44290896</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Fučík</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>46752676</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Karel Erben</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 848/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=320709058</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=46752676</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49245732</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KALAV BODS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 848/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>60218665</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Anna MACHOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60444096</dtt:ico>
+<dtt:pf>117</dtt:pf>
+<dtt:ojm>NADACE PREVENCE A ZDRAVÍ ČESKÉ REPUBLIKY (NPZ ČR)</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 848/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60471328</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>R.M.A. CENTRUM s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 848/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61381829</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Dorota SEUNIKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 848/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63647371</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Kulhánek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64303225</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jan Brázda</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6002031057</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68405553</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Luděk SEHR</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 848/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70353719</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Erik Schröfel</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7201150022</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71671072</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Robert Hudecký</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75085704</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Antonín VÁVRA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87224534</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan PLESKAČ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02157454</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Brixi</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04962796</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mikuláš Brázda</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 848/90</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06944477</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Hookah Time s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 848/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07934963</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Rehabka na sedmičce s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 848/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>35</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

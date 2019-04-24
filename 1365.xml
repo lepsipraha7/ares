@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01437305</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>ECOBLUEPORT o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26584387</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Občanské hnutí Komunardů 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27657485</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Komunardů 1365/7, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43925162</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Ševčík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6512091278</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43929826</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ladislav BARTŮNĚK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48567507</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Libor RILJÁK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61497819</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ibrahim Traoré</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64756432</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Šidlík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66466733</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michaela KOUDELOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66467411</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimír MALÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69833656</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Bartůňková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71671617</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Karásek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74356593</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Karel Míšek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75914085</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Alexandra Ulrike Mostýn</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76463184</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jindřich Mikšík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01841955</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Adam Uchytil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02715287</dtt:ico>
+<dtt:pf>107</dtt:pf>
+<dtt:ojm>Bc. Dominika Strejcovská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8860180219</dtt:p_dph>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04368053</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Gabriela Kadlecová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04798538</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>UFL Group s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04913124</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Novák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>05689210</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Věra Sitná</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7253153061</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05878764</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marie Aulická</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1365/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

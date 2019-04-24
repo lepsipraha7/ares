@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>22678786</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Ústav práva a právní vědy, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22710230</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Ústav práva a právní vědy - organizační jednotka LLM Public Law</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22710248</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Ústav práva a právní vědy - organizační jednotka LLM Corporate Law</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22710256</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Ústav práva a právní vědy - organizační jednotka LLM Arbitration Law</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22710264</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Ústav práva a právní vědy - organizační jednotka Centrum celoživotního vzdělávání</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22710272</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Ústav práva a právní vědy - organizační jednotka Centrum společenských věd</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22710281</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Ústav práva a právní vědy - organizační jednotka Centrum soft skills</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22710302</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Ústav práva a právní vědy - organizační jednotka Centrum postgraduálních studií</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22710311</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Ústav práva a právní vědy - organizační jednotka Centrum profesních studií</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22710337</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Ústav práva a právní vědy - organizační jednotka Centrum právních studií</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22710345</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Ústav práva a právní vědy - organizační jednotka Centrum humanitních studií</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22710396</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Ústav práva a právní vědy - organizační jednotka Commercial Law</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22710400</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Ústav práva a právní vědy - organizační jednotka Leadership</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22710418</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Ústav práva a právní vědy - organizační jednotka Strategický management</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22710434</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Ústav práva a právní vědy - organizační jednotka - MBA Program</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22710442</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Ústav práva a právní vědy - organizační jednotka - MBA Studium</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22710469</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Ústav práva a právní vědy - organizační jednotka Centrum profesních studií</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22724427</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Karel Šebek, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25460668</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Tenaks s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25460668</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25570170</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Maxwell International, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25570170</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=25570170</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>26617196</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Centrum profesních studií z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26995204</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Institute of the Chamber of Commerce z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27200248</dtt:ico>
+<dtt:pf>141</dtt:pf>
+<dtt:ojm>Ústav práva a právní vědy, o.p.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27200248</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28085965</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>evocati s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28085965</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=28085965</dtt:p_cedr>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28472438</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JERICHO, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28472438</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28523326</dtt:ico>
+<dtt:pf>932</dtt:pf>
+<dtt:ojm>European Business School SE</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28523326</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28595441</dtt:ico>
+<dtt:pf>113</dtt:pf>
+<dtt:ojm>Společnost mediační a rozhodčí, k.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29031117</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>IAL SE, organizační složka Praha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29031117</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64767183</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Štefan SERDEL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66252091</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Srba Josef, JUDr., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71289143</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>JUDr. Luděk Lisse,Ph.D. LL.M.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7103311204</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72013524</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Ondřej Holub, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01823914</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. JAN HRABEC, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8507084487</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02019922</dtt:ico>
+<dtt:pf>932</dtt:pf>
+<dtt:ojm>ALMA - ING SE</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02019922</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03233073</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Elysium Praha s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03228321</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>European Business School Prague s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03305040</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Jablonského 640/2</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03226204</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AltanyJL s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03226204</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03975771</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>P&amp;B (Prague &amp; Beyond travel) s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03975771</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04205472</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CHYTRÉ ÚSPORY CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>04503139</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Orchidales, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05719691</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Incedo, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05775043</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BILANCIO Servis s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05805821</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Alexandra Urbancová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9555037998</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06107486</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>ERC (Evropské regionální vzdělávací centrum) z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06107486</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07911645</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>European Business School EDU, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>46</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

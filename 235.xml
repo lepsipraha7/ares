@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00499196</dtt:ico>
+<dtt:pf>715</dtt:pf>
+<dtt:ojm>Pragospektrum v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>11244810</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniela LEFFOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13153609</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>KAREL JELEN</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 235/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=501106025</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16180666</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiřina Ulrychová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26472708</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Veletržní 21</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26472708</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26621967</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Spolek pro tradici českého sklářství</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26640937</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Komunita 21, o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27232204</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ELEMENT INTERIOR, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27232204</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40867650</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva HAMÁČKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5560160056</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42515394</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan SADÍLEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43933271</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alenka Koňáková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 235/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45690642</dtt:ico>
+<dtt:pf>107</dtt:pf>
+<dtt:ojm>Ivo ULRYCH</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5703060253</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=45690642</dtt:p_cedr>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48566462</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Dalibor Hák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7101221886</dtt:p_dph>
+<dtt:sd>0</dtt:sd>
+<dtt:p_sd>dic=7101221886</dtt:p_sd>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60217570</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel HÁK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60218819</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Marcela Justová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 235/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64769976</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Vostřák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66464978</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslava SADÍLKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68000022</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Věra Hnízdilová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70349398</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jitka HÁKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71672133</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Horová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>71782184</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Henriksen</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 235/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7155200338</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71871268</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dan VALDAUF</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 235/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74106716</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Kutálková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74168916</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Vrtiška</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 235/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74381008</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Hora</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75110849</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Malířská č.p. 235, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 235/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75114305</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>KLUB HISTORICKÝCH UNIKÁTŮ v AČR</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 235/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75240441</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Svetlana Zemanová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 235/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75804239</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Zubíček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76491501</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Zubíčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86630571</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zora Marasac</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 235/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87092484</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. arch. Jan Gabriel</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87248808</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Vítek</dtt:ojm>
+<dtt:jmn>Praha-Čakovice, Čakovice, Bermanova 1007/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87284201</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hynek Kalvoda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02235528</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Boris Kuzmiak</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 235/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02252082</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika Marešová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 235/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02717832</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Linda Friedmannová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04520874</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>METAL - KOVO MAYER s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 235/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04520874</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05669707</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Veletržní 21</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 235/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07647131</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Estuardo Rourk Bustamante Gonzalez</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 235/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>40</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

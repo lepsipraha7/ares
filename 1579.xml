@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01197011</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Amort</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24785555</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GAZU.MT company s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24785555</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27143872</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Consultores Asociados s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27143872</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27594963</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BORANO s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27730379</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>BORANO SCI Finance, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27865754</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SABERLO Holding s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27865754</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27886611</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ELPRIB s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27926621</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Osver s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28283155</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GAO IT Solutions, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28360656</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Blusib reality s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28445694</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LEMAR INVEST s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28445694</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65927281</dtt:ico>
+<dtt:pf>107</dtt:pf>
+<dtt:ojm>JUDr. Vladimíra Jičínská</dtt:ojm>
+<dtt:jmn>Úmonín, Březová 22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7362020831</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=65927281</dtt:p_cedr>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72029196</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek River Lofts, Praha 7, Varhulíkové 1578, 1579, 1580, 1581, 1582</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74101374</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karolína Pleštilová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76244857</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Stanislav Svatoš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88252981</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Jan Vtípil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02405202</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MIRAMAR-TRADING s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=02405202</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02580721</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Pohodlné Bydlení s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03503054</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Kateřina Vtípilová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03932311</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Vltavadesign s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03932311</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>04267141</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CHAM TREND s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06439551</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Black Cargo s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06439551</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07615281</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Veranika Osipava</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07664834</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Volha Osipava</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1579/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

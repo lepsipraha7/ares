@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00551066</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Tělocvičná jednota Sokol Praha VII</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 852/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=551066</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26167891</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ACRITUDO s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26167891</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27094120</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Soyma Volodymyr</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27206297</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Vitaliy Soyma</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27433951</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Ivan Batryn</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 999/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27503771</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vasyl Dzhuhan</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27603172</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>1.SARMAT XX s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27603172</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27649717</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Vasyl Kovach</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8109024099</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27867005</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Iryna Dykun</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28190815</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Liubov Derabina</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28503481</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SAF - RAN PLUS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28503481</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28901959</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lesya Derkach</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28903650</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Yuri BASKAKOV</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29031435</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Mykola Odotyuk</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43918930</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>František Daněk</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60219271</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan DĚDEK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=480929280</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60515180</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Yuriy Soyma</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66852901</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Liubov Dovgomelia</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69338175</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Mariya Kovachuk</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69501394</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jindřich Livonec</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7811070355</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>87510316</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petro Mykhaylo</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87844478</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Nataliya Midyanka</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87909570</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Igor Dovgomelya</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87982552</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Svitlana Kekerchen</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88190692</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Oksana Krasulyak</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88331610</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Mahdalyna Cholakhian</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88391183</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Andriy Shevchuk</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88516491</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Halyna Hural</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88671691</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lyubomyra Matskiv</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88789454</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Yulyna Mykhaylo</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02879344</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FINE LIVING s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02879344</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03633519</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Libor Jonáš Vintners s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03633519</dtt:p_dph>
+<dtt:sd>0</dtt:sd>
+<dtt:p_sd>dic=03633519</dtt:p_sd>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04138953</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivan Mykhaylo</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04229410</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vitalina Dzhugan</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05778883</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BUDIVELNIK s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05778883</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06138268</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Klimastace s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06173748</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Yevhen Matskiv</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>37</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

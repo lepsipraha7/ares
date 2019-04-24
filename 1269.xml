@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00549312</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>TĚLOVÝCHOVNÁ JEDNOTA Slovan Svoboda Praha, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14902800</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Blanka ČERNÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15293106</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk Chvátal</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=520526272</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=15293106</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16125509</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin ZALABÁK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16126840</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milada TEPLÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22902538</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Aerobatic flying club</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27015386</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Roxy Ensemble, občanské sdružení</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=27015386</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43913016</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dana ILCZYSZYNOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5854012065</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43931553</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Černohous</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61494003</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Renata Trnková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63091861</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alexandr Černohous</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63930668</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Strnad</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7404220384</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64768074</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Říhová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66204755</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Baudišová Václava, JUDr.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66467055</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeňka Fialová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67789951</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Dušan Trnka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68401116</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Bílek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71616675</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří MACEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74948695</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Trnka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76368866</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adam Černohous</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>86946277</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Fiala</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87116324</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Tomáš Chvátal</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01687212</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kristýna Fejfarová Bydžovská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8754173329</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01789147</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Nikola Dlouhá</dtt:ojm>
+<dtt:jmn>Praha 8, Kobylisy, Pohnertova 1272/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01980823</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Prazelenina z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02055511</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Regina Kuncová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02655519</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků pro dům Tusarova 15</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03383300</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Patricia Jedličková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03529193</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Zákora &amp; Partners, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06105777</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Jedlička</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01939394</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Stanislav Kunc</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07178433</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Jedličková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1269/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

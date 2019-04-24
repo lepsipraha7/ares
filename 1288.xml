@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>25705423</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ENERGO ELKAS spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1288/17a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25705423</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73634174</dtt:ico>
+<dtt:pf>721</dtt:pf>
+<dtt:ojm>Buddhismus Diamantové cesty linie Karma Kagjü</dtt:ojm>
+<dtt:jmn>Praha, Holešovice, Na Maninách 1288/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=73634174</dtt:p_dph>
+<dtt:rcns>0</dtt:rcns>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05090571</dtt:ico>
+<dtt:pf>118</dtt:pf>
+<dtt:ojm>NADAČNÍ FOND BUDDHISMU DIAMANTOVÉ CESTY LINIE KARMA KAGJÜ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1288/17a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>3</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

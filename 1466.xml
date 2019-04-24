@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01466143</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Hron</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12609617</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Pešek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13144146</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>SELECT</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22730133</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Syndicus Hereditas</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24223859</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Gradex Group s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25123645</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ROUTE 102 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25123645</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27217558</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Inventeq s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27217558</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28227085</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KNIPLEXIM s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28227085</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28236190</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Marcons International s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28236190</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28250893</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Osadní 1466/3,5, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28590414</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Fluiden Beta s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28590414</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28885210</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Gimbel, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28885210</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28939093</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VM solar s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28939093</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29044383</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Vienna Consulting s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29044383</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49273604</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana HORÁKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60476401</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Kateřina Riley</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66101662</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Andrs</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67790968</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>John Thomas RILEY</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/5</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=600712812</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68864345</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Jakub Minařík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69252211</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Martin Hruška</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7712020173</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>70348332</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslava BURGEROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70351104</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Světla Buchtová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70353115</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Zeiner</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75105390</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>EMPYRUS MOTORSPORT KLUB v AČR</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87372258</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. A. Joanna Agnieszka Bober</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88868443</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing.arch. Jakub Hoffmann</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02722992</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mohamed Rezk Abdelwahed Elzalabany</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03265951</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>El falah s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03440311</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivan Tvrdík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04117018</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ivan Popovych</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04970888</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vít Svojše</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05146275</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Julie Strnadlová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05773857</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TA TRADING GROUP s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05773857</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06935079</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Michalčáková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07919417</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Asame Mullick</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1466/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>35</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

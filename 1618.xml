@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01424530</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Markéta Přibylová</dtt:ojm>
+<dtt:jmn>Přezletice, Pod Zahrady 413</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27560554</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SALJUT PLUS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45744211</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Jakubičková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48565121</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bruno Köhler</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60221437</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika Köhlerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72828285</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Ondráček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8107213576</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75030888</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Olga Nývltová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>1</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76405842</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Filip Mahďák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7708250385</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87247861</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Kateřina Maxová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87470667</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Čestmír Strakatý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88187586</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Monika Bubáková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03036006</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina Hübnerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03627462</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Štrouf</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04467990</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Simone Jensenová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05370655</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Halák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06250416</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Martin Rubeš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07036311</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miloslava Trgiňová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07080085</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Nela Kőhlerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07166842</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek v domě č.p. 1618, k.ú. Holešovice, obec Praha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07837062</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Gal Design s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07837062</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>07908474</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel Krystian Andruszkiewicz</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7709101939</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07971664</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Sky city event s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08054738</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CONNECTED PLATFORM s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08085102</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Star and Safety tax free s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Sanderova 1618/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

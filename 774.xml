@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01079077</dtt:ico>
+<dtt:pf>751</dtt:pf>
+<dtt:ojm>Sdružení na podporu českého designu</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24158305</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EPMG s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24158305</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24262951</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>mojo post s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24262951</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24813869</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>METALCORP s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24813869</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25094637</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>XENT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25094637</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26479478</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>S.H.S architekti s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26479478</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27369471</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CMA IMMOBILIEN, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27369471</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27441415</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>REPO 2000, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27441415</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27560520</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VEDECOM, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27560520</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27682757</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Arch.Design project, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27682757</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28168143</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Designo Studio s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28168143</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=28168143</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28463994</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>INTUO s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28463994</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28465512</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Dynamo design s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28465512</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28526759</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SILENCIO FX s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28526759</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28545541</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>IT-Insignia s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28545541</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28951735</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>STELLA ORO s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28951735</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29044553</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Galerie Ef Ef s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29044553</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29393671</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Arch.Design Praha, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=29393671</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41690851</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>C D W, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=41690851</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42521319</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ladislav Páv</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>43930743</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Gejza BADO</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64790771</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FilmBrigade s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=64790771</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=64790771</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88529720</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Bogomil Borisov Shopov</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=683032287</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02611741</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>XENT Investment s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=02611741</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03787290</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Design &amp; prosperita, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04912420</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EPIBIT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04912420</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05156891</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>INTERIÉRY KOVAŘÍK s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05156891</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06378692</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>MicroChange, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06378692</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06460143</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>Odštěpný závod TESTSTATE LIMITED</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=684274734</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07412517</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>R3O Digital s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07412649</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RVLT Digital s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07412649</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07898479</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Xkafe, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 774/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07898479</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

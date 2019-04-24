@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01277235</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Volha Liaudanskaya</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>11538678</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Zdeněk Raška</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5806021463</dtt:p_dph>
+<dtt:ceu>-2</dtt:ceu>
+<dtt:p_ceu>ico=11538678</dtt:p_ceu>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16987683</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miloš Kössler</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6005111244</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18255736</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Antonín Procházka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=531225267</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26434369</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TIOS servis, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26434369</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26498685</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Družstvo Ovenecká 4, družstvo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26498685</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27905098</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Orelium s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27905098</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48564125</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel Binder</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5612270191</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49729926</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Diana Kősslerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61494453</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Růžena Beňová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66850983</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jan Voráček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71307591</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Dobromil ŘANDA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71539719</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Binderová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71976451</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Klára Žitňanská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74454986</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Ondřej Horák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75908972</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Raisová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76016161</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Hladík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76086607</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Matěj Svoboda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88245551</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Havlan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02715619</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Juliána Šoleová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>03534685</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SANVALIS, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03839362</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>YES BANANA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03839362</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03806413</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Máš umělecké střevo?, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04299507</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Ovenecká čp. 376</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05357918</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Beňová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05530938</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Altmann &amp; Schön s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05530938</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07719043</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Nejkid z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>27</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

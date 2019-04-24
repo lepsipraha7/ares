@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00784605</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Lenka Charvátová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 677/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25795791</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Kamenická 6</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 677/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26166852</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FORTNA STAV, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 677/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26166852</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42565600</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Vladimír Pecka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 677/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44876980</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Zdeňka Pecková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 677/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60220139</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš BÍNA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 677/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63956420</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Iveta Koukalová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 677/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68865988</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JUDr. Petr Michal, advokát</dtt:ojm>
+<dtt:jmn>Praha 4, Nusle, Hvězdova 1716/2b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8002080394</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87004739</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. arch. Václav Štojdl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 677/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87686741</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Linda Kordošová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 677/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88157547</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Kováč</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 677/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02282534</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek pro dům Kamenická 677/6, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 677/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02559145</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Michal Žiačik</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 677/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04430697</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Štojdl Grabicová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 677/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8355105605</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05321689</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Matěj Mrkvička</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 677/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07211724</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hana Bachárová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 677/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07235224</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Golem Algorithmic Trading a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 677/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07235224</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>17</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>26119862</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Heřmanova 36</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1397/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64935621</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>JUDr. Jaroslava Jurová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1397/36</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5462080525</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68865619</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš HUŠEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1397/36</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7602020382</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69204659</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing.arch. Jan-Erik Kolář</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1397/36</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71617922</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal ŠRŮTEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1397/36</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74214225</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Zdeněk Reich</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1397/36</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75442680</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Klára Švagrová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1397/36</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>7</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

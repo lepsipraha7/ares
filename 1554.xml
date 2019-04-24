@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01161130</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Langová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1554/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8462100669</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16091825</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Čadek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1554/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22895949</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>&quot;ANDROSA ACADEMY, občanské sdružení&quot;</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1554/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28436971</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek U Městských domů 9</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1554/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40864685</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena Novotná</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1554/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=526107206</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60216883</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Jaroslav Kolman</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1554/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63971453</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kingsley Chukwudi Nwogu</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1554/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68061048</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Pátek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1554/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71326782</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marek Pražan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1554/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7508110423</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74561898</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavla Míšková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1554/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74915754</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Ševčíková, DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1554/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75445328</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Aubrechtová</dtt:ojm>
+<dtt:jmn>Praha 4, Nusle, Na Topolce 1520/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02156245</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Filip Kratochvíl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1554/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04263561</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SABRETOM s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1554/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04969821</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HEROES Cosmetics, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 10, Vršovice, Moskevská 861/78</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07431538</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ludmila Ševčíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1554/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07457626</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dominik Port</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1554/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07532407</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ludmila Langová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1554/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>18</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

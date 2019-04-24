@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01548069</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Král</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12587991</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Karel Vích</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12588016</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vlasta Víchová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16176901</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Koudelová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24139726</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>3J design s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25698761</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ALTAIR PRAHA spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26533685</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Jezdecká společnost LOMBARD</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27457460</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AJ - REALITY s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27457460</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41207408</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Koudela</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=530115276</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61356778</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marek Chalupa</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6412100178</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61493490</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jindřiška FAITOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68869215</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jitka Vengřinová Pavlíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6461191814</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71549129</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Olga Engelthaler Neumanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71639721</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Filip Vystavěl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7601057497</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72975768</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Lapčíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73119105</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Antonín Petrskovský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74916793</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Boris Pavlík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75154307</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Dukelských hrdinů 909, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=75154307</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76237028</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Rotbauer</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87086859</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Filip Vaněk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7711130570</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01703749</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ZLATÁ TEČKA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01703749</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03733874</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Iveta Angela Kyriánová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04641850</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Vršník</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8251135530</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05389291</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Čestmír Řanda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05515173</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LV SYSTEM services, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05515173</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06771513</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ladislav Šuster</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8011016057</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06902626</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Koudela</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07238061</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>STROMKA centrum, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07238061</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07334206</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Daniel Wankat</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

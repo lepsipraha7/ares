@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>13830244</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav ŠIMÁK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=460828110</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15103200</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>František NĚMEČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16125606</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena Idirová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24698628</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Grakovska s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24711080</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Trong Son Dinh</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24731714</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Van Dai Le</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24755095</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SO Energy s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24755095</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25427008</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KI METAL CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25427008</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25462661</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Mykola Dubovyy</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25494635</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Thi Lieu Dang</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25695983</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LAKARSTAV s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25695983</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25794817</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GVT PLUS s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26086409</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Duc Nguyen Huu</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26090767</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Thi Phuong Doan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26090775</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Sy Long Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>1</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26103435</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Trung Ta Quoc</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26363704</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Phuong Nguyen Thi</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27138801</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anatoliy Zhylavyy</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27181987</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>KLYMCHUK Lyudmyla</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27237567</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Czech Bavarian Travel s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>27251098</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Phuc Duc Tran</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8608191405</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27293335</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Phuong Ha Van</dtt:ojm>
+<dtt:jmn>Teplice, Masarykova třída 716/27</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27316947</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Thi Quynh Tran</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27366006</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Huu Trong Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27906582</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Thi Duong Do</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27967590</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>ESPALDUDO a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27967590</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27997928</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Hua Le Van</dtt:ojm>
+<dtt:jmn>Nejdek, Nádražní 114</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28034007</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Nhu Quang Bui-BG</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28245717</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Thanh Tung Le</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28382293</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SAADI MINI MARKET s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28410394</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Thi Thai Hoang</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28419162</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MADIVI Group s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28477243</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Van Tuyen Pham</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28486226</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DANAJA INVEST s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28703766</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Thi Thom Vu</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8055022580</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28872177</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Van Dung Hoang</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7507161937</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28897196</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MAZ - INVEST s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28897196</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28972023</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MANTOL s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28972023</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29019885</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MEHASTEC s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=29019885</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29055911</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GD - GROUPE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=29055911</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>46167536</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Truong Tran Van</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48564231</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Thanh Nguyen Tien</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49251058</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Hue Nguyen Thi</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61040746</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Thanh LE BAT</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61248754</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Guercino s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=61248754</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61495000</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Barbara Hajdukiewicz</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61839078</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Tinh Le Van</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62579851</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MASACCIO spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=62579851</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62914863</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DAVID A.M.,s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=62914863</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64716180</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Thuc LE NHO</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64769046</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Zajícová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65434544</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hoan Nguyen Van</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66414342</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Thuy Nguyen Thi</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66425166</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ly Nguyen Van</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67367241</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Meziane Idir</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68845782</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Thi Xuyen Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68873581</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Xuan Manh Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69352291</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hanh Dau Van</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70050210</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Trong Duong Dinh</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70054193</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Chung Nguyen Thuy</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>71531157</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Juraj Jaško</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71616128</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš KLOBOUČNÍK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73459798</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Xuan Tran Thi</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75275996</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Thi Hai Ly Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75912309</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavlo BERSENIEV</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87843081</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anh Tu Le</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87949580</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hanna Pitsur</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88010694</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hai Vo Thi</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01983474</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Thi Ha Siváková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02584352</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Aytekin Sökmen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7401153991</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03883647</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vasyl Pitsur</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03921336</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Salimat Guketlova</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04176774</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mahdalyna Maukshynska</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06170650</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hao Nguyen Van</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06641172</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>János Kálinszkij</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07125941</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Thi Hong Ta</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7461152622</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07552521</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Thi Mai Phuong Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>77</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>60217898</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Miroslava BERANOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 255/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66464374</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal ŠUMBERA, CSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 255/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67788297</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Marková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 255/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=525513163</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88916405</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Pavol Kosáč</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 255/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04097840</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Jana Zajíce 255/26 a Havanská 255/11, Praha</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 255/26</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04851773</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Development Project Management s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 255/26</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06801501</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Rebecca Anne Miller</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 255/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=684329681</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06884695</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SILKWAY group CZ, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 255/26</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07862393</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Andoni Dentici Ibarlucea</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 255/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>9</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

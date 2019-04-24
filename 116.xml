@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>24127752</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CZECH ATRAX TEAM s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Za papírnou 116/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24127752</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27418821</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství pro dům Za Papírnou 5/ čp. 116 v Praze 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Za papírnou 116/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27648010</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DEA Tour s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Za papírnou 116/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42512271</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Zuzana DUBSKÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Za papírnou 116/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63094223</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Filip Žák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Za papírnou 116/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68019386</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Bartoš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Za papírnou 116/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8007124114</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75996901</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Dennis Henry Majer</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Za papírnou 116/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04340884</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Elena Deneko</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Za papírnou 116/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>8</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

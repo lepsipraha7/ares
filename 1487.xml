@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01148648</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Matěj Samec</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01551752</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Knotek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24790346</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Ortenovo nám.12</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26545381</dtt:ico>
+<dtt:pf>141</dtt:pf>
+<dtt:ojm>Step by Step ČR, o.p.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26545381</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26545381</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28165870</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>DELIPAN, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28165870</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=28165870</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63933781</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan Čedík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6208210063</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70347301</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej HRUŠA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70351252</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karolína Šípalová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71125434</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Myšková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74500457</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel Čekan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88907325</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Filip Prchal, DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01914278</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jaroslav Štěrba</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03212777</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. arch. Klára Štěrbová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=3212777</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07289944</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>one chart s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>14</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

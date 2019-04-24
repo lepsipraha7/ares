@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>12580309</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miloslav AGULÁR</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 1429/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=510602221</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22683631</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>HoME z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 1429/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=22683631</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24193712</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Agular Solutions s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 1429/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24193712</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25792512</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Strojnická 9</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 1429/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27593291</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LTEC.CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 1429/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27593291</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=27593291</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40861228</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivana AGULÁROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 1429/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64769887</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimíra ŠVECOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 1429/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67787223</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jan Dvořák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 1429/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68867310</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslav Meisner</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 1429/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68867972</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Sodja Zupanc-Lotker</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 1429/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71136223</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adam Patyk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 1429/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74663232</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana Dvořáková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 1429/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6058090555</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75404028</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Howard Scott Lotker</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 1429/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87243296</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Linda Novotná</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 1429/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03976009</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FIXBOOT.CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 1429/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05333172</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Stereopresence, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 1429/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>16</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>10197460</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Olga Rokosová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6262221724</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12252506</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. STŘÍBRNÝ MILOSLAV JIŘÍ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5706141716</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13147064</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PaedDr. Ivan Machytka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15900975</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Irena Hlaváčová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18903045</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Stanislava Podzemská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24119261</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek U Garáží 1436</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26734729</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MONTEX - AB s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26734729</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27113736</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ALFA Publishing s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27113736</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27392929</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Stříbrný Atelier architektura &amp; design s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27392929</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27950735</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Centrum evropské spolupráce s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27950735</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=27950735</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27955141</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AJMOND s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27955141</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28361016</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Stříbrný Development s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28361016</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28557077</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Bohemian Academic Press, o. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29031419</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LUCIA TARBAJOVSKA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29031419</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40661946</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr HORNYCH</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48566934</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Pazourek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49709909</dtt:ico>
+<dtt:pf>111</dtt:pf>
+<dtt:ojm>SPEKTRUM CZ export - import v.o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=49709909</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63082608</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>BD U Garáží, bytové družstvo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63093570</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marie PAZOURKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63109841</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Volná divadelní společnost &quot;TABLEŠ&quot;</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>69295417</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Světlana Pospíšilová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6752151175</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71327762</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav PAZOUREK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74148532</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Arnošt Machytka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8501110486</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74765825</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina Hévrová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76100626</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Michaela Landová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76345556</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Klára Nováková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76437566</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petra Jarošová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76473431</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Lucia Tarbajovská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7658137234</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76617505</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Matěj Landa</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87396769</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. arch. Štěpán Jablonský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8501200400</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03656993</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Roman Šiška</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04947568</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Jablonská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05042984</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Kateřina Krnáčová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05152950</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Budilová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05412889</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Mamatata z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06328032</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Patočka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06446591</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Pešek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07766921</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alžběta Bušková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9057191407</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07769571</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Lukavská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07974621</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Studený</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1436/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>40</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

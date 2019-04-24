@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00923648</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Laššák</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 304/41</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=9406180223</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16126823</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Antonín Šašek, CSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24700436</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JAZZ Music, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24700436</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25071467</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EMCO Praha, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26501601</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Pražská Stromovka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27496465</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>My Huong Le Thi</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8651074366</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43877311</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Věra PRAŽÁKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43892906</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Věra Kohoutková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45722871</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vratislav Hnízdil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>46692401</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Marie Kmoníčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47090189</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana RYŠÁNKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 304/41</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49275941</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ewa Bronisława Nemoudry</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49351591</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>RNDr. Viktor Rylko</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=531112219</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60115319</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan Zukal</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 304/41</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7201074320</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61065692</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LS-SERVIS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=61065692</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61495425</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hana Brožová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 304/41</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64557286</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Hnízdilová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66462291</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Pařízková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66466652</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Karel PAŘÍZEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67360602</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Klub Svazu civilní ochrany České republiky, o.s. evidenční číslo 101-CO-2 &quot;v likvidaci&quot;</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 304/41</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>68864795</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Otakar Hallý</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 304/41</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69033757</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Pavlo POPOVYCH</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6208091989</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70379114</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin DAVÍDEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71618431</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Dospěl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8206303523</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72879351</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Šárka Vobořilová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 304/41</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75082748</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Bc. Martina Toufarová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75876116</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Soňa Tobiášová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86752260</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Quang Kien Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86880985</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Souček</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 304/41</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87760703</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adéla Pařízková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03055272</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Kostrhun</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 304/41</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04426975</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Wlodzimierz Wlodek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04654684</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků domu Strojnická 1</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05113415</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Iva Šádková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 304/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07856229</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Hudec</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 304/41</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>35</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

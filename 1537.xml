@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>26508648</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Družstvo Tusarova 19</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1537/19</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40843556</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JIŘÍ RAUCH</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1537/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=520627262</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42512859</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Rudolf Komárek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1537/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61027651</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Richard FISCHER</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1537/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75556367</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Petr Řehoř</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1537/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03700381</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Tusarova 19</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1537/19</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05036500</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Volejníček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1537/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>7</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

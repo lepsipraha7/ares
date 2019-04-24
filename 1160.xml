@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00989347</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Jiří Jungmann</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>10175822</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ludmila Tornová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=455715954</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14964236</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslava MALÁKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=465712101</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16918479</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JOSEF DVOŘÁK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22748539</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Bubny žijí! z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24120774</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KM Product s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24121959</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Fragola s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24121959</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24122904</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>N &amp; M POKER TRADE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24122904</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24674966</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KARPE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24674966</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25700634</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SOLID MEDIA, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25700634</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25784145</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>A PLUS GROUP,s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25784145</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25968556</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Petro Babich</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26749955</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Stefan Kostadinov Iliev</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27217736</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků pro dům Bubenská 1160/13</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=27217736</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28187181</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Wellness Harmonia s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28187181</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28405749</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JVM - solar s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28405749</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40772021</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Vladimír MALÁK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43931936</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>František MUFF</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44793782</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DAMAX, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=44793782</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45801533</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JVM spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=45801533</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>48604062</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>William Thomas Mcenchroe</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49229044</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. David Šita, MBA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49549073</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TOKI, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61863572</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Bubenská 1160</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66462746</dtt:ico>
+<dtt:pf>107</dtt:pf>
+<dtt:ojm>Vladimír Malák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7308210459</dtt:p_dph>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69518025</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavlína Rousková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70556008</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. Jan Šimek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87124084</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavla Průšová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06011934</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MaTau Group s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06011934</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08084815</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MikLen s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

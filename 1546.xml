@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>24671118</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FORREST GROUP s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Partyzánská 1546/26</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24671118</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25796861</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Studio FUTURE, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Partyzánská 1546/26</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25796861</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26746735</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GLOBAL SPEDITION PRAHA, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Partyzánská 1546/26</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26746735</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29153000</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Equinet s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Partyzánská 1546/26</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29153000</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45270660</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Technoclean spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Partyzánská 1546/26</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=45270660</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02685531</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>BOHEMIA 2014, a. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Partyzánská 1546/26</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03123481</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AGOD-RUVIA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Partyzánská 1546/26</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03123481</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05596327</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. JAN ŠMEJKAL, advokátní kancelář</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Partyzánská 1546/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>8</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

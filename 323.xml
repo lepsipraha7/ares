@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>24777404</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ToltransAA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25632175</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>B &amp; N Holding, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25632175</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=25632175</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25786369</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Grayland, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26128721</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DINABURG s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>1</dtt:rzz>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26128721</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26142104</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Monitor CZ, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 323/37</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26142104</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26195313</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Mark ZICHA - MOCHAJAVAMAN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 323/37</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26468930</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Rathcairn Enterprises s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27129926</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SHWELON, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27167895</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ARCULEO, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27167895</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27446271</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek domu Ovenecká 323/40, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28998065</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FRONTIER COMMUNICATIONS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28998065</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41186516</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BUTLER, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 323/37</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=41186516</dtt:p_dph>
+<dtt:ceu>-2</dtt:ceu>
+<dtt:p_ceu>ico=41186516</dtt:p_ceu>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45798630</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RIGGEL společnost s ručením omezeným v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45807663</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ETEX s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=45807663</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49711971</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DUKE International Trade Company</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 323/37</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=49711971</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63674301</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JAN -GART spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74505891</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Osovský</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7903271343</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86631357</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Petr MALINA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87393441</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Olga Eykma Nešporová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87443490</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Ekaterina Gardner</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>88379639</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lars Einar Killi</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6705137340</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88816494</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marcela Mikesková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 323/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04785622</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Smiling Baby Spa Clinic s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05844690</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladislav Kovalevskii</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

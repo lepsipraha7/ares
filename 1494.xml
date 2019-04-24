@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>15941604</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. Štaudner Ivo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18922121</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Ľubomír Uhrín</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24677531</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Myroslava Novitska</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26197049</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Art Dent, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27959864</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Ortenovo náměstí 14, Praha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=27959864</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28527208</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DOMAGRO s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28963881</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Navigator PM, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28963881</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42513324</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Johana HÁJKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49657054</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Zoltán Mikuš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=471008702</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61494984</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Otakar Vitásek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62929305</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Fráňa Pavel, JUDr., Ph.D., advokát</dtt:ojm>
+<dtt:jmn>Praha 8, Karlín, Sokolovská 5/49</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7002080184</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67788661</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. František HEREIT, CSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70347140</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivana ŠTAUDNEROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71278419</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Iva POPELKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6556062656</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71329153</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michaela BRÁZDILOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7255240674</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71525033</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. František Brázdil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75561590</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Mejdrová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87887177</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Černocký</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03492702</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adam Pokorný</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03610993</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FRESH Friends, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03610993</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>03869954</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>V.I.P. PATRONUS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06204996</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Vítězslav Kulawiec</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1494/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

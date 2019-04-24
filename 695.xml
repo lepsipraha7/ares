@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>16176316</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef MAKL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 695/41</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22726152</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Pivovar Gabriel</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 695/41</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40129632</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Romana Hendrychová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 695/41</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63094509</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslava Maklová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 695/41</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71568611</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Anna Gabrielová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 695/41</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71785621</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radvan MARKUS</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 695/41</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74300792</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Štěpán Pejpal</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 695/41</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7404180311</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74358197</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Hana Jakoubková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 695/41</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76627101</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Pospíšil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 695/41</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87639653</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Renata Gabrielová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 695/41</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>10</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

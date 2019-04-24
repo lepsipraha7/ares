@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01205498</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina Ďubašíková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01216821</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petra Sykáčková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01270451</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kamil Zlámal</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13148851</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan UŠKRT</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 349/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6803050122</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15323960</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Olga HÉGEROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16181760</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Viktor Fatka</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25105086</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>STUDÁNKA, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26454530</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Dukelských hrdinů 15</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 349/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28252225</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků čp. 349 - Bubeneč</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42520703</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Drahomíra Drábková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 349/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49247000</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr SLÁDEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 349/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49706306</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GIRIZA, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 349/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64767001</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena MAŠKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 349/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65184203</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lubor Benda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 349/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66464901</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Milan Futera</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69928975</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Bistrai</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70471088</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. arch. Švehlík Jiří</dtt:ojm>
+<dtt:jmn>Čáslav-Nové Město, R. Těsnohlídka 1544</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7902134394</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71544682</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Dominika Engstová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71937307</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Dipl.-Ing. Jaroslava Zajícová</dtt:ojm>
+<dtt:jmn>Pardubice I, Zelené Předměstí, Palackého třída 2548</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=71937307</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71962484</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. TOMÁŠ OURODA, advokát</dtt:ojm>
+<dtt:jmn>Praha 2, Vinohrady, Vinohradská 1216/87</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>73756725</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub WOLF</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 349/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74814524</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Votruba</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86609831</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Barbara Irvin Sitár</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86903705</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Sainerová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87431386</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bonita Rhoads</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88164543</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vadim Albert Erent</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88287661</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Filip Žemlička</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88292371</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavlo Luts</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03635775</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jonáš Grepl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 349/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04573471</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Under Five, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04807588</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Dukelských hrdinů 349/15</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 349/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05576164</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Ondřej Kujal</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06834795</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>StarsPartner s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 349/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06834795</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>33</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

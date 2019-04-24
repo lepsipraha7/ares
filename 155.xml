@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01298267</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Plátek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8711290038</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01303481</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Plátková Adéla</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>10158022</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miloš Hauser</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=451104005</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>10172581</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jiří Výška</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5905101235</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>10193367</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimír BLÁHA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5705120223</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16181409</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena ČERNOHLÁVKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6554261450</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18410031</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Patrik Hauser</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24157864</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SPILBAU s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24157864</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25673076</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>A.V.C. INTERNATIONAL, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25736574</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NewBreed, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25736574</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27218368</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Purkart s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27920950</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků domu Havanská 155/16</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45691070</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Andrea VÝŠKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45707570</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jitka Všetečková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48568490</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>JANA ELFEKIOVÁ - ELFEKI</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60219297</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan VONDRÁČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6512211288</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65795334</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Klára Zemanová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7358114126</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67966446</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Dimitre Borissov DIMITROV</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6309082186</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68866755</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milena HAUSEROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71566589</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana PERNÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>75486415</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Strnad</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88122654</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Hauserová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03714306</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Lucie Černohlávková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04063015</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>client IO s. r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04063015</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04322703</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Karli 2008 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04322703</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06748881</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Kovařík</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06985971</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Oplatai s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06985971</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07272855</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Robert Müller</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 155/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

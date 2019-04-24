@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>13822195</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Ctibor KOLÁŘ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15071308</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Antonín Hubáček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15089916</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Prokop</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25794388</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo LUNA - TUSAROVA 10, v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26573172</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>ČAS, o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28197801</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Fittest, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28197801</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28968514</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>YANTAR WEB s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43056571</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Mařík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61494941</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Alexandra KOMRSKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62920731</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Dagmar Koželouhová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6860176675</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67751881</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Pavla KOLÁŘOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71615971</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Mařík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7202290073</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71670327</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří NOVÁČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74803743</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiri Horut</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8302234974</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75177978</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Petra Valtová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75560941</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Roman Piják</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7808063846</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03095118</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Tusarova 10, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03862496</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina Kubcová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05086531</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GAP-OIL s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05989426</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniela Dvořáčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>06497616</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Coffee Giants s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06497616</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06819290</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Nováček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

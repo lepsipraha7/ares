@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>16492366</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Alena KOUDELOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1220/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18905731</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Hana Kopecká</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1220/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5962100584</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22857001</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>V pozadí, o. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1220/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29056276</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Unocera a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1220/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29056276</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64766098</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef BALDRIÁN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1220/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70353310</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan SUTTNER</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1220/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71732110</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Kovář</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1220/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74090615</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Vojtěch Kopecký</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1220/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75943425</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Simona Alexová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1220/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04429397</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Maveon Food s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1220/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04429397</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04429508</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Maveon Advice s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1220/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04606345</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Maveon Capital s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1220/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07769245</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Tureček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1220/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>13</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

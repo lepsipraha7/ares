@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>16181417</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivana DAVIDOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Vinařská 1174/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18925294</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivan Dundr</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Vinařská 1174/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26493811</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SORT OF s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Vinařská 1174/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26493811</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60218363</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JUDr. Jozef Bouška</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Vinařská 1174/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74213491</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Plesník</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Vinařská 1174/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86629778</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Juliš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Vinařská 1174/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87217813</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana Kubíčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Vinařská 1174/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8454184178</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>7</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

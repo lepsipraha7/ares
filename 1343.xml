@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>13155318</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ladislav Podhorský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13745719</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Čadilová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22821490</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>FARO o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=22821490</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43878512</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Přemysl Twrdý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17a</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6811220251</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45692131</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Patricie Mann</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48566021</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Vokurka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60221356</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Maxim Dědek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67787932</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Magdalena Kleinová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70351953</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Romana Žák Doudová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71217118</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. Květuše Vašířová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71553487</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Kříž</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72858290</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan Kajínek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75318318</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslav Štajnc</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75330695</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Veronika Šulcová</dtt:ojm>
+<dtt:jmn>Havířov, Prostřední Suchá, Hornická 836/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8462104717</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87915596</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hana Laiblová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02291860</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vít Fendrych</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8312052980</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02354063</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Prokop Motl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04497546</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Kobr</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6911250401</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05507014</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Radoš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05923956</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Bastien Jean Georges Aubert</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>06779662</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Štěrba</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07415214</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Valerie Motlová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07940645</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Fialová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

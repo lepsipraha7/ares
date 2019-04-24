@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>12515639</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karel HELMICH</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 759/58</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12629138</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karel Šťastný</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Královská obora 58</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13102010</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Piotr Alchimowicz</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 759/58</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14999587</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Alena MATOUŠKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Královská obora 58</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15295761</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jan Svoboda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 759/58</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22681272</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>ProFair o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 759/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24194018</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Spoon a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 857/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24194018</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24260151</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Baoweb s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 857/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24260151</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24315338</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PORT FACILITY s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 857/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24315338</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25090046</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Cestovní agentura COMPLETE TRAVEL , s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 759/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25090658</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Cestovní Klub GEOS NOVA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 759/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25090658</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26429641</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Avion Sound spol. s r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 857/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26429641</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27100014</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Werk Camp s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 857/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27100014</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27615162</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>STUDIO BEEP a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 857/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27615162</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28259289</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Orcoph s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 759/58</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28259289</dtt:p_dph>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28481445</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Oksana Berezun</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 857/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40865002</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena Šťastná</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Královská obora 58</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40865738</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miluše SVOBODOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 759/58</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41194497</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GS software, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 759/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=41194497</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42512808</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Michael Hoza</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 759/58</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>43911331</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Hozová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 759/58</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44872941</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan KUKLA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 771/58</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45281220</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AVION FILM s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 857/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=45281220</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45691550</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Zima</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 759/58</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6901290517</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61496634</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena Alchimowiczová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 759/58</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62586246</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HEMA-H.K. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 771/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=62586246</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71328742</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Štěpán Míka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 857/58</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75359642</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Jareš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 759/58</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75877198</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Šťastný</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Královská obora 58</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87966867</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mauricio Gerardo Porras Ramirez</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 857/58</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01792008</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Studio Tusarova 58 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 857/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01792008</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02900424</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Restaurant PORT58 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 857/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02900424</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03084752</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Get Sound s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 857/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03084752</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03325679</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Klinická psychologie Zoe, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 771/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03350363</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ID Corp cz s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 771/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03511502</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PORT#58 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 857/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03511502</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03550117</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Venture Capital Partners s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 771/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03758869</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Moc</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 771/58</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9002270420</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03812499</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>babidabi s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 857/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03812499</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03866971</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Show factory, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 857/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03866971</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>05042194</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Ray Productions s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 857/58</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05042194</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>41</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

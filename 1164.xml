@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>12913731</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Josef Dvořák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1164/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15076440</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Antonín Aubrecht</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1164/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27078906</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Fr. Křížka 32/1164 v Praze 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1164/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27569039</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Reina Travel s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1164/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27569039</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28203313</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BALAZOTE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1164/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28203313</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47090308</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana ŠPINAROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1164/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48071889</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Andrle</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1164/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7401110497</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65991125</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Irena Jiroušková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1164/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71555722</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Jiroušek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1164/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74588575</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Hromádka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1164/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8209200450</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75304422</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Pavel Raev</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1164/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8404133969</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75572753</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JUDr. Kateřina Mandulová, LL.M., advokátka</dtt:ojm>
+<dtt:jmn>Praha 8, Karlín, Karolinská 654/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7952045871</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76286746</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Kateřina Pospíšilová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1164/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03185869</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>OLDGEAR s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1164/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03476791</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Centrum pro dokumentaci totalitních režimů, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1164/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=3476791</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05687420</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Irena Andrlová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1164/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7862010376</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06077544</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Medical Partners Czech Republic s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1164/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07680163</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ATL LEX service s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1164/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07680163</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>18</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

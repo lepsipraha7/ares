@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>28523555</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Poupětova 1332, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1332/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41850700</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Iveta Novotná</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1332/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42523711</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Vladimíra JOHNSTONOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1332/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48038741</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>WIDIT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1332/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67791956</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Bernau</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1332/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75865645</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Vladimír Hendrich</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1332/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02584441</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vitaliy Petrun</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1332/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04309821</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jana Gašperová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1332/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04837100</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ivona Szantová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1332/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05899508</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Thomas Pierre Alain-Clau Lours</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1332/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>10</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

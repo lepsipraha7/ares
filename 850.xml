@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>11209712</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Mayer</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 850/86</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=490601316</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16515803</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. MEZERA PETR</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 850/86</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18907857</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Martin Koubík</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 850/86</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6904110224</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26711036</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo LETNÁ 86</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 850/86</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27248861</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>International IT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 850/86</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28419651</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>European Consultancy Service s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 850/86</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28419651</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43003664</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Školní rada při ZŠ s rozšířenou výukou hudeb.výchovy,Praha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Umělecká 850/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48566888</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>JUDr. Vratislav Janda</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 850/86</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6507291901</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60435216</dtt:ico>
+<dtt:pf>331</dtt:pf>
+<dtt:ojm>Fakultní základní škola PedF UK a Mateřská škola U Studánky Praha 7, Umělecká 8</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Umělecká 850/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=60435216</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=60435216</dtt:p_cedr>
+<dtt:aris>0</dtt:aris>
+<dtt:p_aris>ico=60435216</dtt:p_aris>
+<dtt:sko>0</dtt:sko>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61496014</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Ivana VOBORNÍKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 850/86</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67490832</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>René Štefec</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 850/86</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69112053</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Koubíková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 850/86</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70351732</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing.arch. Zuzana Novotná</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 850/86</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71905154</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Richard Kovářík</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 850/86</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88532941</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hana Mayerová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 850/86</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04426037</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anneta Furdecká</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 850/86</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9355064323</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06768547</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Štefec</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 850/86</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>17</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

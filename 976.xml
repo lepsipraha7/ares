@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>11253657</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Jan Kubert</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 976/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=530617052</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14999765</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>SATURN - int.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 976/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25073923</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DAVENTREE, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 976/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25073923</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41192117</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BODEN spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 976/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47095229</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Kateřina Ebelová, Ph.D.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 976/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5555310024</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66199131</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JUDr. Violeta Jiráčková, advokátní kancelář</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 976/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=515813109</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66223784</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JUDr. Petr Papoušek, MBA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 976/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6904242565</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68865856</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslav SVĚTLÍK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 976/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73611956</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Tomáš Bejček, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 976/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02879808</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Patricie Ebelová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 976/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8252040038</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03636372</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>artpatent, advokátní kancelář s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 976/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03636372</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>11</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

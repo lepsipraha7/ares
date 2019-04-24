@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00548596</dtt:ico>
+<dtt:pf>111</dtt:pf>
+<dtt:ojm>PRAGOLUNA veřejná obchodní společnost v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24230294</dtt:ico>
+<dtt:pf>141</dtt:pf>
+<dtt:ojm>Akreditační agentura pro primární péči, o.p.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 403/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25758187</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Z-info s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 403/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25758187</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26682613</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Františka Křížka 16</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26682613</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26988020</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>overclocking.cz</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26990458</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>PES PRO TEBE, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 403/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26990458</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28463382</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GUILD PRINT, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 403/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28463382</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41804228</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Starý Petr, Ing.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61386634</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Krč Red Sox</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64765806</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivan CHARVÁT</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64767396</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel Smrž</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6902160375</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66463513</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Blanka Smržová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69556270</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Magdalena Hájíčková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 403/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70136505</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Natália Cavina</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70347433</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jitka Krejcárková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 403/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7856070475</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70377090</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana Pavlíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72235462</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Josef Nový</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 403/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74996088</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>BcA. Petr Miškay</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75093804</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Malířská, č.p. 403, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 403/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75901781</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vlasta KESSELOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 403/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>76269167</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena Reichlová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 403/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76411923</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Linda Pospíšilová El Karibová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86630865</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Pospíšil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86631128</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan Mládek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 403/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02028883</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jonáš Reichl</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 403/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03187110</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Iva Fingerová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 403/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03636445</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Vaněk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04764749</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Sára Bergmannová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05174775</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Františka Křížka 403/16, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05426871</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mikuláš Pavlík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05928168</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Nový</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 403/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07001606</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Renata Uhrová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 403/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07620128</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Panic, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07681330</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Filip Smrž</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07985401</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>František Smrž</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 403/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>35</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00009784</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>TESLAMP Holešovice a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U papírny 614/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=00009784</dtt:p_dph>
+<dtt:ceu>2</dtt:ceu>
+<dtt:p_ceu>ico=9784</dtt:p_ceu>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25625861</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>FinCorp, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U papírny 614/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25625861</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27101819</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FMD, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U papírny 614/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27101819</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28498313</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TS-Data, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U papírny 614/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28498313</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28498381</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TS-Voice, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U papírny 614/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28498381</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45824894</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ladislava Mašková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U papírny 614/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7056020994</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60197030</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>I.F.S., a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U papírny 614/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=60197030</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63076446</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FORTE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U papírny 614/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=63076446</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63669951</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DANY s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U papírny 614/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=63669951</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70919976</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Marie Henyšová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U papírny 614/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03785904</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Cirrus SR22T s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U papírny 614/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03785904</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>11</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

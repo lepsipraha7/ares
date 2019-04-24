@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>13810243</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr JODAS</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16125029</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Otto Adam</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24774171</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Interiering s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24774171</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25068504</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MIPAN s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25068504</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28425146</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MHP - Medical Home Products s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28425146</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40868541</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Zika Dalibor</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45701270</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Koušek Zdeněk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=531204047</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63076284</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RUTGER REALITY s. r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=63076284</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63095548</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mariana Lebedová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63297043</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef LEBEDA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66018536</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Bedřich NOVÁK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66847036</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Šemík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69519811</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Linda Kabylová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70346950</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Filip Kabyl, DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7608150341</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70722463</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Kateřina Prokopová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71545344</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Kot</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71839372</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Jan Čižinský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74247247</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Štufka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76100804</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petra JODASOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88819558</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alžběta Daniela Frimlová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01778081</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Praha 7 sobě</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03947882</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BARBERSHOP ADAMS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03947882</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03974502</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adéla Jodasová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05038898</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daria Roik</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 570/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

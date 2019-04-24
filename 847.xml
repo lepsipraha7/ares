@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>24830291</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství Heřmanova 847, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 847/53</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60602074</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Kunzová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 847/92</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61495051</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Jaroslav Nekola</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 847/53</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63092247</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Martina ŠLESINGEROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 847/92</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6653010551</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64764583</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Petr VERNER</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 847/53</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64764770</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Rudolf ŠLESINGER</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 847/92</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66467446</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Hana Majdáková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 847/92</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70346445</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Müller</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 847/53</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70379700</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Olga Štěpánková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 847/92</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76590801</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Štěpánek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 847/92</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87405857</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavla Fraitová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 847/92</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05465338</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Ondřej Jiráska</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 847/92</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05909481</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MMQ Czech s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 847/53</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06427316</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk Pavlíček</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 847/92</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07047011</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Július Štefan</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 847/92</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07944594</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Přátelé Pohledu, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 847/53</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>16</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

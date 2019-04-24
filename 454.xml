@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>10191062</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marcel Biederman</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15105024</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Havránek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16177118</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Ctirad Krbec</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16194527</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Jarmila Valešková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18903002</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Pikhart</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28171632</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Tetyana Ivanets</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28668529</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ba Tuan Vu</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8701131395</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40863557</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Renata Havránková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42512026</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jan ZÁMYSLICKÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5610300025</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43878202</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Roman Fillip</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45122601</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Kosek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64765733</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena PIKHARTOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68867344</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Srbek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69674973</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Stanislava Fedrová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70349371</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eugen Cihlář</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71176161</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Ivo Michalička</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>1</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71327932</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Vít</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71672605</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Hajduk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71781561</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ema Machulková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74493973</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Zdeněk URBAN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>74745883</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. Helena ŠÍMOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75453479</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. Martin Neruda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75591618</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bich Ngoc Pham</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88103471</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Adam Popel</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88656811</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PharmDr. Renata Michaličková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01710991</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Roman Škába</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02102072</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing.Mgr. Jana Burešová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02906279</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karolína Zarzycká</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03190285</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Beránková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03550150</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JAKADA Group s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 1, Staré Město, Bílkova 855/19</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=03550150</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06738516</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Klíma</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

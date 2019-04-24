@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>12586757</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alois NAVRÁTIL</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 217/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28174615</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Galyna Tretyak</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 217/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28677803</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Olena Filionova</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 217/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40861848</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Emanuela Frýdlová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 217/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=506229207</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42516617</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kamil Rusňák</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 217/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43933360</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Zora Hornová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 217/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45270473</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Potravinářské závody Vysočany, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 217/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68866020</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika Rusňáková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 217/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69337934</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vasylyna Datser</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 217/7</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70713481</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Vítek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 217/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7907260493</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71278371</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Kuželová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 217/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71616942</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Svatava Staňková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 217/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76055701</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Rusňák</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 217/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87722127</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lyubov Hakh</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 217/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01706357</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Pokora</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 217/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>15</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

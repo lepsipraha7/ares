@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>15306127</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan PŘIBYL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 927/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15898229</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miloslav ŠREPL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 927/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=520520137</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16502299</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>František Moravec</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 927/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28238290</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NV Engineering s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 927/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28238290</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28984811</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek domu U Průhonu 20, Praha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 927/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45691738</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimír ZOULA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 927/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61002526</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MVDr. Ladislava Jelínková, CSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 927/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67975216</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Růžena Hrubantová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 927/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71715100</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Trnka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 927/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7710140053</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87134276</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Henychová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 927/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87420384</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adam Kovalčík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 927/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03861031</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Původní lid Biafry v České republice z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 927/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06414621</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Trllo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 927/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06704875</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Viktor Martančík</dtt:ojm>
+<dtt:jmn>Hovorčovice, Na Slunci 555</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07232497</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Lucia Jelínková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 927/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>15</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

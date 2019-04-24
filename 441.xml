@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>25765345</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DATA PRAHA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26472392</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Bubenská 441/5</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26472392</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40868451</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeňka ZPĚVÁKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43935125</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk Štěpánek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44859503</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiřina SVOBODOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48092347</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marie Eder</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6360140039</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48568741</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Venuše Černohorská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49807277</dtt:ico>
+<dtt:pf>107</dtt:pf>
+<dtt:ojm>Ing. Jiří WIESNER</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>1</dtt:rzz>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60221836</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiřina PREISLEROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64527425</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Moštěk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7701041447</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64767710</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr ČERMÁK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65461118</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marcela Hejduková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7751131058</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65651685</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Jaroslav Boucník, DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7510080831</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66465681</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Hodač</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69483922</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Cyril Brom</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74540289</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Veronika TICHÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7056230500</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76229459</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ladislav Beza</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76346854</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radek Píbil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86630199</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimír HROCH</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87545471</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana Havlíčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8251170158</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>88371140</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Jan Ondráček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04567846</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jitka Študentová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04601246</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Neumanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06965628</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adam Žák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07959281</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Cleaning in Prague s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

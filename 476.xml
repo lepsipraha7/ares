@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>28379799</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DAD activities s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 476/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28379799</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44326548</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Procházka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 476/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7003300381</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48567850</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Arne Valen</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sládkova 476/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60465832</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TOM - computer, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sládkova 476/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=60465832</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=60465832</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70347221</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Vraný</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sládkova 476/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75727625</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavla Vachunová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 476/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02701847</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Hana Krýdová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sládkova 476/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5855010821</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02897679</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Bal Icme</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 476/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>8</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

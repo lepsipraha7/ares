@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>15306666</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Olga KRABCOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1376/39</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16073371</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Hrdličková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1376/39</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24676012</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek v budově čp. 1376, Bubenská ul. 39, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1376/39</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=24676012</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26509415</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Bubenská 39</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1376/39</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27152201</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Tender Service, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1376/39</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27152201</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66052491</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana Weisová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1376/39</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68868201</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva ŠTOLBOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1376/39</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71080309</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hana ŽĎÁRECKÁ ŠUTRYOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1376/39</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02398206</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jitka Schieff</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1376/39</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02968266</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Švarc</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 1376/39</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>10</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

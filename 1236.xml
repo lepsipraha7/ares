@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01534637</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Přístavní 35</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01576844</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Svobodová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14926504</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Julie Hrstková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7059040230</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15949907</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Landauer</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16179862</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana NOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25604601</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VEROS PRAHA, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25604601</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26534487</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Iuridicum Remedium, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26534487</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27926061</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Thu Nguyen Thi Minh</dtt:ojm>
+<dtt:jmn>Praha 9, Vysočany, Pešlova</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28864549</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Viet Trung Nghiem</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45695067</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Dalibor Štědronský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60220333</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Válová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61493376</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav HARIS</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62202464</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jaroslav Michajlovič</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6801211549</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65675924</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Hana Michajlovičová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6855240062</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69031703</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Divíšek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70348006</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniela NOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70550921</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Martin Dvořák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7902070319</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71328955</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika Rozhonová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71672109</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Voják</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7607101117</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71831428</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Vladimíra Voithová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>72778105</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>PAVEL POLÁČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74832590</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Lazók</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76130274</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Voith</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86938754</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Nejedlý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02532697</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Marek Sluka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05312418</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Nina Pešlová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05817773</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Hana Stejskalová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06169538</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ondrej Rohoň</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06758118</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Oulehla</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07646160</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FOX Promo s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07726112</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Alena Pavčová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

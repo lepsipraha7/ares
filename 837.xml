@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>12579157</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>RNDr. Jiří Suchomel</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 837/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27211886</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RW PROJEKT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 837/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27211886</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27452328</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Dr. Brain &amp; Mr. Storm s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 837/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27452328</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61059498</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Lidové bytové družstvo Haškova 12</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 837/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71672818</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Andrea Střechová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 837/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7558033835</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73762067</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Pavel Hák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 837/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8207155209</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76462943</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marie Háková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 837/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86928589</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>RNDr. Petr SOUKUP</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 837/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04266838</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimír Staněk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 837/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8406010217</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06156509</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alice Mikulášová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 837/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07072724</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Haškova 837/12</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 837/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>11</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00978337</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Markéta Špinková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16176839</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Heyrovský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24292524</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek pro dům č.p. 1105, ulice Františka Křížka, Praha - Holešovice</dtt:ojm>
+<dtt:jmn>Praha, Holešovice, Františka Křížka 1105</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25609505</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Umělecká řemesla PRAHA, společnost s ručením omezeným</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25609505</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25636464</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CPM Média, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25636464</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26446189</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LAKOVNA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26446189</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26539845</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Džbán</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26997371</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Sea of Stars</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27915379</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Stavební a interiérová s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27915379</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49712551</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Letenská realitní společnost spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=49712551</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62930346</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Firýt</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63519615</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Špinka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7302053341</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66463734</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>CEFTRA - Dr. Jaroslav Skorkovský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67999166</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ladislava Sabatová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6059040317</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70346895</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena SUKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70350558</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Kalistová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70757003</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Eva Skorkovská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70931585</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Šárka Pešatová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70931593</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Karel ČUMPELÍK - zubní lékař</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71997491</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miloš Novák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>76277909</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>RNDr. Scarlett VASILUKOVÁ REŠLOVÁ, CSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87618184</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Natálie Bozděchová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87715180</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petra Rais Heyrovská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01938401</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Radovan Tlstovič</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01951165</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Andrea Cigáneková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02986418</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Zuzana Tlstovičová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04684311</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Lhotová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06323481</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Salt n Pepa s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06323481</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06321585</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Roman Pollák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1105/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

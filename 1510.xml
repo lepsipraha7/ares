@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>25678442</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FIT-REST s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1510/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29413044</dtt:ico>
+<dtt:pf>118</dtt:pf>
+<dtt:ojm>Nadační fond Gymnázia Nad Štolou</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1510/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44796676</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Rada rodičů a přátel Gymnázia Nad Štolou, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1510/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45249245</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>JUDO CLUB ŠTOLA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1510/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60444177</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Asociace ředitelů gymnázií České republiky z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1510/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61385476</dtt:ico>
+<dtt:pf>331</dtt:pf>
+<dtt:ojm>Gymnázium, Praha 7, Nad Štolou 1</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1510/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=61385476</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=61385476</dtt:p_cedr>
+<dtt:aris>0</dtt:aris>
+<dtt:p_aris>ico=61385476</dtt:p_aris>
+<dtt:sko>0</dtt:sko>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05102472</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Hájek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1510/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>7</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

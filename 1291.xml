@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>13111132</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Eva Pávková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 1291/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25663151</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ROFIN s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 1291/38</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25663151</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26437376</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Kostelní 38/1291, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 1291/38</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41775732</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ilona Kopecká</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 1291/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43880193</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Komenda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 1291/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5504102681</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60183039</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>BOŘEK ŠIMÁČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 1291/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63978776</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>OFNA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 1291/38</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=63978776</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66463289</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Tomáš Eršil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 1291/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7104300379</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74358642</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Komendová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 1291/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03200906</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslav Suchan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 1291/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06306608</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Christer Fagerberg</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 1291/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>11</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01161709</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Olena Brayila</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01490575</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DIA - INTe s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12630985</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. Kovalčík Vít</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=520406130</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15896510</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Šustová Zdeňka, JUDr.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=505730225</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15905764</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Cibulka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7209210019</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16912616</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Vlk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5407073045</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16914571</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Jan Němec</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6209171353</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24728012</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Aneko Estates s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43934226</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena SVOBODOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43934234</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Pavel SVOBODA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45690502</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Svoboda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48582778</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>OMNI DENT spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60216921</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Světlana Maternová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61063690</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Metalss , s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=61063690</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62931857</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing.akad.arch. Dagmar KOVALČÍKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68868235</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Vnouček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71328319</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Radka Škardová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76144852</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JAN KVAPIL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, nábřeží Kapitána Jaroše 1000/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7512020230</dtt:p_dph>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87506734</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Liudmila Dragalina</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87653877</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mykola Brayila</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>87705419</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Brambus</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88189066</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Herold</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88255905</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vasyl Konovshiy</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04888847</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavla Smíšková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06272339</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>MVDr. Zuzana Antalíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1520/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>24297925</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Tarbonele s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přívozní 1562/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24297925</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27194299</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NAOLA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přívozní 1562/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>3</dtt:dph>
+<dtt:p_dph>dic=27194299</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27869016</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PLUS PRAGUE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přívozní 1562/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>3</dtt:dph>
+<dtt:p_dph>dic=27869016</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87696568</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Alberto Hartmann</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přívozní 1562/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=682866578</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04084292</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Traveler's Choice s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přívozní 1562/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04229223</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Kaufman Family s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přívozní 1562/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04229223</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>6</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

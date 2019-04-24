@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01228901</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Kos</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13095960</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Miroslav Kos</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=451206052</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22766685</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>European Media Professionals, o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25130153</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PST Bohemia s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>1</dtt:rzz>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25130153</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25775715</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SILVERCOM s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25775715</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26183749</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Studio-O! s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27457681</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DETRICK s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27457681</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27613305</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MELODY travel, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27615146</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek pro dům Janovského č.p. 919, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27883116</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TENACIA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28245288</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SILVA INVEST s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28245288</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29130964</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Happy cars s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29130964</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63944782</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Colin Roy Stanley</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7002019937</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71562036</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Stanislava Marcínová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7262101979</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76633501</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Antony James Castle</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76633829</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Réka Egyházi</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04119223</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Kleopater s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04119223</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04552881</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ruslana Mayer</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04837266</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Martina Nalevanková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05083435</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DAZ INVEST CONSULT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>05400988</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Ljudok Praha s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05807310</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Evil Cars Corporation s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06047041</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Petro Lider Trade s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07880626</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Stanislav Kyselov</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07946384</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Šimon Kern</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 919/36</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

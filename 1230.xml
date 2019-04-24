@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01104128</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jan Meca</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12611492</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Jana VELKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13812921</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miloslav VELEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=500723171</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24293911</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>La Roda Czech s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24293911</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24316806</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Oční ordinace MUDr. Blanka Dienstbierová s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25118226</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>M-Art production, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25118226</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26694026</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Veverkova 7/1230</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26694026</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28420489</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>POHODASUN spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28420489</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42519578</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mánek Petr</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45691533</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Sylva WOLFOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60594268</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>RNDr. Zuzana Ella Havlíčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61381152</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Blanka DIENSTBIEROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:rzz>1</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64764907</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Alena MECOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64767744</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>RNDr. Heinz-Gerd WALTER</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67786791</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Markéta Lanke</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70348171</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Velková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71007482</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Zuzana Solano GÓMEZOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74154800</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Budínská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75396688</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kristýna Bernášková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88230112</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Natálie Forsterová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1230/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>20</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

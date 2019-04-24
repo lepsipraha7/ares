@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>24229695</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Realitní tržnice, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 206/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25710346</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NUPI s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 206/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25710346</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25728890</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Jatky Český Dvůr, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 206/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25728890</dtt:p_dph>
+<dtt:ceu>-2</dtt:ceu>
+<dtt:p_ceu>ico=25728890</dtt:p_ceu>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=25728890</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25774638</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Ing. PETR MOUCHA - stavební, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 206/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25774638</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27892433</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Moce Investment s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 206/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27892433</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28982754</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Vaše vizitka s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 206/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28982754</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48394475</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ROKES spol. s r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 206/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=48394475</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60218916</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alexandra CIHLÁŘOVÁ</dtt:ojm>
+<dtt:jmn>Praha 5, Košíře, Píseckého 330/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=475329105</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>8</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

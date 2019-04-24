@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>12321613</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Marcel Goetz</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=510823120</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13828258</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Pátek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5901271090</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16504631</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>René Brautferger</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7104251660</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26473437</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Tusarova 3/1285</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26473437</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27414248</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ANGELO &amp; IGI s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27414248</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27573559</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KRBY BOHEMIA s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27573559</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60220929</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva ŠPULÁKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61453811</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk Rudolf</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6709272042</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68836848</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Vitaliy Nykirka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86629727</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Kůrka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88019276</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Bešťáková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88111024</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Bílek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01855310</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ihor Dehtyarenko</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02183650</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karel Jiřík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8905310205</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03759083</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Eugen Finkei</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04810121</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Večerka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04935047</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Luděk Otec</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06100511</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Tusarova 1285/3, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06470505</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ján Paranič</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1285/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>19</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01072005</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Barbora Orlíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1015/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25090674</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Jirečkova 15</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1015/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25698184</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>V-I-P-X, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1015/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25698184</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27454908</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Jirečkova 15/1015</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1015/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48567876</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Naděžda FOGLAROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1015/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49683969</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>OPTOMEDIA, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1015/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=49683969</dtt:p_dph>
+<dtt:ceu>2</dtt:ceu>
+<dtt:p_ceu>ico=49683969</dtt:p_ceu>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60218991</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hana Rettová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1015/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63159121</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Filip Tichý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1015/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7204061887</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64088227</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TOMDER s. r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1015/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=64088227</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65098935</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Romana Tichá</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1015/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67786162</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Bogušovský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1015/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70351112</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Luďka Oppltová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1015/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75393743</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hana Krausová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1015/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88617891</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Modr</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1015/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01687778</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>united works s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1015/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02177668</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Roman Kodým</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1015/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03793869</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Rory William Wilmer</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1015/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=683591057</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04115082</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AmbitionPro, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1015/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04115082</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>18</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

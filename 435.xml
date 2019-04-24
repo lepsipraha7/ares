@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01495321</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>&#8222;Adiutorium nostrum&#8221;</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13148605</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jiří KACEROVSKÝ, CSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13148613</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana KACEROVSKÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16408241</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adéla Skoblíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=16408241</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18905137</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Pavel VESELÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26564009</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>&quot;Langmuir, o.s.&quot;</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26564009</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43931120</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr HAIS</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45756775</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslav Radomír KLABAL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61496421</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Jiráň</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62408577</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Sochorova 5</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63090392</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Simona LAŠŤOVKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63094894</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Tomáš Klabal</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64766837</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslav Vancl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64767221</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Rudolf Svoboda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71672168</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva SVOBODOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88238491</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Pasková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88278131</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mykhaylo Rishko</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88521460</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Iryna Rishko</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05446678</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radka Klabalová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06868436</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Ditrich</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 435/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>20</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

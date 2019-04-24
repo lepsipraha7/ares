@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01483285</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hana Czivišová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 242/29</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15322491</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Vladimír Wollmuth</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 242/29</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15932249</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Kalach</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na šachtě 242/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25739701</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>D Smack U Promotion,spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 242/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25739701</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68380887</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>HC CARD CENTRUM</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 242/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=68380887</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69332657</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Karolína Házová, Ph.D.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 242/29</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87146321</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Ondřej Lukeš, advokát</dtt:ojm>
+<dtt:jmn>Praha 4, Nusle, Hvězdova 1716/2b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87448165</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Tóth</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 242/29</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8811200178</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88273024</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana Halfarová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 242/29</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>9</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

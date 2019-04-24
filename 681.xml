@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>27118410</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Ing. Vratko Vavrek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 681/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7110188657</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28416368</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Lost Arch s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 681/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28416368</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60369582</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Henrieta Arslanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 681/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75122952</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků domu Letohradská č.p. 681, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 681/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87402246</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Radek Soukup</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 681/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01858530</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Thomas Francis Mc Namara</dtt:ojm>
+<dtt:jmn>Praha 6, Dejvice, Jugoslávských partyzánů 1599/31</dtt:jmn>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04824261</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Matúš Duchoň</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 681/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05900948</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Eleanor Margaret Hammond</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 681/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>8</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

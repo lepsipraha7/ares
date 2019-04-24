@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00506061</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Stavební výrobní družstvo EKOMOND</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1303/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01324772</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Tomáš Löster, Ph.D.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1303/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01580981</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Kumsta</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1303/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12612898</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Magdalena Havlíčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1303/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18905421</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Lősterová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1303/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=515305172</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18905463</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří LÖSTER</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1303/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=471006045</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26134624</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DROCA Holding spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1303/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26134624</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26628058</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Společnost Historie a rozvoj veřejné dopravy, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1303/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42520860</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jitka Jechová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1303/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45727627</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Božena Bažilová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1303/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60221411</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena NOVOTNÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1303/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63095491</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Ondřej Havlíček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1303/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68403518</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Sejong Taekwondo Dojang, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1303/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68866127</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Renata ŠTEMBEROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1303/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69042896</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Klaus Fuxjäger</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1303/13</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6603017344</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71346562</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Jakub Kratochvíl, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1303/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7907160052</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73630250</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Jan Špaček, advokát</dtt:ojm>
+<dtt:jmn>Praha 1, Staré Město, Revoluční 762/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8005243246</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03777251</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Hofrichterová, DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1303/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04641248</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Dobrovského 1303, Praha 7, Holešovice</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1303/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>19</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

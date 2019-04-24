@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01616048</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>B14, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01619322</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>B58, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=01619322</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18629431</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ENC, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=18629431</dtt:p_dph>
+<dtt:ceu>-2</dtt:ceu>
+<dtt:p_ceu>ico=18629431</dtt:p_ceu>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24201251</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Ergovia s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24201251</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24288829</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Besocial s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24288829</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24662623</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>SOTIO a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24662623</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25070916</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CONTAINER TRAIN BOHEMIA, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25070916</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25331990</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>STROJÍRNY A SLÉVÁRNY BLANSKO, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ceu>-2</dtt:ceu>
+<dtt:p_ceu>ico=25331990</dtt:p_ceu>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25700588</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ZG Lighting Czech Republic s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25700588</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26184206</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DANNPLAN, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26184206</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26378884</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JEMAX STAVBY s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26378884</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26399504</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SPORTCENTRUM Plzeň s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26399504</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27116603</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Paphos Invest spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27116603</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27154866</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Comtrend Central Europe, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27154866</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27192776</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>YFA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27192776</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28419901</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>CREDIT MANAGEMENT SERVICES a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28419901</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41194501</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TRIDENT DEVELOPMENT, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43002030</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>M a P - AGRO, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45277257</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MACOM-průmyslové stavby, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ceu>-2</dtt:ceu>
+<dtt:p_ceu>ico=45277257</dtt:p_ceu>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47117044</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KOVO III - KBC, spol. s r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=47117044</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>48534226</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BOHEMIA - SWISS, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49370227</dtt:ico>
+<dtt:pf>325</dtt:pf>
+<dtt:ojm>Nejvyšší kontrolní úřad</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:aris>0</dtt:aris>
+<dtt:p_aris>ico=49370227</dtt:p_aris>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49827081</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NL - BioLAB s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63983036</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Caterine, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=63983036</dtt:p_dph>
+<dtt:sd>0</dtt:sd>
+<dtt:p_sd>dic=63983036</dtt:p_sd>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69780323</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>NICHIMEN EUROPE PLC</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:rzp>0</dtt:rzp>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71445579</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Lenka Heřmánková, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8157311679</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73456837</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JUDr. Jiří Vlasák, advokátní kancelář</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8105072239</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74745158</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Marek Plojhar, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75119048</dtt:ico>
+<dtt:pf>733</dtt:pf>
+<dtt:ojm>OS SOO ZV ČR Nejvyšší kontrolní úřad</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76462757</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Miloš Bruňák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87182629</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Jana Seková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01657674</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>B23, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03168484</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. ONDŘEJ KOLÁČEK, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03574571</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Adpower s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03574571</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03575080</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Cavixo s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03575080</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03579298</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BeChannel s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03579298</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04287576</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>NEXTCLINICS Czech a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04452020</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Integrated Medical Solutions a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>1</dtt:rzz>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04452020</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04529464</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Paphos RE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04590821</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>B11, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>04668171</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FACTIS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04705149</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Bold Interactive s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04705149</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04889231</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VltavaLab s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05465958</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>House One s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05540275</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Jiří Andrýsek, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05720834</dtt:ico>
+<dtt:pf>111</dtt:pf>
+<dtt:ojm>ISALIS v.o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05720834</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05680565</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. BARBORA ČERVENÁ, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06553036</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Tereza Tesaříková, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06714838</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AK Vlasák advokáti s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06714838</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07047002</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JUDr. Pavel ZUSKA, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>50</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

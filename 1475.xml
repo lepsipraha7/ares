@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00929743</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Jitka Peroutková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>10499351</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Milan Červinka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6306120832</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18903509</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Tlučhoř</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24677621</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Igor Dyriv</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24780171</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivan Dyriv</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24782424</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lyubov Dyriv</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25301578</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GLOBE import, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25301578</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25453190</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Yen Pham Tien</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25499955</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Xuan Ninh Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25625454</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Družstvo Uranie</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26386071</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Thi Thu Thuy Pham</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27159221</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>STEIWAN s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27159221</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28046099</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Loc Vu Dinh</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8711073360</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28403274</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek U Uranie 1475/20, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47113669</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Rolando PITTI</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63091071</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Simona Pitti</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66465362</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Rizwan Syed MUHAMMAD - HIGH - TIME TRADESMAN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67789340</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Nataliya ZYMA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68868481</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Marvin Jose JARQUIN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69478147</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Špáta</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>70427666</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Sy Nguyen Xuan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7909272558</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74111370</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dagmar Nováková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88079601</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. arch. Kateřina Kaslová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88194159</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Erik Constantine Binka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04488199</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Galvestons s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04488199</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04626371</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Redmond Invest s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 3, Žižkov, Ježkova 1054/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04626371</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04889860</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CASPELLA INTERNATIONAL s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04889860</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05915015</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Mancher s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06059767</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JELEN properties s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06059767</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06237487</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Natálie Stejskalová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06447309</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Trusted Web s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06447309</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06695001</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Celulóza s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06695001</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07609183</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GRAFIKA ONLINE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07827911</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FREEDOM CONDITIONING s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07828004</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BEST PERFORMANCE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07828004</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07851928</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Czech Bird s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07851928</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08013276</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Avakdeer s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1475/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>37</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

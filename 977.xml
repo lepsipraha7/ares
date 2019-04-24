@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>15295915</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Josef KVAPILÍK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 977/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27065383</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PaN TECHNIK s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 977/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27065383</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27660338</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MUDr. Plichta, oční ordinace s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 977/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27660338</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28876512</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>M.S.I. SERVICES s.r.o. &quot;v likvidaci&quot;</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 977/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28876512</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48040371</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>P &amp; N, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 977/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=48040371</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=48040371</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48108880</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Zubní H + MM, spol. s r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 977/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=48108880</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48566195</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Hájek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 977/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69833079</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mário Murza</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 977/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=600560830</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70348987</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Matys</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 977/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73630021</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Vít Plichta, advokátní kancelář</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 977/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7912030016</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74765001</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kyriakos Stamidis</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 977/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87887657</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Sára Bauerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 977/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02100428</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FIMO Pharma s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 977/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>1</dtt:rzz>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02100428</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04571517</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ConsultMed s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 977/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06023487</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Dvořáková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 977/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07098553</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MUDr. Bohdan Plichta s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 977/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07876084</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Laura Malinićová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 977/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>17</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

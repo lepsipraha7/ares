@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01574205</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Paščenko</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 225/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15003671</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Maxmilian Sperling</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 225/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24795119</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KOPRIM - J.J., s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 225/49</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24795119</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25375423</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Charlie broker s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 225/49</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27245241</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TNT Production s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 225/49</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27245241</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28364805</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství pro dům Bubenská 49, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 225/49</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29293286</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ADCALL systems s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 225/49</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29293286</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=29293286</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47118253</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TESIM spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 225/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=47118253</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71328718</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Jaroslava Nováková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 225/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73506192</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MARTA CHÝLOVÁ</dtt:ojm>
+<dtt:jmn>Chlum u Křemže 106, 382 03 Křemže</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75670364</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Petr Vlach</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 225/49</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76020011</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kariadna Shukyurova</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 225/49</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76208460</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva SPERLINGOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 225/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87388987</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Eva Očenášková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 225/49</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88319351</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Lucy Katharine Ralph</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 225/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02115522</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Věra Vránková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 225/49</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02308002</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Rusina Frei, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 225/49</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02308002</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04886640</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CLARODO s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 225/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06919537</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Found in translation s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 225/49</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>19</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

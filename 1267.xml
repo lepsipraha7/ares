@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>12261505</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva ROUBOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15119572</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaromír EICHLER</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15934501</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ladislav Sobotka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16124120</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiřina Eichlerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26472759</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Tusarova 9</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26472759</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26641763</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Sportovní klub JASPERSKO</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27363643</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Adoco group a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27580563</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BAKERY- KAFKA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27580563</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27916766</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Thi Thuy Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8357121938</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28507258</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Thi Ha Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42521491</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ladislav Olšbauer</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45695211</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav KUKLA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5710011747</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61461431</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BD - Multicon s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=61461431</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63923467</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika ROUBOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70070571</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Holoubek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71516034</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>B.A. Valerie Novotná</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71615903</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ilona KUKLOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71672281</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Kotršál</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7904190382</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71820183</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Červ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72416963</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Veronika Louvel</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>74865714</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin KUKLA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75621436</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Cédric Jean Claude Louvel</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76462498</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ludmila Táchová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04266943</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků pro dům Tusarova 1267, Praha 7 - Holešovice</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05111331</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Salome Jewellery s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05111331</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05386705</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Kukla</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05435251</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Xuan Vinh Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06463444</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Michal Ondračka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07655347</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivana Müllerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8356184122</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08086940</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>YZO Světlá s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>26433940</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>International Medical Services, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>1</dtt:rzz>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26433940</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26743078</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>NORSK CZ a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26743078</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27179095</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Agentura HOBÍK, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27562174</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Kariola s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27562174</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27604705</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Kabar s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27604705</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27619893</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Erudin s. r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27619893</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60163721</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Dagmar Opekarová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61060721</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NEKR s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70929815</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Jindřich Kubasta</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75031299</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Viera KRAUSOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75070529</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Eva NOVOTNÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87316421</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Jiří PALEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03145212</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Aurum fenix s. r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03146278</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LababidiDent s. r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03146278</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03608816</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Zuzana Pacovská, DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04258959</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Lucie Říhová DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04593111</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MUDr. Karel Votava, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Partyzánská 1504/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04755898</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>UCPM s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04791380</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LaDenta s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06563333</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Bellis Dent, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>20</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

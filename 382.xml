@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01363298</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Zelenka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 382/75</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01572792</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Slabý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 382/75</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27436578</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>AIR WORLD SERVICES a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 382/75</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27436578</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43079466</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Daňková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 382/75</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6352111238</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48031275</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo nájemníků domu č.p. 75/382,P-7 v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 382/75</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64764281</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Slabý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 382/75</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5604230016</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66465486</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Behenský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 382/75</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70351643</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ludmila Sagačová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 382/75</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71615954</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jiří FOLVARČNÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 382/75</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74575741</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Slabá</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 382/75</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75101645</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků domu č.p. 382/75 na třídě M. Horákové, 170 00 Praha 7 - Holešovice</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 382/75</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86772821</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Cicko</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 382/75</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8101192781</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87488078</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Slabý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 382/75</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88840751</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Kučera</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 382/75</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03407187</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karel Fořt</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 382/75</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8702080156</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05667097</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dominika Jírová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 382/75</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05938350</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Šimon Daněk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 382/75</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07160925</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Papírnictví Letná s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 382/75</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07160925</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>18</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

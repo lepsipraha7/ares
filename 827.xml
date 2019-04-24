@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>11209356</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>RNDr. Peter Ferenc</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=420525704</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14896532</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marian Mareš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6502071796</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15286924</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Oldřich Michera, CSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=300617753</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24158968</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Pro CNG s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24158968</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24812323</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>ACRUS CZ a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24812323</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25632825</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>TIS ČR a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25632825</dtt:p_dph>
+<dtt:ceu>-2</dtt:ceu>
+<dtt:p_ceu>ico=25632825</dtt:p_ceu>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=25632825</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25671804</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>R.M. RILKE, spol. s r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25671804</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26016524</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EMPIR PARKET s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26016524</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26172496</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EUROLATIN CZ,s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26172496</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26724812</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ATRAVIS, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26724812</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27127737</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Cook s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27127737</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27176118</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SKALA CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27176118</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27235092</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CNG PORT CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27235092</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27638405</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TVAJA CNG s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27638405</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28527321</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CALIBER Group s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28527321</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29148472</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ARCHZONE architects, s. r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29148472</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43085431</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JUDr. Martina Doležalová, Ph.D.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6461211702</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60467797</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>E u r o r a m a s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=60467797</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63941449</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Pavel JANEČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7103010090</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64766811</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Hák Roman RNDr.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5912130895</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>02423197</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Švestka Jaroslav Mgr.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06532641</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MICOL s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06532641</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07363061</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>IT Hunter company s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>15108538</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin KAFTAN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24127264</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ALBUS COMPANY s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27990699</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GLAMUR Company s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27990699</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28545222</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Osadní 45</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40861201</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petra Arnoštová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44803192</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Arnošt Kovář</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6010040575</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62566121</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Du Nguyen Huu</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6512051876</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62577387</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DOREN s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=62577387</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63093464</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Jung</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6902181781</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64764273</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ingrid Vaňková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65558812</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Uyen Le Thi To</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68667558</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Vojtěch Novák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7807073780</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68865961</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel Hájek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70352232</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Nešlehová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70353255</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivana SEKÁČOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70373051</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Weinrichová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71920340</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hana Faulová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76460550</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Christo Gluškov</dtt:ojm>
+<dtt:jmn>Praha 4, Krč, Antala Staška 1565/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87110318</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina Jelínková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88698921</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Varsányiová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>02354713</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radek Fabián</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02924382</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Kašpárek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03944531</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Doubravský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04483944</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Kovaříková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04996330</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jana Edita Střílková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05416728</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DESIGNPLAST s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05416728</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05688540</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Juříček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05812267</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Alexander Belyaev</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06957731</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DWK s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06957731</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07923252</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Petra Varsányiová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1552/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

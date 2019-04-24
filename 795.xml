@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>66467501</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel ČÍŽEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 795/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76420795</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adolphe Nnoko Nfoghog</dtt:ojm>
+<dtt:jmn>Praha 6, Veleslavín, Čílova 86/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86629824</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Petr Mikulášek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 795/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03743527</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Andrea Imreová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 795/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03906582</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Steven Nicholson</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 795/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8409181429</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04579305</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Charles Edwin Winters</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 795/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04767314</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Skořepa</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 795/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8210100096</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06707092</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Mgr. Katarína Doktorová Šimurková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 795/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7962178081</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07824491</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Viktoria Dronic</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 795/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>9</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

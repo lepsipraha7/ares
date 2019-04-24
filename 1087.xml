@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01080920</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daria Swann</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>10151354</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Ivan Frič</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16102410</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>JUDr. Zdeněk Vaníček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22868879</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>&quot;Měnírna&quot;</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24217603</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TEMPORARYSHOP s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 1087/3a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24223387</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CONCRETO s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 1087/3a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24223387</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26759667</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek domu čp. 1087 v Praze 7, Heřmanova 10</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27172601</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>C.A.I.S.architekti s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 1087/3a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27172601</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27902820</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>SOUTHERN HILL a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 1087/3a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27902820</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40867412</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Xenie MLÁDKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6659031885</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44623895</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Oskar Lehar</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6904051814</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60216352</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Lucie Fojtíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63081903</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Heřmanova 1O, v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70350256</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Kateřina Fričová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70351571</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radomíra Gerychová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71551832</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radomíra Hendlingerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71574522</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena Case</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7654160041</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75189305</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adam Pařízek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8812060818</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75372096</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Spilka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8106121144</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86975773</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Geoffrey Robinson Case</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7111069966</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>87127601</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. arch. Jitka Musilová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88689905</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Klánová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02422476</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GEPARD TRADING s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 1087/3a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=02422476</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02989492</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ORANGE MACHINE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 1087/3a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03046133</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Andrew David Gray</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6703107345</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03130959</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>COCO production s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 1087/3a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03130959</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04819888</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Dipozitiv s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 1087/3a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04819888</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04923189</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. arch. Naděžda Vaníčková, akad. arch.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07464126</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Ráchel Bícová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1087/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

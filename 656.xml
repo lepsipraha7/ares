@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>13206281</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. Chochola Otakar</dtt:ojm>
+<dtt:jmn>Hradec Králové, Nový Hradec Králové, Čajkovského 953/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22609113</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>&#8221;Jeepers&#8221;</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24122742</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Prozas s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24122742</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24170488</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CIBS CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24170488</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24174475</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Silpe s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24174475</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24190063</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>REAMOR GROUP s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24190063</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24196380</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Etilia s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24217573</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Torsaken s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24217573</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24231207</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>V Marrow Trading s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24231207</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24231282</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Wisent s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24275654</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Ticanzen s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24275654</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24285129</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SVARLIGHT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24285129</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24658901</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Pools Consulting Centre s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24669962</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Selbita DK s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24694444</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Bermont DE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24705594</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ILIGHTS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24705594</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24705641</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Elsten DK s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24705641</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24722464</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NEMODE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24722464</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24759805</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Mervick Grant s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24759805</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24761133</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>S.F.K. Restaurant s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>24770914</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DENAM Invest s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24770914</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25047973</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MUSTER s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25047973</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27395294</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>True Consulting, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27395294</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27688267</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>D.D. 90, s.r.o. - v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27873650</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Aitken, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27873650</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28171152</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ISONY s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28462360</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PRIKOVA s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28520041</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JS Jistr s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28520041</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28545834</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Česká doménová centrála s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28545834</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28656296</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ANBRO s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28656296</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28867050</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>P.W.I. Consulting, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28867050</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28873513</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DAM Produkce s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28873513</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28897901</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Lexor Group s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28897901</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28929136</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GHEMKE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28929136</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28933575</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Santo Strada s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28933575</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28941861</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Adilon s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28941861</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29013437</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NIMEX GROUP s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=29013437</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29032083</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AMK Import s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29032083</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29037891</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FACTORING SERVICES s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=29037891</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29125880</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Vydekon s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=29125880</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>29126568</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ALMA KFT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29126568</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29151431</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>COCHLEAR EUROPE LIMITED, organizační složka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29151431</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41503619</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AC Fashion s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=41503619</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60183748</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Nagy</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60512768</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Bulava</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7610057598</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62915461</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Atlantis Maritime Yachting s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66905061</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Tvrdý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7708250407</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71616187</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David MACHÁČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71632590</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Macoun</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71768220</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Hyksa</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87110971</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MgA. Novotná Petra</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02102129</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Ravelon Trade s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=02102129</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02108461</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Kaunas s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=02108461</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02202280</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Bergen Fleet s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=02202280</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02209195</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AlphaCont s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02209195</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02288974</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PIZZA POINT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02320002</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Rychlá doprava s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02320002</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03658619</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Setralin s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=03658619</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04876971</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Metamechanics s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04876971</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04897897</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Actrapid s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>06438555</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Stanislav Tlášek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01955136</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Stromoffka &amp; Co., s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01955136</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02019060</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Bruce &amp; Bongo s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08013012</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>Cochlear Deutschland GmbH &amp; Co. KG, odštěpný závod</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>64</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

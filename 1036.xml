@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00442747</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Česko - ruská společnost, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=00442747</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=442747</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>00443247</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Česká asociace rusistů, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=443247</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22880321</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Okresní fotbalový svaz Praha - východ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24807966</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Lokasta s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24807966</dtt:p_dph>
+<dtt:sd>0</dtt:sd>
+<dtt:p_sd>dic=24807966</dtt:p_sd>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24817589</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BALKAN STAR s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24817589</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25147811</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NAIKTON spol. s r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25147811</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25669630</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BGK &amp; T, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25669630</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25741942</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>COPYS System Group, s.r.o. &quot; v likvidaci &quot;</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25741942</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26164213</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PaHO CZ, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28255011</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Zoloreta plus s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28255011</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45250120</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Česká asociace mezinárodní korporace absolventů sovětských škol INKORVUZ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48026735</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>INDOPOL spol.s r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48033413</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Eko-Auxis spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48538043</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Centrum mezinárodní spolupráce - Vostok, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48548952</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Občanská iniciativa Čech, Moravy a Slezska</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48585173</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CDD Praha, spol. s. r.o., Dialog Groupe v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48592391</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VYZA, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49359550</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CETRAC spol. s r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60444011</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>Anex spol.s.r.o. pobočka Praha organizační složka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61459771</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ADH 93 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=61459771</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>62580167</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LB TRADING spol. s r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=62580167</dtt:p_dph>
+<dtt:ceu>-2</dtt:ceu>
+<dtt:p_ceu>ico=62580167</dtt:p_ceu>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62937855</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>Akciová společnost otevřeného typu Energomašinostrojitělnaja korporacia, organizační složka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74498347</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Roman Šamberger</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75478293</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JUDr. Radka Medková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7454233039</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02228386</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NFC - connect s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02228386</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02436299</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PRAGUE TRIATHLON s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02436299</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03147932</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ELCOS GROUP s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03147932</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07578156</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků V Závětří 1036/4, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1036/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

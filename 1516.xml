@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00000906</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>KOVO, akciová společnost /a.s./ v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>1</dtt:rzz>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=00000906</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=906</dtt:p_cedr>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>10548165</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Petr Nečas, CSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25173162</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>K2 - ALVIN, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25671464</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>GEOSAN STAVEBNÍ a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25671464</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=25671464</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26106191</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TLV s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26106191</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26106191</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26140314</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Rosco Europe s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26140314</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26473381</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Inface Media s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26473381</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26767562</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Fire Protection Europe s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26767562</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27427226</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>KB Richt, družstvo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27427226</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27566803</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Ready Gun s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27566803</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28405463</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Enager s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28405463</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28422007</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>I.O.I. s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28422007</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28456106</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Your Classic Style s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28949102</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EUROCORAL, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28949102</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29143063</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Dobřichovická realitní, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=29143063</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45271844</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>GEOINDUSTRIA a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=45271844</dtt:p_dph>
+<dtt:ceu>2</dtt:ceu>
+<dtt:p_ceu>ico=45271844</dtt:p_ceu>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=45271844</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48201405</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PISOFT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=48201405</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60473975</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BOSPED, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=60473975</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65413288</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AUTOLOOK Holding s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=65413288</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66244498</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Hlavsová Eliška, Mgr., advokátka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5654090519</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>66250315</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Polák Jan, Mgr., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1091/36</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71661867</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Daniel Thelen, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7708250495</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88575349</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Lucia Výrostková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02102935</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HANDKOF s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=02102935</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02598396</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Bosqon trade s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02598396</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03312500</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KYRANTES s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03594726</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>B.R.G.-Uno s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03708241</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TAUDAMAN VIT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=03708241</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04826086</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Trueside s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04826086</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04838301</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. ADAM HRUŠKA, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05065721</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>PURO-KLIMA EXPORT CZ a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05416507</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JUDr. DOMINIK FOJTŮ, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8905161408</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05942675</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>TOTO S.P.A. COSTRUZIONI GENERALI CZ, odštěpný závod</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05942675</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06239005</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TFP Legal, advokátní kancelář, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06239005</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07266472</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Exemplar Group a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07266472</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>35</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

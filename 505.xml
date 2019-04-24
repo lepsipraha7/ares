@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>10194665</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Hádek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 505/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13115871</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš HÁDEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 505/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24747157</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků pro dům č.p. 505 Holešovice, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 505/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24796662</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Fresh film productions Prague s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 505/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24796662</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27140300</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BRICK LINE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 505/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27140300</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28455673</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Kmoto s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 505/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28455673</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=28455673</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29415721</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ŠAMPALÍCI s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 505/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40867021</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslava MARKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 505/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45277150</dtt:ico>
+<dtt:pf>111</dtt:pf>
+<dtt:ojm>CAVERNA STUDIO v. o. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 505/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=45277150</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45691061</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Miladin ŽARKOVIČ - MONTITRADE</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 505/38</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45692807</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Josef Martinák - TIP FLEX</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 505/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48567400</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marcela MYNAŘÍKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 505/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49840690</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Roušal</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 505/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6405230447</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61264822</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Oldřich Mach</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 505/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7008150028</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63091887</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Dagmar Voldřichová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 505/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63095254</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Klíma</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 505/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64942147</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CAVERNA,spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 505/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=64942147</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67764169</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Kalová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 505/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7758024670</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71531793</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marek Plecitý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 505/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8304170039</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76661881</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>akad. mal. Dalibor Smutný</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 505/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>88116158</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Grant Walter Phillips</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 505/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8602043340</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04142306</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>MUDr. Ivana Gažová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 505/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04803761</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adam Roušal</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 505/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05939038</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Mariel Sporn Tavakoli</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 505/38</dtt:jmn>
+<dtt:res>1</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

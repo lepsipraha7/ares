@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01456695</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alžběta Musilová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 680/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>10587969</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JAROMÍR RUX</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 680/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6511130439</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22879994</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Občanské sdružení Acentos de Praga</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 680/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43925782</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslava Tyllerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 680/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60219106</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina RUXOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 680/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6652220718</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61497983</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Markéta MICHOVSKÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 680/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04729374</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Filip Dvořák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 680/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06047980</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Pavol Barci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 680/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07790236</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Skokan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 680/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>9</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

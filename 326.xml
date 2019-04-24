@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>11200006</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jaroslav Zima</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 326/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27411320</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PRAGTOYS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 326/18</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27411320</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48567451</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimír Brabec</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 326/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=510731154</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63090864</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Šebík</dtt:ojm>
+<dtt:jmn>Praha 5, Hlubočepy, Lipová alej 695/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7103190061</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63092760</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miloslava LIDICKÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 326/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66205735</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JUDr. Libuše Krafft, advokátka</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 326/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66895570</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Yulia ZUEVA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 326/18</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67791123</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal ŠAFRÁNEK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 326/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74357913</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Philip Bárta</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 326/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7211099962</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86881299</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. Vladimír Bouček MBA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 326/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>10</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

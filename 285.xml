@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01357182</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Jarošová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 285/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25135287</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo spoluvlastníků domu č. 21/285 Čechova ulice Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 285/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47129905</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Thang Nguyen Van</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na zátorách 285/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61465097</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AM s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 285/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=61465097</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70349291</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeňka Šaríková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 285/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01979361</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marcus Vinicius Taveira</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 285/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03220605</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michael Pavlík</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 285/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8409303672</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03828336</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vít Šarík</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 285/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03906612</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Šarík</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 285/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04818164</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Roman Tyll</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 285/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06297706</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>makeITtoday s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 285/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06297706</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>11</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

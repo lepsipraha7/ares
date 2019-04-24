@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01013645</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Edita Skalníková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 439/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16177975</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alfred Strejček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 439/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=411124017</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=16177975</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18398766</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Regina Hofmanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 439/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=18398766</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22858491</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>ART FOR PEOPLE z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 439/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26454912</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Janovského 439/23, družstvo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 439/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26993091</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Prague Art Future</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 439/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45692394</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Ivanka PESSROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 439/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=435930039</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61026859</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radek ZÁPOTOCKÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 439/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67786103</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Petr LOUŠA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 439/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67787983</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Pessr</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 439/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67949185</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Monika BURIAN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 439/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71328033</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Pavel Šuma</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 439/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71562460</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michaela Dvořáková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 439/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73827444</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Věra Strunzová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 439/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74524607</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Karel DVOŘÁČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 439/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04109431</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků v domě Janovského 439/23, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 439/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04794583</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Martina Kojanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 439/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6662130640</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>17</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

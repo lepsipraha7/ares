@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01098098</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Kojecký</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01582003</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>JUDr. Martin Husár</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12497738</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Vladimír Münz</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24204170</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společentví vlastníků jednotek Šimáčkova 1372, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27046184</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Spolek Pavla Šporcla na podporu kulturního vzdělávání mládeže</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27047903</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Klub přátel Pavla Šporcla z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28179102</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Casa Angelo s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28179102</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40865746</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Eva Picková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43930328</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miloslav Červenka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48567027</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr KAHOUN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6311241541</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60221607</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marcela Hybšová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60466677</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PRAGOSON, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=60466677</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62409336</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Družstvo domu Šimáčkova 1372</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68003595</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimír Münz</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7003240068</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70336831</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Vlastimil Staněk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70902046</dtt:ico>
+<dtt:pf>751</dtt:pf>
+<dtt:ojm>LUCIE Praha, z.s.p.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71328581</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Antonín Hybš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8010280377</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71616039</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Lucie Kovandová, MBA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74235494</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Soňa Kodetová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75198771</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Alex Gregory SMITH</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>86630237</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vendula HNÍDKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87579855</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Picka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01779141</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Oleksandr Fister</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02074320</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Charles Bridge Artnet, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02323613</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TH promo s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02323613</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02644584</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Mrázek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02915201</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Konstantin Olegovich Cordery</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04020278</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Svatopluk Hybš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04678486</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EB Solutions s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05069726</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mirka Pohanělová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05821690</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Veronika Čechová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06126693</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>John-Patrick Mastrini</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06884024</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Richard Ježek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07478895</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Nicholas-Benjamin Mastrini</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07515308</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Miroslav Hybš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1372/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>35</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

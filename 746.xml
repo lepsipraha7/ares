@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01295365</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Olga Bureš Vrbíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 746/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8455095682</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48441031</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Martin Hájek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 746/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49037544</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan HANZÁLEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 746/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66514240</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana Skulová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 746/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75864436</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Sedláček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 746/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8108250194</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87015471</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Žaneta Vávrová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 746/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>6</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01372955</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Lolita Onayeva</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15933989</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimír Kadleček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25109359</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Náš domov,družstvo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26630079</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>OKOLO PIVOVARU</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45691754</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk ZÁBRANSKÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47054638</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tamara Artamonova</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61495719</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef MOL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=440122420</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63092077</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeňka HAVELKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=525627277</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67786600</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karel HAVELKA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68869479</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Igor Grichine - COMPANY</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71672249</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Skalický</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76227901</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan RŮŽIČKA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86968963</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Denis Artamonov</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87478757</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan Krbec</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88650090</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Patrice Mary KINCADE</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88758320</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Jitka Peterková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01910248</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaromír Šlápota</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01980548</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Krásná CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=01980548</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02310911</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Karin Veselá s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=02310911</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03157547</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bohuslav Šenkýř</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>03528375</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Fejk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7310260111</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03529169</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Fejková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04019245</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Marin Marie Mannies</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04290526</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Klíma</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04730194</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Michelle Marie Freeman</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05049768</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Sara Ashley Toppe</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05265771</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Rebecca Alma Newhouse</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05501814</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan Pivoňka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05633320</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Judith Claire Pendergrast</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05914949</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Hannah Silfversten Van Lom</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06018441</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Erin Marie Frith</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01912631</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Sonia Singh</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07267771</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Joseph Catanzariti III</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07267827</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Chelsea Rae Phillips</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>34</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>15099393</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Antonín TROUSIL</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 152/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49654853</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Hana Kudrnová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 152/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64750507</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka JUNGMANNOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 152/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6756040863</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64768252</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vlasta TROUSILOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 152/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70347441</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Musil</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 152/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7305170026</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87977397</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Trousil</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 152/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>6</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

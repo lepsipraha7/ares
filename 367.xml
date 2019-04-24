@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>12266221</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Eduard Bulánek &quot;EDIMEX&quot;</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:ceu>-2</dtt:ceu>
+<dtt:p_ceu>ico=12266221</dtt:p_ceu>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13097725</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena Ladová Lišková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24239178</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Letohradská 367, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25653008</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PALLCOR HOMES, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25653008</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25673998</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>L 367, družstvo v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42515882</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Stanislav RUMLER</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45692688</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslav Ouředníček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63092441</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milagros García Oramasová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63095572</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Elena Hamouzová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63249073</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Ivo Sebera</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64766667</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>SIMONA ŠLÉZOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66464927</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Zbyněk ŠOLE</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67789960</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Aleš Zíma</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68868367</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radek HORÁK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70352364</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Veronika Brožová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73103942</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Pavel Ivančic</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87736659</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Libuše Ričány</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01848054</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Mjölk s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01848054</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=1848054</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02830850</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Gianluca Bertuzzi</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7802021843</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02878151</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Iva Kopecká</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>04275373</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Siarhei Aleksiayevich</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8711191577</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05375967</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina Trefná</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06321658</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jaromír Fulnek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 367/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

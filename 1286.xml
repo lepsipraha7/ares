@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01214241</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ellyn Clare Poole Sidell</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8852213744</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01579215</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Mykhailo Grygorchak</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25745981</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Aker Construct s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26431955</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek U Výstaviště 21/1286, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26461820</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ALUPROFi s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26461820</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27237451</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Agentura FINE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27237451</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28919114</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>UNISTAV COMPANY s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29018374</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Alinar, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40859282</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Stanislav KOŘÍNEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=510522249</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43783091</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Vaverková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48567086</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivan ŠMÍD</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66303869</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jindřich Matouš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7807302371</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70349983</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Ferstl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7406020380</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74860437</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Taťána Beshnova</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75969459</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Palasová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86690817</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Irena Kobosilová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04437276</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FullStackSoftware s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05407583</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Veronika Olbrichová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06357172</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NEXTOSERVIS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06357172</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07145462</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Nikola Adamová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>07244240</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KynerLuts s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07405669</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ilya Ignatyev</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 1286/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07757859</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Erneker</dtt:ojm>
+<dtt:jmn>Praha 1, Nové Město, Senovážné náměstí 1464/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

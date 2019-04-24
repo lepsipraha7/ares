@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>10132732</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>PANDI TRADE INTERNATIONAL</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 901/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12258831</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Mgr. Rudolf Schindler</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 901/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25649566</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FINTRANS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 901/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27089002</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Roman BARTOŠ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 901/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7810306097</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27144348</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TARKOS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 901/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27144348</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43020267</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ladislav Šejvl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 901/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7109010381</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47851481</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Libor Orság</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 901/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49244230</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BAHLOPHARM s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 901/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62418025</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VAKAM AGRO, spol. s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 901/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63094291</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslava JEZDINSKÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 901/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68869967</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Adriana BARTOŠOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 901/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7557226094</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70796114</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Šourek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 901/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71617027</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr SVORNÍK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 901/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74517830</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Věra Kořínková Matys, DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 901/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8255190691</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75245311</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Emília Bartošová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 901/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75941244</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka ŠEJVLOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 901/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76575217</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeňka Svorníková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 901/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76669360</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Klára Tesařová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 901/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87261171</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adéla Leinweberová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 901/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87879751</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zbyněk Gattner</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 901/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>04361521</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Andreas Gold</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 901/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07214898</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Rezidence Bukovka s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 901/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07214898</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07308761</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků domu Na Výšinách 6, v Praze 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 901/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>24120316</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HAZE agency s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24120316</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25108719</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Tau-ra, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25108719</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25797182</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Graphics Building s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25935364</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NIKMEDIA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26118939</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Onyx West Group s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26118947</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Vasinis Group s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26123185</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Kalina Group s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26589231</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Česká komora krizových manažerů</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27430138</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CADTeam, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27430138</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27896919</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TCA SIGMA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27935591</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VINOKUROV COMPANY s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28201141</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Dukelských hrdinů 44, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28495161</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FULL PRODUCTION, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28495161</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28888227</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KATEK s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28888227</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45801177</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>OSTINVESTA PRAHA, spol.s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=45801177</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>46137181</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jiří Volný</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6201280888</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47093161</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk VOMÁČKA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48564281</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Klára VOMÁČKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49612034</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>I.A.MACH spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=49612034</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60202181</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>A.G.COMMERCE spol. s r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>62912747</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ORDELMAN &amp; DE VOER spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67468934</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Gleb Kolomeets</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68865481</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Ginika SABEVA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70351155</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Konvalinka</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70352526</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dana Jelínková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70706603</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing.arch. Martin Čermák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72715448</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Veronika Čermáková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73762806</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Lukáš Josefus</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73806421</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Vojtěch Votoček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8304062690</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74632418</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Ondřej Klimeš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76188141</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Vildová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88190366</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Władysław Henryk Piwiński</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88283534</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ladislav Švec</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02084031</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Miriam Paneth</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=683059906</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03077136</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Jakub Škrovánek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03167119</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Milan Švec</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05255724</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vojtěch Dárvík Máca</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06645852</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Šárka Hanzlíková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>38</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

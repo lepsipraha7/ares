@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00174262</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Sdružení sportovních svazů České republiky, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=00174262</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=174262</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>00207225</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Boxerklub České republiky, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>00539155</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Svaz vodáků České republiky, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=539155</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>00539180</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Český svaz biatlonu, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=00539180</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=539180</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>00539350</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Svaz modelářů České republiky z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=539350</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>00539520</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Český střelecký svaz, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=539520</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>00550019</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Český kynologický svaz, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=00550019</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=550019</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>00551201</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Český radioklub, zapsaný spolek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=00551201</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=551201</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01326007</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Český kynologický svaz krajská organizace Vysočina</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>17046289</dtt:ico>
+<dtt:pf>111</dtt:pf>
+<dtt:ojm>ABC, v.o.s. - AUTOŠKOLA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22850546</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Nord Bohemia Canis zapsaný spolek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26628821</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>ZELENÝ OSTROV, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26628821</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26628821</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27040925</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>DiscDog klub České republiky z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27066118</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CZ Biatlon, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27066118</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27182231</dtt:ico>
+<dtt:pf>141</dtt:pf>
+<dtt:ojm>Vzdělávací institut ochrany dětí, o.p.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=27182231</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28865855</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>POKERSGATE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28865855</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43001521</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Beauceron klub České republiky z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43500412</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Dobrman klub ČR z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44846509</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Klub přátel chodského psa, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44847572</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Svaz branně-technických sportů České republiky, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=44847572</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>45768811</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Asociace sportovní dynamické střelby České republiky, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45771502</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>BRIARD KLUB ČESKÉ REPUBLIKY z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45772991</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Česká asociace akademických technických sportů, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=45772991</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47511851</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Svaz záchranných brigád kynologů ČR, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=47511851</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47610603</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Svaz vojáků v záloze České republiky, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=47610603</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48590851</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PERGAM,společnost s r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60460571</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Záchranná brigáda kynologů Praha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=60460571</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61384267</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>I. CZ Yorkshire terrier club, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62936751</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>SBTS Praha - Holešovice, p. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63830035</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Klub agility České republiky, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64934152</dtt:ico>
+<dtt:pf>733</dtt:pf>
+<dtt:ojm>Odborový svaz občanských sdružení, ZO OSOS SDRUŽENÍ SPORTOVNÍCH SVAZŮ ČR</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65994663</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Rottweiler klub České republiky, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67984681</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Klub chovatelů šarplaninců, krašáků a tornjaků z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68210167</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Coton de Tulear Klub - zájmové sdružení</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70907030</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Český kynologický svaz Liberecká krajská organizace</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70914010</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Český kynologický svaz Pardubická krajská organizace</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70917604</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Český kynologický svaz Královéhradecká krajská organizace</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70920460</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>ČSS, z.s. - Krajské sdružení Praha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71166483</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Český kynologický svaz Ústecká krajská organizace</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72053445</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Český kynologický svaz Pražská krajská organizace</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>02210576</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Sdružení klubů chovatelů českých plemen psů</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02697301</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>REALITY A-CZ spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04714326</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Český kynologický svaz Středočeská krajská organizace</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04728335</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Český kynologický svaz Plzeňská krajská organizace</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04757785</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Český kynologický svaz Karlovarská krajská organizace</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04757823</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Český kynologický svaz Zlínská krajská organizace</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04828836</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Český kynologický svaz Jihomoravská krajská organizace</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05992761</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>ČSS, z.s. - sportovně střelecký klub OLYMP Plzeň</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1511/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>48</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01395009</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vasilij Ivanov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15294471</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk ILEM</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6002040088</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18905633</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alžběta Mitrová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 860/76</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22833170</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Typo, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27077501</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo MOLOCHOV 76</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 860/76</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27244911</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek domu Letenské nám. č.p. 76 č.or. 3, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27542289</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Hai Hong s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27542289</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27612767</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LAO SHANGHAI s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27612767</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27957187</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FU WANG s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28912845</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>XIA YU WEI s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45691746</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Venzera</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7404070487</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49081641</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Hajná</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49355058</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Copint s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=49355058</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60211806</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jan Tippman</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7403135729</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61492825</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Renée Lavecká</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 860/76</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7651070515</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=61492825</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63937115</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bára Kopecká</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=63937115</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67652484</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Petr Kolínský</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=530602242</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69307075</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>prof.PhDr. Marie Bořek Dohalská, DrSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 860/76</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69494215</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena Světlá</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 860/76</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70348111</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David MAMULA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 860/76</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7212209906</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>71519815</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>RNDr. Václav Bořek-Dohalský</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 860/76</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71671293</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Iveta Kopperová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 860/76</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8257150033</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71677046</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Sven Paráček</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71715525</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Grünová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 860/76</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71831690</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Joanna Kubica</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 860/76</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8654065585</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74633074</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Kolínský</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75094037</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Petr Jandl</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76346251</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Klára Starostová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 860/76</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86617796</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Fišer</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86630881</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Olga Ivanova</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87207982</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Starosta</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 860/76</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87267101</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>František Penc</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 860/76</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8007240384</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87929317</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Světlý</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 860/76</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88235149</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jiří Hajný</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7504222077</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01454803</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. LENKA MIKOLÁŠOVÁ, advokátka</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03123430</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Česko-Dominikánská obchodní a průmyslová komora z.s. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03691586</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Česko-Haitská obchodní a průmyslová komora, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05092329</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AZ Plyn &amp; Energie s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 860/76</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05373964</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ITobchod s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05373964</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05773466</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Kolínská</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>06738435</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Kateřina Tadrová DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01949691</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EVERBRIGHT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07055161</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Rachel Rhiannon Williams</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07153872</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Dominik Zachar</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>44</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01583191</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tarek Rawyah</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1553/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12501697</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Krliš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1553/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12614521</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radek FOITL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1553/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6806091028</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14933284</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Antonín Buňata</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1553/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6907020329</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16455584</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jiří Trnka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1553/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18907091</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Kádner</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1553/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27078132</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo U Městských domů 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1553/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=27078132</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60219203</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Růžičková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1553/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71343695</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Buňatová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1553/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8053220362</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74626264</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Aneta Marie Impseilová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1553/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04290712</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Samir Rawyah</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1553/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04585194</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Goetz</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1553/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05544840</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků U městských domů 7, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1553/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06446507</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Konvalinka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1553/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06674682</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan Lavický</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1553/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>15</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

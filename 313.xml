@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>11209356</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>RNDr. Peter Ferenc</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=420525704</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12256269</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Klepáč</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 313/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25051202</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ALTIS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 313/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25051202</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25051288</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ASTAR s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 313/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25051288</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25798588</dtt:ico>
+<dtt:pf>111</dtt:pf>
+<dtt:ojm>STEK v.o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 313/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26426242</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BERWIN s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 313/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26426242</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68867069</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Dzmitry KRUHLOU</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 313/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87118939</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Lenka Damová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 313/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8351084929</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87528908</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Svitlana Fadieieva</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 313/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88629368</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Materna</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 313/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04630823</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adéla Maternová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 313/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08053111</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek pro dům č.p. 313, Praha 7 - Holešovice</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 313/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>12</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>16179072</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena ŠTĚPÁNOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1322/52</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27071031</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Na Maninách 52</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1322/52</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27644502</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Euro LP tech s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1322/52</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27644502</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42513839</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Simona HYNKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1322/52</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60217316</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel MLÁDEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1322/52</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61496171</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marta Vaňková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1322/52</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61497690</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milada HRABALOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1322/52</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69949051</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch.Mgr. Petr Štěpánek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1322/52</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70350396</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Svobodová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1322/52</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01904442</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Králiková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1322/52</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03718859</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Fencl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1322/52</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07171340</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zbyšek Pochylý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1322/52</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>12</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

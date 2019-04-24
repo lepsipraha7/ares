@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00770027</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Tomáš Františ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=770027</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12501174</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří ŽĎÁRSKÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16123042</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Oldřiška KOŘÍNKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16127293</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Netušil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24129801</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Scholastika - vyšší odborná škola vizuální komunikace s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=24129801</dtt:p_cedr>
+<dtt:sko>0</dtt:sko>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27208125</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SINGA PARTNER, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28407300</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Van Tuan Pham</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8710093359</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41113497</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>JUDr. Jan MERTA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=470920072</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48636185</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Magda Říhová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7057183331</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66894751</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miloslav Říha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67788149</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena Hřebecká</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68530692</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Hřebecký</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7801301497</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73128511</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Kubíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74570684</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Kateřina Jíchová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74774794</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Pavel Míšek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74802682</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Jitka Brody Mikulicová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75117606</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků domu Schnirchova 661, 662 a Šimáčkova 663, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75492130</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Míšek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88707539</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Žďárský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03058395</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Scholastika, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=3058395</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>06241522</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Martin Říha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06753680</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Copycat s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

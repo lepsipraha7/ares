@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>48549606</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Sdružení neprofesionálních autorů-Projekt Listí</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 383/81</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62615114</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Kostka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 383/79</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05427380</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dana Jakubcová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 383/79</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06071341</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Aneta Kostková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 383/79</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>4</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

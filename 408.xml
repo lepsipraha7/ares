@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01202464</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Marek Kapler</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>10150633</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Kubec</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6204050435</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14898071</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Helena SALICHOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16122666</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Kostohryz</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16124049</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. František VLASÁK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16126025</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Remeš Zdeněk, JUDr., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=480602124</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24682896</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KACHURKA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24708224</dtt:ico>
+<dtt:pf>111</dtt:pf>
+<dtt:ojm>TERUŽ v.o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24717436</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Ivan Sabov</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24728420</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>STAVB-AGENT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24744361</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Rozputtja s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24747327</dtt:ico>
+<dtt:pf>111</dtt:pf>
+<dtt:ojm>VISSAN TERUŽ v.o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24747327</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24747467</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ČEREMŠYNA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24770531</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Kutluske s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24782831</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Hreblja s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24792101</dtt:ico>
+<dtt:pf>111</dtt:pf>
+<dtt:ojm>VELLA-BUD v.o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26278197</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KUMBAL s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26278197</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26651700</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Avari</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27216381</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DRABAG CZ s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27216381</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27220656</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Viktor Pastushenko</dtt:ojm>
+<dtt:jmn>Kladno, Kročehlavy, Dlouhá 2738</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>27438279</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>&quot;SMV-KARPATY&quot; družstvo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27900983</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>DUBKY družstvo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27900983</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29003873</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SOBOL-TREND s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60218584</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alexandra Urbanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62151754</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Nikola Navrátil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7402124400</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62467221</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Lukáš Radostný</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66465389</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Alexandr GABOR</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67777457</dtt:ico>
+<dtt:pf>701</dtt:pf>
+<dtt:ojm>Českomoravská myslivecká jednota Obvodní myslivecký spolek Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:rzp>0</dtt:rzp>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68866984</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dominika Pošvicová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71516662</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Aleš KAFKA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71886150</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeňka Rumlová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75132931</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Heřmanova č.p. 408, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=75132931</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86629697</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. arch. Štěpán MACURA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87039591</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Christopher James Callum Goodfellow</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87625539</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan Angelovski</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87889871</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Havlín</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88876128</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Jana Gaborová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02676770</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Naksan partners s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04532783</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Magdaléna Kafková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05090695</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BBK-DEMIR s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>05090725</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JASKO. DEM s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05125367</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Blazho Iliev</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8401172626</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06411690</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jitka Barešová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06806236</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Alcest Media s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07271379</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Julie Frýbertová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07751729</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Václav Brož, advokátní kancelář</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8406100197</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07880669</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Institut emoční sebeobrany s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>47</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

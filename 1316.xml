@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01206761</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miloslava Kumbárová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1316/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12271268</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Petr Kouba</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1316/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40855961</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Aleš VONDŘICH</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1316/17b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43933904</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Blanka ROGLOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1316/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48318515</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Danuše Karhanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1316/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60217065</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Škoula</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1316/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60218975</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Michaela HÁKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1316/17b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6058180832</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60220074</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Richard Stránský</dtt:ojm>
+<dtt:jmn>Praha 4, Krč, Panuškova 1289/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6603100163</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63090490</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Vlastimil Roun, Ph.D.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1316/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7011013130</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66449286</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Martin Koutský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1316/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73616974</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michaela Koutská, DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1316/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74350994</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Liebichová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1316/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86626329</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Lukáš Liebich</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1316/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87029901</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Tomáš Červenka, Ph.D.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1316/17b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02328500</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Dvojdům 1316</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1316/17a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05779821</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kryštof Hák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1316/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07937041</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Koubová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1316/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>17</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>10150978</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jindřich GILL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1367/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5406020037</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15301702</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Boková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1367/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26431408</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Na Maninách 44/1367, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1367/44</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67786910</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Roman DYACHOK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1367/44</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68865848</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jan Červenka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1367/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71670556</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan ROD</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1367/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8203051252</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86895222</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Mgr. Ria Korcová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1367/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88372669</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Trejbal</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1367/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88904041</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mariya Soroka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1367/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02421011</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Červenka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1367/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04350464</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ota Hobst</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1367/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05614759</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Carly Noel Mc Cann</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1367/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06133762</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Lenka Procházková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1367/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>13</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>25127527</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>C.E.S. - České Elektrické Stavby s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 982/19</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25127527</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25628828</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>INTEN, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 982/19</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25628828</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27448754</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>m3m s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 982/27</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27448754</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45695318</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Ladislav SUJA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 982/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66462134</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Martin KOVAŘÍK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 982/27</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67402330</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Zuzana Černochová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1238/44</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70346798</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří BOŽEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 982/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6107021745</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72985216</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. arch. Piecuch Daniel</dtt:ojm>
+<dtt:jmn>Český Těšín, Nádražní 1285/27</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73265322</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika Piecuch Roženková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 982/27</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87133377</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Zdeňka Zymáková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 982/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87593751</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika Petrovová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 982/27</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>11</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

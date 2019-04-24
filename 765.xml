@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>14957906</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jiří SEGER</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 765/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=460428118</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14963337</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Andrea Vernerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 765/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=506123319</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14999773</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel Pobuda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 765/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25268627</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>CML Praha, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 765/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25268627</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25689151</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ADA 99, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 765/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25689151</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26640716</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Akademie literatury české</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 765/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26766787</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SUROVINY, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 765/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26955326</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VINUM COELI, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 765/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26955326</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27458245</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MS Market Bohemia s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 765/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27458245</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63075661</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CZ PAP s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 765/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=63075661</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66467152</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana KOŘÁNOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 765/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69346941</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Divadlo DVM</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 765/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74511513</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Seger</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 765/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76364305</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Marta Arden</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 765/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06626360</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Jana Cibulková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 765/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07958030</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ján Zdechovan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 765/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>16</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

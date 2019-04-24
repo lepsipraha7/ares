@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>15070981</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>František Novotný</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 234/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7006151889</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18906249</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Svoboda</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 234/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5703060044</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42244609</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JIŘÍ MATELEŠKO</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 234/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42519411</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bohumil BEUTELSCHMIDT</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 234/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45690448</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaromír Štědrý</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 234/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47091487</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Konvalinková Jolana</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 234/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60218827</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Denisa Sabino Reino</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 234/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60221399</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Stratílek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 234/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61112496</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Nhan Le Van</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 234/10</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63090350</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří MALÍK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 234/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6903145139</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68001673</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Renáta Marešová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 234/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72267712</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Závacký</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 234/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8405181840</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74502662</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Turčín</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 234/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76277895</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Bena</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 234/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03028798</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Turčínová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 234/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04309596</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Morc</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 234/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06011268</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Fousková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1128/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>17</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

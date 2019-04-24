@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>14985420</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PAVEL PATAKI - KOVO-DESIGN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=460724126</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16127935</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiřina Schmidová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 926/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22770062</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Veletržní sobě</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24229288</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Ortotechnika, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 926/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24229288</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24252476</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Retro CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24252476</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24658057</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Perspective optics s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24658057</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25730363</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MAXCOM CZ, spol.s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25796453</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Paulo &amp; Gianni s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25796453</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27158331</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Orlando production s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27911527</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LISEL COMPANY s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28034066</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Marina GROUP s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28392035</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Nam Ta Quang</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28445708</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SUMMONING s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28547896</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Alex Toys CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28878493</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>IrenaDI art Muse s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28878493</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28915518</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Winglis s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28915518</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29023823</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků bytů Veletržní 926, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48568961</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lada Plochová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 926/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61494607</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Lohnický</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62419544</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Ortopedické pomůcky s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 926/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=62419544</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>64741711</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karim Reda Rachidi</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7012290681</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66254248</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Sochorová Jekatěrina, Mgr., advokátka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67265758</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David PETÖCZ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 926/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7303266256</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68107731</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Aleš Houdek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7512053956</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71140042</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Marie Šidlichovská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71328874</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Az-Dean Rachidi</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71333843</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Sochor Martin, JUDr., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71670297</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Thi Huong Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74645960</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena Singerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75572478</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Filip Singer</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87018527</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana Houdek Čermáková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87695880</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Irena Rollo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87966468</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Forejtová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 926/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03900509</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Aibek Mukanov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 926/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04726669</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Dobrá Správa s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04726669</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08031312</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tatsiana Kandratovich</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 926/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>36</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

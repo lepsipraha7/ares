@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01493850</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika Kadaňková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16122810</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan Kůra</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5501260578</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25644831</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CGI Reality s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25644831</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25734849</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MARKUS SV s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25734849</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25780913</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Astral B.P. s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25780913</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27046885</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>&quot;Občané pro Prahu 7, o.s.&quot;</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27141276</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>STEFANCHUK Pavlo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27582060</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek U Uranie 1362/12, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27610551</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SERCON s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27610551</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28386353</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Hanh Nguyen Thi Bich</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41128508</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš POKORNÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45692157</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Margita NOVÁKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48030597</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Lidové bytové družstvo Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=48030597</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=48030597</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61112984</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>HANH CU XUAN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61488968</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Romana Pokorná</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63014564</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Soňa Divišová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7358254860</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67643388</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Thi Hue Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67789439</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Chromý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68864485</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivana JANDOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6254140629</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68888775</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Vasil JASKIV</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>69320926</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Chyba</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69785554</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Choice - Czech Web Designer´s Club</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71680292</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Mihálik</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73869431</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Nekola</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76596460</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vilém Maršík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86577891</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Medlín</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87023113</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Hanusek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87322382</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Veselá</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87888653</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Murček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05209978</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Krzysztof Lipski</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1362/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

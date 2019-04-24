@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>25741926</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CS media s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 221/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25741926</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27900991</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TYGR U STROMOVKY s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 221/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27900991</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28392728</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Kelley Consulting s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 221/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45277109</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>InterSyn Industrial a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 221/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=45277109</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45690383</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Vlček</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 221/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63731843</dtt:ico>
+<dtt:pf>722</dtt:pf>
+<dtt:ojm>Řeholní dům Kongregace Naše Paní milosrdenství Dobrého Pastýře</dtt:ojm>
+<dtt:jmn>Praha, Bubeneč, Čechova 221/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rcns>0</dtt:rcns>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67993591</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Kryštůfek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 221/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7903100007</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68547226</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Richard Tichý</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 221/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68859643</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marián Smutný</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 221/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68867107</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Viktor Svoboda</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 221/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6506260739</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71253068</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Kreps</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 221/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8209190825</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76576604</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Musilová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 221/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76625010</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Rychnovský</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 221/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88819744</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Dočekal</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 221/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>14</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

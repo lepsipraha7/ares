@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01220772</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Schneedörfler</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 357/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01673955</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>SOSConsulting, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Skalecká 357/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01673955</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15079881</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Rudolf Mrzena</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 357/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5810161280</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24178501</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>EKO Development and Management a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Skalecká 357/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25790889</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo SOCHA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 357/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26186209</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EKOSTAVBY CO.,s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Skalecká 357/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26186209</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27076245</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Management and Real-Estate Consulting , s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Skalecká 357/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27076245</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27403726</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FinConsulting Czech Republic, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Skalecká 357/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27403726</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27416283</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ALMA Sound &amp; Picture Production, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Skalecká 357/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27416283</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43927564</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Magdalena Lavalová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Skalecká 357/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45691991</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dagmar PLECHÁČOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 357/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45694958</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna SKOŘEPOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Skalecká 357/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>46876529</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Zmeškal Martin</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 357/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6903201206</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71208739</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jindřich Dolanský</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 357/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75479664</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Dora Kubíčková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 357/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05102219</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alexandra Schneedörfler</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 357/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=5102219</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06580327</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>InWest AT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Skalecká 357/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06922554</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ETNF Investment s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Skalecká 357/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06964923</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ABSA horolezci s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 357/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06964923</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>19</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

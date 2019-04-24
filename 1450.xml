@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00537144</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>družstvo pro údržbu komunikačních zařízení DUKOZ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>00906476</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Veronika Budišová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01553259</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BEST HEALTH s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14925869</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Eva HOŘAVKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5753030404</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15873277</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Machek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6803151619</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16180461</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Věra Ernestová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5560030344</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16502353</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej ZIKA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25106147</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BEAREKA EXPORT-IMPORT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25106147</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26764512</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EH REAL s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26764512</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27414418</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství Praha 7, Šimáčkova 1450/9</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29135273</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Service For Foreigners s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43925057</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Milan ŠEVČÍK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48006921</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Hana KUČOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48671479</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Jursík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61861278</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo RADOST</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63821613</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Lubomír KLATOVSKÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6708071700</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64580831</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BAUREKO, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=64580831</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65430239</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bohumil Berka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66463131</dtt:ico>
+<dtt:pf>107</dtt:pf>
+<dtt:ojm>Petr Záhorka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=66463131</dtt:p_cedr>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70847924</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Asociace dentálních hygienistek České republiky z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>75302284</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Terezie ŠŮCHOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75965305</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Ernest</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86630415</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora HOŘAVKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01634607</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FENG SHENG s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01634607</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03909212</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hurshidbek Kurbanov</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07350414</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Andra Ionita</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07584261</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Šůchová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1450/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9256010434</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>27</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

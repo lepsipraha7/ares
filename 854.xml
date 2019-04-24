@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>16050789</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan März</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 854/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7007210298</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26484552</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ELTY, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26484552</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26684349</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Molochov 78</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29138299</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>ARTisti &amp; Co s.r.o. organizační složka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 854/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29138299</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41837657</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Sváček</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6605090580</dtt:p_dph>
+<dtt:sd>0</dtt:sd>
+<dtt:p_sd>dic=6605090580</dtt:p_sd>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45690791</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dagmar Žerdíková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45691894</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jiří MIKULICA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62908324</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MIKES International ,spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64572480</dtt:ico>
+<dtt:pf>111</dtt:pf>
+<dtt:ojm>Zdravotnická prodejna &quot;Na Letné&quot; v.o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69068411</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Magdalena Novotná</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70348855</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Alena Akachiová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 854/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71326979</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Vojtěch HRČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7403040403</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75495686</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivan Vrkoč</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88002390</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniela Kunešová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03545474</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Čumlivská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 854/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03944115</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Veronika Barjanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 854/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04227531</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Krampol</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04614011</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tetyana Marzova</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 854/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>18</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01631586</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marek Novotný</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 132/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18902898</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří STANĚK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 132/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22715070</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>&#8221;Divadlo Štěstí&#8221;</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 132/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=22715070</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24297330</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Toremis s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 132/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24297330</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26010569</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Sergiy Pyetukhov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 132/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26167514</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Crownhill Investments East Europe,s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 132/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27095703</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek v domě č.30,  ulice Jana Zajíce,  Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 132/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61911305</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ingrid Bergmannová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 132/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62578715</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Stromovka - nemovitosti,s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 132/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=62578715</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63985675</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>COLOMBO NEMOVITOSTI, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 132/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64578020</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GUSTAVO, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 132/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68591489</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina Bergmannová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 132/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71425098</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>SAFIANE KERBOUA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 132/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71522131</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Július PAVLOVSKÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 132/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71968881</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michaela Heřmanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 132/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73232327</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Čermák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 132/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86876775</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Janka PAVLOVSKÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 132/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87706369</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Tomáš Novotný</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 132/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88238954</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Pietro Andrea Podda</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 132/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88338568</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Giulio Marco Domizi</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 132/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>02283476</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CZECH ADEX PRAHA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 132/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02283476</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07045948</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Pavlovský</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 132/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07329237</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslava Jozová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 132/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

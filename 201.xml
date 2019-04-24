@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>14970309</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk Vlč</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 201/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16180879</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David BOUŠEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 201/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25792717</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Moneypenny,s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 201/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25792717</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26149630</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Irish Club, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Keramická 201/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26149630</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26513323</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Strojnická 10</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 201/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26724570</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Volodymyr SHMAL</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Keramická 201/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26728702</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Arainn Group s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Keramická 201/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26728702</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27110621</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BID VILLA, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Keramická 201/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27110621</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27586898</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HORNIG s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 201/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27586898</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>46474714</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Vladimír Mikolášek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 201/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7101043169</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66464404</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jitka SCHOVÁNKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 201/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67791816</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Petro Hnydyn</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Keramická 201/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74657097</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Křenek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Keramická 201/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76432947</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Soukup</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 201/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87089840</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Theodora Švejdová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Keramická 201/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87254166</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Antonín Zeman</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 201/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02625318</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika Soukup</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 201/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02774186</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Strojnická 10</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 201/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04081382</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Jílek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 201/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9007051130</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05226937</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Inisheer s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Keramická 201/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>05227020</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Inishmaan s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Keramická 201/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05227101</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Inishmore s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Keramická 201/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05395399</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Golem Tree s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 201/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05395399</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07801467</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Soukup &amp; Soukup s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 201/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07801467</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

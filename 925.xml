@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>18394281</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karel VOLF</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24182231</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Speculia Business, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24224103</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>D. A. Developments s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24224103</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25056531</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CENTERINVEST s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25797751</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Jana Zajíce 925/14</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 925/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26202361</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GLOBE CAPITAL s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26202361</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26455170</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TIAN SU, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26455170</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26487004</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>D. A. Management s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26487004</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27921417</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ADENDORIA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27921417</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28387481</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Ďáblické rezidence s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28387481</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28460561</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Christina Mei Hicks</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28940644</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Fernando Nascimento Araujo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45806748</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Czechoslovakia - China company spol. s r.o. vjazyce českém/anglickém/:Czechoslovakia - China company spol. s r.o.,/Ltd/</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48566403</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Zikmundová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62419684</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>IC2I s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64766454</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Jakub Janda</dtt:ojm>
+<dtt:jmn>Říčany, Vranovská 1989/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7501010022</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70352097</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Ondřej MAREK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71670351</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladan Weber</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 925/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87549191</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Yifan Wu</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01952633</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek domu Jana Zajíce 925/14</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 925/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>02153157</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Mgr. Katarína Zambojová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02619750</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Simple Choice, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02619750</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02681803</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Agnieszka Marzena Syguła</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04475160</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Pharma - Sal s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05004284</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Elyes Hachicha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05049083</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Lisborough Invest, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05485789</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Anna Marková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06554903</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>JUNGLE BJJ, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06914551</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Bartůněk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08010242</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Orletová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 925/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

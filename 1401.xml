@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>25063081</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Dům U vody 5, družstvo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U vody 1401/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48249955</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Chytilová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U vody 1401/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68868677</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David ŠVANCAR</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U vody 1401/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7312280404</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68868880</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Vondrouš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U vody 1401/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70346496</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef ŠVANCAR</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U vody 1401/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70348553</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Pekárková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U vody 1401/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75572265</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Králík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U vody 1401/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04288271</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Dolní Holešovice, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U vody 1401/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06807844</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Testis, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U vody 1401/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>9</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

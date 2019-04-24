@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>12614530</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel VESELÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1354/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6411122014</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15934225</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Smetana</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1354/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28484096</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Schnirchova 1354/9, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1354/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41798350</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Kolací</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1354/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44342411</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bohuš Získal</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1354/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64948684</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>LuxRE a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1354/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=64948684</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68865520</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie MACKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1354/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6054192155</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68865767</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>JUDr. Regína VRABCOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1354/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6454216274</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70371725</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Kadeřábek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1354/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71542523</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Kolek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1354/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8403080279</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=71542523</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73777927</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Hrabová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1354/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01691511</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Pavel Tichoň</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1354/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8002114637</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04045475</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Tichoň Świdrová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1354/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04727312</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Sportovní klub Tři Sestry - Yacht Club</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1354/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04727312</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06347312</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Lucie Levinská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1354/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=6347312</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07869631</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Macková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1354/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>16</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>12580775</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Boleslav VESELÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1410/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14917866</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimír Chmelík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1410/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16502710</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Chmelíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1410/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18904441</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Alexander</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1410/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6606190272</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24272914</dtt:ico>
+<dtt:pf>141</dtt:pf>
+<dtt:ojm>Památník Šoa Praha o.p.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1410/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=24272914</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29016185</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Skillplus s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1410/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43927335</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Edita Jindrová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1410/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49621793</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>K2 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1410/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=49621793</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=49621793</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64098303</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Skácelík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1410/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66456177</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika Šatavová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1410/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71866523</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Antošík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1410/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7206090177</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87711478</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>James John Egan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1410/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03266575</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Advokátní kancelář Mgr. PETR BEDNÁŘ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1410/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03608743</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina Feitová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1410/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05604150</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>PageFive Publishing, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1410/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=5604150</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06107869</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PageFive s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1410/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06107869</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>16</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

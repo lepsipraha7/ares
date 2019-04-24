@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>25605712</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MF Trade Praha s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 822/26</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25605712</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27279740</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Svitlana Filipchuk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 822/26</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27279758</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hennadiy Oliynyk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 822/26</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28549490</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Liudmyla Goncharuk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 822/26</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44850425</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BDH business data help,spol.s r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 822/26</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=44850425</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60219629</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivana RŮŽIČKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 822/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5952161589</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60449012</dtt:ico>
+<dtt:pf>751</dtt:pf>
+<dtt:ojm>SDRUŽENÍ KAJAR PRAHA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 822/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64583023</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KORREKT spol.s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 822/26</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=64583023</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65412761</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ALVIN ČR, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 822/26</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=65412761</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68408129</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Bohdan Lobchuk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 822/26</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70349428</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Růžička</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 822/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8110250148</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71616632</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav MAŠAT</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 822/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88348415</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Virzhina Bzoviy</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 822/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07716133</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Nadiya Dubska</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 822/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>14</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

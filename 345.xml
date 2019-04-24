@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01179357</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>&#8221;Nadační ústav Aleny Dostálové, o.s.&#8221;</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 345/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24760064</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Dukelských hrdinů 345/7, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 345/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28231970</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eric Moreshwar Abhyankar</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 345/7</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60219963</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jarmila Voráčová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 345/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62408518</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Družstvo nájemců Dukelských hrdinů 7, družstvo v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 345/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71617400</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana Voráčová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 345/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01716310</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karel Bill</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 345/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06484573</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jiří Voráč</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 345/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>8</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

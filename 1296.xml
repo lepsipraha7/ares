@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01633198</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaromír Prokš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13141953</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan Elhenický</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15092071</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Havlíčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15906710</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. Jana Rychetská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6252161289</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15908879</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Beranová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15908895</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš BERAN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15913449</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ludmila Kulovaná</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16178505</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Skalníková Jana</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18903932</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>RENATA ELHENICKÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7251190375</dtt:p_dph>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25671910</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo 1296</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28226003</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>UNIMAT Beran s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28226003</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48567809</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena Elhenická</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49233548</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Nerud</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6608200632</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66462631</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jean Gallup</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68864175</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Theodor Šeda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70338299</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana Macháčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70350043</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Gabriela Nina Štajerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70352780</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniela RYCHTAŘÍKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76201244</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Dagmar Tichá</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86631225</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petra Kulovaná</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1296/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>20</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

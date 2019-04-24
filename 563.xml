@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>13105272</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Kmoch</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 563/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5411121848</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16907612</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>ŠEJA DESIGN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 563/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25770314</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JAN - IMCO s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25770314</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26214997</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PROKETY s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26214997</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26732947</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek v domě Jana Zajíce 20/563, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26735873</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>amcorNet, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26735873</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27179753</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ROBINZON s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27179753</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27225585</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Slezák - maso základ života s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27225585</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27658139</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Magnollia, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27935451</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>INVESTFOND REALTY s. r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27935451</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28194292</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VG Holding s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28402979</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MASI-CO s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28402979</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=28402979</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40869989</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Webr</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 563/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43931251</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jiří Webr</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 563/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62533657</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Tušl</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7112181637</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63077426</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Studio A.B.S.spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 563/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=63077426</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63079887</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>KMJ Development, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=63079887</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63079895</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>WORLD TRADE CENTER PRAHA-CZECH REPUBLIC a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=63079895</dtt:p_dph>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63079925</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>ACTIVITY, M-R-R GROUP a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=63079925</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=63079925</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63079968</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>EUROINVEST building, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=63079968</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>66032245</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Starosta</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7905280207</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69087008</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Štěpán Frýd</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 563/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7806171241</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70350795</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Jan Prokeš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 563/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70955841</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>KATEŘINA TUŠLOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75106124</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Tichavský, Dis.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 563/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75479443</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Prokeš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 563/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8404140129</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75865866</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>akademický sochař Stefan MILKOV</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5503092243</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02557126</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Išková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07722621</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lovy Jain</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 563/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

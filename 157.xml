@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01429876</dtt:ico>
+<dtt:pf>932</dtt:pf>
+<dtt:ojm>Forbes Group SE</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01429876</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01553721</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Victoria Immobilien s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=1553721</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18630995</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FENIX INTERNATIONAL, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=18630995</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=18630995</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22800751</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Star Gastro servis s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22800760</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Star Game Group, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24747068</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>MONDARA a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24777765</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BRENY, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24777765</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25120514</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Euro Benefit a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25120514</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25120549</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Domácí Půjčky, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25150634</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Forbes Game, a. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25150634</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25291548</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Thor Holding, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25291548</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25450212</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>T &amp; S  T a p e  &amp;  S o n s  s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25450212</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26059517</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Victoria - Tip, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26059517</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26060680</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Wotan Wood, a.s., v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26060680</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26060680</dtt:p_cedr>
+<dtt:szr>0</dtt:szr>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26063239</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Wotan Invest, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26063239</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26390221</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Deminka s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26390221</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26750155</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>mgm technology partners s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26750155</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27276031</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>STAR GYM FITNESS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27276031</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27340601</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JAN 757, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27344916</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>FORBES Casino, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>27440893</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>LAND TRADE a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27440893</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27443086</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>LUCKY JOCKER a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27443086</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27654303</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KAROMON, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27654303</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28066049</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GARNET VRX s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28066049</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28144651</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>National Facility Service s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28144651</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28382102</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DALIUM FINANCE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28382102</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28439279</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>IK SPORT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28439279</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28775406</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>www.money24.cz a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28994001</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>HBQ a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28994001</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>46720634</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Nebeský Tomáš, JUDr., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49096427</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Českomoravské nemovitosti, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=49096427</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61250970</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>M + S Immobilien - Consulting s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=61250970</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64259641</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>D-C-R, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=64259641</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64829430</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>CREDIT FINANCE, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=64829430</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76665224</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zhan Spalding</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02320991</dtt:ico>
+<dtt:pf>932</dtt:pf>
+<dtt:ojm>VT Deutschland Holding SE</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02417294</dtt:ico>
+<dtt:pf>932</dtt:pf>
+<dtt:ojm>LATIBENA SE</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03702383</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Victoria TECH s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03702383</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03802540</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AVS Immobilien, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04331532</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TVA Immobilien, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>05088399</dtt:ico>
+<dtt:pf>932</dtt:pf>
+<dtt:ojm>VT Africa Holding SE</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07688652</dtt:ico>
+<dtt:pf>161</dtt:pf>
+<dtt:ojm>Národní ústav bezpečnostní politiky, z. ú.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08077606</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Stadion Most s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>43</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

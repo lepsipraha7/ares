@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01160036</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Zeman</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01634909</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GYNIA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>11252855</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Erika Florianová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5751196693</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13108565</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>LUDĚK NOVÁK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16179081</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Karel Trsek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22728457</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>SMART GALLERY</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26477629</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Veverkova 1412, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41832299</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. Chalupa Marek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6808161118</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47570555</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Helena Nováková, CSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=495529130</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=47570555</dtt:p_cedr>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60163194</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Jan Miklánek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60216662</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. František Jeřábek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61502782</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NOREA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=61502782</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68866658</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Lányová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70351767</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jitka ŠILHAVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01741551</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Jeřábková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04271530</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Max Dvořák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=4271530</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04460642</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mykhaylo Kurta</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04572726</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PUNKSTORE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04572726</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04818075</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Nadiia Kurta</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05575486</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Tyler Wyles Powell</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>05575664</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Brittany Stutt Powell</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06904246</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SONG EMPIRE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06904246</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07441070</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Book Lunch s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07419619</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Songwriting CZ, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

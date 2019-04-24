@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01033646</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dita Havránková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 312/53</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01583310</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Klub přátel antického Řecka a Říma, o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>11241063</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Ing. Grigoris Vlachopulos</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5704041651</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14913283</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Otília PERGLOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5651127097</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16126599</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr SULEK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16178335</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Miroslav Pergl</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=511003194</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24172324</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>BINHORSE Praha a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 312/53</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25100114</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PANINI,s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25128027</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MENNEA, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25610473</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>East Praha, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26119072</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ACOGER s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26119072</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26135744</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Cagnacci, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26162661</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VIDEOCOM, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26162661</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27147789</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ALORS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 312/53</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27147789</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27238954</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>R.E. Invest s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42520436</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena SULKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45308209</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>A S P E R A spol.s r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 312/28</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=45308209</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45691231</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Žofie VIŠŇÁKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49683900</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FLORA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 312/53</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=49683900</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=49683900</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61495158</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Hadrava</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>62901095</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alice Budinová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 312/53</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63075237</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Lodovico Carracci, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63093529</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Vlachopulu</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63671719</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Lorenzo Monaco, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63671743</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Domenico Veneziano, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64769291</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel Pavlát</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67998372</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Blanka Šídlová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70055777</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Danica KOVAČEVIČ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70211370</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina Zdráhalová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70883688</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Rosický</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75937182</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Baldýnský</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7208041181</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86639811</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel SPILKA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7710070302</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02882647</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavla Munzarová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8853260020</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03630081</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Zelenka</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8501153034</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04653301</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ivan Bareika</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05539285</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ing. arch. Juraj Čerešňák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 312/53</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06683908</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Samek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 312/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8804060034</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>37</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

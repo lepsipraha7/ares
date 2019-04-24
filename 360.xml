@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>14998696</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Emanuel Haš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16071328</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Rudolf Kamínek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 360/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7306171906</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16071336</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jarmila Kamínková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 360/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16136683</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslava Hromádková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18902596</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav HRDÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6502011384</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18903398</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. Miroslav Šole</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5909241382</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18906796</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jaroslav KOCOUREK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5710160566</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24771295</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Kostelní 360/8, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26589699</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>EVROPSKÉ CENTRUM ROMSKÉ KULTURY V PRAZE</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26589770</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>GYPSY VIRTUOSI IN PRAGUE</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26666910</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Evropské Muzeum Romského holocaustu v Praze</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43933602</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Martin HAŠ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45698457</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk SZELES</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60221569</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. arch. Zdeněk Meisner</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63510081</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Alena Slámová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 360/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63832577</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Jarmila Beranová</dtt:ojm>
+<dtt:jmn>Praha 1, Staré Město, Alšovo nábřeží 82/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64764397</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan Rýpar</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7504180409</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64765105</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karolína Haasová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66217687</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Krampera Václav</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 360/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69328226</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing.arch. Erik Hocke</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>70102724</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>ETNIC ART</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=70102724</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70351490</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing.arch. Adéla Středová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71327282</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Sylvana Šoleová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71670661</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Tereza PALIČKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 360/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73165689</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Riegger</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 360/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73498637</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Hřídel</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02719452</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Pavel Matoušek, Ph.D.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04031792</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Lenka Svobodová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 360/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04581113</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>WeiNaDu CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04581113</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04634284</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Monika Soľanková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05458897</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Michal Ciffra</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 360/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06618677</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Neuberg</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06888925</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Natálie Hrdá</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06953891</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Sebastián Šole</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 360/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>34</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

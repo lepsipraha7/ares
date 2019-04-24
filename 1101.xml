@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>26481162</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo spoluvlastníků domu v Praze 7, Veverkova 1, družstvo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27244580</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HENNER s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27244580</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27860931</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KORUNT, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41817974</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vítězslav VYBÍRAL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43931570</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. Pavel Geier</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7304270325</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45695181</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Kateřina Kocianová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45771359</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Sdružení pro založení a činnost Domova jugoslávských dětí</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47092319</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Irena Dvořáková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60901993</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jan Emler</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=410525079</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61492370</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Ján Šupica</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64769241</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. DVOŘÁKOVÁ MICHAELA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67408095</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Kaláb</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70335648</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Kaláb</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7806200512</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=70335648</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71448161</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JUDr. Magdalena Kubátová, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8061200268</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71616225</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana Adámková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72646209</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jan Bouška</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8010162842</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87771179</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Mirko Raduševič</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=470624215</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05693438</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Veverkova 1101/1</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07211554</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Michaela Dvořáková, Jan Dvořák - architekti s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1101/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>19</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

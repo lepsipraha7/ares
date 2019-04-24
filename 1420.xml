@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01100611</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Sypták</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Malá Plynární 1420/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13103521</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Emil Eniczký</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Malá Plynární 1420/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6003290623</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14906813</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karel Miliňovský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Malá Plynární 1420/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=380105049</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48047554</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Honc</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Malá Plynární 1420/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5607190358</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61828572</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Honcová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Malá Plynární 1420/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65440285</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dita Svobodová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Malá Plynární 1420/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75333775</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Eniczká</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Malá Plynární 1420/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03931196</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Aleš Honc</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Malá Plynární 1420/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>8</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

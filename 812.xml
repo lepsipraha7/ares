@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01353985</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dmitrij Levdanskij</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01448773</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Brouk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13792059</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana Brouková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6154291605</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16518411</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr HÁJEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6408241400</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24205141</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SG OROBICA REI, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24709361</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Stod green s.r.o., v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24741299</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MAXPAN s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24741299</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24792675</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AUDEFIDE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25092260</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Moravská Palace, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25105892</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KORUNOVAČNÍ 30 PALACE, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25105892</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25675095</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Kodaň, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25675095</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26191661</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>INTERPROJECT Praha, s.r.o., v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26191661</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26195828</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FARM RVENICE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26195828</dtt:p_dph>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26731029</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Farm Hořesedly, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26731029</dtt:p_dph>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26746956</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KNOX, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26757338</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BARCHOV REALITY, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27073921</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Štefánikova 59, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27073921</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27111784</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SARLI GRECO s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27150071</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KEPLERO REALITY, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27205151</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AGROGEST Praha, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>27241823</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KOSTNICKÁ REALITY, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27241823</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27253627</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Farm Nýřany, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27253627</dtt:p_dph>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27254712</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KOŠETICE KASTEL, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27568636</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MORAN PALACE, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27568636</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27569578</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ZBOROVSKÁ REALITY, s.r.o</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27569578</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27592669</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TOMMIC REALITY, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27882179</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GSA INVESTMENTS, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27882217</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DOGE REAL, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27882225</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SAN MARKO, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27882225</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27896285</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CASANOVA HOTEL, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27896285</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28219970</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GIANNI BARETTI HOLDING, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28219970</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28377737</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GIANNI BARETTI ARCHITECTS, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28377737</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28406265</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LISIAND, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28406265</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49704966</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CAROLINA, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63667266</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Luna,spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75272512</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Jelínková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75437520</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Alberto Angelo Rocchini</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75543583</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Medek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75921359</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Fessová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76357392</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. arch. Bečička Jura</dtt:ojm>
+<dtt:jmn>Kostelec nad Orlicí, Chaloupkova 261</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7907133388</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>76422917</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Šimon Mareš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8402070490</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88025870</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Filip Brouk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88178706</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Přenosil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02362058</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství Kamenická 812 Praha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03374335</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FARM K2 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04851200</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FARM TINO, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04851200</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04862589</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FE.RO.SI., s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04879406</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BRISEO, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04879911</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FARM AMELEO, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05952361</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GTD GRAN GUSTO FOOD, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05952361</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07105487</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>REMOBA REALITY s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07326394</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Stromoskop s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07326394</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>52</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

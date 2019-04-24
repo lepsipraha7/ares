@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00550248</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DIRECT, spol.s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=00550248</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12600105</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Šárka Suchardová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1458/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12793159</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Milan Podpěra</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6303210232</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16110765</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jitka TURKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22870784</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>&quot;Palučinská šachová škola z.s.&quot;</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25106261</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EASTCONNECT, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25106261</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25405870</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Indivindi s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25405870</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=25405870</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25434268</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>b.a. OKO 69 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25434268</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27343651</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Aquadino s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27343651</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=27343651</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27643174</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Jateční 1458/17, Osadní 1458/1, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27844315</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Huy Giap Bui</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27908801</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Thi Nhung Vuong</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45694605</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Věra Havlová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47095245</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Blažejová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48063851</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Filip Blažek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1458/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7409120070</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48567825</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeňka Polterová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1458/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48583111</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Ad Limitum s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=48583111</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64766934</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ludmila Škvorová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64945910</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BRANDS International s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=64945910</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68869428</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslav Hlaváček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1458/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>68869797</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radka BLAŽEJOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70653712</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jitka Götzová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1458/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71616012</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>František Tomášek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1458/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74750429</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Amos Rendjambé, M.B.A.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75318377</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Veronika Hetsko</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86629964</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Veronika Táborská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86889583</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Polter</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1458/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8706300427</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87030144</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Šefler, DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1458/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87040484</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Horák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1458/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02143402</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milena Dragounová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03776107</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Huy Kim Bui</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04284941</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Geekplanet s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1458/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04284941</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04732472</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Skylimit s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1458/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05864593</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Bezpečnostní služba Litoměřice s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05866464</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Bezpečnostní služba Praha, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05866464</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05987989</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Ivančíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1458/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07736363</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ara Vaniki Abgarjan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1458/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>37</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

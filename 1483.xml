@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00747424</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ivana Kalousková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15279600</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Šebesta</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18846777</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Nabil Azeb</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22735291</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Otevíráme, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=22735291</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27900746</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Realitní správa s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28163656</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Správa tržnic s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40866947</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Jeníček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43924671</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr OPAVSKÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60220350</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Šmejkal</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61492787</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena Jeníčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63091780</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš JENÍČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63676401</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MYPA, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=63676401</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64903346</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Lukáš Soukup</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7704040124</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67787878</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Renata Veronika Příplatová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71632727</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivan Havlíček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71671269</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Mudrová, DiS</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8062087066</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75127601</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek - Dobrovského 1483/31, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88701549</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Šebesta</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07134762</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Aeroevents s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1483/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07134762</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>19</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

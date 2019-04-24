@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00998419</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Pěchová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01122410</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Střížovská Matyášová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01493779</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Gruber</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>11253312</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Miroslav Stodůlka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7203160404</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12514187</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Miroslav Josífko</dtt:ojm>
+<dtt:jmn>Praha 1, Nové Město, Jungmannova 32/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=12514187</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24311405</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SJC s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25606280</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PAK 1928 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25606280</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26507358</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EWOK studio s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26507358</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26654105</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Občanské sdružení Meandr</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27163776</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>M-DIAG s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27163776</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27909221</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek domu U Pergamenky 1471/8, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27909638</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FormaX Design, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27909638</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40861813</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana Aguilarová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41156358</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk Kovář</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41187687</dtt:ico>
+<dtt:pf>117</dtt:pf>
+<dtt:ojm>Nadace Živa</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47095032</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Ivan DAVIDOVIČ, CSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=470506094</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48566446</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Rudolf Macek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48966541</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Šárka Tvrdíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62411063</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>STUDENT JOBS - SERVICES, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=62411063</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66867592</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. David Marek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6510170887</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>68869738</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Klugner</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70348405</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marek Střížovský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71408312</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika Ešnerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73521981</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Sodomka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7008311717</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73867250</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mg.A. Vladislav Staněk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8101221953</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74839144</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Mynařík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74949004</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michaela Holická</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76039811</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Žemlička</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7406160047</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03488047</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Foglar</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04167937</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Tomáš Davidovič</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04795750</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DHB Projects s. r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=04795750</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05408539</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Štěpán Marek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05651182</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>iZeleň s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05651182</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05729394</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Matulová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06186092</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbara Orlíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06803695</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Martina Rezlerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07797125</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Konopová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07934009</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>zvuk-svetlo.cz s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1471/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>38</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

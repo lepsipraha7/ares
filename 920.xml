@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00251372</dtt:ico>
+<dtt:pf>331</dtt:pf>
+<dtt:ojm>ÚSTAV SPORTOVNÍ MEDICÍNY v Praze, příspěvková organizace</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 920/53</dtt:jmn>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>1</dtt:rzz>
+<dtt:aris>1</dtt:aris>
+<dtt:p_aris>ico=251372</dtt:p_aris>
+</dtt:S>
+<dtt:S>
+<dtt:ico>11092670</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Kotalík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 920/34</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6307211526</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18904793</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef PAVLÍK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 920/34</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25699059</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>STRYX spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 920/34</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25699059</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26682567</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VM Tisk, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 920/34</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26682567</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27035107</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Občanské sdružení Nad Královskou oborou</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 920/53</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28394321</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Besto CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 920/34</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28394321</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=28394321</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29047412</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SVĚT HER s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 920/34</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29047412</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45251878</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Jindřiška Profantová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 920/34</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>1</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48094552</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milada ŠILHARTOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 920/34</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62415034</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Car-Trans,s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 920/34</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62576691</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Dentim s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 920/34</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70348693</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jaroslav Daňhelka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 920/34</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8203080204</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71672451</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Jana Daňhelková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 920/34</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5758270606</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74313983</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Eva PAVLÍKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 920/34</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87798450</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Votruba</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 920/34</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8008020317</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07215070</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BESTO CZ profesionální předseda s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 920/34</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07782438</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Gabriela Krohová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 920/34</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>18</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

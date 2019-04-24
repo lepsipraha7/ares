@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>24222372</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>OBAL - SILEX s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24222372</dtt:p_dph>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24851621</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Grafit Bohemia s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25117556</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NIKA-Prague CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25735861</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ALTAIR - Jewellery Studio s.r.o., v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25735861</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25778811</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AAP, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25778811</dtt:p_dph>
+<dtt:sd>0</dtt:sd>
+<dtt:p_sd>dic=25778811</dtt:p_sd>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26489554</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Jitka Richtrová s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26489554</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26756200</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Centrum nářadí s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26756200</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26756200</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27582141</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Urania Mining s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27865762</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TerRadGeo s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28375041</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Solution Finance s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28375041</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28993900</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VERITEK Czech Republic s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28993900</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29126649</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ESCUDO cz s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=29126649</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29134951</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SALVUS PRAHA Profi s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29134951</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29146054</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PKaccount s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29146054</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44849460</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Z servis, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=44849460</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45786992</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PAK, s.r.o.(Pražská atraktivní konfekce)&quot;v likvidaci&quot;</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48363804</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Custom Travel Services s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=48363804</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49620878</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BodyDetox s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=49620878</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49684329</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Lola Hotels spol. s r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=49684329</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62911767</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SMECROM, spol. s r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>63077159</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PHARMOS PRAHA s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=63077159</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63834413</dtt:ico>
+<dtt:pf>704</dtt:pf>
+<dtt:ojm>Česká skupina mezinárodní Ligy pro soutěžní právo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64572013</dtt:ico>
+<dtt:pf>111</dtt:pf>
+<dtt:ojm>Gemstones Minerals Souvenirs - GMS v.o.s. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66199981</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JUDr. Jarmila Traplová, advokátka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=66199981</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67775985</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>Greenwich Resources plc, organizační složka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=67775985</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72058765</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. Jan KUBÁT - patentový zástupce</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=331209022</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72058773</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Hakr Eduard Ing.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=360217064</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73611468</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Jana Šuranová Traplová, advokátka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8354190702</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04155297</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>OSAUL agency s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04155297</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05405921</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Perníkový panáček s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05405921</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05553024</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GLOBAL INVESTMENT TRADE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05560055</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Food House, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05560055</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05786576</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Holding Praha s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06260969</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PP CHEPA - VV s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07386389</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GLP service s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07386389</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08039259</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EU-Personal-ANÜ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>36</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

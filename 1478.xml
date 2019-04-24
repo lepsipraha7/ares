@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00435325</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Sdružení TJ/SK Praha-východ, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12273112</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Zvolský Jaroslav, JUDr., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=510416111</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24130117</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Perspektiv Development s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24190322</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Housing Holešovice s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24190322</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24190349</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Housing Libuš s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24190349</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24708623</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EWatt Kaplice s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24708623</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24799505</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ONYX Agency s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24799505</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26162806</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ONPS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26162806</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27212254</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ADMOND s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27212254</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27253996</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DYNARGIE, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27253996</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27382796</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KW Agency s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27382796</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27459268</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PARACAS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27459268</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27652521</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>COMBACO Post s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27652521</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27861139</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ONYX Post s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27861139</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27861228</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CONTORIA s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27913902</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EWatt Dolní Štěpanice s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27913902</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27952975</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Jeden jazyk nestačí s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27952975</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28416848</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>COMBACO s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28416848</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28895550</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>SCARSBROOK LIMITED,organizační složka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28895550</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28909721</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FINDOME s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28909721</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>29020085</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>G.F.G. Afinace s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=29020085</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29029716</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ONYX Group s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29029716</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29051436</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CROCHAREN s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=29051436</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44550707</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Zdeňka Sommerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6559051763</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49703889</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GUO Business Contact, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66213291</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Olšanská Stanislava</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72702079</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Roman Telerovský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75401177</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Anita Krejčí</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75906287</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Martina TELEROVSKÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02477688</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ONYX Care s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02477688</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02664054</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CUBE2.1 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05045576</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FINDOME Development s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06309968</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NAYVU s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V závětří 1478/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06309968</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>33</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

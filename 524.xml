@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01359908</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petra Suchánková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14963787</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří ZELENKA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24658936</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek domu U Akademie 13/524</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25742272</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>INVESTMENT CAPITALS s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 524/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26456761</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ARCHAI, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 524/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26478714</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PeopleImpact s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26478714</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27156834</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>STAKE PROPERTY, s.r.o., v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27156834</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27196216</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SGrow Venture Partners, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27196216</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40589277</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Olga Scholzová Vídenová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42516650</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milada Zelenková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6353110533</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42521581</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří SVOJTKA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>46416242</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Josef Jirák</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=450709147</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=46416242</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48829544</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub NĚMEČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6803052036</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61496359</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alexandra Opavová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65624211</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka NĚMEČKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67790488</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimír KOURA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70351511</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Rostislava GORDON-SMITHOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=495619207</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71616659</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan MADĚRYČ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 524/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73112488</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Petr Trávníček</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74480723</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Erik Jirák</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7508301581</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>75070821</dtt:ico>
+<dtt:pf>107</dtt:pf>
+<dtt:ojm>Martin JIRÁK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7807250176</dtt:p_dph>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75070839</dtt:ico>
+<dtt:pf>107</dtt:pf>
+<dtt:ojm>Jana JIRÁKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76478343</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Filip Grufík</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86786938</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Barbora Opavová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88678776</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Stanislav Kejval</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03432751</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Julie Potosniak</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03446298</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Votroubek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 524/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04310055</dtt:ico>
+<dtt:pf>118</dtt:pf>
+<dtt:ojm>Nadační fond Minerva 21</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04315171</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Spolek MINERVA 21</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05740215</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina Vídenová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06115560</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Stanislav Lendyel</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 524/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07320302</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Payam Razi</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07634463</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Screenshot s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 524/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>33</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

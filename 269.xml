@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>15902579</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Miroslava CHARVÁTOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 269/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15936597</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika Kučerová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 269/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28366581</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků domu Nad Královskou oborou č.p. 269, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 269/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40863735</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ryszard Rój</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 269/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48568686</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Jiří Jozíf</dtt:ojm>
+<dtt:jmn>Stehelčeves, V. Poláka 375</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66846587</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Iva Růžičková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 269/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74333259</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Páv</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 269/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05049814</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Floris Jan van Hasselt</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 269/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=683991461</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05078628</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Růžička</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 269/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06623255</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Matěj Kratochvíl</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 269/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>10</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

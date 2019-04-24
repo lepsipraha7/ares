@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00941808</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Barbora Zikmundová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 73/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13797034</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Irena Nádvorníková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16180381</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Kotvalt</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 562/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18405754</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Věněk Šilhán</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=520505190</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24748480</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Angeline Trading s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24748480</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25741349</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>YOUNG FASHION, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25741349</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26211815</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Tutanchamon music production s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26211815</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26424282</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BIZON PLUS s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26424282</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40625052</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Kübl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 562/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6806090775</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42518644</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Břetislav Jindra</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45691266</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Herrmann</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61463914</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družsto LETNÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64767124</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan RIPPL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 562/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67776388</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Ovečka - centrum pro děti a rodiče, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Rajská 300/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68866321</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jarmila Jelínková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68867174</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Frišauf</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71945229</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karel Čeněk</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73758639</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Čeňková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75641615</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Andrea Walker</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7154204706</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76021599</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Jan POLANSKÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>87224798</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Jelínek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8008180301</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03447413</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Hanák Veletržní s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03447413</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05526957</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Wágner</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06389082</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>La Ambra s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06401091</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Milan Jelínek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06720340</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Adéla Grossová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07293933</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Hana Šilhánová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07394276</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DM servis stavby a rekonstrukce s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07667442</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Makemyday s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07711808</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KRISTINE STUDIO s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07853696</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dana Kadlecová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

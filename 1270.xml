@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01009001</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Luděk Jirásko</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8311253599</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01502263</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VIP Work s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=01502263</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13094742</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Anna Altmanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13798961</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva MICHALKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14923971</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JIŘÍ HAMŠÍK</dtt:ojm>
+<dtt:jmn>Praha 6, Břevnov, Bělohorská 2458/239</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14934841</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Boris Kitzler</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=520114153</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16178564</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Ing. MILAN POKORNÝ - UNIVERSAL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5802050661</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22818791</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Akce D.O.S.T.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24310093</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Tovární 10</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25283031</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>R&amp;P STAV s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25283031</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26482720</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Družstvo Tovární 10</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26482720</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42513057</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marie KITZLEROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43926835</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Václav Tesárek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48041742</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>T + S spol. s r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48568660</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Ladislav Bátora</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63618044</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Luděk Pravda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6412061370</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=63618044</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63995603</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>POLARIS, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65448251</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika ŠEDIVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66406072</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Libor Hynek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7301240386</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67646450</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Romanjuk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>68868251</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavla KRATOCHVÍLOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68869819</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin HŮLOVEC</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7811220087</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70352470</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Kitzler</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74905473</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michaela Šplíchalová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87151821</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marie Hadačová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87597586</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Matej Kardelis</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87779536</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Švec</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88097498</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina Buťová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03729222</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Iveta Káčerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06228593</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NoCompromise.House s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06228593</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

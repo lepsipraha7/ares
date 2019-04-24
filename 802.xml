@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>16883853</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JAN RAJMON</dtt:ojm>
+<dtt:jmn>Dvorek 40, 378 42 Nová Včelnice</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6803150277</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26459639</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Kamenická 802/13, družstvo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 802/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26751232</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ELBES PRAHA, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 802/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26751232</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45693790</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Holčák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 802/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>46836411</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Jitka Rjašková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 802/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6660131753</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49374923</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Hanáková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 802/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66464633</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Mařík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 802/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7312111136</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68854501</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Christopher John Bradshaw</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 802/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=600654034</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86961900</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Špaček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 802/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03934861</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Krutina</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 802/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9008140669</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07167172</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Markéta Rajmonová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 802/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08029091</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Rajmon</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 802/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>12</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

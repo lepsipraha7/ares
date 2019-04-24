@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>11225114</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jindřich Eisenreich</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>1</dtt:rzz>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=520408284</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=11225114</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13116762</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Ladislav KVAPIL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=430323055</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13164805</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin HORNÍČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15919421</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kamil Kropáček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5610300080</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16176880</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan JANSA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16521170</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>PROVEX</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26123223</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GOUDY, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26123223</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40862747</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Antonín Rosypal</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=511225097</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=40862747</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41193199</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ANEXCO spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=41193199</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48565369</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Daniel Steidler</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7305080376</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61684201</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Zavadil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6709182029</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63082021</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Janovského 20</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66463840</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana KVAPILOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=436214017</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67509380</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petra Moráňová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71617205</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Hejnek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71670688</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Majznerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88056406</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Strnad</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8410144600</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88169774</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hana Nová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03252663</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Davide Bartolini</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03757196</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Lucia Račková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>03757293</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Karbanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04204778</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Šárka Zítková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06420486</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jun Wan Kim</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06612946</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VERO PIZZA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06694365</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Green Panda s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07094698</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Ptáčník</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07148313</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Divadlo NeoM, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>27</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

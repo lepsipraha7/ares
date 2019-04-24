@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>22838121</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Mluvme spolu, o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 447/27</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48565776</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Martina Votrubová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 447/27</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49810243</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ANVimpex, spol. s r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 447/27</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=49810243</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63091739</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karel HETEŠ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 447/27</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71588809</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří ČÍŽEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 447/27</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75048299</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků domu Praha 7, č.p. 447</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 447/27</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75201194</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Jana Kitzlerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 447/27</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76577686</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vojtěch Spěvák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 447/27</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88633381</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Fousek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 447/27</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03920577</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Kamila Moravcová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 447/27</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>10</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

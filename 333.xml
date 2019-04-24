@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01672606</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Andrey Romanyutin</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>11200316</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>HUBATA FRANTIŠEK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=441102014</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15116913</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan KOPŘIVA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16122518</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Liška</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22691723</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Decorra, o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 333/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22767797</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Harmonies, občanské sdružení</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 333/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25706993</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>transfer-prague-car s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25706993</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26461358</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Sochařská 2/333</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26585391</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Sdružení rodičů na pomoc ISŠO</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 333/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27047474</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Student vizit, o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 333/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27047717</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Jet - Fun, o. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 333/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40855414</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří KALINA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42510074</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Helena Kotvová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=535512240</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61385891</dtt:ico>
+<dtt:pf>331</dtt:pf>
+<dtt:ojm>Vyšší odborná škola oděvního návrhářství a Střední průmyslová škola oděvní, Praha 7, Jablonského 3</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 333/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=61385891</dtt:p_cedr>
+<dtt:aris>0</dtt:aris>
+<dtt:p_aris>ico=61385891</dtt:p_aris>
+<dtt:sko>0</dtt:sko>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61386626</dtt:ico>
+<dtt:pf>331</dtt:pf>
+<dtt:ojm>Obchodní akademie Holešovice</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 333/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=61386626</dtt:p_cedr>
+<dtt:aris>0</dtt:aris>
+<dtt:p_aris>ico=61386626</dtt:p_aris>
+<dtt:sko>0</dtt:sko>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62960547</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladislav KOLÁŘ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64766951</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiřina PAVLORKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66463912</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alexander VRÁBEL</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6705120675</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67271502</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeňka Benešová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67592473</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jindra Kramná</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6960134610</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>67790798</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Robert SOUKUP</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68732198</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Daniel</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68865678</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miloš ANTFEIST</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68866542</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Řehůřková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70350353</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jiří KAPRÁLEK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70350418</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Hubatová Ivana, Ing.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71639624</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Procházka, DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7910250392</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71670831</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Pavel Černoch</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75387701</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Ludmila Kaprálková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86603817</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Terezie Černochová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88260216</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Kolář</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9206150096</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03500039</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Martin Hubata</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04035887</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adéla Havelková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04409850</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>MgA. Michala Butková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Veletržní 333/48</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=683727836</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05902649</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Sochařská 333, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06926690</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Čintalanová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07160500</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Sdružení rodičů a přátel školy při SPŠ oděvní v Praze 7, Jablonského 3, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 333/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07631928</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Hokejová škola Jakuba Koláře, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>38</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>10134786</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. Jiří Krejčoves, CSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>11248939</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Viktor Kuželka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13108786</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Karel BORŮVKA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14937883</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Jiří Šmidrkal</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=14937883</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24189774</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Czech skies s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24737011</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků domu čp. 1390/8, Praha - Holešovice</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25684281</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KIROD,s.r.o., v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27259269</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Galyna Baziv</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28549929</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Soucitně, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28549929</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47051345</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>COSMOS, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=47051345</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48134953</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Veselá Alena, Ak. mal.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63930323</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniela Stejskalová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66987563</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Donna Lynn Dvorak</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67975801</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Ruslan Leshchenko</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70348014</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimír ALBRECHT</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71557954</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Borůvka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7808110497</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74227602</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>RICHARD ETRYCH</dtt:ojm>
+<dtt:jmn>Praha 1, Staré Město, Jakubská 647/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76576400</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Markéta Iffland</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86610848</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Štindlová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86862782</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Bedaňová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8260250493</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>88172864</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. František Poborský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8403302567</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88822915</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Yuliya Russ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04043049</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Filip Borůvka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04342216</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Renata Fine Poborská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05123887</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Střeláková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01747827</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Revonet s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01747827</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05817285</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Elena Terzi</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07449852</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Terezie Štindlová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1390/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

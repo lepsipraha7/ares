@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>14961636</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk MIRGA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 975/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16127706</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Leoš Novák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16177215</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Rudolf Kreibich</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=471028178</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16180097</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Robert Kreibich</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6902020037</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22885374</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>BUBENEČSKÁ BESEDA, registrovaný spolek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 975/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24128066</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>genavio s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24128066</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26590247</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Židovský památník Černovice</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26590247</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27155285</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>World Learning Inc., organizační složka</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 975/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45280118</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>R A O S spol.s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47535610</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KMUNÍČEK a SPOL s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=47535610</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47618507</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radim ŠUBRT</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 975/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6408081361</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49721682</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JANA ŠEVČÍKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66001358</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Obnova a využití zámku Lipová pro zdravotně postižené a seniory</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 975/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66198186</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Demut Jiří, JUDr., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=501107097</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66198216</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Klimeš Pavel, JUDr., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66224578</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mader Ondřej, Mgr., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6706180349</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70350957</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kristýna MUCHOVÁ, DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71050523</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>ROBERT MORRISON</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5603142776</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88370224</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Rachel Louise Thompson</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 975/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88718450</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Rajnoch</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7811304864</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>02170221</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Antonín Kysela</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02231514</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>První světla</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02598132</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Czech Sailing Team s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02598132</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05717892</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Korbáš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06807348</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>miitis.ai s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06807348</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06966250</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>harvest corp. s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01974521</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Sugar Hill s. r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07222319</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Soft Vision s. r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07222319</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07724497</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>brave haven s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 975/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

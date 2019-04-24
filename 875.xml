@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>12608149</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk KASAL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 875/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=531022123</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15115704</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Slavík</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 875/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6304221187</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25746090</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>H.E.L.E. s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 875/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25746090</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26143518</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Na výšinách</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 875/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27560937</dtt:ico>
+<dtt:pf>111</dtt:pf>
+<dtt:ojm>AK Koutná &amp; Fáberová v.o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 875/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27560937</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44803419</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Žujič</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 875/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6508311656</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48566438</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Petříková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 875/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61493589</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Baláž</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 875/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63364646</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Jílková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 875/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66467977</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jindra ZEMANOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 875/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66532183</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Iva Zemanová Jiříčková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 875/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7558260083</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68868278</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kryštof Zeman</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 875/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7301300424</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68868804</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří PETŘÍK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 875/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71456554</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Koutná Petra, Mgr., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 875/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71458158</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JUDr. Fáberová Slušná Kateřina, Ph.D., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 875/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71672460</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří BERÁNEK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 875/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74871129</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Filip Šedivý</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 875/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76156281</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Marie Marková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 875/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86630849</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza HORSKÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 875/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86929691</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Petřík</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 875/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>88596974</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Jůna</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 875/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04152581</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Šedivá</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 875/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05741700</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adam Gemrot</dtt:ojm>
+<dtt:jmn>Praha 6, Břevnov, Patočkova 1711/93</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06946313</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Hrudka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 875/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07567090</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kristian Lejdar</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 875/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

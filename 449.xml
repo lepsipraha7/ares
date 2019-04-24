@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>24255459</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek pro dům č.p. 449, ulice U Studánky, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24704750</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Acorde s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24704750</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25024264</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Konstantin Ústí, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25024264</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25613901</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AGNESSA - NESI, spol. s r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25613901</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26138000</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>WordsWorth, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26674122</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Spolek SPLAV!</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26674122</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27002128</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Přátelé Šolcova statku, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27904156</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>STAN s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27904156</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29057485</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Azoth Média s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47307471</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FORMAPOLYMER spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48592200</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CONVALEXIUS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48765694</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Táňa Holešová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60216395</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Přemysl RŮŽIČKA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=470410015</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61496464</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Irena RICCI</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62509616</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EVONUK spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63379490</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radka Kovaříková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65438141</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing.arch. Jakub Fišer</dtt:ojm>
+<dtt:jmn>Praha 6, Střešovice, náměstí Před bateriemi 860/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7206010042</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67121179</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zulfiqar Ali Khan DURRANI</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69055441</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Irina Zabrodina</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69055467</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Tatiana EVONUKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>69440298</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Vasyl VLAD</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69440310</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Ionikiy POPSHA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71327622</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivan NULÍČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71537031</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Kolář</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7507190559</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71889698</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Erik Machač</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87560275</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Oleg Pletosu</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02798590</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ing. arch. Katarína Varsová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04808711</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Blue Milk, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04808711</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04861299</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Válková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05687535</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Luboš Podlesný</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05769442</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Lucie Romeo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07222882</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Kolářová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

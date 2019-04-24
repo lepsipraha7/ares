@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00499595</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Družstvo Agentura MONÁDA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12612511</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michaela Křížová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15086445</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Zuzana ČMOLOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16124987</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jiří ČADA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22844333</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>INESAN, o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24250686</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SEBEOBRANA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25146343</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>WEB SITE Prague, s.r.o., v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25459040</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ČeK Plast s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25663500</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Alintrum s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25932110</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PRVNÍ INTERNETOVÁ s. r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25932110</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26185881</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CHICKEN HOUSE,s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42512913</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Eva KLAČEROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49240919</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>NEPHRITE a.s. - v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=49240919</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60221691</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Jaroslav Šušoliak</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63080958</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>STAZA, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63090031</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Rohlena</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69526508</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>ŠTĚPÁN VYMĚTAL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 936/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7209100382</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75931605</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. arch. Ludvík Holub</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8208204356</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03412831</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Sutherlin informations s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05386586</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>STT group s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05386586</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>06135960</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>STT Finance s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06877729</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Viet Up, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07394926</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Bratinka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8603270082</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

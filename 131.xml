@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>22876618</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Studio Hrdinů z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=22876618</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=22876618</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25670972</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PLANETA-PLUS spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25670972</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25726803</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Heles, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25798227</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Alenitchev &amp; Partners s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26130891</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SOLA - Company s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26130921</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ELADIS - Company s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26145481</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AMANTUS spol. s r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26149478</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Interbroker s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26153629</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ANUTA s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26159651</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Lasital s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26161770</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AFALINA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26162008</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Draha Praha - C s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26182947</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MERKIRIJ,s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26184508</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>I.SVS-CZ spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26199378</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RZ - PRAG s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26199378</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26419351</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CHERPAK, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28402286</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RATAK trade s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28402286</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28516184</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Kahotski</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28875087</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Anastázie Kahotski</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8460171962</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41053664</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavlína Millerová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>71617591</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marek Kopeć</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=71617591</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72012200</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hana Forbrichová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73409618</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Denis Forbrich</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73952281</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Silvie Unčovská</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74357093</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Štěpán Tláskal</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75387751</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Jan Škvařil</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76396053</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Škabrada</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87944804</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Štinglová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88648541</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marie Tláskalová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01682130</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Kubát</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02543869</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VEKTRASIB s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02636182</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků domu Havanská 131/14, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02774739</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Horák</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05754364</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Wade the River s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=5754364</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06177735</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Horáková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06500773</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Lenka Lesenská</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07624417</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Bohuslav</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 131/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>37</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

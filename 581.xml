@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01110373</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Radoslav Hýl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Gerstnerova 581/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01576933</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Hélene Marianne Hyl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Gerstnerova 581/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26214733</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CZECH-UP s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Gerstnerova 581/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>1</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26745666</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BRIXIT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Gerstnerova 581/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26745666</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41469194</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Zdeněk Větrovec</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Gerstnerova 581/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6506271156</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69315990</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Alice Barbara Laurent</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Gerstnerova 581/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74151801</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petra Holbová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Gerstnerova 581/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8857112737</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76526739</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Benjamín Wolf</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Gerstnerova 581/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02101815</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Mgr. Katarína Kubíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Gerstnerova 581/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04732081</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Vlčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Gerstnerova 581/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>10</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

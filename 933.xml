@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00237752</dtt:ico>
+<dtt:pf>661</dtt:pf>
+<dtt:ojm>Centrum pro studium vysokého školství, v. v. i.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 933/63</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=00237752</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=237752</dtt:p_cedr>
+<dtt:aris>1</dtt:aris>
+<dtt:p_aris>ico=237752</dtt:p_aris>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>00499633</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>SUDAS, družstvo</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=00499633</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01410636</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Vajsochr</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18905161</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslav Benda</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18905994</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Elena Beranská</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=525221265</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25141406</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Jednička Realit, s.r.o. &quot;v likvidaci&quot;</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25620690</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>S E K V O Y A, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 933/63a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43924697</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. STRÁNSKÝ STANISLAV</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45693552</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Robert Machovský</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48036251</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FELMONT, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 933/63a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=48036251</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49108859</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Miroslav Pánek</dtt:ojm>
+<dtt:jmn>Praha 6, Ruzyně, Stochovská 185/36</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61497355</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Daniela Gabrielová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61497746</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Branč</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63095335</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Květoslava FOJTÍKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64764362</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Petr VACEK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66998301</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Pavel Křížek, CSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67667864</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Brančová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67786227</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel VACEK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67786294</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Aidin SHAVAYEV</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 933/63</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67787177</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>BORIS MATSIYEVSKIY</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 933/63</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>67791212</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Sergey Fatěevič LYUTSIK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 933/63a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70782768</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Zelníček</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8002180197</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70799890</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Petr Maleček</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71442898</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef KUBENA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71560718</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Fialová, DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72029455</dtt:ico>
+<dtt:pf>331</dtt:pf>
+<dtt:ojm>Centrum pro zjišťování výsledků vzdělávání</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 933/63</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=72029455</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=72029455</dtt:p_cedr>
+<dtt:aris>0</dtt:aris>
+<dtt:p_aris>ico=72029455</dtt:p_aris>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74125451</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. Vít Konopa</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74850008</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika Nejedlá</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75101629</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství domu Šmeralova č.p. 933, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86899571</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Moravcová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88574709</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Ivo Konopa</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02103427</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Blanc</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04351738</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Krčálová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04617703</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PRAŽSKÁ MARINA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05705347</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Moravec</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07543646</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ján Pipasík</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>36</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

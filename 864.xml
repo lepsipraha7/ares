@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>28928172</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Jankovcova 45</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41693361</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>COMSTAR, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=41693361</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42521009</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel ŠTINGL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44870531</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Roman Velička</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7311200413</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66463866</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin AL-ADELI</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70803391</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>DEPRESIVNÍ DĚTI TOUŽÍ PO PENĚZÍCH, zapsaný spolek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=70803391</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76108287</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Bezuchová</dtt:ojm>
+<dtt:jmn>Olomouc, Droždín, V rynkách 232/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76233863</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. Jakub Šedý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8612090289</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76360539</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Martin Polák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86631314</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Josefus</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87907399</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Oksana Lavryk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88874435</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Tobolková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03580822</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Lucie Ďurišková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04887921</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HH Investment Holding s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=04887921</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05097819</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Trafica Media s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05344948</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Nexter Company s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05344948</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06494871</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TaxZone s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06494871</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07554605</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Mahak Parekh</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07617755</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Lindsey Carol Dary</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07705361</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Savannah Alexandra Cruz</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 864/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>20</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

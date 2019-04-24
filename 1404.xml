@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00915807</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karolína Hejnová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1404/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8751170494</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=915807</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01378198</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Meryová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1404/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22726705</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>MESA, spolek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1404/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=22726705</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=22726705</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28543068</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NOVADA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1404/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28543068</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28867246</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Jankovcova 30</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1404/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61544442</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimír Mery</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1404/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71583301</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Sekerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1404/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73190781</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Gerla</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1404/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8103065707</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75347270</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavlína Gerla Holasová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1404/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76331156</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Nebeský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1404/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87415259</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Vojtěch Strouhal</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1404/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87497352</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Neil Paul Kirby</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1404/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87760355</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Peteráková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1404/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05328462</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>danceWATCH, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1404/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05328462</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=5328462</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06673767</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>danceWATCH, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1404/30</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=6673767</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07029471</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Kirby</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1404/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7852182866</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07202954</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimír Mráz</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1404/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>17</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

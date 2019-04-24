@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>24804746</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>R.U.R., a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24804746</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28145780</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Direct finance Europe, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>3</dtt:dph>
+<dtt:p_dph>dic=28145780</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28232917</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Icebreaker Eastern Europe s.r.o., v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28232917</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43001432</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>&quot; M plus &quot; spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=43001432</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=43001432</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63990091</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>REYNAERS ALUMINIUM s. r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=63990091</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73733865</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Bc. Hana Hendrychová, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02243920</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>VIGO Investments a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>3</dtt:dph>
+<dtt:p_dph>dic=02243920</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02409275</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. HYNEK RŮŽIČKA, LL.M., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7612104709</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02472546</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>OKO post, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=02472546</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02519216</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>R.U.R. Prague, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=02519216</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02690446</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VIGO Delta s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>3</dtt:dph>
+<dtt:p_dph>dic=02690446</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02698692</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Direct echo, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02698692</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02702321</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VIGO Beta s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02702321</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03257282</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>VIGO Finance a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>3</dtt:dph>
+<dtt:p_dph>dic=03257282</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04120388</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>VIGO Project Financing a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04264746</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Outdoor Brothers, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04264746</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05502870</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JUDr. MONIKA HEREŠOVÁ MRÁKOVÁ, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7255204264</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01931709</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VIGO Omega s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06583270</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VIGO Smart s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06706240</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Herešová &amp; Růžička advokáti, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06706240</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>07324391</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Outdoor Sisters s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07324391</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07358326</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>VIGO SICAV, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1589/13a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

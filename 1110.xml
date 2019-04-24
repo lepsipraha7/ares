@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>18386580</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Vojtěch HORÁK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1110/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5807071391</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24771716</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Nataliya Heshur</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1110/38</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27647129</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Přístavní 1110/38, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1110/38</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42517419</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef POSPÍŠIL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1110/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61830453</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Jozo PRANJIČ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1110/38</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86631667</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Petr Hoffmann</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1110/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87872161</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vitaliy Heshur</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1110/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01746553</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Aneta Mudrochová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1110/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03114911</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ksenia Sorokina</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1110/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07196814</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Andrea Šebková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1110/38</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>10</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

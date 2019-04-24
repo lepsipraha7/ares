@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>22902546</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Institut aktivního občanství, z.s.</dtt:ojm>
+<dtt:jmn>Praha 5, Malá Strana, Zborovská 620/47</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=22902546</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24264962</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LORETO, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24264962</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24844853</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Championship Music s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24844853</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=24844853</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27376656</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LADRESSE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27394956</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>B-MECHAZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27394956</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27460339</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LAJES s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27460339</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45690561</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniela Šliková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66463017</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Šlik</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01704940</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>City Holešovice, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01704940</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02044951</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CityH služby, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02268051</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>BER ŽIVOT SPORTOVNĚ, spolek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02489881</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RedHead Music s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02489881</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02809796</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KOIA KOIA! s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02809796</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02810824</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Kardio Pro, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04625242</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Dudes &amp; Barbies s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04625242</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05210721</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FOTOSFÉRA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05268575</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SPV JAT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05286719</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RedHead Booking s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05527945</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Zorka s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05741181</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Process financial a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>05796806</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Tomáš Peprný</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06175821</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RedHead Promotion s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01894862</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Uprostřed s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01894862</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06494501</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Sagnell Business, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06494501</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06636543</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Papavera květinářství s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06636543</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01960938</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RedHead Entertainment s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07048360</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Harvestino s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07236719</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Masseler s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07237995</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GASEMA ENERGY s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07254741</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Bourscheid s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02032023</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Jasná věc s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02032023</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08036446</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Rap Rap s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

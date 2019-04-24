@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>15925030</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Miloš PARIS</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22834061</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Spolek Budil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26489970</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>BD TROJKA, bytové družstvo v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45691592</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin HEČ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6104142209</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47092009</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk KALINA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5906030559</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47092165</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petra Kunešová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49686640</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BAROSYSTEM, spol. s r.o., v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66466547</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina BÁRTOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70353620</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan EKL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71719938</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Meisner</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7604270003</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74086065</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Kuneš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86663046</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vendulka Burger</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86765159</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Monika Nisznanská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7962132761</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87587360</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Dana Karlická</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02430282</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika Jelínková Parisová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03136540</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Strojnická 433</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04408586</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bohdan Maslowski</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04751710</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Kristína Brašeňová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05726611</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Dědič</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8005212996</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07069243</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Maslowská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>08074712</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>František Hrubý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 433/3</dtt:jmn>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>21</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

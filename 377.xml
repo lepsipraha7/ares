@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>11211717</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk KOVAŘÍK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 377/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=460818108</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16964616</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Petr Merežko</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 377/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24737143</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>THS group s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 377/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25066625</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DAKO INVEST, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 377/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25066625</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25721151</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GENOVIA Royal s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 377/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26415461</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Via Appia. cz, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 377/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26415461</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26683016</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků čp. 377, Malířská , Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 377/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26800748</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Areál Studentská a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 377/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26800748</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28397428</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LUKRA PRAHA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 377/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28397428</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40304477</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Vladimír KRÁL</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 377/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41962389</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk Kulíšek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 377/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>46219137</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Blanka KRÁLOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 377/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7160251890</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47591625</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jiří Hrubeš</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 377/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61493775</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Průša</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 377/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64764656</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Sláma</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 377/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64768490</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michaela Fenclová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 377/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64769470</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Róbert Havránek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 377/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87550831</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Jaroslav Karas</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 377/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05171121</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Genady Alexeev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 377/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05266351</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NAVASH s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 377/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05266351</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>07817258</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Harput Group, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 377/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07817258</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08002461</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ozpr s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 377/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>12637033</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan SVOBODA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 430/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5402233485</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28368878</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Komunardů 10</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 430/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40864189</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav STRÁNSKÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 430/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61026531</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Kučera</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 430/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70347883</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Petr Sládeček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 430/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7812100285</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70349649</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Božena Průšová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 430/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74973843</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. arch. Ondřej Strejček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 430/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75477173</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Silvie Luběnová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 430/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76252591</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Prokop</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 430/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86630032</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Daniel Vágenknecht</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 430/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86863550</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Frédéric, Antony GALLIO</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 430/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88776387</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adriana Semorádová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 430/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04994167</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vanda Palisová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 430/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06636144</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Milan Mostýn</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 430/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07544766</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Bočková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 430/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>15</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

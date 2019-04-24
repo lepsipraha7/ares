@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01380788</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Křížková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01534564</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Matyáš Kubín</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12275786</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimír CHRASTIL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20g</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5509120001</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12608947</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Antonie RICHTEROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15314693</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Julius Richter</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15944107</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Ernst</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18903134</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Pittner</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5708241407</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24196495</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>MURITEX - trade, organizační složka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20f</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27080986</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VAUX s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27080986</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28928466</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DELMAR TOUR s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20e</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28928466</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40860540</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan Vaněk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40866203</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Božena CHRASTILOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20g</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42514533</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Tománek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7101140464</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42526337</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Štemberk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45695300</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>RNDr. Jaroslav Spížek, CSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47090324</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Spížková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47090618</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Božena Sojková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48566233</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>František MATOUŠEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20f</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49366998</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>MINEX, vývozní a dovozní podnik, informační kancelář v Praze</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20f</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49622234</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>INTERINA PRAHA s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20f</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>49629841</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>HEMET (KYPR), spol. s r.o. - organizační složka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20f</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60466430</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Clear Engineering spol.s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=60466430</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61383678</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>UNIGROUP Handels GmbH - organizační složka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20f</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61493635</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. arch. Michaela HERVERTOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20f</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61496065</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Hana ČERMÁKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62421565</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena Peřinová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=62421565</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62899147</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva RYDELOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6062071422</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63091518</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin ŠRAJER</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67786847</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Nina Malíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67787045</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Jan DAŇHEL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20e</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67809979</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Nachtigall</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7708260263</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67956629</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Čechová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68373627</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Břetislav Krist</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7411150131</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68867620</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena Bezděk Fraňková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70077312</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Szymon Szeryński</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70347034</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Vaněk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70352330</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Chrastil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71327584</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bohumil Křivohlavý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71616721</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Bohata</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8105260042</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71670840</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana TOMÁNKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>73798754</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslava Kazdová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73843571</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Straková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74393898</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milada BEZDĚKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75379775</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Krejčová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9160170184</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76191257</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Scherhauferová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8552122007</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86629603</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kryštof Binder</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86629701</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie JANDOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20f</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86630512</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Nelly Sojková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8557280413</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86929658</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Ivan HOFFMANN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20e</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87213222</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena Elhenická</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20h</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87250071</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Brunnerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88279090</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marcel Richter</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88767949</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>František Najman</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02293013</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Jitka Cápalová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20h</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03648745</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Pet Grooming Association of the Czech Republic, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20h</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03882063</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petra Setlíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04703278</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků U Smaltovny 20, Praha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04862546</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VFR Filatelie s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05006147</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ABR ASAP Service s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05006147</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06164650</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Tržnici všem, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20g</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>06355935</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Daria Chernyak</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07575416</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>RNDr. Jiří Kábrt</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08068623</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Nikola Hanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1335/20f</dtt:jmn>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>63</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>26528631</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Klub pro soudobou operu</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na zátorách 329/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26528631</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26628562</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>PRAGUE POCKET OPERA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na zátorách 329/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26628562</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27265056</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Tien Long Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 329/3</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8201199996</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27930491</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Thi Ngoc Ngo</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 329/3</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28377991</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RURSUS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 329/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28377991</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28458753</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Alexej Pushkov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 329/3</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7509261639</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45694737</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Ladislav BURIAN</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 329/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49508474</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vlastimil ŠTRBKA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 329/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60220759</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Claudie Štrbková Marčeková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 329/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6855221736</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=60220759</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69061807</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>,,Sdružení přátel Malostranského sborečku´´</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na zátorách 329/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71249125</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Michal Voznica</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 329/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76144925</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anneke Dilsey Bárta</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 329/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03640612</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků U akademie 329/3, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 329/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06648398</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Grabben s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 329/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06729291</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Maqpro Czech Republic, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 329/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06934412</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marko Ivanović</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na zátorách 329/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7601050391</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07152825</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Mgr. Marek Samko</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 329/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>17</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

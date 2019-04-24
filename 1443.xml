@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>25260570</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ESWELD, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1443/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25260570</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26124831</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Stupkova 3</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1443/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27596338</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>CBH2013 a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1443/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27596338</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43008470</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jan HORÁLEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1443/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45248699</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Svaz diabetiků ČR, pobočný spolek Praha 3</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1443/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47454792</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SelWelD spol. s r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1443/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=47454792</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48326739</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. František Černý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1443/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5506020740</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74625942</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. David Douša</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1443/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7708110168</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75543541</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Konrády</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1443/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86631799</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michaela Matochová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1443/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01685317</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Jakub Šmíd</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1443/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02199408</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Dobrovský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1443/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04801245</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Nikola Bachtíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1443/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05833558</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Gajda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1443/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06644481</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Martina Pelikánová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1443/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>15</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>25087096</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VELVET VOYAGES, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 554/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25087096</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62585614</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TexColor Projekt,spol.s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 554/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=62585614</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64937020</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Řezníček Vlastimil, JUDr., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 554/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64937038</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Řezníčková Taťána, JUDr.,CSc., advokátka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 554/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70349860</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Štefan POPROCKÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 554/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70350167</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Markéta Jandová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 554/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6356051317</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01657488</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Katarína Kašková, advokátka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 554/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05195322</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SOLID STAV Corp s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 554/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05195322</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05518903</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BAZ Prague s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 554/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>9</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

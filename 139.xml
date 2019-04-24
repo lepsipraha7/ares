@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01138618</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Hanč</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01516043</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Katia Lynn Dvořák Sand</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8658041370</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29133114</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Media Communication CE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45694206</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hermína Adámková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48100188</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Dymanus</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67786740</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Jana WOLESKÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72129972</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Šmejkal</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8208280564</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73800236</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie HRABÁNKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87927322</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kamila Sztwiertniová</dtt:ojm>
+<dtt:jmn>Praha 5, Smíchov, Křížová 2597/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88258807</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Marek Hanč</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8706013767</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03136850</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků pro dům U Studánky 139/22 Praha</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03318770</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Roman Konvalina</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05078121</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>media communication s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05078121</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05079578</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Amati Dental Group s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05369665</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tadeáš Gojdič</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05534437</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Němec</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06434606</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Adriána Kováčová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07058063</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Mydlová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07244631</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vendula Vaculová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07373970</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vojtěch Dvořák</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9110103871</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>07371144</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Kalliscript s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07371144</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07816910</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Danielle Suzanne Kindle</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 139/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

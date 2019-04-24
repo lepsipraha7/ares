@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01334883</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Cihla</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15290174</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Irena Morávková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5855230282</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16181930</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Milada Cihlová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5852010472</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=16181930</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26697564</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MIMEX s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26697564</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27573567</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Jan Cihla-grafické studio s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27927580</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků domu č. 15/375 v Dobrovského ulici</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45388369</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>RNDr. Simona Kvasničková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61608726</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Renáta Kratochvílová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63935988</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk VACEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67295941</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Vondrovský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7709140670</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71047051</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Roman Modr</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71550194</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Valouchová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74150464</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Cingálková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87715201</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Kvasnička</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01812033</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Nečasová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02860040</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Sandra Šubertová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04448499</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Lucie Nováčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05380774</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Imperial Depot, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=05380774</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08041890</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Patrik Jaroš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 375/15</dtt:jmn>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>19</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

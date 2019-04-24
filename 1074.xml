@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>22691367</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Asociace institucí manažerského vzdělávání, o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24758817</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>COOL LOOK s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24758817</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25028057</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FINCORP s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25028057</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25610511</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Navarro s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25610511</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25650114</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DAMONA PRAHA, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25650114</dtt:p_dph>
+<dtt:ceu>-2</dtt:ceu>
+<dtt:p_ceu>ico=25650114</dtt:p_ceu>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27908461</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EXCELLENT SERVICE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28887492</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Maria Hincu</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63295920</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petra Pekárková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63677288</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Kajetánka, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71616781</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš MACHÁLEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88180450</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Anna Stieranková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88504018</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Simona Straková, DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02647842</dtt:ico>
+<dtt:pf>745</dtt:pf>
+<dtt:ojm>Česko-Polynéská smíšená obchodní komora</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03426904</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Hannigová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03448266</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Global Education, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03651533</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Communication company s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03651533</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03667111</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vendula Andrlová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04043154</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>DanceSport Family, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04598199</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Iryna Stoyanova</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05504902</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Baxová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>05676631</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ORCAtech s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05676631</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05676801</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Elixa s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06364667</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Denisa Radonská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07811900</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Adhere Creative s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07885377</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TT Assets s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 1074/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

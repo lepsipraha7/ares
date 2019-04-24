@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01205773</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Eva Veverková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>17002893</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimír SEIML</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18903282</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. Řepka Filip</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24198625</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek domu Veverkova 459/3</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24273988</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ABC Internet Mediation s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24292842</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SCREAMING CD s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26685426</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Veverkova 3</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28169093</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JVZ Centrum služeb s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28169093</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29142024</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MMG Corporation s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40686019</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Václav Čadek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49722727</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Kytka Pavel</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6604220557</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60487682</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Smartgate s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63095726</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MERVYN STERNECK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6309060604</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67763545</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Zuzana Beránková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71617485</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Xenie VAVREČKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74771469</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Barbora Stejskalová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03303853</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Seimlová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04796012</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Peju s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06458351</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Základní škola &quot;Poznávání&quot; s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06946330</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CreditCard Optimisation s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>07568916</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GRANITY ENTERTAINMENT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07953950</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>G Media s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 459/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01520059</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>BowTie Prague a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01520059</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12263354</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniela SCHEFFL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12620653</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Hrubý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13116941</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Stodola</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14891913</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PULEX Praha spol. s r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18662315</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>MULTI ORIENTED MARKETING</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22675515</dtt:ico>
+<dtt:pf>141</dtt:pf>
+<dtt:ojm>Tamjdem, o.p.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=22675515</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24135518</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DEMINU s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24135518</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24152463</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SPORTGARAGE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24152463</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24152676</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Viveton s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24152676</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24181846</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Mountain Gear s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 306/45</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24200832</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>3MD s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24200832</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24797774</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DELIA TRADE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24797774</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25051636</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JVS JADRAN s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25051636</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25058487</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HEELAZ s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25061674</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>STAVEBNINY-Hejduk s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25061674</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25076141</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>M.A.P., s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25076141</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25132857</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AKAI CZ s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25132857</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25145568</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Železářství &quot;U Rotta&quot; - velkoobchod, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25145568</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25395092</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LINA TRADE, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25395092</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=25395092</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>25649965</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HI-FI STORE, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25649965</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25700308</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>M.A.P. Holešovice, spol. s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25788060</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>OMEGA PUBLISHING GROUP s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25788060</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25795309</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ESCULAP 5P s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>1</dtt:rzz>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=25795309</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26061007</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PASCHA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26061007</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26088916</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MARVI s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26129311</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JVS Projekt , s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26197596</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DEFALO REAL-2 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26197596</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26497255</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>ECORENTAL SOLUTIONS, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26497255</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26527910</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Společnost pro krajinu</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 306/45</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26647320</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Klub potápěčů Olson</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26711664</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Euroradio Praha s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26733749</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>HOTAX a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26733749</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27198090</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MEDIA FAST s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27198090</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27200051</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PAC - JPH s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27200051</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27459861</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Nadji Club, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27459861</dtt:p_dph>
+<dtt:sd>0</dtt:sd>
+<dtt:p_sd>dic=27459861</dtt:p_sd>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27651967</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Metropol Club s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27864880</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TOWN CLUB s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27903231</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Nadji Entertainment a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27938310</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Boky-Company s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27938310</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>28175701</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KAV. GID. s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28175701</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28201345</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>URACO a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40869466</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslav DUCHÁČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 306/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41692233</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Printox spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=41692233</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41695216</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>MONTESO, výrobní družstvo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=41695216</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42516919</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Božidar Georgiev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 306/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44849087</dtt:ico>
+<dtt:pf>111</dtt:pf>
+<dtt:ojm>MULTI ORIENTED MARKETING PR, v.o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45148007</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>DELTA CENTER a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=45148007</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45244421</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ZOZO, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45279896</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>STARSWEETS Česká republika s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=45279896</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47549564</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Autopotřeby Praha spol.s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=47549564</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48109410</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PNEUCENTRUM PRAHA, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=48109410</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48535354</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JOST-GLOBAL s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48567515</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef HOŘEJŠÍ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48590924</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TERRIMA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=48590924</dtt:p_dph>
+<dtt:ceu>2</dtt:ceu>
+<dtt:p_ceu>ico=48590924</dtt:p_ceu>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49350765</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Bartůněk</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 306/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6502131427</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49621327</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DUB s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=49621327</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60201142</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MC-ALERT, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=60201142</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61466069</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PS PROJEKT PRAHA spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=61466069</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61500950</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JANI, s.r.o.v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=61500950</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>62917081</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>POTRAVINY A - Z s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=62917081</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63077558</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MONOFIX s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64767116</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiřina Štycká</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65414888</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MIRAGE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=65414888</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69329711</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Petr Štětina</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 306/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70349690</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Markéta HEJNÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 306/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70400636</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Švoma</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 306/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71446044</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Pavel Matějka, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72561254</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>OSE Czech Republic z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=72561254</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88194353</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Dita Šnajdrová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 306/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02455935</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Fitness Solutions Europe s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02455935</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03375463</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Bytový dům Kamenická č.p. 306, spol. s r. o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 306/45</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04001443</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ana Carolina Briceňo Moreno</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Kamenická 306/45</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04727258</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Autorské poplatky a refundace, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07157657</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BatteryCheck s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07157657</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>75</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

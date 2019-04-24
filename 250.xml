@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>24294306</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Heaven Industry Production s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24694266</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MORDAG Innovative consulting, s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24694266</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24770744</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>TRAVEL &amp; PROPERTY LIMITED organizační složka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24770744</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26165902</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LAD INTERNATIONAL s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26165902</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26493373</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství čp. 250 Holešovice</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27069125</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KEY TRAVEL s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27069125</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27841928</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Lee Daniel Branigan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28213271</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>TERSSIO PLASTICS a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28213271</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28440005</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HPS P&amp;T s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28440005</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48117463</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Universal trade s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=48117463</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61857866</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PRO - CONS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=61857866</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63641381</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Larysa Babiichuk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64835286</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HART - PIPE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=64835286</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=64835286</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66241260</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Géci Pavel, Mgr.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6904138758</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66246075</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Zářecká Martina, Mgr., advokátka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71345647</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Jan Balciar, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8109305776</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71457879</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Dlabola Michal, Mgr., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71458271</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Koledová Martina, Mgr., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7858018443</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73611301</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Eva Průchová, advokátka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8255170572</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03601471</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dorota Štenclová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>03698190</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milana Martinović</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04147014</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MINCOM ENERGY I, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04590937</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>OKABET ČR s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04590937</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05053285</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Pampeli s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05388295</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>S.O.S. právní a regulační spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05388295</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05493251</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GAP CLAIM s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06657265</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Seko ČR s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06657265</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06771751</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Leah Heather Michiko Takata</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07250932</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Movingstills s. r. o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07645996</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Jozef Pavleje</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07981091</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>IZVRSTAN s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 250/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

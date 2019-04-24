@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00979589</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Miloš Benedikt</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01369661</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vítězslav Lounek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13808605</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Petr KOCÁB</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15071316</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef ČERV</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15102602</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Milan RICHTER</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15295044</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jan Biheller</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16125339</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimíra ČERVOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24290688</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>WELL Invest s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>3</dtt:dph>
+<dtt:p_dph>dic=24290688</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24690244</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Roman Mašek s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25945068</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>WELL Group a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>3</dtt:dph>
+<dtt:p_dph>dic=25945068</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26738783</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>B.A.R.PLAST GROUP s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27905438</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SUGAR CUBE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27905438</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=27905438</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28188799</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Tusarova 37</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28378482</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Inter-Balana-Vizit s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28773390</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>WELL CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28773390</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=28773390</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43639364</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Svatava Klabanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43929273</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jiří ZMRZLÍK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48020290</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Miloš Benedikt</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5606250023</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48564982</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Rudolf HORÁČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60220791</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavlína HORÁČKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>61492221</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Věra NOVOTNÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66463076</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Čestmír MAREŠ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67789897</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Tomáš Doležal</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5705050824</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70091641</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimír HÁLA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74803620</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adam ONDŘICH</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74982575</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Petr Vojáček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75177323</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bohumil Bšoch</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86623753</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vít Mádr</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86629531</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Roman MAŠEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6702092078</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01972677</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Jakub Kýpeť</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03051447</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Krymská 21 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03874281</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Doležal</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8509020399</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05966272</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Tarifa system s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06274781</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Oceanworks s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06274781</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06312888</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Monika Pulišová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06512798</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Robert Keil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06591825</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Well Palace s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06591825</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07330731</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Divadelní soubor Hrobeso, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>38</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

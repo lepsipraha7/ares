@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>15900797</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Radil Jaroslav, JUDr., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24285935</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Le bon bouillon s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24683027</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>realBizz s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24683027</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26191458</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>E.S. Best s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26191458</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26484552</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ELTY, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26484552</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26684349</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Molochov 78</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27230147</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CZ ČESKÝ RÁJ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27230147</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28885252</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PURE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28885252</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28885406</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EAST TRADE CONSULTING s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28885406</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40875750</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Psůtková Ivana, JUDr.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6260130503</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41837657</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Sváček</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6605090580</dtt:p_dph>
+<dtt:sd>0</dtt:sd>
+<dtt:p_sd>dic=6605090580</dtt:p_sd>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45690791</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dagmar Žerdíková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45691894</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jiří MIKULICA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62908324</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MIKES International ,spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62910604</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SPLENDID s.r.o.v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64572480</dtt:ico>
+<dtt:pf>111</dtt:pf>
+<dtt:ojm>Zdravotnická prodejna &quot;Na Letné&quot; v.o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69068411</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Magdalena Novotná</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71326979</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Vojtěch HRČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7403040403</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73627887</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Bc. Filip Schmidt, LL.M., advokátní kancelář</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8308161136</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73784427</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. ONDŘEJ RADIL, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8406010151</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>74894927</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Patrick Sebastian Lynch</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=682236961</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75495686</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivan Vrkoč</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88002390</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniela Kunešová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04227531</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Krampol</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04230281</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ekaterina Horáková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04867262</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. arch. Klára Kotlánová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04963806</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků pro dům Ovenecká č.p. 78, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05619050</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Tomáš Jákics</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06236111</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Hynek Rajský, BA, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8409144029</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06304290</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Radil &amp; Schmidt, advokátní kancelář s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06304290</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07343639</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Stomatologie Letná s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

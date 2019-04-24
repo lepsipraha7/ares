@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01260341</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eliška Linda Prunarová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18401872</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Libuše ŠRAJEROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24283347</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Lajka a spol s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24283347</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24836036</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků domu Letohradská 7D, Praha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7d</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26733692</dtt:ico>
+<dtt:pf>111</dtt:pf>
+<dtt:ojm>Letohradská 7c, v.o.s. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26736870</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Družstvo Letohradská Sedma</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7d</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27057267</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Spolek Vobora</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42510627</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan BROM</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43935907</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Průša</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48136387</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ježková Růžena</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48568899</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina MALÍKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49175343</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jana DVOŘÁKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63732360</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Gabriela Ryšková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64769534</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Fischer</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66048028</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Eduard Bakalář</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7d</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66462177</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří VOTRUBA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67785344</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Andrea Faflíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7d</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67789871</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David ŠRAJER</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7210170374</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70861251</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>ABO</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71309667</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Hassan Ezzeddine</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>71326839</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Lenka VALTOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7d</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75995841</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Pavel Paďourek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76649687</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Brigitte Betty Dörner</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86629557</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Klára Kuncová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86631845</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš VÁPENÍK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86666606</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Svoboda</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86990136</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Soňa Cimalová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87918307</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Veronika Michálková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7d</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88725081</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Libuše Majerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02119412</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavla Knížetová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04016360</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Linhartová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04574681</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Giora Israel Kukui</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05390362</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>DĚLNICKÁ, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06100538</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Juraj Mašán</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7d</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07340001</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Alexander Jason Knapp</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07854463</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Tomáš Vodňanský</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08045488</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Kacafírková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 366/7</dtt:jmn>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>37</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

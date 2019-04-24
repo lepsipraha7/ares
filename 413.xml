@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>10158693</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>JUDr. Milan Nestával</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=531030119</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13818295</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. Rybář Martin</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6208211306</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15801489</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Bovoli</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6357100167</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18674895</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dušan Kopecký</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6108300737</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=18674895</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18903789</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alice Tylová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22717102</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Asociace animovaného filmu, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=22717102</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=22717102</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26476410</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Heřmanova 3/413</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40763595</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ANIMA spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=40763595</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=40763595</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40771768</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Koukl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6103010463</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45691681</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivan ZAVADIL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63673754</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MONAL s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67787487</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karel Mikeš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67788343</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Dirlbeck</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67790178</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Rudolf JIROUSEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68864957</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ludmila Hrušková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=516108096</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70379823</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Daniela RYBÁŘOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6751231949</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70556873</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Mgr. Lenka Zahradníčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71670521</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Hruška</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7401150405</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71671455</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Tyl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7807270416</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71671528</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie ZAVADILOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>76496520</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Matěj Ryant</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86632116</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel Pavlů</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88363805</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Jirousek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7003060130</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01832000</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků domu Heřmanova 413/3, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02116308</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Nikola Jirousková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02253097</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ARTABAN GROUP, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03577902</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jitka Doleželová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07244401</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vojtěch Rybář</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07797711</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Kristýna Meisnerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07888325</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Daniele Bovoli</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 413/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

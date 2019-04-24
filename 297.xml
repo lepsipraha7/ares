@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00745880</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vanda Kreinerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 297/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12582328</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ladislava KUČEROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 297/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=505508142</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15294480</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Milota</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 297/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=520128265</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25627040</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LAB - AD s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 297/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25627040</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40673219</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hana Koppová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 297/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41850297</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JITKA PLESKAČOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 297/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41864441</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>František PEJSAR</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 297/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42513634</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Pavlišta</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 297/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43786111</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimír Botka, PhD.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 297/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45783675</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaromír Tichý</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 297/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47091291</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří KARAS</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 297/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60598212</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimíra HUMROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 297/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63092115</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marek Tomin</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 297/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66463904</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hana Kokešová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 297/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=465530120</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66467829</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Kučera</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 297/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70755281</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Antonín Kopp</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 297/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71527087</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Peter Mikita</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 297/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74205153</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel Milota</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 297/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7806170152</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75396807</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Kateřina Novotná</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 297/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7352252457</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86593170</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jitka Kapička Fomínová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 297/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>87203146</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Bárta</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 297/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87248816</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavla TICHÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 297/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87688701</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zbyněk Krulich</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 297/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8302272044</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88179320</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Kapička</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 297/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01832085</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků v domě Schnirchova 297/18, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 297/18</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02331322</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Haspeklo</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 297/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03222233</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků pro dům U dvou věží, Šmeralova 297/13, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 297/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03776191</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Erik Bartoš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 297/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

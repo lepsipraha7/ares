@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01250469</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Michal Vrtiak</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=683158362</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>11241977</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Olga Hloušková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=455702050</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24758761</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AIRONET s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24758761</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26188074</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo DRUTO</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26188074</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26559196</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Občanské sdružení Sportovní airsoftový klub Praha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40860311</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zbyněk Malý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61492531</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniela Šilhánová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67390269</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavlína Bernáthová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7757280399</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68401060</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Mertl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70336636</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Volráb</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7604200340</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70353379</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Radek DĚDINA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70648883</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika Fako</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71643044</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Olga Holmanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73855898</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Jan Klaška</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8109021404</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74860968</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Patrik Fiala</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8407043667</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75511771</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petra Hlavicová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8153110482</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76053768</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Matyáš Brenner</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76595951</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Beran</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86627449</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jitka Uhlířová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86630601</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Olga HLOUŠKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7354160374</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>88815480</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk Baran</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02016923</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Markéta Pfleger</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02752891</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Tovární 1265, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05549779</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ing. Jana Vrtiaková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06978207</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Olga Hloušková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07173822</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Fikejz</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>26</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

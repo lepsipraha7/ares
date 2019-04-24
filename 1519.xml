@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>12629481</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. Valouch Klement</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18905986</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dagmar Hlavničková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24656992</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VHE a spol., s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24656992</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26441161</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek domu Tusarova 1519,1520,1521 Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26441161</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42513561</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. Sedláčková Jiřina</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42516811</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk VRANÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5509190016</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42516943</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslav ČERNÍK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47092190</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Hana Laňová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49255681</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Viet Hung Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49401866</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Markéta Zelenková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63100053</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Luyen TRAN THI</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67790585</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan ŠÍR</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68866682</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Libor Šafránek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=500808148</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69991049</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Frydrychová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7353315343</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70351686</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš ČERNÍK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7603032877</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70594031</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Miroslav Frydrych</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6806170217</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72819707</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Štěpánka Čížková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76240479</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tiep Nguyen Doan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76462838</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Libor Černík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7712122847</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87587190</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Černý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01926268</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Kopřivová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02877554</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>BSc. David Šafránek, MBA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04077024</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TERA-MED MEDICAL s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04077024</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05953821</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DaMiConsulting &amp; Accounting s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05953821</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06469213</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Filip Frydrych</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1519/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

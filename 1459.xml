@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00551350</dtt:ico>
+<dtt:pf>111</dtt:pf>
+<dtt:ojm>UNISPOL, v.o.s. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=00551350</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16176774</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav KOVAŘOVIČ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1459/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18901832</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milena KUMŠTOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24252972</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GURU FILM s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24252972</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=24252972</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27449041</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Xuan Loc Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1459/2</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8603264351</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27654273</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Jateční 1459/15, Stupkova 1459/2, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28239229</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ALCYON, S.R.O. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43926061</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miloslav Kumšta</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43931162</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav SYNÁČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47056100</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Uwe MÜLLER</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47090936</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Irena TITĚROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61494674</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Rudolf HŮLA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1459/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66887291</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana Wartanjan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66896827</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Hovorka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69630038</dtt:ico>
+<dtt:pf>107</dtt:pf>
+<dtt:ojm>Lenka Sommerová</dtt:ojm>
+<dtt:jmn>Kořenice 32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69798648</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Samuel Kingsley Boakye-BOSHUST ENTERPRISES</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1459/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70351554</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr RADOUŠ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1459/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71327592</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Rastislav Gábor</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71545026</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Yen Le Thi</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1459/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71615792</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina SLUNEČKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1459/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>75180421</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Bartoň</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87110695</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Olga MARTIN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87347806</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Schőnherr</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88571769</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ha Van Thi Hai</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01808206</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adam Ondráček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02062216</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Markéta Hilliová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8962230002</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04651430</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Beyerle</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04984951</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Annalise Wilkinson De Rose</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07225385</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Hazaart, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1459/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07800347</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Egbe Ako Agbor Wilson</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1459/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07892047</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Riedl Černíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

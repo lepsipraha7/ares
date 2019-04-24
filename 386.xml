@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01565303</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hana Soukupová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01635310</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Jitka Valníčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13915941</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Nováková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27103986</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Lékárna Veletržní s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 386/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27103986</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27614191</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Ivan Petrov Kokonov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 386/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28956095</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Prague Fertility Centre s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28956095</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42515220</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiřina Havlíčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49388991</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Jana JERIOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60472839</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>&quot;SPECIAL HOME VIDEO&quot;, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60506954</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kristýna Hoyer</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61826286</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Friml</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7404090166</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63985055</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Profin s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=63985055</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66003211</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>EMTEC Magnetics ECE GmbH - organizační složka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=66003211</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66034108</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hana Vidímová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 386/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70102554</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Sdružení 2001, MÍSTNÍ JEDNOTKA PRAHA 7 - evidenční číslo 10223</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70360073</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alžběta JUNGROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71386912</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Gabriela ANDONOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71659315</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk ŘANDA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74758586</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Magdalena Beata GALKA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87541076</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Ibrahim</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 386/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>87561841</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Hoyer</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88260119</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Dana Stehlíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88284701</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jitka Preshevová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01711521</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Gregor</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 386/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03648311</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AsterIVF s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03648311</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03908895</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Andrei Shulha</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 386/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04252608</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Beneš</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 386/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04548418</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Sondany s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04548418</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05077770</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ing. arch. Juraj Kazimír</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 386/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05136164</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Barbora Kováčová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 386/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06195016</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Nina Sereni</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 386/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07616961</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Michal Kazimír</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 386/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07719841</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ALBI FOTO s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 386/63</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07820950</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KURÁŽ shop s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 386/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07857497</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Apparel Corp. s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 386/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>35</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

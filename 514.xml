@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01514512</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. Denisa Dudová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 514/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14938090</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena Vohnoutová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 514/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16900031</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří JÍRA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 514/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26459647</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NITY s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 514/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26459647</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27018873</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>OBRANA AUTORŮ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 514/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27161889</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JESELA, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 514/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27161889</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41799917</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Michal POKORNÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 514/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45692408</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Rostislav Rod</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 514/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6408050880</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48063053</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Blanka Málková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 514/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48117234</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TEMPOTRADE, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 514/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61249793</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NANO ARROW TRADE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 514/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=61249793</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63090988</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Rabas Robert, Mgr.,LL.M., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 514/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7607150166</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68866399</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Natalia Rod</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 514/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70089680</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Klára LIDOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 514/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70352071</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr VONEŠ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 514/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70883416</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Skupina historického šermu IGNIFERI</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 514/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71532340</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Pavla POKORNÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 514/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71672176</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Melanie Christina Rabas</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 514/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>18</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

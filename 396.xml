@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01310763</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Piskáček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 396/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8206040502</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01447777</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Adriána Žehrová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 396/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12599727</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan Bajaja</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 396/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25110331</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>T.O.M. s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 396/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25110331</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25650351</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SAHIBE PRAHA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 396/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27321258</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Svitlana Khustska</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 396/33</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27392996</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hanna Nepyuk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 396/33</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28944798</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lyudmyla Shkyrta</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 396/33</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65991044</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Občanské sdružení ZLOM</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 396/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67762476</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr PISKÁČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 396/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87658470</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Elena Juravleva</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 396/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05474248</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radim Javůrek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 396/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08058474</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Javůrková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 396/33</dtt:jmn>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>13</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

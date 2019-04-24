@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01604261</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karel Vydra</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26688719</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo U Smaltovny 32</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27116581</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SEPHIRA GROUP s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27904300</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SportVision spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Za Císařským mlýnem 1115/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28465652</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>WE invest a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Za Císařským mlýnem 1115/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28465652</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29058520</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Sport Towers Prague s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Za Císařským mlýnem 1115/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29058520</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43930794</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan VRBÍK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45250413</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Tenisový klub Sparta Praha, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Za Císařským mlýnem 1115/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=45250413</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=45250413</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47090171</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel Skružný</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47090863</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zora Šíchová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61495972</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Jitka Halata Janoutová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62223151</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan PAZOUR</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63091828</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Vohralík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63112221</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Pionýr, z. s. - 104. pionýrská skupina Fregata</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=63112221</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64766578</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Roman Pokorný</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64766845</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Hana FIFKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 3, Žižkov, U Rajské zahrady 779/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6159270491</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70352852</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslav FIFKA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5901291363</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70555001</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Katarzyna Elzbieta Pukaj</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71442936</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr DVOŘÁK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71670254</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Petr Strnad</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>73129364</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>LENKA MARTINKOVÁ</dtt:ojm>
+<dtt:jmn>Velká Lhota 58</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7955165856</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76519112</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. et Mgr. JAN VOBOŘIL, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87627736</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Silvie Vavřinová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88691535</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Francisco José Lima Ramírez</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88824632</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Fifková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02386534</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>LIONS KLUB PRAHA AMBASSADOR</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02397072</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Stegmüller</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05949939</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Mgr. Karel Bůna, Účetní kancelář, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07326122</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Blue Pulsar Games s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07794606</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ER Technik s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07922191</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Eduarda Krázelová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

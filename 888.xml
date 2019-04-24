@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>12266892</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Václav Kopecký</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16155564</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Roman Paraska</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22714766</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>o.s. Máta</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24131661</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Ortenovo náměstí 15/888</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25428195</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LIGENA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25648004</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Ortenovo nám.15/888</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=25648004</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28880587</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Viktar Chucheika</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28895282</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MARKADI s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28895282</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28895291</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FARGANA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28895291</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28942817</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Ivan Dobrunyk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60220554</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiřina JIRÁSKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61007269</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Kátlovský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67381391</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marek Stoniš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šternberkova 1258/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67942954</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jindřich Lahoda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7708160405</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68876203</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Cerha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8103310435</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69731659</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Duda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8108264098</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70353573</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří ZEMAN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>72658339</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Markéta Hájková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73604038</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Šimek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75170302</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ha Nguyen Dong</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8010109932</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>75208601</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jan Kuchař</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87074907</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Magdaléna Chvalinová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87530091</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Myroslava Harholinska</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87785048</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Renata Stránská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87888874</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivan Bokoch</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87987759</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mykhaylo Nemesh</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88133087</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Yaroslav Polyak</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88139417</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mykola Dutchak</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88165418</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Nataliya Nehrya</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88285197</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ludmila Fotescu</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88533948</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Oleg Iatsushchak</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88663736</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Serhiy Martynyuk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01740831</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Lucie Stonišová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02381711</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavlo Chashurin</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02514559</dtt:ico>
+<dtt:pf>141</dtt:pf>
+<dtt:ojm>Crossroad.cz, o.p.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=2514559</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02680599</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Hemala</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03376036</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Medek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03452743</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anzhela Bilinska</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03816681</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Šimona Marvanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04903579</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Strnad</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8107211233</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>04976185</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Iris Brunner, MgA.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05231060</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Kašpar</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05960274</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Svitlana Troszok Proskurniak</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06640044</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>What do you create s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 888/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>44</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

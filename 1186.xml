@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01625454</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Bischof</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>10177957</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Šárka KOKEŠOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6553290051</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24661601</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků Přístavní 1186/47</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25614070</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Družstvo Přístavní 47/1186</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=25614070</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25743368</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CEDA service &amp; consulting s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25743368</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=25743368</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28379586</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Fashion Martina s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28379586</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>41929161</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Pavel Horský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=521104098</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45694656</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marcela Bártová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67491146</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Lichý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7409263070</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70395551</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Frolíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7658021360</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73411892</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Jehlík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74136208</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Christine Lessenko</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86946463</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Veronika Krsková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87972701</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jana Subiková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02478285</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SUSHI v DUSHI s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02844478</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>A &amp; H - Komplet servis, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03157768</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BOCAS GROUP s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03166198</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DECADE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07930780</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jonáš Hrubín</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1186/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>19</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

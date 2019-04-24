@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00730327</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Shukhrat Juraev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>00763781</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Doniyor Rasulov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01480537</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alisher Azizov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8501063384</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12611662</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Hana ŘEZÁČOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U elektrárny 137/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13557246</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jaroslav Coufal</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U elektrárny 137/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=360215035</dtt:p_dph>
+<dtt:ceu>2</dtt:ceu>
+<dtt:p_ceu>ico=13557246</dtt:p_ceu>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18388736</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivan Šabinský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U elektrárny 137/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24154822</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>POLITECNICO 1863 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24154997</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JOA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24268950</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků budovy č.p. 137, Šmeralova 3, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24669539</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jokhongir Makhmanazarov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24675717</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Alisher Rustamov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24680206</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Petro Kapchak</dtt:ojm>
+<dtt:jmn>Praha 22, Pitkovice, Holubinková 161/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24707449</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Mirvahid Mirabdullaev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>1</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24709174</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Avazbek Kasimov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24711632</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Avazbek Pirmatov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24717592</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Tolib Nishanov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24752401</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Isomidin Ruvojidinov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24788287</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Pelane Czech s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24788287</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25117360</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EINSTEIN, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25117360</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25785222</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AXYON PRAHA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25785222</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>27204138</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ZIA ELLA, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28368631</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VIgGIU' s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29083842</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ilyosjon Fayziyev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29098629</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Murodulla Imindjanov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43931375</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Markéta HUTHOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U elektrárny 137/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64765199</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mária TÓTHOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U elektrárny 137/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64767949</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Markéta WEISSOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U elektrárny 137/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75941015</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marie ŘEZÁČOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U elektrárny 137/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86993674</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Islam Khasukhanov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7308279979</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87550415</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Azam Narkuziev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>1</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87618931</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Sherali Juraev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87629330</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kuyoshbek Marufov</dtt:ojm>
+<dtt:jmn>Praha 11, Chodov, Cigánkova 1861/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87769476</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Saidnozim Hamdamhodjaev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87928914</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Arslon Urinov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87950448</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Masud Komilov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87990156</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Boymurod Mamatov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88331792</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Jamshid Safarov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88343642</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alisher Akhmedov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88364518</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Komil Israilov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88567834</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Elyorjon Toshev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>88682056</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Sarvar Eshkobilov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88721493</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Abdumalik Abduganiev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88817768</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Shukhrat Djumaev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88881865</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Alohon Koriyev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88889408</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Kayumkhon Akhmadkhodjaev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88922499</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zokirjon Mullajonov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01744780</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Khamidjon Chinikulov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01744887</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Mukhammadali Burkhanov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01755480</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Rustamkhon Sultonov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02124874</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Munavvar Kayumov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02296535</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Sobitkhon Ayupov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02742250</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Madaminkhon Maksudov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02742390</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adkhamjon Kazokov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02742489</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Zokirjon Abduazizov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02798166</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ibrakhimjon Tashbaev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03020231</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Bakhtiyor Khujakulov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03331695</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Jurakul Khasanov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03628078</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Theyakarasa Vinayagamoorththy</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03748103</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Bakhtiyor Akhmedov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03832317</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Isroilkhon Giyosov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>03954498</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Uktam Kurbanov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03964175</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Olga Kim</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03995704</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Iskandar Rasulov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04034147</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Shokirjon Nurmatov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04053214</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Rakhimjon Chulponov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04055667</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Akramjon Saliyev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04070038</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Abdulbori Toshkhujaev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04070178</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Akhadkhon Maksudov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04079116</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Abdunazar Madaminov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04099940</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Marufjon Maksumov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04111711</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Sardor Khabibullaev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04157931</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Murod Khodjaev</dtt:ojm>
+<dtt:jmn>Praha 3, Žižkov, U Rajské zahrady 1055/20</dtt:jmn>
+<dtt:res>1</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04159136</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Chhabi Lal Kandel</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04198972</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Shoohrat Okboev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04265211</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Azamat Jumaev</dtt:ojm>
+<dtt:jmn>Praha 10, Strašnice, Rembrandtova 2187/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04288785</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Erkin Darvishev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04308107</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Muzaffar Akbarov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04333039</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kobiljon Rasulmatov</dtt:ojm>
+<dtt:jmn>Praha 12, Modřany, Kutilova 3061/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04401387</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Mukhiddin Yusupov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04285182</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Otabek Saitakhunov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>04574061</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Komil Mukhamadiev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05101042</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Italian Investing Company s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05099692</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Sergey Bogoslavets</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05313732</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Kutílek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U elektrárny 137/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05368197</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>General Trade Europe s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05368197</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05430496</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Nodir Iuldashev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05465117</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Czech Reality Invest s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05474604</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Askarbek Safarov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05507995</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Volodymyr Deyneka</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05474299</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Mirosław Prusik</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05536031</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Akhmadkhon Inoyatov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05596513</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Farkhod Fayzilloev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05695937</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>ZAHORIAN &amp; VAN ESPEN z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05876711</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Marin Dobrev Angelov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05885272</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Rustam Abaev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05930791</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Tuychibek Tillaev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06044646</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Sadriddinkhon Bakhromov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06168728</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Burkhon Rakhmonov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06204589</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Jakhongir Khamidov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06367267</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Bahodur Bakhadurov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>06465714</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ergash Jumaev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06529674</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Sodikjon Karimov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06680542</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Tokhirjon Aripov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06899889</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Amin Al-Akwaa</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06945881</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Kuvondik Rakhimov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07174951</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Alijon Aliev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07153015</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Akhmadjon Ortikov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8706111425</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07218940</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Shukhratjon Kuziyev</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07222793</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Bakhromjon Rakhmonov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07292147</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>International Consulting&amp;Research Association z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07410239</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adam Chasuchanov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9607034261</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07461321</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bogdan Markov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07406321</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Krásné vyhlídky a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07702582</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Khayotullo Muydinov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8107161920</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07745079</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Gavkhar Allaeva</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07839707</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Akmalkhon Mekhmonov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07944071</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Murodillokhon Jafarov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07973284</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Saidkhon Khoshimov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07973594</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ilyoskhon Dadakhonov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08094161</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Stanislav Isacov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>120</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

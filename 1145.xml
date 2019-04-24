@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00023868</dtt:ico>
+<dtt:pf>301</dtt:pf>
+<dtt:ojm>Zdravoprojekt, státní podnik</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1145/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01489330</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DEHNER media, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1145/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01489330</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24271217</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>re-medical s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1145/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24271217</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24295507</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Zásahová služba s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1145/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24295507</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27203824</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>eMan s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1145/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27203824</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=27203824</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27398951</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PHANTOM engineering, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1145/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27398951</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29199409</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Web Interactive, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1145/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=29199409</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=29199409</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49282417</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ÚPAVAN TRUTNOV spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1145/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=49282417</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=49282417</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01732731</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ADVACAM s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1145/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01732731</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=1732731</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02585081</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Inspirie Consulting s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1145/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02585081</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03479676</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>InsightART s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1145/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03479676</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03618765</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Iniciativa pro zdravé zdravotnictví, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1145/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04199766</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NUM solution s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1145/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04199766</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04191471</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. ADÉLA MANKOVICKÁ, advokátní kancelář</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1145/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04201914</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Asociace výdejců a prodejců zdravotnických prostředků, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1145/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05193672</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>TECHNOLOGY IN GROUP, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1145/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05421179</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>M2H EUROPE, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1145/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07420803</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Artmakers s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Pergamenky 1145/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07420803</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>18</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

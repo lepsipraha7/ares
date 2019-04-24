@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>13094394</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Zdeněk Křenek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, nábřeží Kapitána Jaroše 1000/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ceu>-2</dtt:ceu>
+<dtt:p_ceu>ico=13094394</dtt:p_ceu>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18433057</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Roman Slavík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6311021189</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24130320</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Korunovační 25, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 981/25</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24683981</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SSA hockey camp, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24804266</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SportsEvents s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24804266</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26022885</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TEAM 23, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26022885</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26200791</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>H &amp; H Plus , s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26200791</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26523001</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Pro Bohemia, sdružení pro záchranu kulturních památek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 981/25</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26523001</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27248984</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>LUCKY TEAM 23 s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27248984</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27603491</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Sport Service Agency, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27603491</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43931286</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Štěpánka Ťalská Dreslerová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 981/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45690073</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivanka Zachovalová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49503251</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie SLAVÍKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63090686</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Zuzana Klopacz</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64936066</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Komunitní Centrum Pohybových Aktivit, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65413954</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>H &amp; H GASTRO s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=65413954</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66397421</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Schuber</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 981/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6301121277</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67789609</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Viktor Kykyna</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 981/25</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70978654</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>DAVID KULÍŠEK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 981/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71284265</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Tělocvičná jednota Sokol Praha 1, R-5</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>71337407</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Holomý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7807120013</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71864938</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Žáček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73836826</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana Kulíšková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 981/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74344986</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Ctiborová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74480359</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniela Hannová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 981/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87223741</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub CTIBOR</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04625684</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radek Bakeš</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 981/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05446279</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Christian Krček</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 981/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05631203</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Markéta Krčková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 981/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06005110</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JRS Gastro s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 981/25</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06005110</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06078672</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>JRS Catering s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 981/25</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07341466</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NP MH65 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

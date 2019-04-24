@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00970581</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Robert Burian</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01464604</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radim Novák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13104365</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Junek Jiří, Ing.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6002150990</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15935604</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Zdeněk PRCHAL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18903533</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivana Simandlová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27015602</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Světlu vstříc</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44868197</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Kovařík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62927167</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Prokeš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64769224</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Magda FUKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64895831</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>René Volfík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>65422376</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Jana Eftimovská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67791301</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Vojtěch</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68566115</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Markéta Černá</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71362819</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Zdeněk Vencl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71521577</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Hynek Svrček - WEB - MARKET</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75506432</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Bayer</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8212210039</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03347486</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků U Uranie 1328</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04571720</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Beltif s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04571720</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05212286</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Camino gastronomie s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05212286</dtt:p_dph>
+<dtt:sd>0</dtt:sd>
+<dtt:p_sd>dic=05212286</dtt:p_sd>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06857965</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Petra Ivaneková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>06949941</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tibor Šavel</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07087268</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Carlos Manuel Dreyfus</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07738625</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radim Vinař</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1328/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

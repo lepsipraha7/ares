@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>24278092</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Františka Křížka 1132/6, Praha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1132/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24703583</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Workset s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1132/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24703583</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28555627</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Spolek Trafačka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1132/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=28555627</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45690511</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří VLČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1132/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60180145</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Jan Wagner</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1132/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=530629385</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60217375</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Bouška</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1132/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6711100770</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60488077</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ECHO.s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1132/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61495611</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan VLČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1132/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66025184</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivana Pecinová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1132/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7660120446</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66851319</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina KOSOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1132/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7551170473</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69476195</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Jan Pecina</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1132/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86936719</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Kačer</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1132/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88846466</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Lundák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1132/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6911290386</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04951174</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Jana Miháliková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1132/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07541759</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Koubková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 1132/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>15</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

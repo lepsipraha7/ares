@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>00920568</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Nejedlý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 528/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>10407502</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Karel Bachratý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 528/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26208580</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MAX DALLEN s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 528/19</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26208580</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26680017</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Sdružení chatařů SKALÁCI</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 528/19</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28446437</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CZECH AQUATHERM s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 528/19</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28446437</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45694788</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Bubeníček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 528/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49615661</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>OTTA, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 528/19</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63093901</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jan DUBANIČ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 528/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64769879</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel JODAS</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 528/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66463246</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Klára Bubeníčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 528/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7253280232</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71535900</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Kateřina Van der Kamp</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 528/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71578447</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Křišťan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 528/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71976141</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Křišťan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 528/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7512211223</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73748862</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>František Šolya</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 528/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87571463</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Alice Holubová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 528/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01992376</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ludvík Otevřel</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 528/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05304954</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Cherif Amis</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 528/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8104112621</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>17</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

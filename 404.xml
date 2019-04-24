@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>15083357</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Antonín HUDEC</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16054407</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Pečenka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16123786</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Jelínková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16907566</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Eva Stoklasová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24828203</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>V.P.X. s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26176173</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Česko-čínská společnost pro kulturu a bojové umění, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27909166</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Oksana Pecenkova</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28213548</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SUM, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28213548</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28874137</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Olesya Kovtan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>44268971</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>A. C. Invest spol. s r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=44268971</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>46673504</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel JELÍNEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60461985</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDR.SOŇA MÍČKOVÁ-ORDINACE ODBORNÉHO LÉKAŘE</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>1</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66641241</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Yurii Moshkola</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67808964</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana Bartošová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70914800</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Marcela ŠAJNEROVÁ - ORDINACE PRAKTICKÉHO LÉKAŘE</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71616543</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Richard ZEMAN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74245937</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Marek BALÁŽ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75888149</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Barbora Procházková, DiS.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86629549</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JOSEF BĚHOUNEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88710262</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Linda Mikolášková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8460180267</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>02087243</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vojtěch Janinda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02614383</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SUŠÍRNA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02614383</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03452352</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marek Anděl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03688402</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Oleksandr Dovhaliuk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04054261</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Charvát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04903412</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Krátká</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05025575</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Navrátilová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05596947</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Martin Fridrich, MSc</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06816223</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Interna Veletržní s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07463766</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Hendrych</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07800495</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Fox Maskmaking Bureau s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07814089</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Izabela Nováková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07928939</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KYTRO FOOD s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 404/6</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>33</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

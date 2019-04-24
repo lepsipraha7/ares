@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01408577</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Janský</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 327/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12497061</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>FATUM</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 327/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16193806</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HALE spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 327/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=16193806</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=16193806</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>18438164</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan NEDVĚD</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 327/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26151294</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>OLIVIJÁ COMPANY, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 327/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26151294</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40863956</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Kadeřábková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 327/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=496202053</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61508837</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AUTOCENTRUM HALE společnost s ručením omezeným</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 327/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=61508837</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66249198</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Horáčková Lenka, Mgr., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 327/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66851289</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>František Borůvka</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 327/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67790844</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Nataliya Bandura</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 327/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68576102</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Libor Hromník</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 327/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68864272</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Anna KRUTSAY</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 327/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68864451</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Ivo Stantchev Milanov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 327/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:sh>0</dtt:sh>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71530851</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří SUCHÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 327/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74700693</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Gabriel Pleska</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 327/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75241846</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Bubník</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 327/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75906643</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Soňa Novosádová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 327/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04250249</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Pavlíková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 327/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04655290</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Malířská 327/9, Praha 7- Bubeneč</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 327/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04881931</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Carly Ann Gacci</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 327/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>05619637</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Sara Alyssa Booth</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 327/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>21</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

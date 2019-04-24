@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01210408</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Martin Vytrhlík</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 862/72</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12122858</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Fojtík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>12268208</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zita SLABIHOUDKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>14986809</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslav ŠEDA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15274756</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Helena Vlčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15915603</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Hovorka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6312050822</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15933768</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ilona Vecková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26718511</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo Jankovcova 47</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=26718511</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29137217</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek domu Milady Horákové 862, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 862/72</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>40866912</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivan KOŽEŠNÍK</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 862/72</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45692599</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Jitka PETROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=445108424</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45808180</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PMG Finance spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 862/72</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48549622</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>ZO ČSOP OCHRANA HERPETOFAUNY</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=48549622</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49691139</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jarmila Kincová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61399469</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel HROMEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61493350</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jiří HALEŠ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=61493350</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61497827</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Nechanický</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63875993</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marcela Zachová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 862/72</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7553131718</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64768015</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Pavlík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67371850</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Lenka Hořínková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 862/72</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>68846657</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Petr Mamula, CSc.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 862/72</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70093253</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. Opočenský Jiří</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70350779</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Dawood Hla Shwe</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 862/72</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7208120084</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70353565</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Faras NOORI</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7006190378</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71328777</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Soňa Dědková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 862/72</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74252739</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Pedlík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74911848</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Jindřich Vaněk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8008260832</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76390098</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marek Lerche</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76661920</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika Lakatošová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86613693</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ondřej Zach</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 862/72</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86630733</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Zuzana Chaloupková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 862/72</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87979446</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Havránek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88714471</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Helena Pánková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88847497</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vanda Ondrušová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01939696</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Rémi Marie Bernard Diligent</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 862/72</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6705122930</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03831931</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Havránek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04517920</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zuzana Rizikyová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06178545</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Holub</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06312390</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel Krch</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 862/47</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9203201755</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>39</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

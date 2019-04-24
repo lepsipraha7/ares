@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>26441900</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek U Letenského sadu 4/1292, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1292/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42514347</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vlasta Chocholatá</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1292/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43123431</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Charvát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1292/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6212200852</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63090678</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk VOJAN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1292/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71326774</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Jarmila SCHREIBEROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1292/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=495924248</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=71326774</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71328467</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JUDr. Ing. Samuel Schreiber, advokát</dtt:ojm>
+<dtt:jmn>Praha 1, Nové Město, Na příkopě 854/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7909140448</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71671552</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hugo Schreiber</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1292/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74402307</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Chocholatý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1292/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75542927</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. BcA. Marek Novák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1292/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76543641</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alžběta Charvátová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1292/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8059080260</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06273891</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ABTSMOLEN, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U letenského sadu 1292/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06273891</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>11</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

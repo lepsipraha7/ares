@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>15111482</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing. Ivan Chandrycký</dtt:ojm>
+<dtt:jmn>Praha 2, Vinohrady, Slezská 2033/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6105181588</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>22818715</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>KRS RALLYTEAM o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1323/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24834734</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PLAYADA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1323/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24834734</dtt:p_dph>
+<dtt:sd>0</dtt:sd>
+<dtt:p_sd>dic=24834734</dtt:p_sd>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27127770</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Tetyana Makarenko</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1323/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28395069</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek U Uranie 1323/17, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1323/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=28395069</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45276528</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TAX CREDIT, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1323/17</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=45276528</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61493864</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel ROUS</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1323/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7108100505</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63301288</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Král</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1323/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ir>0</dtt:ir>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64769801</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Tomáš Čistecký</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1323/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74319400</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Emil Marcin</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1323/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8507110425</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76372049</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Rut Vitkovičová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1323/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01902636</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Cileček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1323/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04994043</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marek Batyi</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1323/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>13</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01475126</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Bc. Peter Gründling</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>11223910</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Novák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13557688</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Pařízek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15307361</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miloš Kličman</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6605040123</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27410871</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CZ Racing Team s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27410871</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28373227</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Na Maninách 1424/23,25, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=28373227</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28449886</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Trong Chin Dinh</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43079598</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ladislav Hurt</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=5901050980</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43773192</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr IBL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6711301421</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43927912</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel HADRAVA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43934081</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mauro LAZZARI</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45692068</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav PUŠMAN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60200936</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Codex spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=60200936</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=60200936</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61492469</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika MELENOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62619501</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Khuong Duong Danh</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63090317</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Renata Fialová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63095912</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vladimír VOHÁNKA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64768422</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Martin Vrba</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66108152</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marcela Kratochvílová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67788424</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hana FIFKOVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>67791131</dtt:ico>
+<dtt:pf>107</dtt:pf>
+<dtt:ojm>Mgr. Josef Boček</dtt:ojm>
+<dtt:jmn>Písek, Budějovické Předměstí, Jiřího Srnky 2496</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=67791131</dtt:p_cedr>
+<dtt:szr>0</dtt:szr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67951201</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Tetyana Yatskovych</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68846967</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Kutina</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69424985</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Miroslava Fůrová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69696853</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. arch. Jarmila Kopečná</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71327037</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Matúš PRÍKAZSKÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71327053</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal HERMAN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73530611</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>EVA JEZBEROVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73819352</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jacek Bukovský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74685082</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Němcová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75221861</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Václav Dejmek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76077985</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Petr Perun</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8007273593</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76217451</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Kuba</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76330613</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ján Milan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8108299045</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76549551</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petra Blažková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87449366</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Hejma</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88388808</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Michael Šimon</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01912909</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HOME správná správa s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02184605</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Občanské sdružení chatové osady Čelkovice - Lužnice</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02914115</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Christina Pidlozná</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9056154283</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>04114507</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Kopecký</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05848202</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ALGAMAC SYSTEMS, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06618065</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Martina Palermo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06618090</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Lidia Cultrera</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06913385</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Libuša Šášiková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06965342</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ana Fligić</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1424/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>46</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

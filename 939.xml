@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>15946797</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Petr RYCHETSKÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24810746</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>COMINT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24810746</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>25786156</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TOMA EXPRES-PRAHA, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26466341</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Jana Zajíce 939/8</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28517067</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DELICIOUS FOOD s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45109541</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Soňa Formanová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45695113</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel HUBENÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47091975</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Štěpán Ježek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 939/7b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>47309971</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Lovosklady a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 939/7b</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=47309971</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=47309971</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60453133</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Irena Collins</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 939/7b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60858974</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Vytopil</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66467268</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin ZÍKA</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67668933</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Saidl</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6907020351</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>68514484</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Sabina Klemová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 939/7b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70346968</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Jahnová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 939/7b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74612603</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Solnička</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 939/7b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75153327</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek Letohradská 939, Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 939/7b</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=75153327</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87973456</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Christina Prokorátová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 939/7b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=9054204170</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88190137</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Věra Kirschner</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02504286</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslava Hanusová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>02888904</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ReHope s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02888904</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03755983</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Lucie Forman</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04432584</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Společnost pro historii z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05741581</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Paul Andrew Dean</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=684026647</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07706481</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Foama s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07706481</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

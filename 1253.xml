@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi vystup_format="XML" odpoved_typ="es" Id="ares" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0/ares_answer_es.xsd" xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_es/v_1.0.0" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<are:Odpoved>
+<dtt:V>
+<dtt:S>
+<dtt:ico>01142607</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslava Vernerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01604058</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Verner</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>13797841</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Aleš Trnka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>15303501</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jitka Lazarčíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>16125126</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Lubomír Bartoň</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6007140854</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24288446</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek pro dům Schnirchova 1253/3 Praha 7</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26428237</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NO SET, spol. s r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=26428237</dtt:p_dph>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26938961</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Invoka s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26938961</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28939018</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Nadiya Khoma</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28968913</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ČES-Projekt s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28968913</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29153735</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FRETEMELA GROUP s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43926851</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ladislav Starý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6909050379</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43928901</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Magdaléna Dolečková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>43932665</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ladislav STARÝ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45386714</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Vaniš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>45699437</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Neoral</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6412311675</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>63082624</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Bytové družstvo domu Schnirchova 3/1253 v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64768350</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Froněk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67396526</dtt:ico>
+<dtt:pf>102</dtt:pf>
+<dtt:ojm>Slobodanka RADUN</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67789552</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš PANCHÁRTEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7503140436</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>68135319</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. RENATA HURYCHOVÁ, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70134251</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucia Andersonová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71327924</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Jiřík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71830286</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>PAVEL SELINGER</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74091921</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Olga Šléglová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6460021150</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86631284</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Vratislava Drozenová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87709953</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Indra</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02390906</dtt:ico>
+<dtt:pf>932</dtt:pf>
+<dtt:ojm>Aranova SE</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03104052</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Innovation Centre of Excellence s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03241939</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Robert John Anderson</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6412247490</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06445985</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Lazarčík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06537634</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Revize Elektro Plyn s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07045964</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Zdeněk Šlégl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 1253/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>33</dtt:Pocet_zaznamu>
+<dtt:Filtr>1</dtt:Filtr>
+</are:Odpoved>
+</are:Ares_odpovedi>

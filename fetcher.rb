@@ -8,6 +8,8 @@ cisla_popisna = (1..1618).to_a-[4, 5, 6, 7, 8, 10, 12, 15, 16, 17, 19, 21, 22, 2
 cisla_popisna.each{|cislo_popisne|
   puts cislo_popisne
   File.open(File.join("source","#{cislo_popisne}.xml"),"w") {
-    |f| f<<open("http://wwwinfo.mfcr.cz/cgi-bin/ares/ares_es.cgi?jazyk=cz&obch_jm=&ico=&cestina=cestina&obec=Praha+7&k_fu=&maxpoc=1000&ulice=&cis_or=#{cislo_popisne}&cis_po=&setrid=ZADNE&pr_for=&nace=&xml=0&filtr=1").read
+    |f| f<<open("http://wwwinfo.mfcr.cz/cgi-bin/ares/ares_es.cgi?jazyk=cz&obch_jm=&ico=&cestina=cestina&obec=Praha+7&k_fu=&maxpoc=1000&ulice=&cis_or=#{cislo_popisne}&cis_po=&setrid=ZADNE&pr_for=&nace=&xml=0&filtr=1").read.gsub(
+      / odpoved_datum_cas="\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}"/,''
+    )
   }
 }

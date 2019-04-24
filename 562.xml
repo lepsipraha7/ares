@@ -3,14 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>00941808</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Barbora Zikmundová</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Ovenecká 73/25</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>13797034</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Irena Nádvorníková</dtt:ojm>
@@ -199,8 +191,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>87224798</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -212,6 +202,8 @@
 <dtt:p_dph>dic=8008180301</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03447413</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -241,14 +233,6 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>06401091</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Milan Jelínek</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Veletržní 562/50</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>06720340</dtt:ico>
@@ -308,7 +292,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

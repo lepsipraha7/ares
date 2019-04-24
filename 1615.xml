@@ -3,14 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>00974871</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Tatiana Obraztsova</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jateční 1615/45</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>01490966</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Lucie Oravčíková</dtt:ojm>
@@ -203,8 +195,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>87317613</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -214,6 +204,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>87629186</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -242,14 +234,6 @@
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=8207263328</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>88498310</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Miroslav Filip</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Na Maninách 1615/2</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>03391604</dtt:ico>
@@ -322,17 +306,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>05656044</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Ján Lopušek</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Na Maninách 1615/2</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=8509049560</dtt:p_dph>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>01886126</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Martin Havlíček</dtt:ojm>
@@ -396,8 +369,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07647107</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -426,7 +397,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>43</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>40</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

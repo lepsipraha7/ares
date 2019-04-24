@@ -362,18 +362,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>26471701</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>NAGUAL Corporation s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Bubenská 113/47</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=26471701</dtt:p_dph>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>26539004</dtt:ico>
 <dtt:pf>706</dtt:pf>
 <dtt:ojm>PSTRUH</dtt:ojm>
@@ -448,8 +436,6 @@
 <dtt:p_dph>dic=27079104</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>27147401</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -462,6 +448,8 @@
 <dtt:p_dph>dic=27147401</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>27191168</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -662,8 +650,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>46872736</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -673,6 +659,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>48028053</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -878,8 +866,6 @@
 <dtt:p_dph>dic=7503170092</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>63094231</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -889,6 +875,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>63833484</dtt:ico>
 <dtt:pf>421</dtt:pf>
@@ -1077,8 +1065,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>73153125</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1088,6 +1074,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>73411892</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1262,8 +1250,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>88500659</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1273,6 +1259,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>88714471</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1462,8 +1450,6 @@
 <dtt:p_dph>dic=06605842</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07101376</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1476,6 +1462,8 @@
 <dtt:p_dph>dic=07101376</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07144407</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1533,7 +1521,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>147</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>146</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

@@ -191,14 +191,6 @@
 <dtt:sh>0</dtt:sh>
 </dtt:S>
 <dtt:S>
-<dtt:ico>70978654</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>DAVID KULÍŠEK</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Korunovační 981/25</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>71284265</dtt:ico>
 <dtt:pf>736</dtt:pf>
 <dtt:ojm>Tělocvičná jednota Sokol Praha 1, R-5</dtt:ojm>
@@ -207,8 +199,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>71337407</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -220,6 +210,8 @@
 <dtt:p_dph>dic=7807120013</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>71864938</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -324,7 +316,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

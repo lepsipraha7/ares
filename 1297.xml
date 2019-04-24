@@ -177,15 +177,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>61463361</dtt:ico>
-<dtt:pf>205</dtt:pf>
-<dtt:ojm>Bytové družstvo nájemců v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 1297/9</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>67779662</dtt:ico>
 <dtt:pf>706</dtt:pf>
 <dtt:ojm>FC Háje Jižní Město, z.s.</dtt:ojm>
@@ -214,8 +205,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>74714601</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -227,6 +216,8 @@
 <dtt:p_dph>dic=8211160430</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>88122115</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -279,7 +270,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>26</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

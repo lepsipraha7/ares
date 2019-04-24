@@ -27,18 +27,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>24721468</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>TURBO 16 s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1578/14</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=24721468</dtt:p_dph>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>24750301</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>FRIGO EXPRES s.r.o.</dtt:ojm>
@@ -227,8 +215,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>28458923</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -238,6 +224,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>28480015</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -435,8 +423,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06761917</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -447,6 +433,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06963714</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -457,7 +445,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>42</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>41</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

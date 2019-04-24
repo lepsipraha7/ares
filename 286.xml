@@ -862,7 +862,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=49702696</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -1196,16 +1196,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>03449017</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>United Registrar of Systems ( Products) s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Argentinská 286/38</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>03487776</dtt:ico>
 <dtt:pf>706</dtt:pf>
 <dtt:ojm>Ukrainian Business Club in Czech Republic z.s.</dtt:ojm>
@@ -1380,8 +1370,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04216881</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1394,6 +1382,8 @@
 <dtt:p_dph>dic=04216881</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04309634</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1594,8 +1584,6 @@
 <dtt:p_dph>dic=05311080</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05319536</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1606,6 +1594,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05330998</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1812,8 +1802,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06851631</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1824,6 +1812,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06906796</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1938,7 +1928,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>172</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>171</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

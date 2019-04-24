@@ -3,18 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>24222372</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>OBAL - SILEX s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=24222372</dtt:p_dph>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>24851621</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Grafit Bohemia s.r.o. v likvidaci</dtt:ojm>
@@ -231,8 +219,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>63077159</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -245,6 +231,8 @@
 <dtt:p_dph>dic=63077159</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>63834413</dtt:ico>
 <dtt:pf>704</dtt:pf>
@@ -400,11 +388,12 @@
 <dtt:ojm>EU-Personal-ANÜ s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Přístavní 531/24</dtt:jmn>
 <dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>36</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>35</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

@@ -3,19 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>01539485</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Prague Company s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Bubenská 1536/43</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=01539485</dtt:p_dph>
-<dtt:ir>0</dtt:ir>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>24142131</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>AMZ Revital Group s.r.o.</dtt:ojm>
@@ -230,8 +217,6 @@
 <dtt:p_dph>dic=27190056</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>28224531</dtt:ico>
 <dtt:pf>121</dtt:pf>
@@ -243,6 +228,8 @@
 <dtt:p_dph>dic=28224531</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>28229398</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -373,11 +360,12 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Elena Kozina</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Bubenská 1536/43</dtt:jmn>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>33</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

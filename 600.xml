@@ -137,18 +137,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>26758318</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>GRIČ s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Milady Horákové 600/38</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=26758318</dtt:p_dph>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>26765501</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>JET-ARNI, s.r.o.</dtt:ojm>
@@ -213,8 +201,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>27227065</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -224,6 +210,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>27386511</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -415,8 +403,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>62908120</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -427,6 +413,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>63667479</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -616,8 +604,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05530644</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -630,6 +616,8 @@
 <dtt:p_dph>dic=05530644</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05840015</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -654,7 +642,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>63</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>62</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

@@ -127,7 +127,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=01652915</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -1084,9 +1084,9 @@
 </dtt:S>
 <dtt:S>
 <dtt:ico>48082635</dtt:ico>
-<dtt:pf>105</dtt:pf>
+<dtt:pf>101</dtt:pf>
 <dtt:ojm>Jana Čejková</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 148/35</dtt:jmn>
+<dtt:jmn>Praha 3, Žižkov, Řehořova 932/27</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -1449,6 +1449,17 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>66465770</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ivan Slavík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, nábřeží Kapitána Jaroše 1000/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
 <dtt:ico>66466679</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jiří Havlíček</dtt:ojm>
@@ -1457,8 +1468,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>66467071</dtt:ico>
 <dtt:pf>100</dtt:pf>
@@ -1636,6 +1645,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>70350981</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1647,8 +1658,6 @@
 <dtt:p_dph>dic=7706080448</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>70352577</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1829,6 +1838,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>73870439</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1838,8 +1849,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>73885657</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2018,6 +2027,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>86923382</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2027,8 +2038,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>86938754</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2205,6 +2214,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>02055121</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2214,8 +2225,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>02261634</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -2405,6 +2414,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04057961</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -2414,8 +2425,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04142390</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2598,6 +2607,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06460143</dtt:ico>
 <dtt:pf>421</dtt:pf>
@@ -2610,8 +2621,6 @@
 <dtt:p_dph>dic=684274734</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06663486</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2795,7 +2804,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>279</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>280</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

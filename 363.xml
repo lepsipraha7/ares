@@ -14,15 +14,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>18403735</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Eva Forejt Kopecká</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>24182702</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>MGM Solutions s.r.o.</dtt:ojm>
@@ -215,8 +206,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>67886833</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -228,6 +217,8 @@
 <dtt:p_dph>dic=8002252049</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>70787662</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -328,7 +319,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

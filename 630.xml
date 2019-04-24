@@ -159,14 +159,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>67586384</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Ondřej Merta</dtt:ojm>
-<dtt:jmn>Brno-střed, Zábrdovice, Příční 119/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>67803130</dtt:ico>
 <dtt:pf>102</dtt:pf>
 <dtt:ojm>Van Nam Le</dtt:ojm>
@@ -207,8 +199,6 @@
 <dtt:p_dph>dic=8455080084</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>71663525</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -218,6 +208,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>71670700</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -337,7 +329,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>33</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

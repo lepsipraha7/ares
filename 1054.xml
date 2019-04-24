@@ -1906,20 +1906,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>61060453</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>PRISMUS, spol. s r.o.v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Přívozní 1054/2</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=61060453</dtt:p_dph>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-</dtt:V>
-<dtt:V>
-<dtt:S>
 <dtt:ico>61679330</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>&quot;W - Natur&quot;, s.r.o.</dtt:ojm>
@@ -1931,6 +1917,8 @@
 <dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>61761206</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1996,7 +1984,7 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Pavel Kutáč</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Přívozní 1054/2</dtt:jmn>
-<dtt:res>1</dtt:res>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=7501024982</dtt:p_dph>
@@ -2145,8 +2133,6 @@
 <dtt:p_dph>dic=03932842</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04421426</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -2159,6 +2145,8 @@
 <dtt:p_dph>dic=04421426</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05234751</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -2362,8 +2350,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>08026084</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -2375,7 +2361,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>201</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>200</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

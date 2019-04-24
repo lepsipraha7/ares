@@ -3,14 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>00941808</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Barbora Zikmundová</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Ovenecká 73/25</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>13164554</dtt:ico>
 <dtt:pf>105</dtt:pf>
 <dtt:ojm>Ing.arch. Bečvář Pavel</dtt:ojm>
@@ -195,8 +187,6 @@
 <dtt:p_dph>dic=02725983</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03148394</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -206,6 +196,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03521117</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -300,7 +292,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

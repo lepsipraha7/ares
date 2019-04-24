@@ -413,15 +413,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>88817768</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Shukhrat Djumaev</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>88881865</dtt:ico>
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Alohon Koriyev</dtt:ojm>
@@ -574,8 +565,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03954498</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -585,6 +574,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03964175</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -680,7 +671,7 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Murod Khodjaev</dtt:ojm>
 <dtt:jmn>Praha 3, Žižkov, U Rajské zahrady 1055/20</dtt:jmn>
-<dtt:res>1</dtt:res>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -704,9 +695,9 @@
 </dtt:S>
 <dtt:S>
 <dtt:ico>04265211</dtt:ico>
-<dtt:pf>424</dtt:pf>
+<dtt:pf>101</dtt:pf>
 <dtt:ojm>Azamat Jumaev</dtt:ojm>
-<dtt:jmn>Praha 10, Strašnice, Rembrandtova 2187/8</dtt:jmn>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -756,8 +747,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04574061</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -767,6 +756,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05101042</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -944,8 +935,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06465714</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -955,6 +944,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06529674</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -979,8 +970,8 @@
 <dtt:ojm>Amin Al-Akwaa</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>06945881</dtt:ico>
@@ -990,15 +981,6 @@
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>07174951</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Alijon Aliev</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>07153015</dtt:ico>
@@ -1133,7 +1115,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>120</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>118</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

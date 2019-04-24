@@ -173,15 +173,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>76460550</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Christo Gluškov</dtt:ojm>
-<dtt:jmn>Praha 4, Krč, Antala Staška 1565/30</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>87110318</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Martina Jelínková</dtt:ojm>
@@ -199,8 +190,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>02354713</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -210,6 +199,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>02924382</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -298,7 +289,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

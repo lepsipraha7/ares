@@ -18,14 +18,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>00964247</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Daniel Prouza</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, nábřeží Kapitána Jaroše 1000/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>01363166</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Miroslav Janků</dtt:ojm>
@@ -59,7 +51,7 @@
 <dtt:ojm>Jan Alexandr Karabello</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, nábřeží Kapitána Jaroše 1000/7</dtt:jmn>
 <dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
+<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>22893741</dtt:ico>
@@ -122,14 +114,6 @@
 <dtt:jmn>Praha 7, Holešovice, nábřeží Kapitána Jaroše 1000/7</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>1</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>71922300</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Olga Sochorová</dtt:ojm>
-<dtt:jmn>Jenštejn, Radonická 91</dtt:jmn>
-<dtt:res>0</dtt:res>
 <dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -142,14 +126,6 @@
 <dtt:p_dph>dic=8360290488</dtt:p_dph>
 <dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>75079054</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Iveta Kubíčková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, nábřeží Kapitána Jaroše 1000/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>75393565</dtt:ico>
@@ -179,17 +155,6 @@
 <dtt:rzp>1</dtt:rzp>
 <dtt:ros>1</dtt:ros>
 </dtt:S>
-<dtt:S>
-<dtt:ico>87424410</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Jiří Drechsler</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, nábřeží Kapitána Jaroše 1000/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>88621936</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -225,6 +190,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>1</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03812332</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -265,7 +232,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

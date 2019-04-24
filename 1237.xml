@@ -3,14 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>01013025</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Oldřich Zahrádka</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Na Maninách 1237/38</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>16177363</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Martin MIHALIČEK</dtt:ojm>
@@ -188,8 +180,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05248248</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -199,6 +189,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06169236</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -238,7 +230,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

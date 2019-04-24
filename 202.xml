@@ -910,16 +910,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>66462908</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>EVA PLUHAŘOVÁ</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Tovární 202/3</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=465101034</dtt:p_dph>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>67273157</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Václav Pospíšil</dtt:ojm>
@@ -1024,8 +1014,6 @@
 <dtt:p_dph>dic=7608130332</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>71670491</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1037,6 +1025,8 @@
 <dtt:p_dph>dic=7607310337</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>73479161</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1192,18 +1182,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>02007789</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>System eco-version s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Tovární 202/3</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=02007789</dtt:p_dph>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>02077434</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Pavel Trmal</dtt:ojm>
@@ -1221,8 +1199,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03334163</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1244,6 +1220,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03453774</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1404,7 +1382,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>138</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>136</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

@@ -22,6 +22,20 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>24247774</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>REAL ESTATE BROKER SERVICES s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24247774</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=24247774</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>24270393</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>KORUNNÍ INVEST s.r.o.</dtt:ojm>
@@ -217,6 +231,8 @@
 <dtt:p_cedr>ico=27117111</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>27117138</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -226,8 +242,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>27118746</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -433,6 +447,8 @@
 <dtt:p_dph>dic=27622231</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>27636852</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -446,8 +462,6 @@
 <dtt:p_dph>dic=27636852</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>27638324</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -673,6 +687,8 @@
 <dtt:p_dph>dic=03551369</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03697738</dtt:ico>
 <dtt:pf>145</dtt:pf>
@@ -682,8 +698,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03651461</dtt:ico>
 <dtt:pf>145</dtt:pf>
@@ -881,6 +895,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>08016003</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -892,7 +908,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>80</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>81</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

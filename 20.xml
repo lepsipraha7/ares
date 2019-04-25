@@ -835,7 +835,7 @@
 <dtt:S>
 <dtt:ico>26431483</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>LABYRINT group s.r.o.</dtt:ojm>
+<dtt:ojm>LABYRINT group s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Tusarova 1464/20</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -4603,6 +4603,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>06081088</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Natalia Mikhaylova</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V přístavu 1585/20</dtt:jmn>
+<dtt:res>1</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>06114512</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Václav Sladký</dtt:ojm>
@@ -4640,6 +4649,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06237487</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -4649,8 +4660,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06245129</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -4834,6 +4843,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07094698</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -4843,8 +4854,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07159404</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -5027,6 +5036,8 @@
 <dtt:p_dph>dic=07851928</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07856865</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -5038,8 +5049,6 @@
 <dtt:p_dph>dic=6158227306</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07871228</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -5069,7 +5078,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>503</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>504</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

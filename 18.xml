@@ -3139,6 +3139,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>87868202</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Buřil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1251/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>87950693</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Tomáš Hodr</dtt:ojm>
@@ -3257,6 +3266,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>88576353</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3266,8 +3277,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>88594599</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3450,6 +3459,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03045021</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -3462,8 +3473,6 @@
 <dtt:p_cedr>ico=3045021</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03145531</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3661,6 +3670,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04408969</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -3670,8 +3681,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04460413</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -3868,6 +3877,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05265681</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -3877,8 +3888,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05310725</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -4067,6 +4076,8 @@
 <dtt:p_dph>dic=05917280</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05917352</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -4078,8 +4089,6 @@
 <dtt:p_dph>dic=05917352</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05942195</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -4263,6 +4272,8 @@
 <dtt:p_dph>dic=06762816</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06776302</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -4275,8 +4286,6 @@
 <dtt:p_dph>dic=06776302</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06888836</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -4468,6 +4477,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07929846</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -4477,8 +4488,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>08030928</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -4507,7 +4516,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>443</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>444</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

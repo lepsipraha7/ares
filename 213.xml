@@ -1566,6 +1566,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01757687</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -1904,6 +1906,17 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>07214898</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Rezidence Bukovka s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 213/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07214898</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>07235917</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Kreativ Gang CZ s.r.o.</dtt:ojm>
@@ -2019,7 +2032,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>176</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>177</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

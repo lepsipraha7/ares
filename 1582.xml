@@ -73,7 +73,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=01594885</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -312,7 +312,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=25820893</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -1033,15 +1033,6 @@
 <dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>74126296</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Lukáš Popela</dtt:ojm>
-<dtt:jmn>Třebíč, Nové Dvory, U Studánky 430/15</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>75180634</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Kateřina Petruk</dtt:ojm>
@@ -1097,8 +1088,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>76050912</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1108,6 +1097,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>76175553</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1315,8 +1306,6 @@
 <dtt:p_dph>dic=02334721</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>02396262</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1329,6 +1318,8 @@
 <dtt:p_dph>dic=02396262</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>02604965</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1530,8 +1521,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03708438</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1541,6 +1530,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03709256</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -1569,6 +1560,8 @@
 <dtt:jmn>Praha 7, Holešovice, Varhulíkové 1582/24</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8358049524</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -1738,8 +1731,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04122500</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1750,6 +1741,8 @@
 <dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04133030</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -1868,7 +1861,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>173</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>172</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

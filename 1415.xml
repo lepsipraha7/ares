@@ -73,16 +73,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>24819654</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Apulas s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 3, Žižkov, Olšanská 2898/4d</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>26632772</dtt:ico>
 <dtt:pf>706</dtt:pf>
 <dtt:ojm>Sdružení akcionářů SG-Industry, a.s.</dtt:ojm>
@@ -207,8 +197,6 @@
 <dtt:p_dph>dic=7502221969</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>66224870</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -218,6 +206,8 @@
 <dtt:ir>0</dtt:ir>
 <dtt:ros>1</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>67370144</dtt:ico>
 <dtt:pf>102</dtt:pf>
@@ -408,8 +398,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05146038</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -419,6 +407,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05267536</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -581,7 +571,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>57</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>56</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

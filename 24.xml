@@ -204,7 +204,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=01594885</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -1029,7 +1029,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=25820893</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -2397,15 +2397,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>49108859</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Miroslav Pánek</dtt:ojm>
-<dtt:jmn>Praha 6, Ruzyně, Stochovská 185/36</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>49115669</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Rostislav Maria Müller</dtt:ojm>
@@ -2562,8 +2553,6 @@
 <dtt:p_dph>dic=60465212</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>60474602</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2575,6 +2564,8 @@
 <dtt:p_dph>dic=6609282075</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>61063690</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -2778,8 +2769,6 @@
 <dtt:p_dph>dic=63077426</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>63093049</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2791,6 +2780,8 @@
 <dtt:p_dph>dic=7611210332</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>63095335</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2969,8 +2960,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>66189357</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2980,6 +2969,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>66199981</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -3159,8 +3150,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>67789269</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3170,6 +3159,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>67789811</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3347,8 +3338,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>70353336</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3358,6 +3347,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>70461759</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3551,8 +3542,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>71618163</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3562,6 +3551,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>71670432</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3742,8 +3733,6 @@
 <dtt:p_dph>dic=8354190702</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>73964450</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3755,20 +3744,13 @@
 <dtt:p_dph>dic=8205034365</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>74125451</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Vít Konopa</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Šmeralova 933/24</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>74126296</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Lukáš Popela</dtt:ojm>
-<dtt:jmn>Třebíč, Nové Dvory, U Studánky 430/15</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -3931,8 +3913,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>75479443</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3953,6 +3933,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>75710722</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -4126,8 +4108,6 @@
 <dtt:p_dph>dic=9205160426</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>87593513</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -4148,6 +4128,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>87705419</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -4318,8 +4300,6 @@
 <dtt:p_dph>dic=7961045873</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>01659201</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -4344,6 +4324,8 @@
 <dtt:p_cedr>ico=1757750</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>01862359</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -4541,8 +4523,6 @@
 <dtt:p_dph>dic=02790599</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>02791218</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -4564,6 +4544,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>02874407</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -4645,18 +4627,6 @@
 <dtt:res>0</dtt:res>
 <dtt:cedr>0</dtt:cedr>
 <dtt:p_cedr>ico=2948516</dtt:p_cedr>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>03192903</dtt:ico>
-<dtt:pf>121</dtt:pf>
-<dtt:ojm>Riocath Medical Devices, a.s.</dtt:ojm>
-<dtt:jmn>Praha 6, Bubeneč, Podbabská 1112/13</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=03192903</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -4750,8 +4720,6 @@
 <dtt:p_dph>dic=03500993</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03517195</dtt:ico>
 <dtt:pf>145</dtt:pf>
@@ -4780,6 +4748,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03603458</dtt:ico>
 <dtt:pf>121</dtt:pf>
@@ -4837,6 +4807,8 @@
 <dtt:jmn>Praha 7, Holešovice, Varhulíkové 1582/24</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8358049524</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -4957,8 +4929,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04066171</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -4990,6 +4960,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04102762</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -5154,8 +5126,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04560817</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -5186,6 +5156,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04622367</dtt:ico>
 <dtt:pf>121</dtt:pf>
@@ -5357,8 +5329,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06036732</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -5386,6 +5356,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06260969</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -5420,18 +5392,6 @@
 <dtt:jmn>Praha 7, Bubeneč, Korunovační 50/24</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>06684998</dtt:ico>
-<dtt:pf>121</dtt:pf>
-<dtt:ojm>Riocath Global, a.s.</dtt:ojm>
-<dtt:jmn>Praha 6, Bubeneč, Podbabská 1112/13</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=06684998</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -5499,18 +5459,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>07438117</dtt:ico>
-<dtt:pf>121</dtt:pf>
-<dtt:ojm>Riocath Trade, a.s.</dtt:ojm>
-<dtt:jmn>Praha 6, Bubeneč, Podbabská 1112/13</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=07438117</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>07437731</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Daniel Pálenský</dtt:ojm>
@@ -5559,8 +5507,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>08013098</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -5579,7 +5525,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>542</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>537</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

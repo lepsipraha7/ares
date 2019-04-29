@@ -672,6 +672,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03419797</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -790,18 +792,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>04853148</dtt:ico>
-<dtt:pf>121</dtt:pf>
-<dtt:ojm>ATG PRINCIPAL GROUP a.s.</dtt:ojm>
-<dtt:jmn>Praha 1, Nové Město, Václavské náměstí 837/11</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=04853148</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>04952171</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Sociální podnik ONLY OPTION s.r.o.</dtt:ojm>
@@ -905,8 +895,6 @@
 <dtt:p_dph>dic=05516927</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05618932</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -916,6 +904,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05652952</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1120,8 +1110,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06524150</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1134,6 +1122,8 @@
 <dtt:p_dph>dic=06524150</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06532837</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1290,7 +1280,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>116</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>115</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

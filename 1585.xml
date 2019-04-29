@@ -13,15 +13,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>22734406</dtt:ico>
-<dtt:pf>706</dtt:pf>
-<dtt:ojm>All 41 - RW 4 Team, z.s.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Kostelní 1102/12</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>24242373</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>DRAKES advokáti s.r.o.</dtt:ojm>
@@ -220,8 +211,6 @@
 <dtt:p_dph>dic=27634051</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>27635872</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -234,6 +223,8 @@
 <dtt:p_dph>dic=27635872</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>27671429</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -432,7 +423,7 @@
 <dtt:jmn>Praha 7, Holešovice, V přístavu 1585/8</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=7308262368</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -446,8 +437,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>63633396</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -457,6 +446,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>63964732</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -566,15 +557,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>88035956</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Natalija Valerijivna Veselá</dtt:ojm>
-<dtt:jmn>Praha 1, Hradčany, Hradčanské náměstí 61/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>88041123</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Tomáš Drážný</dtt:ojm>
@@ -644,8 +626,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>02632535</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -666,6 +646,8 @@
 <dtt:p_dph>dic=02643197</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>02937948</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -851,8 +833,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05180503</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -873,6 +853,8 @@
 <dtt:p_dph>dic=8962055729</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06081088</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -969,7 +951,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>92</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>90</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

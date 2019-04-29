@@ -960,7 +960,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=24234591</dtt:p_dph>
 <dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
@@ -3618,7 +3618,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=29017637</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -5335,15 +5335,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>64766390</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Renáta NOVÁKOVÁ</dtt:ojm>
-<dtt:jmn>Chlumín 189</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>64766951</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jiřina PAVLORKOVÁ</dtt:ojm>
@@ -5503,8 +5494,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>66463912</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -5516,6 +5505,8 @@
 <dtt:p_dph>dic=6705120675</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>66465320</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -5694,8 +5685,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>68866089</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -5705,6 +5694,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>68866542</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -5849,17 +5840,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>70347441</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Tomáš Musil</dtt:ojm>
-<dtt:jmn>Praha 6, Hradčany, K Brusce 281/9</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=7305170026</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>70348502</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jiří Hron</dtt:ojm>
@@ -5886,8 +5866,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>70349584</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -5906,6 +5884,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>70350418</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -6073,8 +6053,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>71639624</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6095,6 +6073,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>71671692</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6264,8 +6244,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>74268091</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6284,6 +6262,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>74365703</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -6453,8 +6433,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>76001105</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6475,6 +6453,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>76175791</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6648,8 +6628,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>87223996</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6670,6 +6648,8 @@
 <dtt:p_dph>dic=8808031397</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>87362902</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6695,15 +6675,6 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Petr Smrkovský</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Osadní 1474/2</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>87473186</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Lukáš Bejvl</dtt:ojm>
-<dtt:jmn>Praha-Zličín, Zličín, Křivatcová 502/7</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -6837,8 +6808,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>88663582</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6869,6 +6838,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>01715305</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -7044,8 +7015,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>02512335</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -7079,6 +7048,8 @@
 <dtt:p_dph>dic=02509245</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>02652633</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -7250,8 +7221,6 @@
 <dtt:p_dph>dic=03559670</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03574571</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -7288,6 +7257,8 @@
 <dtt:p_dph>dic=03226204</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03579298</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -7460,8 +7431,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04398351</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -7496,6 +7465,8 @@
 <dtt:p_dph>dic=04452020</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04503139</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -7664,8 +7635,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05070503</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -7699,6 +7668,8 @@
 <dtt:p_dph>dic=05234751</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05259088</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -7803,18 +7774,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>05400651</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Antikvarium s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 359/21</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=05400651</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>05465958</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>House One s.r.o.</dtt:ojm>
@@ -7860,8 +7819,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>01814796</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -7900,6 +7857,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05719691</dtt:ico>
 <dtt:pf>121</dtt:pf>
@@ -8063,8 +8022,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06023487</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -8103,6 +8060,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06048064</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -8142,18 +8101,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=06056245</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>06107486</dtt:ico>
-<dtt:pf>706</dtt:pf>
-<dtt:ojm>ERC (Evropské regionální vzdělávací centrum) z.s.</dtt:ojm>
-<dtt:jmn>Praha 10, Vinohrady, Korunní 2506/106</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=06107486</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -8260,8 +8207,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06610617</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -8311,6 +8256,8 @@
 <dtt:p_dph>dic=06651577</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06685234</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -8458,8 +8405,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07302622</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -8508,6 +8453,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07631928</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -8628,7 +8575,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>817</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>812</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

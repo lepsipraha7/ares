@@ -3,15 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>01209221</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Vasyl Dumnitskyy</dtt:ojm>
-<dtt:jmn>Praha 4, Nusle, Na lepším 1130/10</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>01221515</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Tomáš Nouza</dtt:ojm>
@@ -197,8 +188,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>48565385</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -208,6 +197,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>49668960</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -324,15 +315,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>64766390</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Renáta NOVÁKOVÁ</dtt:ojm>
-<dtt:jmn>Chlumín 189</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>66869315</dtt:ico>
 <dtt:pf>105</dtt:pf>
 <dtt:ojm>Gavenda Miloš</dtt:ojm>
@@ -400,8 +382,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>74079514</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -420,6 +400,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>74709810</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -587,8 +569,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06322859</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -611,6 +591,8 @@
 <dtt:p_dph>dic=06491286</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06532039</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -702,7 +684,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>71</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>69</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

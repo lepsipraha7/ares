@@ -179,18 +179,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>27105415</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>City Green Court s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 1, Nové Město, V celnici 1031/4</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=27105415</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27116841</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>5B  Residence Eden I/11  s.r.o.</dtt:ojm>
@@ -231,8 +219,6 @@
 <dtt:p_cedr>ico=27117111</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>27117138</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -242,6 +228,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>27118746</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -447,8 +435,6 @@
 <dtt:p_dph>dic=27622231</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>27636852</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -462,6 +448,8 @@
 <dtt:p_dph>dic=27636852</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>27638324</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -488,29 +476,6 @@
 <dtt:p_sd>dic=28196678</dtt:p_sd>
 <dtt:cedr>0</dtt:cedr>
 <dtt:p_cedr>ico=28196678</dtt:p_cedr>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>28523032</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>LPQ Property s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 1, Nové Město, V celnici 1031/4</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=28523032</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>28993462</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Jungmannova Plaza s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 1, Nové Město, V celnici 1031/4</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=28993462</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -653,18 +618,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>01719815</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Monster Career CZ s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 8, Karlín, Rohanské nábřeží 678/27</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=01719815</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>02564742</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>CEE Attorneys s.r.o., advokátní kancelář</dtt:ojm>
@@ -687,8 +640,6 @@
 <dtt:p_dph>dic=03551369</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03697738</dtt:ico>
 <dtt:pf>145</dtt:pf>
@@ -724,6 +675,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05175623</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -754,7 +707,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=05873436</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -895,8 +848,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>08016003</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -908,7 +859,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>81</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>77</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

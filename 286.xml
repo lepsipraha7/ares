@@ -695,20 +695,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>28529570</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>BACO s.r.o.</dtt:ojm>
-<dtt:jmn>Praha-Suchdol, Suchdol, Staročeská 1202/28</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=28529570</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-</dtt:V>
-<dtt:V>
-<dtt:S>
 <dtt:ico>28534131</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>GRIFON TRADE s.r.o.</dtt:ojm>
@@ -720,6 +706,8 @@
 <dtt:p_dph>dic=28534131</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>28867602</dtt:ico>
 <dtt:pf>932</dtt:pf>
@@ -933,8 +921,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>71469907</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -943,6 +929,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>86905970</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -1004,18 +992,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=02181894</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>02198720</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>L&amp;H management s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Osadní 869/32</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=02198720</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -1160,8 +1136,6 @@
 <dtt:p_dph>dic=03190536</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03336867</dtt:ico>
 <dtt:pf>121</dtt:pf>
@@ -1187,6 +1161,8 @@
 <dtt:p_dph>dic=03452140</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03431673</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -1264,18 +1240,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>03650693</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Piamonte Facility s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 10, Malešice, Počernická 699/62c</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=03650693</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>03529703</dtt:ico>
 <dtt:pf>105</dtt:pf>
 <dtt:ojm>JUDr. ONDŘEJ ELTERLEIN, advokát</dtt:ojm>
@@ -1326,18 +1290,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>03958141</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Real Dum s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 1, Staré Město, Kaprova 42/14</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=03958141</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>03999505</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Zagora Trend s.r.o.</dtt:ojm>
@@ -1382,8 +1334,6 @@
 <dtt:p_dph>dic=04216881</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04309634</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1428,6 +1378,8 @@
 <dtt:p_dph>dic=04382803</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04666321</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1594,8 +1546,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05330998</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1642,6 +1592,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05540232</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1812,8 +1764,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06906796</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1856,6 +1806,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07226802</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1928,7 +1880,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>171</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>167</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

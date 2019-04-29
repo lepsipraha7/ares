@@ -630,15 +630,6 @@
 </dtt:V>
 <dtt:V>
 <dtt:S>
-<dtt:ico>63090368</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Jana KADLČKOVÁ</dtt:ojm>
-<dtt:jmn>Praha 1, Nové Město, Havlíčkova 1025/4</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>64582876</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>K - INTERNATIONAL s.r.o.</dtt:ojm>
@@ -701,15 +692,6 @@
 <dtt:ojm>Lemaykin and company s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Na Maninách 796/9</dtt:jmn>
 <dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>01805011</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Dmitry Fedorov</dtt:ojm>
-<dtt:jmn>Praha 8, Libeň, Vojenova 2481/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -825,8 +807,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>01865781</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -847,6 +827,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06169635</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -855,6 +837,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06169635</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -960,7 +944,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>93</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>91</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

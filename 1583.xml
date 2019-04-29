@@ -400,17 +400,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>75849160</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Petr Vostřez</dtt:ojm>
-<dtt:jmn>Praha 6, Dejvice, Zavadilova 1395/5a</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-</dtt:V>
-<dtt:V>
-<dtt:S>
 <dtt:ico>86896440</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Mgr. art. Patrik Gémeš</dtt:ojm>
@@ -419,6 +408,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>87244551</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -612,8 +603,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06135579</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -624,6 +613,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06470513</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -763,7 +754,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>75</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>74</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

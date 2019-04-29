@@ -3,15 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>01424530</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Markéta Přibylová</dtt:ojm>
-<dtt:jmn>Přezletice, Pod Zahrady 413</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27560554</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>SALJUT PLUS s.r.o.</dtt:ojm>
@@ -190,8 +181,6 @@
 <dtt:p_dph>dic=07837062</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07908474</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -203,6 +192,8 @@
 <dtt:p_dph>dic=7709101939</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07971664</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -233,7 +224,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

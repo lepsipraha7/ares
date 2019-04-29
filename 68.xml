@@ -168,15 +168,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>70350949</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Markéta Novotná</dtt:ojm>
-<dtt:jmn>Praha 8, Libeň, U Pekařky 1928/6</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>86631349</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Jana Žáková</dtt:ojm>
@@ -205,8 +196,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03776697</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -216,6 +205,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06109756</dtt:ico>
 <dtt:pf>145</dtt:pf>
@@ -246,7 +237,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

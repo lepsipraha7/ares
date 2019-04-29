@@ -3,16 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>25494457</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Mykhaylo Tanko</dtt:ojm>
-<dtt:jmn>Praha 9, Prosek, Litvínovská 595/18</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27101622</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>RI EKONOM s.r.o.</dtt:ojm>
@@ -209,8 +199,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>70042667</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -222,6 +210,8 @@
 <dtt:p_cedr>ico=70042667</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>70346089</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -399,8 +389,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>88689361</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -410,6 +398,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>88869512</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -424,15 +414,6 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Bc. Alice Čepeláková</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Přístavní 1126/16</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>03257908</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>František Neděle</dtt:ojm>
-<dtt:jmn>Staré Hradiště, Hradiště na Písku 21</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -518,7 +499,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>52</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>50</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

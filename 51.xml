@@ -375,15 +375,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>40862241</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Jaroslav Novák</dtt:ojm>
-<dtt:jmn>Praha 8, Bohnice, Dolákova 554/14</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>41189043</dtt:ico>
 <dtt:pf>706</dtt:pf>
 <dtt:ojm>Basketbalový klub Sparta Praha</dtt:ojm>
@@ -423,8 +414,6 @@
 <dtt:p_dph>dic=6407090437</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>44341059</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -434,6 +423,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>45694796</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -637,8 +628,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>63093545</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -648,6 +637,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>63744015</dtt:ico>
 <dtt:pf>102</dtt:pf>
@@ -834,8 +825,6 @@
 <dtt:p_dph>dic=6962220375</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>69813752</dtt:ico>
 <dtt:pf>102</dtt:pf>
@@ -846,6 +835,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>70348791</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1026,8 +1017,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>74898370</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1037,6 +1026,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>74960547</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1220,8 +1211,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03322157</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -1231,6 +1220,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03408892</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1425,8 +1416,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05766168</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -1436,6 +1425,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06069665</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1616,7 +1607,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>160</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>159</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

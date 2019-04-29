@@ -1126,15 +1126,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>76239292</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Irena Glancová</dtt:ojm>
-<dtt:jmn>Praha 10, Vršovice, Ruská 878/68</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>76523462</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Simona Hovorková</dtt:ojm>
@@ -1208,8 +1199,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>87541106</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1219,6 +1208,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>87627469</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1412,8 +1403,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03676005</dtt:ico>
 <dtt:pf>145</dtt:pf>
@@ -1423,6 +1412,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03878261</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1613,8 +1604,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06486762</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1624,6 +1613,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06495371</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1762,7 +1753,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>175</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>174</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

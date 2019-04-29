@@ -2165,24 +2165,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>01876040</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Veronika Nižňanská</dtt:ojm>
-<dtt:jmn>Praha 14, Černý Most, Vašátkova 1009/22</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>05789885</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Tomáš Leska</dtt:ojm>
-<dtt:jmn>Praha 14, Černý Most, Vašátkova 1009/22</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>06016952</dtt:ico>
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Natália Tomčiková</dtt:ojm>
@@ -2210,8 +2192,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06665942</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2230,6 +2210,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>1</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06735665</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2368,7 +2350,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>237</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>235</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

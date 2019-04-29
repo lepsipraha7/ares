@@ -149,15 +149,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>68864221</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Tomáš Honsnejman</dtt:ojm>
-<dtt:jmn>České Budějovice 7, Pabláskova 334/17</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>70831262</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Martin Lípa</dtt:ojm>
@@ -206,8 +197,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>02106299</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -217,6 +206,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>02332086</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -290,7 +281,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>27</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

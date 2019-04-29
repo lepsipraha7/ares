@@ -64,20 +64,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>24832162</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Pechopol s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 2, Vinohrady, Italská 833/32</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=24832162</dtt:p_dph>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=24832162</dtt:p_cedr>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>25729381</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>WHITE SMITHY s.r.o. v likvidaci</dtt:ojm>
@@ -197,8 +183,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>26187141</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -208,6 +192,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>26723123</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -405,8 +391,6 @@
 <dtt:p_dph>dic=7408070736</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>71327673</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -416,6 +400,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>73255181</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -602,8 +588,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05512123</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -614,6 +598,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06393926</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -658,7 +644,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>65</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>64</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

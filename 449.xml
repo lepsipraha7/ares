@@ -168,17 +168,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>65438141</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing.arch. Jakub Fišer</dtt:ojm>
-<dtt:jmn>Praha 6, Střešovice, náměstí Před bateriemi 860/16</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=7206010042</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>67121179</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Zulfiqar Ali Khan DURRANI</dtt:ojm>
@@ -206,8 +195,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>69440298</dtt:ico>
 <dtt:pf>102</dtt:pf>
@@ -218,6 +205,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>69440310</dtt:ico>
 <dtt:pf>102</dtt:pf>
@@ -324,7 +313,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

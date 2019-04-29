@@ -4057,7 +4057,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=01735853</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -4818,7 +4818,7 @@
 <dtt:S>
 <dtt:ico>03324800</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>ARENON s.r.o.</dtt:ojm>
+<dtt:ojm>ARENON s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Osadní 869/32</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -6185,15 +6185,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>05851025</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Igor Paliatka</dtt:ojm>
-<dtt:jmn>Bystřice pod Hostýnem, Kamenec 320</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>05875803</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Cuore Publishing s.r.o.</dtt:ojm>
@@ -6278,8 +6269,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06049486</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -6290,6 +6279,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06059457</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -6480,8 +6471,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06287786</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6491,6 +6480,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06297421</dtt:ico>
 <dtt:pf>205</dtt:pf>
@@ -6676,8 +6667,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06628583</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -6689,6 +6678,8 @@
 <dtt:p_dph>dic=9109069090</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06624863</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -6882,8 +6873,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06862365</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -6894,6 +6883,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06870031</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -7079,8 +7070,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>01980254</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -7090,6 +7079,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07206585</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -7282,8 +7273,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07439229</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -7294,6 +7283,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07449763</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -7476,8 +7467,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07667124</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -7487,6 +7476,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07703520</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -7664,7 +7655,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>719</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>718</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

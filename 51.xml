@@ -1223,6 +1223,15 @@
 </dtt:V>
 <dtt:V>
 <dtt:S>
+<dtt:ico>03361683</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Radek Matoušek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 51/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>03408892</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>MUDr. Dana Mikulenková</dtt:ojm>
@@ -1416,6 +1425,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05766168</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -1425,8 +1436,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06069665</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1607,7 +1616,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>159</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>160</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

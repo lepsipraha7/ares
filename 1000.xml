@@ -46,14 +46,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>16176600</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Jan Alexandr Karabello</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, nábřeží Kapitána Jaroše 1000/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>22893741</dtt:ico>
 <dtt:pf>706</dtt:pf>
 <dtt:ojm>OSAGRAM</dtt:ojm>
@@ -74,22 +66,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>45746923</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Karel Šlanc</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, nábřeží Kapitána Jaroše 1000/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>63092506</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Jan Bechyně</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, nábřeží Kapitána Jaroše 1000/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>65732227</dtt:ico>
 <dtt:pf>733</dtt:pf>
 <dtt:ojm>OS PRACOVNÍKŮ PENĚŽNICTVÍ A POJIŠŤOVNICTVÍ ZO - Exportní, garanční a pojišťovací společnost a.s.</dtt:ojm>
@@ -106,34 +82,6 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>66465770</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Ivan Slavík</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, nábřeží Kapitána Jaroše 1000/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>76144852</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>JAN KVAPIL</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, nábřeží Kapitána Jaroše 1000/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=7512020230</dtt:p_dph>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>87237661</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Karel Videcký</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, nábřeží Kapitána Jaroše 1000/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>88621936</dtt:ico>
@@ -163,14 +111,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>02313928</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Eliška Trokanová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, nábřeží Kapitána Jaroše 1000/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>03812332</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Marek Bartoš</dtt:ojm>
@@ -189,8 +129,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06046274</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -203,7 +141,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>21</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>14</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

@@ -1661,15 +1661,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>75893100</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Jindřich Nádvorník</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 43/35</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>76129497</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Viktorie Hrdličková</dtt:ojm>
@@ -1764,24 +1755,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>87112663</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Jiří Roh</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Milady Horákové 602/43</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>87200406</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Jakub Sokol</dtt:ojm>
-<dtt:jmn>Praha 10, Vršovice, Vršovická 1429/68</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>87203651</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jakub KŘÍŽ</dtt:ojm>
@@ -1817,8 +1790,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>88123294</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1846,6 +1817,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>88538931</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2020,8 +1993,6 @@
 <dtt:p_dph>dic=500314186</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03668835</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2049,6 +2020,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04070526</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2210,8 +2183,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>1</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06735665</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2241,6 +2212,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07161735</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2350,7 +2323,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>235</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>232</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

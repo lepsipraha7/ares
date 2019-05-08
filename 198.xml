@@ -3,14 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>00909301</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Petr Doubravský</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Veletržní 198/13</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>12578568</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Aleš JELÍNEK</dtt:ojm>
@@ -194,8 +186,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03527158</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -205,6 +195,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04963253</dtt:ico>
 <dtt:pf>145</dtt:pf>
@@ -224,7 +216,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

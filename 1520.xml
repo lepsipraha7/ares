@@ -171,16 +171,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>76144852</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>JAN KVAPIL</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, nábřeží Kapitána Jaroše 1000/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=7512020230</dtt:p_dph>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>87506734</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Liudmila Dragalina</dtt:ojm>
@@ -198,8 +188,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>87705419</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -209,6 +197,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>88189066</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -245,7 +235,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

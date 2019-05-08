@@ -198,17 +198,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>66224870</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Kolrosová Monika, JUDr., advokát</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Heřmanova 1415/1</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ir>0</dtt:ir>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-</dtt:V>
-<dtt:V>
-<dtt:S>
 <dtt:ico>67370144</dtt:ico>
 <dtt:pf>102</dtt:pf>
 <dtt:ojm>Hocine Babas</dtt:ojm>
@@ -218,6 +207,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>67788190</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -407,8 +398,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05267536</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -419,6 +408,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05391504</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -571,7 +562,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>56</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>55</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

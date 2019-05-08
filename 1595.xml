@@ -155,18 +155,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>26739771</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>P.I.C. Private International Clinics s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1595/14</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=26739771</dtt:p_dph>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>26758059</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Lighthouse Services s.r.o.</dtt:ojm>
@@ -237,8 +225,6 @@
 <dtt:p_dph>dic=27150712</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>27166872</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -251,6 +237,8 @@
 <dtt:p_dph>dic=27166872</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>27187179</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -475,8 +463,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>29140897</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -488,6 +474,8 @@
 <dtt:rzz>0</dtt:rzz>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>61501484</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -688,8 +676,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07953526</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -701,7 +687,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>61</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>60</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

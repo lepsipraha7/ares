@@ -55,15 +55,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>41850297</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>JITKA PLESKAČOVÁ</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Schnirchova 297/18</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>41864441</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>František PEJSAR</dtt:ojm>
@@ -195,8 +186,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>87203146</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -206,6 +195,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>87248816</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -272,7 +263,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>27</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

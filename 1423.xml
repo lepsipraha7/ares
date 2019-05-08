@@ -3,14 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>01024094</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Markéta Šurgotová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Přístavní 1423/31</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>16102703</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Pavel RAUNIGR</dtt:ojm>
@@ -90,16 +82,6 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>25754998</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>KKK Nika 99 s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Přístavní 1423/33</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>25757865</dtt:ico>
@@ -192,8 +174,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>26723123</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -219,6 +199,8 @@
 <dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>27251543</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -400,8 +382,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>73255181</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -420,6 +400,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>74305689</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -537,6 +519,16 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>03663451</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PROGRES ARCHITEKTI s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1423/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>03898539</dtt:ico>
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Ludmila Khatskevič</dtt:ojm>
@@ -581,8 +573,8 @@
 <dtt:S>
 <dtt:ico>05477247</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>PECH-GASTRO s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Přístavní 1423/33</dtt:jmn>
+<dtt:ojm>WORDHOLICS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 2, Vinohrady, Jana Masaryka 946/42</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -598,8 +590,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06393926</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -609,6 +599,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06848354</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -644,7 +636,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>64</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>63</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

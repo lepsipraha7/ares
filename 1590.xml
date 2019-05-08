@@ -38,6 +38,18 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>25732447</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>KM Records a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1590/29</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=25732447</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>25780492</dtt:ico>
 <dtt:pf>121</dtt:pf>
 <dtt:ojm>VÁLCOVANÁ OCEL, a.s.</dtt:ojm>
@@ -206,6 +218,8 @@
 <dtt:p_dph>dic=01790072</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>01935160</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -215,8 +229,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>02651912</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -322,7 +334,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

@@ -499,6 +499,17 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>03827348</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ing. Andrej Gémeš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1582/24</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8412048095</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>04708296</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Markéta Pektorová</dtt:ojm>
@@ -603,6 +614,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06135579</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -613,8 +626,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06470513</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -741,6 +752,7 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Julie Kuželová</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U Uranie 1583/29</dtt:jmn>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -750,11 +762,12 @@
 <dtt:ojm>MS Parketka s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U Uranie 1583/21</dtt:jmn>
 <dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>74</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>75</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

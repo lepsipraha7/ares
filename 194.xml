@@ -432,14 +432,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>87256649</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Marek Labuta</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Argentinská 194/12</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>87396874</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Daniela Peterková</dtt:ojm>
@@ -591,8 +583,6 @@
 <dtt:p_dph>dic=06491286</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06532039</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -605,6 +595,8 @@
 <dtt:p_dph>dic=06532039</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06543928</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -684,7 +676,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>69</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>68</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

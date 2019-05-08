@@ -3,14 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>00989347</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Jiří Jungmann</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>10175822</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ludmila Tornová</dtt:ojm>
@@ -216,8 +208,6 @@
 <dtt:p_dph>dic=45801533</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>48604062</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -227,6 +217,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>49229044</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -310,11 +302,12 @@
 <dtt:ojm>MikLen s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
 <dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

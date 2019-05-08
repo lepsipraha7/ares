@@ -3522,15 +3522,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>66224870</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Kolrosová Monika, JUDr., advokát</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Heřmanova 1415/1</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ir>0</dtt:ir>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>66376891</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Luděk Uhlíř</dtt:ojm>
@@ -3674,8 +3665,6 @@
 <dtt:p_dph>dic=7410060438</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>67983324</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -3687,6 +3676,8 @@
 <dtt:p_cedr>ico=67983324</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>68503458</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3875,8 +3866,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>70350906</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3888,6 +3877,8 @@
 <dtt:p_dph>dic=7706070020</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>70351406</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3910,6 +3901,15 @@
 <dtt:ico>70352259</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Alena Havlíčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U vody 1403/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70353174</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Garbaczewská</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U vody 1403/1</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -5264,7 +5264,7 @@
 <dtt:ico>03663451</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>PROGRES ARCHITEKTI s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Bubenská 1477/1</dtt:jmn>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1423/31</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -6081,6 +6081,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06608035</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>

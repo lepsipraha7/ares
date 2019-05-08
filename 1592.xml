@@ -336,14 +336,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>87176700</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Jan Šojdr</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Na Maninách 1592/9a</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>87374579</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Šimon Šťastný</dtt:ojm>
@@ -413,8 +405,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03352005</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -427,6 +417,8 @@
 <dtt:p_dph>dic=03352005</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07686218</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -437,7 +429,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>42</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>41</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

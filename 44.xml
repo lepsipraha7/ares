@@ -149,8 +149,8 @@
 </dtt:S>
 <dtt:S>
 <dtt:ico>16180721</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>JAN CORSINI</dtt:ojm>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Corsini</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Přístavní 1112/44</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -725,15 +725,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>47092351</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Josef Buchta</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Přístavní 1112/44</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>47093161</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Zdeněk VOMÁČKA</dtt:ojm>
@@ -812,8 +803,6 @@
 <dtt:p_dph>dic=7302220376</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>60486821</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -826,6 +815,8 @@
 <dtt:p_dph>dic=60486821</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>61470597</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1006,8 +997,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>66655617</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1021,14 +1010,8 @@
 <dtt:p_cedr>ico=66655617</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-<dtt:S>
-<dtt:ico>67402330</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Zuzana Černochová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U průhonu 1238/44</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>67427669</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1048,6 +1031,8 @@
 <dtt:or>1</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6512291786</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -1198,8 +1183,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>70352526</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1218,6 +1201,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>70364257</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1387,13 +1372,11 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>73778621</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>FERDINAND MAZAL</dtt:ojm>
-<dtt:jmn>Nižbor, Žloukovice ev. č. 187</dtt:jmn>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ferdinand MAZAL</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 44/3</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -1409,6 +1392,8 @@
 <dtt:p_dph>dic=8304062690</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>73838951</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1473,14 +1458,6 @@
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>74941160</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Kateřina Antelmanová</dtt:ojm>
-<dtt:jmn>Praha 14, Černý Most, Půdova 648/3</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>74972782</dtt:ico>
@@ -1584,13 +1561,11 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>88207897</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Michaela Nováková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Vrbenského 1497/44</dtt:jmn>
+<dtt:jmn>Praha 13, Stodůlky, Zázvorkova 2008/4</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -1613,6 +1588,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>88622797</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1768,8 +1745,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04318561</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1800,6 +1775,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04509641</dtt:ico>
 <dtt:pf>145</dtt:pf>
@@ -1961,18 +1938,17 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>08114269</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Kamil Zahradil</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Ovenecká 330/44</dtt:jmn>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>201</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>198</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

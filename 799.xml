@@ -155,18 +155,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>26142686</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Logmark s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Osadní 799/26</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=26142686</dtt:p_dph>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>26163195</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>METRONOME s.r.o.</dtt:ojm>
@@ -239,8 +227,6 @@
 <dtt:p_cedr>ico=26664739</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>26679621</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -252,6 +238,8 @@
 <dtt:p_cedr>ico=26679621</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>26770610</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -438,15 +426,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>76307719</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Alexandra Krausová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Osadní 799/26</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>01644149</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>ARTEZIS Solution s.r.o.</dtt:ojm>
@@ -472,8 +451,6 @@
 <dtt:p_dph>dic=02672588</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03709817</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -494,6 +471,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04598261</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -589,7 +568,7 @@
 <dtt:ico>06906788</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Better21 s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Osadní 799/26</dtt:jmn>
+<dtt:jmn>Praha 1, Staré Město, Bílkova 855/19</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -608,7 +587,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>52</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>50</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

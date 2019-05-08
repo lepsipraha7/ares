@@ -87,15 +87,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>42520754</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Martin Gröschl</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 94/41</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>44802731</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Zdenka Hozáková</dtt:ojm>
@@ -189,8 +180,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>67789455</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -200,6 +189,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>67791883</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -370,8 +361,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05246814</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -381,6 +370,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05393914</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -420,7 +411,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>45</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>44</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

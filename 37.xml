@@ -1369,7 +1369,7 @@
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=7006291644</dtt:p_dph>
+<dtt:p_dph>dic=682246334</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -1666,14 +1666,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>88599043</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Lukáš Lázňovský</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Osadní 715/37</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>88816494</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Marcela Mikesková</dtt:ojm>
@@ -1706,8 +1698,8 @@
 <dtt:ojm>Bc. Miroslava Nestávalová</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Veletržní 1395/37</dtt:jmn>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>02319331</dtt:ico>
@@ -1818,8 +1810,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04922794</dtt:ico>
 <dtt:pf>145</dtt:pf>
@@ -1829,6 +1819,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05171067</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -1953,11 +1945,12 @@
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Patricia Šimončičová</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Dělnická 1131/37</dtt:jmn>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>194</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>193</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

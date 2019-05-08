@@ -2291,7 +2291,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=27369391</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -2553,7 +2553,7 @@
 <dtt:ico>27642348</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>CATTLE MARKET s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U topíren 860/2</dtt:jmn>
+<dtt:jmn>Radešínská Svratka 193</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -5182,14 +5182,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>63092506</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Jan Bechyně</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, nábřeží Kapitána Jaroše 1000/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>63093057</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Miroslav Janata</dtt:ojm>
@@ -5301,8 +5293,6 @@
 <dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>64750507</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -5314,6 +5304,8 @@
 <dtt:p_dph>dic=6756040863</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>64765199</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -5345,8 +5337,8 @@
 </dtt:S>
 <dtt:S>
 <dtt:ico>64767141</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>JAN CHARVÁT</dtt:ojm>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Jan Charvát, Ph.D.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Umělecká 310/2</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -5505,8 +5497,6 @@
 <dtt:p_dph>dic=6705120675</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>66465320</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -5518,6 +5508,8 @@
 <dtt:p_dph>dic=6862191193</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>66768985</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -5556,14 +5548,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>67361005</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>DANIELA RICHTEROVÁ</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Umělecká 310/2</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>67592473</dtt:ico>
@@ -5694,8 +5678,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>68866542</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -5714,6 +5696,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>68869690</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -5884,8 +5868,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>70350418</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -5904,6 +5886,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>70351554</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6073,8 +6057,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>71671692</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6095,6 +6077,8 @@
 <dtt:p_dph>dic=446025028</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>71784187</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6262,8 +6246,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>74365703</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -6282,6 +6264,8 @@
 <dtt:rzp>1</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>74765001</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6453,8 +6437,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>76175791</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6475,6 +6457,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>76252973</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6648,8 +6632,6 @@
 <dtt:p_dph>dic=8808031397</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>87362902</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6670,6 +6652,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>87472007</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6726,7 +6710,7 @@
 </dtt:S>
 <dtt:S>
 <dtt:ico>87977745</dtt:ico>
-<dtt:pf>105</dtt:pf>
+<dtt:pf>101</dtt:pf>
 <dtt:ojm>Matyáš Sládek</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Umělecká 310/2</dtt:jmn>
 <dtt:res>0</dtt:res>
@@ -6838,8 +6822,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>01715305</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6860,6 +6842,8 @@
 <dtt:p_dph>dic=8707096222</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>01830295</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -7048,8 +7032,6 @@
 <dtt:p_dph>dic=02509245</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>02652633</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -7068,6 +7050,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>02797569</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -7201,15 +7185,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>03500039</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Martin Hubata</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>03559670</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Aristie services spol. s r.o.</dtt:ojm>
@@ -7257,8 +7232,6 @@
 <dtt:p_dph>dic=03226204</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03579298</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -7292,6 +7265,8 @@
 <dtt:p_dph>dic=03782859</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03836291</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -7465,8 +7440,6 @@
 <dtt:p_dph>dic=04452020</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04503139</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -7494,6 +7467,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04570995</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -7668,8 +7643,6 @@
 <dtt:p_dph>dic=05234751</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05259088</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -7698,6 +7671,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05192137</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -7857,8 +7832,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05719691</dtt:ico>
 <dtt:pf>121</dtt:pf>
@@ -7888,6 +7861,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05751713</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -7996,7 +7971,7 @@
 <dtt:ico>06005080</dtt:ico>
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Olena Bondaruk</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Osadní 1474/2</dtt:jmn>
+<dtt:jmn>Praha 9, Vysočany, Strnadových 1006/1</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -8060,8 +8035,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06048064</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -8091,6 +8064,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06056245</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -8218,7 +8193,7 @@
 </dtt:S>
 <dtt:S>
 <dtt:ico>06612776</dtt:ico>
-<dtt:pf>424</dtt:pf>
+<dtt:pf>101</dtt:pf>
 <dtt:ojm>Yulia Butyrskaya</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U garáží 1434/2</dtt:jmn>
 <dtt:res>0</dtt:res>
@@ -8256,8 +8231,6 @@
 <dtt:p_dph>dic=06651577</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06685234</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -8291,6 +8264,8 @@
 <dtt:p_dph>dic=06818439</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06923739</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -8453,8 +8428,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07631928</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -8487,6 +8460,8 @@
 <dtt:p_dph>dic=07750099</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07800347</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -8571,11 +8546,12 @@
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Viet Doanh Nguyen</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Za papírnou 305/2</dtt:jmn>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>812</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>809</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

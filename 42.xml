@@ -493,6 +493,7 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=28340701</dtt:p_dph>
+<dtt:szr>0</dtt:szr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -999,14 +1000,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>74105876</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Martin Košarko</dtt:ojm>
-<dtt:jmn>Kladno, Kročehlavy, Estonská 2568</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>74708414</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>MgA. Kamila Poláková</dtt:ojm>
@@ -1024,8 +1017,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>74830171</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1035,6 +1026,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>74905864</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1208,8 +1201,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>87627469</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1221,6 +1212,8 @@
 <dtt:p_dph>dic=8304051008</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>88223001</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1412,8 +1405,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03878261</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1426,6 +1417,8 @@
 <dtt:p_dph>dic=03878261</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03909166</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1613,8 +1606,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06495371</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1625,6 +1616,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06504027</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1706,14 +1699,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>07635851</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Lucie Poulová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U průhonu 1425/42</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>07713592</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Fontána Music Publishing s. r. o.</dtt:ojm>
@@ -1753,7 +1738,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>174</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>172</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

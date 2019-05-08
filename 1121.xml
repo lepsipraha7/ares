@@ -506,6 +506,16 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>04482379</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>IMAGLEE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>04720318</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Iva Bartáková</dtt:ojm>
@@ -598,11 +608,13 @@
 <dtt:S>
 <dtt:ico>07061188</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Minnarelli trade s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
+<dtt:ojm>ITS Controller s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 1, Nové Město, Revoluční 1082/8</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07061188</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -636,6 +648,8 @@
 <dtt:p_dph>dic=07305605</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07513640</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -646,8 +660,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07628617</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -664,11 +676,12 @@
 <dtt:ojm>JOLLYSTYLE s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
 <dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>62</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>63</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

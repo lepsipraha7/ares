@@ -758,20 +758,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>28621069</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Q. S. WATT s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1582/24</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=28621069</dtt:p_dph>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=28621069</dtt:p_cedr>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>28859120</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>ADVERTIS s.r.o. v likvidaci</dtt:ojm>
@@ -904,8 +890,6 @@
 <dtt:p_dph>dic=7405180211</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>61678546</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -916,6 +900,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>63126567</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -1013,26 +999,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>72981237</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Martin Janeczko</dtt:ojm>
-<dtt:jmn>Olomouc, Horní náměstí 583</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>73183539</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Vladimír Štroch</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1582/24</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=6711060730</dtt:p_dph>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>75180634</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Kateřina Petruk</dtt:ojm>
@@ -1067,8 +1033,8 @@
 <dtt:ojm>Lyudmila Fedchenko</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Varhulíkové 1582/24</dtt:jmn>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>75661781</dtt:ico>
@@ -1097,8 +1063,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>76175553</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1130,6 +1094,8 @@
 <dtt:p_dph>dic=8001090273</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>86741781</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1318,8 +1284,6 @@
 <dtt:p_dph>dic=02396262</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>02604965</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1354,6 +1318,8 @@
 <dtt:p_dph>dic=02790343</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>02790599</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1530,8 +1496,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03709256</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -1564,6 +1528,8 @@
 <dtt:p_dph>dic=8358049524</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03759148</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -1741,8 +1707,6 @@
 <dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04133030</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -1773,6 +1737,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04319176</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1861,7 +1827,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>172</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>169</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

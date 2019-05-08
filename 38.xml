@@ -298,7 +298,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>1</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=24143359</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -1813,7 +1813,7 @@
 <dtt:S>
 <dtt:ico>45244383</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>AGLA spol. s r.o.</dtt:ojm>
+<dtt:ojm>AGLA spol. s r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Argentinská 286/38</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -1985,8 +1985,8 @@
 </dtt:S>
 <dtt:S>
 <dtt:ico>60183039</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>BOŘEK ŠIMÁČEK</dtt:ojm>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bořek Šimáček</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Kostelní 1291/38</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -3992,7 +3992,7 @@
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Mariel Sporn Tavakoli</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Františka Křížka 505/38</dtt:jmn>
-<dtt:res>1</dtt:res>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -4104,6 +4104,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06477747</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -4167,6 +4169,18 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>06883427</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Akvelon Prague s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 286/38</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06883427</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>06906796</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>China Care s.r.o.</dtt:ojm>
@@ -4188,6 +4202,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07063652</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -4198,8 +4214,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07183232</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -4333,7 +4347,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>413</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>414</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

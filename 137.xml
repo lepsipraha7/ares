@@ -298,7 +298,7 @@
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Azam Narkuziev</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
-<dtt:res>1</dtt:res>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -394,6 +394,15 @@
 </dtt:S>
 </dtt:V>
 <dtt:V>
+<dtt:S>
+<dtt:ico>88743802</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Shukhrat Safarov</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 <dtt:S>
 <dtt:ico>88881865</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -565,6 +574,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03995704</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -574,8 +585,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04034147</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -748,6 +757,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05368197</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -760,8 +771,6 @@
 <dtt:p_dph>dic=05368197</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05430496</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -927,15 +936,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>06899889</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Amin Al-Akwaa</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>06945881</dtt:ico>
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Kuvondik Rakhimov</dtt:ojm>
@@ -1075,6 +1075,7 @@
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Stanislav Isacov</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Šmeralova 137/3</dtt:jmn>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>

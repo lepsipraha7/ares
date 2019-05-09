@@ -57,6 +57,18 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>24853518</dtt:ico>
+<dtt:pf>932</dtt:pf>
+<dtt:ojm>tibiQ GO SE</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24853518</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>25600583</dtt:ico>
 <dtt:pf>745</dtt:pf>
 <dtt:ojm>HST Obchodní komora Švýcarsko - Česká republika</dtt:ojm>
@@ -217,6 +229,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>27117111</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -231,8 +245,6 @@
 <dtt:p_cedr>ico=27117111</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>27117138</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -435,6 +447,8 @@
 <dtt:p_dph>dic=27602982</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>27622231</dtt:ico>
 <dtt:pf>121</dtt:pf>
@@ -447,8 +461,6 @@
 <dtt:p_dph>dic=27622231</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>27636852</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -670,6 +682,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03734404</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -682,8 +696,6 @@
 <dtt:p_dph>dic=03734404</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04159730</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -877,6 +889,20 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>07337825</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>tibiQ MOVE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07337825</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
 <dtt:ico>08001189</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>CEE Attorneys International s.r.o.</dtt:ojm>
@@ -896,8 +922,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>08015660</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -927,7 +951,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>83</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>85</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

@@ -5547,6 +5547,16 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>04608062</dtt:ico>
+<dtt:pf>421</dtt:pf>
+<dtt:ojm>NANITS UNIVERSE LTD., odštěpný závod</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 156/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>04615816</dtt:ico>
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Bekzod Isakdjanov</dtt:ojm>
@@ -5646,6 +5656,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04884019</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -5655,8 +5667,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04933044</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -5848,6 +5858,8 @@
 <dtt:p_dph>dic=7353300064</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05540224</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -5860,8 +5872,6 @@
 <dtt:p_dph>dic=05540224</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05592844</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -6053,6 +6063,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06558003</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6062,8 +6074,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06600875</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6253,6 +6263,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07594208</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -6262,8 +6274,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07616961</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -6384,7 +6394,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>612</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>613</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

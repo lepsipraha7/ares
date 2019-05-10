@@ -130,7 +130,7 @@
 <dtt:S>
 <dtt:ico>26210614</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>SELTEC s.r.o.</dtt:ojm>
+<dtt:ojm>SELTEC s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -266,7 +266,7 @@
 <dtt:S>
 <dtt:ico>27119084</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Cafe Pulp Fiction, s.r.o.</dtt:ojm>
+<dtt:ojm>Cafe Pulp Fiction, s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -653,6 +653,18 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>03004988</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>swREALKO s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03004988</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>03551369</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Arbull s.r.o.</dtt:ojm>
@@ -673,6 +685,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03651461</dtt:ico>
 <dtt:pf>145</dtt:pf>
@@ -682,8 +696,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03734404</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -745,6 +757,16 @@
 <dtt:res>0</dtt:res>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=8855259039</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05275113</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>tibiQ AI s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -877,6 +899,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07198205</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -900,8 +924,6 @@
 <dtt:p_dph>dic=07337825</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>08001189</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -951,7 +973,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>85</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>87</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

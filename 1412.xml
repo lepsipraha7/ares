@@ -9,6 +9,8 @@
 <dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=1160036</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -91,7 +93,6 @@
 <dtt:p_dph>dic=495529130</dtt:p_dph>
 <dtt:cedr>0</dtt:cedr>
 <dtt:p_cedr>ico=47570555</dtt:p_cedr>
-<dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -116,7 +117,7 @@
 <dtt:S>
 <dtt:ico>61502782</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>NOREA s.r.o.</dtt:ojm>
+<dtt:ojm>NOREA s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -138,6 +139,15 @@
 <dtt:ico>70351767</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jitka ŠILHAVÁ</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70748390</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karel Florian</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -193,26 +203,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-<dtt:S>
-<dtt:ico>05575486</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Tyler Wyles Powell</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
 </dtt:V>
 <dtt:V>
-<dtt:S>
-<dtt:ico>05575664</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Brittany Stutt Powell</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Veverkova 1412/4</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
 <dtt:S>
 <dtt:ico>06904246</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -244,7 +236,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

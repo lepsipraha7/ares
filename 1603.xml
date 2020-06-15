@@ -101,6 +101,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=28397177</dtt:p_dph>
+<dtt:sd>0</dtt:sd>
+<dtt:p_sd>dic=28397177</dtt:p_sd>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -176,18 +178,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>04153138</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Neocity 6, s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1603/47a</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=04153138</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>04246080</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Pendlo s.r.o.</dtt:ojm>
@@ -247,8 +237,6 @@
 <dtt:p_dph>dic=05498856</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>01771884</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -261,6 +249,8 @@
 <dtt:p_dph>dic=01771884</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05904056</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -322,6 +312,18 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>06628664</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HoppyGo s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1603/47a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06628664</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>06829325</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Neocity 29, s.r.o.</dtt:ojm>
@@ -353,6 +355,18 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07074476</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07799586</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HoppyGo Czechia s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1603/47a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -363,10 +377,36 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08088438</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08336474</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Cover Story s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1603/47a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08336474</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08794235</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>UMI Urban Mobility International Česká republika s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1603/47a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08794235</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>33</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

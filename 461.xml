@@ -12,15 +12,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>18938299</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Otakar Kopřiva</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Františka Křížka 461/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>22902147</dtt:ico>
 <dtt:pf>706</dtt:pf>
 <dtt:ojm>Juniorský maratonský klub, z.s.</dtt:ojm>
@@ -44,18 +35,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>25086499</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>CN BROWN, s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Františka Křížka 461/11</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=25086499</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>25107615</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Tempo Team Prague s.r.o.</dtt:ojm>
@@ -75,7 +54,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=26196883</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -92,15 +71,6 @@
 <dtt:ico>42511003</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jan BÁRTA</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Františka Křížka 461/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>42514339</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Monika Bucháčková</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Františka Křížka 461/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -207,8 +177,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>70347255</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -236,6 +204,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>71178244</dtt:ico>
 <dtt:pf>707</dtt:pf>
@@ -270,6 +240,15 @@
 <dtt:jmn>Praha 7, Holešovice, Františka Křížka 461/11</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88387496</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Fusek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 461/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -332,8 +311,20 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08641544</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SuperHalfs s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 461/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08641544</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>33</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

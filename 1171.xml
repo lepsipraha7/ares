@@ -15,7 +15,7 @@
 <dtt:ico>27658261</dtt:ico>
 <dtt:pf>145</dtt:pf>
 <dtt:ojm>Společenství vlastníků jednotek Veverkova 1171/31, Praha 7</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Veverkova 1171/31</dtt:jmn>
+<dtt:jmn>Praha 7, Veverkova 1171/31</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
@@ -27,7 +27,7 @@
 <dtt:jmn>Praha 7, Holešovice, Veverkova 1171/31</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=490110165</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -39,18 +39,6 @@
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>62419471</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>ALFA-ABS s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Veverkova 1171/31</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=62419471</dtt:p_dph>
-<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>66464935</dtt:ico>
@@ -82,27 +70,9 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>01928287</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Aleš Hudec</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Veverkova 1171/31</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>03332641</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Marina Puzdrova</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Veverkova 1171/31</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>04433611</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Marta Režová</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Veverkova 1171/31</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -130,7 +100,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>13</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>10</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

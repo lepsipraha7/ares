@@ -12,6 +12,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>01063685</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Vojtěch Šedý</dtt:ojm>
+<dtt:jmn>Praha 1, Nové Město, Spálená 85/7</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>01346610</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Barbara Hanousek Eckhardová</dtt:ojm>
@@ -28,17 +37,20 @@
 <dtt:or>1</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
+<dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=6361260092</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>25109511</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>ŠIMÁČKOVA, s.r.o.</dtt:ojm>
+<dtt:ico>27122336</dtt:ico>
+<dtt:pf>205</dtt:pf>
+<dtt:ojm>Pampeliška, družstvo</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=27122336</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -94,6 +106,26 @@
 <dtt:ico>74987844</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Filip Kotlář</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>76192547</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Pechoušek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8506181728</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88302539</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Pavoučková</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Šimáčkova 908/17</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -173,6 +205,8 @@
 <dtt:p_dph>dic=04319133</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04437632</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -204,8 +238,6 @@
 <dtt:p_dph>dic=05393264</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05623243</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -235,6 +267,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07212275</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -258,7 +292,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

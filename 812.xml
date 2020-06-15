@@ -3,15 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>01353985</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Dmitrij Levdanskij</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>01448773</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Pavel Brouk</dtt:ojm>
@@ -45,21 +36,10 @@
 <dtt:S>
 <dtt:ico>24205141</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>SG OROBICA REI, s.r.o.</dtt:ojm>
+<dtt:ojm>SG OROBICA REI, s.r.o., v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>24709361</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Stod green s.r.o., v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:szr>0</dtt:szr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -72,6 +52,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=24741299</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=24741299</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -151,15 +133,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>26746956</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>KNOX, s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>26757338</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>BARCHOV REALITY, s.r.o.</dtt:ojm>
@@ -209,19 +182,6 @@
 <dtt:szr>0</dtt:szr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
-<dtt:S>
-<dtt:ico>27241823</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>KOSTNICKÁ REALITY, s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=27241823</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
 <dtt:S>
 <dtt:ico>27253627</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -255,6 +215,8 @@
 <dtt:p_dph>dic=27568636</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>27569578</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -371,6 +333,17 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>71821694</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Martin Mareš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7702222880</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>75272512</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Tereza Jelínková</dtt:ojm>
@@ -417,8 +390,6 @@
 <dtt:p_dph>dic=7907133388</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>76422917</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -426,7 +397,7 @@
 <dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=8402070490</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -448,6 +419,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>02362058</dtt:ico>
 <dtt:pf>145</dtt:pf>
@@ -524,6 +497,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07105487</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -543,11 +518,81 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Miroslav Fess</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08360049</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SAN PAOLO s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08360049</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08435596</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SAN LUCA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08435596</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08543429</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PLZEŇSKÁ SHOP, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08543470</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NA ČEČELIČCE, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08637555</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KOŠETICE PALACE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08637644</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>WALLESTEIN PALACE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08896852</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RC DUX s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 812/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>53</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>57</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

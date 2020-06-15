@@ -146,18 +146,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>60468742</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>OMIKRON-CONSULTING s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Poupětova 1128/22</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=60468742</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>63082039</dtt:ico>
 <dtt:pf>205</dtt:pf>
 <dtt:ojm>Lidové bytové družstvo Pražan 95</dtt:ojm>
@@ -205,8 +193,6 @@
 <dtt:p_dph>dic=6303211783</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>69514488</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -216,8 +202,11 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=7401182690</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>73454818</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -282,15 +271,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>88179354</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Jana Janatová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Komunardů 1128/53</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>02275295</dtt:ico>
 <dtt:pf>105</dtt:pf>
 <dtt:ojm>PhDr. JUDr. RADKA CONNELLY KOHUTOVÁ, advokátka</dtt:ojm>
@@ -308,22 +288,13 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>02932547</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Kateřina Dušková</dtt:ojm>
-<dtt:jmn>Rapotín, Jesenická 476</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>03853721</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Radka Šrámková</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Poupětova 1128/22</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=8762033335</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -398,8 +369,26 @@
 <dtt:p_dph>dic=02009919</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08320659</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Myroslava Bubela</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1128/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08828768</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Annemarie Pájová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1128/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>40</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>39</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

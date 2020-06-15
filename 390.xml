@@ -21,19 +21,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>27431517</dtt:ico>
-<dtt:pf>121</dtt:pf>
-<dtt:ojm>REASPORT a.s.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Milady Horákové 390/49</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=27431517</dtt:p_dph>
-<dtt:ir>0</dtt:ir>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>28999541</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>SAVE outdoor, s.r.o.</dtt:ojm>
@@ -150,6 +137,8 @@
 <dtt:jmn>Praha 7, Bubeneč, Šmeralova 390/15</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6861170503</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -192,26 +181,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>05152437</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Radek Menšík</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Šmeralova 390/15</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-</dtt:V>
-<dtt:V>
-<dtt:S>
-<dtt:ico>05585716</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>PhDr. Marián Sekerák, Ph.D.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Milady Horákové 390/49</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>05839467</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Adam Hrstka</dtt:ojm>
@@ -229,15 +198,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-<dtt:S>
-<dtt:ico>07243103</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Linda Dubská</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Šmeralova 390/15</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07333382</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -248,8 +210,31 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08178658</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Farma Letná s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Milady Horákové 390/49</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08178658</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=8178658</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08337021</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Sobíšková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 390/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

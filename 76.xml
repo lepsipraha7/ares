@@ -3,15 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>01395009</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Vasilij Ivanov</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>15294471</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Zdeněk ILEM</dtt:ojm>
@@ -165,6 +156,8 @@
 <dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7057185597</dtt:p_dph>
 <dtt:cedr>0</dtt:cedr>
 <dtt:p_cedr>ico=63937115</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
@@ -209,8 +202,6 @@
 <dtt:p_dph>dic=7212209906</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>71519815</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -218,6 +209,19 @@
 <dtt:jmn>Praha 7, Bubeneč, Milady Horákové 860/76</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>71617558</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ladislav Anděl</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7512290379</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -297,15 +301,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>86630881</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Olga Ivanova</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>87207982</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Václav Starosta</dtt:ojm>
@@ -330,6 +325,15 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Petr Světlý</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Milady Horákové 860/76</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87987091</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslav Procházka</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -410,6 +414,7 @@
 <dtt:ojm>Kateřina Tadrová DiS.</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 76/3</dtt:jmn>
 <dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:rzz>0</dtt:rzz>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -443,8 +448,17 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08777217</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michaela Němcová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 860/76</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>44</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>45</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

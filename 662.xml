@@ -181,6 +181,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>86629468</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Ivo Měšťánek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 662/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>88707539</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jiří Žďárský</dtt:ojm>
@@ -189,6 +198,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03058395</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -200,8 +211,6 @@
 <dtt:p_cedr>ico=3058395</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06241522</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -222,7 +231,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

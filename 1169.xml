@@ -48,16 +48,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>24250686</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>SEBEOBRANA s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>25146343</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>WEB SITE Prague, s.r.o., v likvidaci</dtt:ojm>
@@ -78,28 +68,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>25663500</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Alintrum s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>25932110</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>PRVNÍ INTERNETOVÁ s. r. o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=25932110</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>26185881</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>CHICKEN HOUSE,s.r.o.</dtt:ojm>
@@ -116,6 +84,18 @@
 <dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>48586935</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Audit Pro spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=48586935</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -202,8 +182,6 @@
 <dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06135960</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -221,8 +199,12 @@
 <dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06877729</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07394926</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -234,8 +216,18 @@
 <dtt:p_dph>dic=8603270082</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>09017089</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ABG medico s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1169/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

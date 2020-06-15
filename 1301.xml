@@ -3,12 +3,13 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>01372955</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Lolita Onayeva</dtt:ojm>
+<dtt:ico>01358839</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Cícha, DiS.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>1</dtt:ros>
+<dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>15933989</dtt:ico>
@@ -110,6 +111,7 @@
 <dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -125,6 +127,15 @@
 <dtt:ico>87478757</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Milan Krbec</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87567881</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Sára Kolářová</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -181,26 +192,15 @@
 <dtt:p_dph>dic=02310911</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03157547</dtt:ico>
-<dtt:pf>101</dtt:pf>
+<dtt:pf>105</dtt:pf>
 <dtt:ojm>Bohuslav Šenkýř</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-</dtt:V>
-<dtt:V>
-<dtt:S>
-<dtt:ico>03528375</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Michal Fejk</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=7310260111</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -231,24 +231,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>05049768</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Sara Ashley Toppe</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>05265771</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Rebecca Alma Newhouse</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>05501814</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Milan Pivoňka</dtt:ojm>
@@ -258,18 +240,9 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>05633320</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Judith Claire Pendergrast</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>05914949</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Hannah Silfversten Van Lom</dtt:ojm>
+<dtt:ico>05819326</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Simona Barazi</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -293,8 +266,26 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08321027</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Sebastián Gambaccini</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08446041</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Sage Hughes Pressman</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1301/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

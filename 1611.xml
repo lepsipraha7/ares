@@ -127,7 +127,7 @@
 <dtt:S>
 <dtt:ico>27599248</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Rozbaleno.cz s.r.o.</dtt:ojm>
+<dtt:ojm>Rozbaleno.cz s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -161,7 +161,7 @@
 <dtt:S>
 <dtt:ico>28226640</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Shearwater, s.r.o.</dtt:ojm>
+<dtt:ojm>Shearwater, s.r.o., v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -204,10 +204,10 @@
 <dtt:pf>421</dtt:pf>
 <dtt:ojm>GET EnTra Sp. z o.o., organizační složka</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
-<dtt:or>0</dtt:or>
+<dtt:or>1</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>29014174</dtt:ico>
@@ -277,14 +277,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>02492199</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Mgr. et Bc. Andrea Kleinová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>02917327</dtt:ico>
 <dtt:pf>421</dtt:pf>
 <dtt:ojm>REGATTA-POLSKA s.r.o.-pobočka</dtt:ojm>
@@ -317,29 +309,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>04196830</dtt:ico>
-<dtt:pf>121</dtt:pf>
-<dtt:ojm>Mall Group a.s.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=04196830</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>04374886</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Great Content s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=04374886</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>07093331</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>MallPay s.r.o.</dtt:ojm>
@@ -351,8 +320,20 @@
 <dtt:p_dph>dic=07093331</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08553866</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Mall Group a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U garáží 1611/1</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08553866</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

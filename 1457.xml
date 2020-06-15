@@ -30,15 +30,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>15084795</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Zbyněk MIKEŠ</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1457/23</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>25780379</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>PLANTIO, s.r.o.</dtt:ojm>
@@ -48,17 +39,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=25780379</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>27388948</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Stavební společnost ELEMENTA s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1457/23</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=27388948</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -126,24 +106,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>74586149</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Lenka Guthová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1457/23</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>88915816</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>MgA. Zuzana Hebronová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1457/23</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>01606786</dtt:ico>
 <dtt:pf>145</dtt:pf>
 <dtt:ojm>Společenství Ortenovo náměstí 1457 Praha</dtt:ojm>
@@ -189,10 +151,10 @@
 <dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1457/23</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7801164118</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07692986</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -200,10 +162,12 @@
 <dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1457/23</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7401184164</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>21</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>17</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

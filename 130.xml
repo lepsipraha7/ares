@@ -40,7 +40,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=26759098</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -51,28 +51,6 @@
 <dtt:jmn>Praha 7, Bubeneč, Šmeralova 130/5</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>71620303</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>JUDr. Petra Drvoštěpová</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Šmeralova 130/5</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=7455300017</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>73548201</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Mgr. Radovan Hrubý, advokát</dtt:ojm>
-<dtt:jmn>Praha 1, Nové Město, Petrská 1136/12</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=8406121493</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -106,7 +84,7 @@
 <dtt:S>
 <dtt:ico>05353921</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Wawa design home s.r.o.</dtt:ojm>
+<dtt:ojm>Yage organics s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Šmeralova 130/5</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -115,8 +93,17 @@
 <dtt:p_dph>dic=05353921</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08930112</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lucie Sillitoe</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 130/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>11</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>10</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

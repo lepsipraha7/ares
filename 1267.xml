@@ -123,6 +123,17 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>48047554</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Honc</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5607190358</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>61461431</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>BD - Multicon s.r.o.</dtt:ojm>
@@ -132,6 +143,15 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=61461431</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>61828572</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Honcová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -181,6 +201,8 @@
 <dtt:p_dph>dic=7904190382</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>71820183</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -199,8 +221,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>74865714</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -223,6 +243,15 @@
 <dtt:ico>76462498</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ludmila Táchová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86641221</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Dalimil Novák</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -294,10 +323,24 @@
 <dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08086940</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08194785</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Olšbauer s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1267/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08194785</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>34</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

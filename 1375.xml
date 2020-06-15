@@ -5,7 +5,7 @@
 <dtt:S>
 <dtt:ico>13792768</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. David KREJČÍK</dtt:ojm>
+<dtt:ojm>Ing. David Krejčík</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U smaltovny 1375/25</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -90,15 +90,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>67218083</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Nadja Brumeisenová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U smaltovny 1375/25</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>67787266</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Mgr. Petra Štogrová Jedličková</dtt:ojm>
@@ -143,6 +134,30 @@
 <dtt:jmn>Praha 7, Holešovice, U smaltovny 1375/25</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8105020308</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>73541729</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Tomáš Vojta</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1375/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7704293949</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02102773</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Hana Slapničková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1375/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8953290192</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -186,6 +201,8 @@
 <dtt:p_dph>dic=06193099</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06610218</dtt:ico>
 <dtt:pf>145</dtt:pf>
@@ -195,8 +212,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07174004</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -206,8 +221,16 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>09232028</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Eva Vojtová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1375/25</dtt:jmn>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>21</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

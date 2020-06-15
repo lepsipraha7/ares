@@ -45,18 +45,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>26760614</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Thuong Phan Van</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Komunardů 1127/51</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=8002023876</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27070107</dtt:ico>
 <dtt:pf>102</dtt:pf>
 <dtt:ojm>Hoang Anh VU</dtt:ojm>
@@ -73,6 +61,25 @@
 <dtt:jmn>Praha 7, Holešovice, Komunardů 1127/51</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27884317</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>TRI DEVELOPMENT, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1127/51</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27885178</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Pohodové byty, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1127/51</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -182,6 +189,28 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>71818871</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel Rataj</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U měšťanského pivovaru 1127/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>73104370</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Kubíček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U měšťanského pivovaru 1127/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8102035876</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>87118343</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Lukáš Rendl</dtt:ojm>
@@ -201,8 +230,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>88613429</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -247,15 +274,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>05485690</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Dominik Burian</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Komunardů 1127/51</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>06447350</dtt:ico>
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Francisco Javier Pinilla Gisbert</dtt:ojm>
@@ -283,16 +301,16 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>07825561</dtt:ico>
+<dtt:ico>08414238</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Jana Knap Havelková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U měšťanského pivovaru 1127/11</dtt:jmn>
+<dtt:ojm>Adéla Vopavová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1127/51</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

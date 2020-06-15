@@ -57,6 +57,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=28197801</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=28197801</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -96,6 +98,17 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=6860176675</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>64934829</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Unie ROSKA - reg. org. ROSKA PRAHA, z.p.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1438/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=64934829</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -186,6 +199,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06497616</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -198,8 +213,6 @@
 <dtt:p_dph>dic=06497616</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06819290</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -210,7 +223,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>21</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

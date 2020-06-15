@@ -3,9 +3,20 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
+<dtt:ico>15390951</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Josef Rebl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 939/7b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6502082268</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>15946797</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Petr RYCHETSKÝ</dtt:ojm>
+<dtt:ojm>Ing. Petr Rychetský</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -132,15 +143,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>68514484</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Sabina Klemová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Letohradská 939/7b</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>70346968</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Alena Jahnová</dtt:ojm>
@@ -244,8 +246,18 @@
 <dtt:p_dph>dic=07706481</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>09106821</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FACM s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 939/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

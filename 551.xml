@@ -9,7 +9,6 @@
 <dtt:jmn>Praha 7, Bubeneč, U Sparty 551/14</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=00563188</dtt:p_dph>
 <dtt:cedr>0</dtt:cedr>
@@ -90,7 +89,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=61457884</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -109,6 +108,15 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>MUDr. Nermina Halvadžija</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Kamenická 551/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75324377</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jana Žďánská</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U Sparty 551/14</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -142,6 +150,24 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>04748204</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Klára Fialová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U Sparty 551/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06689167</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Michaela Mačejovská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 551/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>08080356</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Martin Kocian</dtt:ojm>
@@ -150,8 +176,17 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08825238</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ignacio Garcia Esteban</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U Sparty 551/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>15</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>19</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

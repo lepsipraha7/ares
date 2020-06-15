@@ -28,11 +28,11 @@
 <dtt:S>
 <dtt:ico>24188972</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>U-klid Praha s.r.o.</dtt:ojm>
+<dtt:ojm>U-klid Praha s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
+<dtt:rzp>1</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -298,6 +298,17 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>04497619</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Nina Feriancová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9056216829</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>06417248</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Mama Baby Studio s.r.o.</dtt:ojm>
@@ -317,6 +328,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06494005</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -328,8 +341,19 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08933421</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Sylvia Krajčírová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 363/22</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=685066264</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>33</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

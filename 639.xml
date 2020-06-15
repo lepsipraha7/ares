@@ -80,6 +80,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=27904989</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=27904989</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -186,6 +188,18 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>64944077</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NOTIA Středisko vzdělávání, spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 639/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=64944077</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>65991575</dtt:ico>
 <dtt:pf>118</dtt:pf>
 <dtt:ojm>Nadační fond Rozum a Cit</dtt:ojm>
@@ -214,6 +228,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03377946</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -226,8 +242,6 @@
 <dtt:p_dph>dic=03377946</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03825388</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -253,15 +267,12 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>04668154</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>MIJA gastro s.r.o.</dtt:ojm>
+<dtt:ico>06107346</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Málik</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jablonského 639/4</dtt:jmn>
-<dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=04668154</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -287,7 +298,7 @@
 <dtt:S>
 <dtt:ico>07597231</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Unique Apartments Prague s.r.o.</dtt:ojm>
+<dtt:ojm>Hledá se hotel s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jablonského 639/4</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -296,8 +307,28 @@
 <dtt:p_dph>dic=07597231</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08574626</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MLM trailers s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 639/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08574952</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MLM trailers rental s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 639/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>26</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

@@ -10,7 +10,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=24306665</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -120,6 +120,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>68382421</dtt:ico>
+<dtt:pf>736</dtt:pf>
+<dtt:ojm>Modelářský klub SMČR, Klub 163 Železniční modeláři,p.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1243/35</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>71657029</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Kateřina Križková</dtt:ojm>
@@ -156,6 +165,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>87387425</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marek Štědra</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1243/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>87407485</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Eva Reichmanová</dtt:ojm>
@@ -173,14 +191,16 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>01767658</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Filip Mucala</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, V háji 1243/35</dtt:jmn>
 <dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>02418886</dtt:ico>
@@ -191,8 +211,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03436403</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -206,6 +224,15 @@
 <dtt:ico>05939810</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Naděžda Hořejší</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, V háji 1243/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06476261</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Fojtů</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, V háji 1243/35</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -251,7 +278,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>26</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

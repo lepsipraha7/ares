@@ -145,18 +145,20 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>76384543</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Frédéric Michel Gustave Schendel</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Veletržní 207/11</dtt:jmn>
+<dtt:ico>71670891</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Radovan Suk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 887/26</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6710081092</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>87621029</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Pavel Toman</dtt:ojm>
+<dtt:ico>76384543</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Frédéric Michel Gustave Schendel</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Veletržní 207/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -169,6 +171,8 @@
 <dtt:jmn>Praha 7, Bubeneč, Šmeralova 207/32</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:sd>0</dtt:sd>
+<dtt:p_sd>dic=7006053780</dtt:p_sd>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -191,6 +195,15 @@
 </dtt:S>
 </dtt:V>
 <dtt:V>
+<dtt:S>
+<dtt:ico>03558631</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Králíček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 207/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 <dtt:S>
 <dtt:ico>04299043</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -236,8 +249,17 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08719306</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Kupalla project s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 207/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>27</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

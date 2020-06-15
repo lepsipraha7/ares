@@ -176,24 +176,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>43931316</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Miloslav CUPKA</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U smaltovny 1381/26</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>45281629</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>KHAZNADAR spol. s r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U smaltovny 1381/26</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>45692661</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jana Popelková</dtt:ojm>
@@ -211,8 +193,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>63093413</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -231,6 +211,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>66465494</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -268,6 +250,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>70352372</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Miluše Kaldararová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1381/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>71617132</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Jiří KARKOŠ</dtt:ojm>
@@ -276,6 +267,15 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=5712280299</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88124592</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Thi Nguyet Dinh</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1381/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -308,16 +308,29 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>06583695</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Mgr. Daniel Hříbal</dtt:ojm>
+<dtt:ico>08215596</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MPS FRIENDS s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U smaltovny 1381/26</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08215596</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08335214</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Cong Nguyet Nails, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1381/26</dtt:jmn>
+<dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

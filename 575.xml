@@ -33,7 +33,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=16190009</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -102,7 +102,6 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:rzz>1</dtt:rzz>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=26365138</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
@@ -314,6 +313,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01918231</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -355,10 +356,33 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08022747</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08677816</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BEXTE Development s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 575/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08677816</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09197222</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Prague Microgreens Farm s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 575/23</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>33</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

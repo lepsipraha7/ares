@@ -51,7 +51,7 @@
 <dtt:S>
 <dtt:ico>25698761</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>ALTAIR PRAHA spol. s r.o.</dtt:ojm>
+<dtt:ojm>ALTAIR PRAHA spol. s r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -137,7 +137,7 @@
 <dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=7601057497</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -186,6 +186,8 @@
 <dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8505131954</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -220,17 +222,6 @@
 <dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>04641850</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Anna Vršník</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=8251135530</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -275,22 +266,29 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>07238061</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>STROMKA centrum, s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=07238061</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>07334206</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Daniel Wankat</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07996888</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Veronika Pokorná</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09058257</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>audit.digital s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 909/50</dtt:jmn>
+<dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>

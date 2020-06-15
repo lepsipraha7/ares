@@ -52,26 +52,14 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>24300438</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Sprinton s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 938/18a</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=24300438</dtt:p_dph>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=24300438</dtt:p_cedr>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>24661171</dtt:ico>
 <dtt:pf>141</dtt:pf>
 <dtt:ojm>Institut pro studium literatury, o. p. s.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 938/18a</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24661171</dtt:p_dph>
 <dtt:cedr>0</dtt:cedr>
 <dtt:p_cedr>ico=24661171</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
@@ -227,6 +215,18 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>45275807</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BOHEMIASEED,spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 938/18a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=45275807</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>49616552</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>OSEVA PRO s.r.o.</dtt:ojm>
@@ -255,6 +255,17 @@
 </dtt:S>
 </dtt:V>
 <dtt:V>
+<dtt:S>
+<dtt:ico>73698440</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Strnad</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 938/18a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8404281919</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 <dtt:S>
 <dtt:ico>01813714</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -346,8 +357,17 @@
 <dtt:p_dph>dic=07406436</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>09084193</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Hanykýř</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 938/18a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

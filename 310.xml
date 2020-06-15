@@ -182,15 +182,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>47132787</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Bohumil OPATRNÝ</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Umělecká 310/2</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>48568392</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Libuše Opatrná</dtt:ojm>
@@ -199,8 +190,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>60219904</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -210,6 +199,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>60220376</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -304,6 +295,15 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Dita Krajáková</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Umělecká 310/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69277451</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Pincová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 310/2</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -449,7 +449,7 @@
 <dtt:S>
 <dtt:ico>86905503</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Jan STEHLÍK</dtt:ojm>
+<dtt:ojm>Ing. Jan Stehlík</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Umělecká 310/2</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -522,19 +522,19 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>05751713</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Marina Maslovskaya</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Umělecká 310/2</dtt:jmn>
+<dtt:ico>06616305</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Robert Radla</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 310/2</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>06616305</dtt:ico>
+<dtt:ico>07616821</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Robert Radla</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Korunovační 310/2</dtt:jmn>
+<dtt:ojm>Petr Sládek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Umělecká 310/2</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -548,8 +548,29 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08235384</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AlfaFIT group s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Umělecká 310/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08235384</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08983160</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Volejníková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Umělecká 310/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>57</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>59</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

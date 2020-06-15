@@ -59,7 +59,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
+<dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=24131041</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -83,18 +83,6 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>24185531</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>TAYLONOS s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Schnirchova 1082/33</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=24185531</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -168,26 +156,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>27303942</dtt:ico>
-<dtt:pf>102</dtt:pf>
-<dtt:ojm>Andrey Paramonov</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Schnirchova 1082/33</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>27303977</dtt:ico>
-<dtt:pf>102</dtt:pf>
-<dtt:ojm>Ing. Irina Paramonova</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Schnirchova 1082/33</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>28187725</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>SOTTO s.r.o.</dtt:ojm>
@@ -223,8 +191,6 @@
 <dtt:p_dph>dic=28510577</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>28939301</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -258,17 +224,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-<dtt:S>
-<dtt:ico>61495875</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Martina Henzlová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Schnirchova 1082/33</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=7261150380</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>66464081</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -285,7 +242,7 @@
 <dtt:jmn>Praha 7, Holešovice, Schnirchova 1082/33</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=5709160149</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -420,7 +377,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=03772110</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -433,8 +390,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04700309</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -466,7 +421,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>43</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>39</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

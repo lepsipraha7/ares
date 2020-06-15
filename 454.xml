@@ -39,15 +39,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>18903002</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Petr Pikhart</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>28171632</dtt:ico>
 <dtt:pf>102</dtt:pf>
 <dtt:ojm>Tetyana Ivanets</dtt:ojm>
@@ -58,15 +49,12 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>28668529</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ba Tuan Vu</dtt:ojm>
+<dtt:ico>28384580</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků jednotek U Pergamenky 9</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
-<dtt:or>1</dtt:or>
+<dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=8701131395</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -93,15 +81,6 @@
 <dtt:ico>43878202</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Roman Fillip</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>45122601</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ondřej Kosek</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -150,7 +129,6 @@
 <dtt:jmn>Praha 7, Holešovice, U Pergamenky 454/9a</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:rzz>1</dtt:rzz>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -189,8 +167,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>74745883</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -209,6 +185,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>75591618</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -282,7 +260,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

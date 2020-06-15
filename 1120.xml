@@ -30,19 +30,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>46634606</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>MUDr. Karel Dvořák</dtt:ojm>
-<dtt:jmn>Tábor, Kpt. Jaroše 2999</dtt:jmn>
-<dtt:res>1</dtt:res>
-<dtt:rzz>0</dtt:rzz>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=5403081948</dtt:p_dph>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=46634606</dtt:p_cedr>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>47548207</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Apis s.r.o.&quot; v l i k v i d a c i &quot;</dtt:ojm>
@@ -50,7 +37,6 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:rzz>1</dtt:rzz>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=47548207</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
@@ -84,62 +70,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=490302207</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>70078033</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Martin Brůna</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Heřmanova 1120/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>70347492</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Jiří HORÁK</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Heřmanova 1120/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>71327240</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Lukáš Kubín</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Heřmanova 1120/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>71617558</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ladislav Anděl</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Heřmanova 1120/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=7512290379</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>71866566</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Marie Griffinová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Heřmanova 1120/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>75432889</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ava Priya Vantomme</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Heřmanova 1120/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -197,8 +127,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05076790</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -226,8 +154,16 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>09214062</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Věra Ungerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1120/7</dtt:jmn>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>17</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

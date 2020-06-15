@@ -37,6 +37,16 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>25969811</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BEYOND CZ s.r.o.,</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>26128721</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>DINABURG s.r.o.</dtt:ojm>
@@ -44,7 +54,6 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:rzz>1</dtt:rzz>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=26128721</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
@@ -53,7 +62,7 @@
 <dtt:ico>26142104</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Monitor CZ, s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Tusarova 323/37</dtt:jmn>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 323/37a</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -65,7 +74,7 @@
 <dtt:ico>26195313</dtt:ico>
 <dtt:pf>100</dtt:pf>
 <dtt:ojm>Mark ZICHA - MOCHAJAVAMAN</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Tusarova 323/37</dtt:jmn>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 323/37a</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:sh>0</dtt:sh>
 </dtt:S>
@@ -160,7 +169,7 @@
 <dtt:ico>49711971</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>DUKE International Trade Company</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Tusarova 323/37</dtt:jmn>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 323/37a</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:dph>1</dtt:dph>
@@ -191,7 +200,7 @@
 <dtt:S>
 <dtt:ico>86631357</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>MgA. Petr MALINA</dtt:ojm>
+<dtt:ojm>MgA. Petr Malina</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -206,6 +215,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>87443490</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -215,8 +226,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>88379639</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -232,7 +241,7 @@
 <dtt:ico>88816494</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Marcela Mikesková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Tusarova 323/37</dtt:jmn>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 323/37a</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -256,8 +265,18 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>06918000</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Sparkle Events s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 323/40</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>26</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

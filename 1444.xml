@@ -93,6 +93,16 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>27422721</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Linh Nguyen Thi</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1444/13</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>27563812</dtt:ico>
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Thu Tam Le</dtt:ojm>
@@ -165,6 +175,16 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>48555878</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Thi Hien Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1444/11</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>48591939</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>SAVING Praha s r. o.</dtt:ojm>
@@ -183,6 +203,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>66455928</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -201,8 +223,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>66857996</dtt:ico>
 <dtt:pf>100</dtt:pf>
@@ -218,17 +238,6 @@
 <dtt:jmn>Praha 7, Holešovice, Jateční 1444/13</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>70332100</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Lukáš Klíma</dtt:ojm>
-<dtt:jmn>Praha 19, Kbely, Košařova 1125/30</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=8008180312</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -288,15 +297,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>87431980</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Marek Sixta</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jateční 1444/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>88332632</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Libuše Hůlová</dtt:ojm>
@@ -324,26 +324,46 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>07707975</dtt:ico>
+<dtt:ico>08207721</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Omítkové systémy s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 9, Kbely, Košařova 1125/30</dtt:jmn>
+<dtt:ojm>ABITOL Reality s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1444/11</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>07958161</dtt:ico>
+<dtt:ico>08672172</dtt:ico>
 <dtt:pf>424</dtt:pf>
-<dtt:ojm>Mgr. Miroslava Petráková</dtt:ojm>
+<dtt:ojm>Quoc Huy Ta</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1444/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08858365</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Agency stack s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jateční 1444/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08894043</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Meerkat reality s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1444/11</dtt:jmn>
+<dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>35</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>37</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

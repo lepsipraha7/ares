@@ -272,7 +272,7 @@
 <dtt:S>
 <dtt:ico>24284751</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Lara Kristin s.r.o.</dtt:ojm>
+<dtt:ojm>Lara Kristin s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Na Maninách 796/9</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -282,7 +282,7 @@
 <dtt:S>
 <dtt:ico>24289604</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>ARTA NOVA company, s.r.o.</dtt:ojm>
+<dtt:ojm>ARTA NOVA company, s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Na Maninách 796/9</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -527,7 +527,7 @@
 <dtt:S>
 <dtt:ico>29043581</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Sales Systems Professional s.r.o.</dtt:ojm>
+<dtt:ojm>Sales Systems Professional s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Na Maninách 796/9</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -649,14 +649,14 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>71679529</dtt:ico>
+<dtt:ico>76625583</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Viktor Jansík</dtt:ojm>
+<dtt:ojm>Marek Michna</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Na Maninách 796/9</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=7607060021</dtt:p_dph>
+<dtt:p_dph>dic=7608104977</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -675,6 +675,8 @@
 <dtt:jmn>Praha 7, Holešovice, Na Maninách 796/9</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6002227561</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -842,18 +844,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>06282521</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Teachable Machines s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Na Maninách 796/9</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=06282521</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>06410731</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Meridian IT Security s.r.o.</dtt:ojm>
@@ -931,6 +921,8 @@
 <dtt:jmn>Praha 7, Holešovice, Na Maninách 796/9</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9009120032</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -943,8 +935,26 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08350841</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MVDr. Denisa Pochobradská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 796/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08996920</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VNZ Pro s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 796/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>91</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>92</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

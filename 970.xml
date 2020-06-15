@@ -3,15 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>01186922</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Luděk Hrůza</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Na ovčinách 970/4</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>11216417</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Miloš Nový</dtt:ojm>
@@ -77,6 +68,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>22858105</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Optimální o.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na ovčinách 970/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>24297356</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Americké dřevostavby, s.r.o.</dtt:ojm>
@@ -118,6 +118,16 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Karel Hendrych</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Na ovčinách 970/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49680081</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>&quot;STUDIO HOLOGRAFIE, s.r.o.&quot;</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na ovčinách 970/4</dtt:jmn>
+<dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -169,7 +179,7 @@
 <dtt:jmn>Praha 7, Holešovice, Na ovčinách 970/4</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
+<dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=7906260032</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -191,6 +201,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>71560122</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -200,8 +212,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>71670696</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -211,15 +221,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=7704030466</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>72004312</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Lenka Žižková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Na ovčinách 970/4</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -254,6 +255,17 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>75731177</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marek Musil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na ovčinách 970/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7409174399</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>86934520</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Dominik Saitl</dtt:ojm>
@@ -281,7 +293,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

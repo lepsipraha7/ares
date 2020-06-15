@@ -33,6 +33,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>00700916</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Gaydiczová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 795/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>00766372</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Monika Spilková</dtt:ojm>
@@ -119,8 +128,17 @@
 <dtt:S>
 <dtt:ico>01260341</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Eliška Linda Prunarová</dtt:ojm>
+<dtt:ojm>Eliška Linda Fischerová</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>01298496</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lenka Dombrovská Slívová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dobrovského 647/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -146,12 +164,14 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>01593927</dtt:ico>
+<dtt:ico>01602900</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Natálie Kurucová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Osadní 1317/11</dtt:jmn>
+<dtt:ojm>MgA. Michal Cimala</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7501235192</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -172,6 +192,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>10132601</dtt:ico>
 <dtt:pf>100</dtt:pf>
@@ -186,17 +208,6 @@
 <dtt:ojm>Ing. Josef CRHÁK</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Strojnická 999/11</dtt:jmn>
 <dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-</dtt:V>
-<dtt:V>
-<dtt:S>
-<dtt:ico>10134271</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Luboš Nezmar</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Šimáčkova 1451/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -239,15 +250,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=6511130439</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>11210630</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Miloslava Siladjiová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U smaltovny 1361/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -377,7 +379,7 @@
 <dtt:jmn>Praha 7, Bubeneč, Šmeralova 344/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=5903260506</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -454,7 +456,7 @@
 <dtt:S>
 <dtt:ico>16964616</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Petr Merežko</dtt:ojm>
+<dtt:ojm>Ing. Petr Merežko, Ph.D.</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Malířská 377/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -474,15 +476,6 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Marie MATĚJKOVÁ</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Osadní 1317/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>18938299</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Otakar Kopřiva</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Františka Křížka 461/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -597,8 +590,6 @@
 <dtt:p_dph>dic=24235890</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>24281816</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -609,6 +600,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>24283347</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -619,6 +612,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=24283347</dtt:p_dph>
+<dtt:sd>0</dtt:sd>
+<dtt:p_sd>dic=24283347</dtt:p_sd>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -637,18 +632,6 @@
 <dtt:jmn>Praha 7, Holešovice, U studánky 619/11</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>24702251</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>EXPO living s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Osadní 1317/11</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=24702251</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -713,21 +696,8 @@
 <dtt:jmn>Praha 7, Bubeneč, Malířská 377/11</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=25066625</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>25086499</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>CN BROWN, s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Františka Křížka 461/11</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=25086499</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -767,18 +737,6 @@
 <dtt:cedr>0</dtt:cedr>
 <dtt:p_cedr>ico=25331272</dtt:p_cedr>
 <dtt:ir>0</dtt:ir>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>25369776</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>ZESEKO, spol. s r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Strojnická 999/11</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=25369776</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -830,8 +788,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>25792601</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -864,7 +820,7 @@
 <dtt:S>
 <dtt:ico>26136937</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>ATLANTIC Bulding 2000, s.r.o.</dtt:ojm>
+<dtt:ojm>ATLANTIC Bulding 2000, s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Strojnická 999/11</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -873,6 +829,8 @@
 <dtt:p_dph>dic=26136937</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>26196883</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -881,7 +839,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=26196883</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -1020,7 +978,7 @@
 <dtt:S>
 <dtt:ico>26717956</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>AGRO-HEM, s.r.o.</dtt:ojm>
+<dtt:ojm>AGRO-HEM, s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Strojnická 999/11</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -1041,20 +999,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>26739861</dtt:ico>
-<dtt:pf>121</dtt:pf>
-<dtt:ojm>NARBONEA a.s., v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Strojnická 999/11</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=26739861</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-</dtt:V>
-<dtt:V>
-<dtt:S>
 <dtt:ico>26800748</dtt:ico>
 <dtt:pf>121</dtt:pf>
 <dtt:ojm>Areál Studentská a.s.</dtt:ojm>
@@ -1069,11 +1013,10 @@
 <dtt:S>
 <dtt:ico>26917874</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>WHC mont s.r.o.</dtt:ojm>
+<dtt:ojm>WHC mont s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Strojnická 999/11</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=26917874</dtt:p_dph>
 <dtt:cedr>0</dtt:cedr>
@@ -1108,6 +1051,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>27086429</dtt:ico>
 <dtt:pf>100</dtt:pf>
@@ -1131,7 +1076,7 @@
 <dtt:S>
 <dtt:ico>27109119</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>ANNEX Development s.r.o.</dtt:ojm>
+<dtt:ojm>ANNEX Development s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Strojnická 999/11</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -1280,10 +1225,10 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=27388972</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=27388972</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>27429164</dtt:ico>
 <dtt:pf>102</dtt:pf>
@@ -1301,16 +1246,6 @@
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>ZDEZIM, s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 161/11</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>27433951</dtt:ico>
-<dtt:pf>100</dtt:pf>
-<dtt:ojm>Ivan Batryn</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Strojnická 999/11</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -1351,6 +1286,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>27959805</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1509,12 +1446,10 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=28537572</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>28879856</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -1529,26 +1464,6 @@
 <dtt:ico>28886542</dtt:ico>
 <dtt:pf>102</dtt:pf>
 <dtt:ojm>Tetiana Okhrimenko</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U Výstaviště 230/11</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>28941225</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>LES - Comp. s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U Výstaviště 230/11</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>28941373</dtt:ico>
-<dtt:pf>102</dtt:pf>
-<dtt:ojm>Olga Baliubakh</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U Výstaviště 230/11</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -1598,6 +1513,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>29291488</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -1716,8 +1633,6 @@
 <dtt:p_dph>dic=455220058</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>42253659</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1725,17 +1640,6 @@
 <dtt:jmn>Praha 7, Holešovice, Poupětova 1293/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>42490782</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Petr Vohánka</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U průhonu 1493/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=6812312078</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -1752,15 +1656,6 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jitka Kubíčková</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Strojnická 999/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>42514339</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Monika Bucháčková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Františka Křížka 461/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -1814,6 +1709,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>43908462</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -1823,15 +1720,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=6505191968</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>43925782</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Jaroslava Tyllerová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Letohradská 680/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -1907,8 +1795,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>45249156</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -2014,6 +1900,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>47092122</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2102,8 +1990,16 @@
 <dtt:p_dph>dic=48109363</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
+<dtt:S>
+<dtt:ico>48555878</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Thi Hien Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1444/11</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 <dtt:S>
 <dtt:ico>48564834</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2201,6 +2097,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>60217626</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -2237,15 +2135,6 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jana Řehová</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U průhonu 1493/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>61023132</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ivana PŘEVOROVSKÁ</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Tusarova 1266/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -2298,8 +2187,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>61880345</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2416,6 +2303,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>63666341</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -2436,7 +2325,6 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:rzz>1</dtt:rzz>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=63670828</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
@@ -2469,6 +2357,8 @@
 <dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7459109911</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -2514,8 +2404,6 @@
 <dtt:p_cedr>ico=63997673</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>64064841</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2623,6 +2511,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>64769836</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2666,15 +2556,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>66463742</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Jitka Krausová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Tusarova 1266/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>66464889</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Michael Tůma</dtt:ojm>
@@ -2712,22 +2593,11 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>66467501</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Pavel ČÍŽEK</dtt:ojm>
+<dtt:ojm>Pavel Lukáš ČÍŽEK</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Na Maninách 795/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>66467870</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Bohuslava Ečerová</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 978/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -2808,16 +2678,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>67788165</dtt:ico>
-<dtt:pf>102</dtt:pf>
-<dtt:ojm>Anton Georgiev TONCHEV</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U Výstaviště 230/11</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>67789285</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>MUDr. Ingrid Janíková</dtt:ojm>
@@ -2847,6 +2707,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>67790232</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2877,6 +2739,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>67975623</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Vasyl Polyak</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 999/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>67992692</dtt:ico>
 <dtt:pf>105</dtt:pf>
 <dtt:ojm>Františka Hamsíková, BcA.</dtt:ojm>
@@ -2904,8 +2775,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>68865503</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -2934,6 +2803,18 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>68957408</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pa Sait Nyass</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1206/11</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7412319948</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>69078530</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Lucie Königová</dtt:ojm>
@@ -2958,6 +2839,15 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Lenka Brůžková</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Komunardů 1050/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>69512060</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniela Faustová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Schnirchova 199/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -2992,10 +2882,12 @@
 <dtt:S>
 <dtt:ico>70347476</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Martine MASNEROVÁ</dtt:ojm>
+<dtt:ojm>Martine Victorine Masner</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Skalecká 354/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6254072220</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -3007,6 +2899,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>70348774</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3091,8 +2985,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>70756848</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3191,6 +3083,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>71552511</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3266,6 +3160,17 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>71670891</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Radovan Suk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 887/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6710081092</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>71671188</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Otakar Berdych</dtt:ojm>
@@ -3274,8 +3179,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>71672630</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3286,10 +3189,10 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>71771484</dtt:ico>
+<dtt:ico>71818871</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Markéta VOKURKOVÁ</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Schnirchova 199/11</dtt:jmn>
+<dtt:ojm>Daniel Rataj</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U měšťanského pivovaru 1127/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -3342,6 +3245,17 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>73104370</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Kubíček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U měšťanského pivovaru 1127/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=8102035876</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>73411302</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Markéta Rozumová</dtt:ojm>
@@ -3361,6 +3275,8 @@
 <dtt:p_dph>dic=8361222056</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>73507857</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -3451,15 +3367,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>74697871</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Michael Jan Ennis</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Janovského 979/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>74794027</dtt:ico>
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Halimeh Habib Deneiro</dtt:ojm>
@@ -3468,8 +3375,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>74856421</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3484,15 +3389,6 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Romana Butčyk</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Janovského 979/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>74991833</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Patrik Burda</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Komunardů 1050/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -3523,6 +3419,15 @@
 <dtt:jmn>Praha 7, Holešovice, U Uranie 1206/11</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75193469</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Smil</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Čechova 515/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -3563,6 +3468,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>75841282</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3575,19 +3482,19 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>75985519</dtt:ico>
+<dtt:ico>75935058</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Tomáš Kočvara</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U průhonu 1493/11</dtt:jmn>
+<dtt:ojm>Lenka Dvořáková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>76064476</dtt:ico>
+<dtt:ico>75985519</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Ketpert Wisetsang</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 966/11</dtt:jmn>
+<dtt:ojm>Tomáš Kočvara</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1493/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -3640,6 +3547,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>76592863</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michaela Majorová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 344/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>76602389</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Indira Bajrami</dtt:ojm>
@@ -3659,8 +3575,6 @@
 <dtt:p_dph>dic=8803070419</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>76649687</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -3691,15 +3605,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>86629557</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Mgr. Klára Kuncová</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>86629824</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Mgr. Petr Mikulášek</dtt:ojm>
@@ -3724,6 +3629,8 @@
 <dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7606040376</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -3736,10 +3643,10 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>86666606</dtt:ico>
+<dtt:ico>86959310</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Martin Svoboda</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, U akademie 366/11</dtt:jmn>
+<dtt:ojm>Karel Heřman</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 795/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -3753,6 +3660,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>87023075</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -3830,48 +3739,10 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>87431980</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Marek Sixta</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jateční 1444/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>87500779</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Václav Charvát</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Osadní 1317/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-</dtt:V>
-<dtt:V>
-<dtt:S>
-<dtt:ico>87568403</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Sergiy Omelchenko</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U Výstaviště 230/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>87621029</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Pavel Toman</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Veletržní 207/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>87691132</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Teťana Volodina</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U Výstaviště 230/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -3973,12 +3844,14 @@
 <dtt:S>
 <dtt:ico>88105610</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Petra Tatarová</dtt:ojm>
+<dtt:ojm>Petra Dvorská Tatarová</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U studánky 619/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>88218601</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -4002,6 +3875,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>88272150</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alexandra Pustovoit</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 795/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>88332632</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Libuše Hůlová</dtt:ojm>
@@ -4022,6 +3904,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>88387496</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Fusek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 461/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>88596273</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Michaela Čálková</dtt:ojm>
@@ -4039,8 +3930,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>88714136</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -4123,10 +4012,10 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>02004950</dtt:ico>
+<dtt:ico>02021331</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Jan Zalabák</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Tusarova 1266/11</dtt:jmn>
+<dtt:ojm>Jiří Markvart</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 795/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -4151,6 +4040,8 @@
 <dtt:p_dph>dic=8061084845</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>02505797</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -4209,6 +4100,18 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>02742853</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Luxifer CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 230/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02742853</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>02876477</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Onsen, s.r.o.</dtt:ojm>
@@ -4227,8 +4130,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03373975</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -4283,6 +4184,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>03558631</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Králíček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 207/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>03678580</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Bavanlar s.r.o.</dtt:ojm>
@@ -4332,6 +4242,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03906582</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -4431,8 +4343,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04419421</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -4441,6 +4351,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=4419421</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -4527,6 +4439,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04935322</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -4604,15 +4518,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>05171121</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Genady Alexeev</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Malířská 377/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>05258570</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>DEFE s.r.o.</dtt:ojm>
@@ -4622,8 +4527,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05266351</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -4634,6 +4537,15 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=05266351</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05320780</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adam Novotný</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Haškova 844/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -4685,15 +4597,12 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>05784751</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Innovation Path s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 161/11</dtt:jmn>
+<dtt:ico>05755808</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Rozvoj turismu Praha 7, z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1266/11</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=05784751</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -4724,6 +4633,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05973058</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -4811,11 +4722,9 @@
 <dtt:ojm>Mykola Pudov</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Strojnická 999/11</dtt:jmn>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05985625</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -4840,8 +4749,8 @@
 <dtt:ojm>Ivan Lemak</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Strojnická 999/11</dtt:jmn>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>05985854</dtt:ico>
@@ -4853,12 +4762,34 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>06020160</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Neradil</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 1206/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06023231</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vilém Franěk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strossmayerovo náměstí 966/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9211231183</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>06047980</dtt:ico>
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Pavol Barci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Letohradská 680/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=684189123</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -4884,6 +4815,17 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jolana Macháčková</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U průhonu 1493/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
+<dtt:ico>06312764</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Jakub Major</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 344/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -4931,6 +4873,8 @@
 <dtt:jmn>Praha 7, Holešovice, Milady Horákové 452/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9251140195</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -4943,6 +4887,17 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>06536204</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Trygve Peter Wakenshaw</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jirečkova 1013/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=684275623</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>06622445</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>FYMC.cz s.r.o.</dtt:ojm>
@@ -4950,6 +4905,20 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06622445</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06706177</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Techlux Servis, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 230/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06706177</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -4969,8 +4938,8 @@
 <dtt:ojm>Ivan Petrovtsi</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Strojnická 999/11</dtt:jmn>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>06707581</dtt:ico>
@@ -4999,8 +4968,15 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
+<dtt:S>
+<dtt:ico>06933548</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Krejčí</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1266/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 <dtt:S>
 <dtt:ico>07059248</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -5040,6 +5016,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07221916</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -5068,6 +5046,17 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>07463448</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Brzobohatý</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Umělecká 585/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8603274141</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>07494670</dtt:ico>
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Steven William Celauro</dtt:ojm>
@@ -5083,6 +5072,8 @@
 <dtt:jmn>Praha 7, Holešovice, Dobrovského 647/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7956110382</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -5099,15 +5090,6 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Lukáš Klimeš</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U smaltovny 1361/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>07624786</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Kelly Renee Kennedy</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Umělecká 585/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -5149,10 +5131,21 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>07739583</dtt:ico>
+<dtt:ico>02029537</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Olga Barbara Bigoraj</dtt:ojm>
+<dtt:jmn>Praha 4, Braník, Branická 111/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=683440821</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07736606</dtt:ico>
 <dtt:pf>424</dtt:pf>
-<dtt:ojm>Lauren Elizabeth Werner</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Umělecká 585/11</dtt:jmn>
+<dtt:ojm>Sonia Kit-Fong D Silva</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 795/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -5164,15 +5157,8 @@
 <dtt:jmn>Praha 7, Holešovice, Letohradská 680/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>07825561</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Jana Knap Havelková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U měšťanského pivovaru 1127/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7602160720</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -5184,8 +5170,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07854463</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -5214,15 +5198,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>07958161</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Mgr. Miroslava Petráková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jateční 1444/11</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>08002461</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>ozpr s.r.o.</dtt:ojm>
@@ -5232,16 +5207,167 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>08151369</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Metronome Fitness s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 161/11</dtt:jmn>
 <dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08151369</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08207721</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ABITOL Reality s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1444/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08289719</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>OCR Hunters z.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1555/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08437904</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Nicoll Šiková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 999/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08505055</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Atelier HORIZONT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1493/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08530874</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Sandra Kopáčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 866/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08615349</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Arrive Logistic s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U městských domů 1555/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08615349</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08641544</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SuperHalfs s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Františka Křížka 461/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08641544</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08788227</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Roman Gainetskyi</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 230/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08858365</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Agency stack s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1444/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08885761</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Reitknechtka Development s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 161/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08894043</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Meerkat reality s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1444/11</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09061738</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petra Bohuslavová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 999/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09101454</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Marie Temlová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1266/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09156577</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Andriy Zhuykov</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Výstaviště 230/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09231528</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Blanka Crháková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 999/11</dtt:jmn>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>526</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>536</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

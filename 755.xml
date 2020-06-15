@@ -3,24 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>01198963</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Alena Bartková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>01351346</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Marcela Voděrková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>01401904</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Ergado s.r.o.</dtt:ojm>
@@ -92,7 +74,7 @@
 <dtt:S>
 <dtt:ico>24161772</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>GREEN YARD DEVELOPMENT s.r.o.</dtt:ojm>
+<dtt:ojm>GYD s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -126,21 +108,9 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>24270202</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Konstanta trade s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=24270202</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>24717452</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Sales Growth Czech s.r.o.</dtt:ojm>
+<dtt:ojm>Sales Growth Czech s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -231,8 +201,6 @@
 <dtt:p_dph>dic=25873075</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>27134253</dtt:ico>
 <dtt:pf>117</dtt:pf>
@@ -267,6 +235,8 @@
 <dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>28419766</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -289,6 +259,7 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=28877691</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -301,16 +272,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=28912781</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>28948459</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Gamespace s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -435,15 +396,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>88901785</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Mgr. Tereza Vavrečková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>01623087</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Virtu Black s.r.o.</dtt:ojm>
@@ -457,8 +409,6 @@
 <dtt:p_sd>dic=01623087</dtt:p_sd>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>02637111</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -466,7 +416,7 @@
 <dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
+<dtt:rzp>1</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -517,6 +467,8 @@
 <dtt:p_dph>dic=03578216</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03613836</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -537,18 +489,6 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>03922049</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Smart logistics services s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=03922049</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -599,11 +539,40 @@
 <dtt:ojm>Byty za komínem s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
 <dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08279403</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Cukrless s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09030867</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Satie s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09242619</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>M&amp;H Advisors, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 755/50</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>53</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>50</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

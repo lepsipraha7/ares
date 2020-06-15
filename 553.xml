@@ -129,6 +129,8 @@
 <dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 553/55</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7354200029</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -149,14 +151,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=7701250381</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>73628727</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Mgr. Šárka Korencová, advokátka</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Nad Královskou oborou 553/55</dtt:jmn>
-<dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -206,8 +200,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>01714821</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -218,6 +210,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>02906554</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -228,7 +222,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>21</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

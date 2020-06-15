@@ -166,6 +166,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>24138061</dtt:ico>
+<dtt:pf>745</dtt:pf>
+<dtt:ojm>Smíšená obchodní komora České republiky a Slovenské republiky</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>25460668</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Tenaks s.r.o.</dtt:ojm>
@@ -177,6 +186,8 @@
 <dtt:p_dph>dic=25460668</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>25570170</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -191,8 +202,6 @@
 <dtt:p_cedr>ico=25570170</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>26617196</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -205,7 +214,7 @@
 <dtt:S>
 <dtt:ico>26995204</dtt:ico>
 <dtt:pf>706</dtt:pf>
-<dtt:ojm>Institute of the Chamber of Commerce z.s.</dtt:ojm>
+<dtt:ojm>Institute of the Chamber of Commerce z.s. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -221,6 +230,17 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=27200248</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27616754</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Rehabilitační holešovické centrum, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -295,11 +315,26 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>66252091</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Srba Josef, JUDr., advokát</dtt:ojm>
+<dtt:ico>64940616</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>STAVCERT Praha, spol. s r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=64940616</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>67364209</dtt:ico>
+<dtt:pf>751</dtt:pf>
+<dtt:ojm>STAVCERT</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 640/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=67364209</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -373,6 +408,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03226204</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -407,8 +444,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04503139</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -460,7 +495,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>45</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>48</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

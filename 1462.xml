@@ -58,7 +58,7 @@
 <dtt:S>
 <dtt:ico>27892115</dtt:ico>
 <dtt:pf>145</dtt:pf>
-<dtt:ojm>Společenství domu Praha - Holešovice Tusarova 16</dtt:ojm>
+<dtt:ojm>Společenství vlastníků Tusarova 16</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Tusarova 1462/16</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -164,7 +164,7 @@
 <dtt:S>
 <dtt:ico>88160416</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Ivana Čermáková</dtt:ojm>
+<dtt:ojm>Ivana Foulonneau</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Tusarova 1462/16</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -180,6 +180,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>88930297</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel Fantys</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1462/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>01845322</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jiří Boháč</dtt:ojm>
@@ -188,6 +197,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>02250098</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -197,8 +208,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04891996</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -234,10 +243,42 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07410131</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08582033</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Kolenová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1462/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08639949</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Vodrážka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1462/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08910901</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Consulting &amp; Educational Services, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1462/16</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08910901</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

@@ -65,7 +65,6 @@
 <dtt:res>0</dtt:res>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=42660262</dtt:p_dph>
-<dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -202,6 +201,19 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>75439069</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Volná</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 484/29</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9060171868</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
 <dtt:ico>75975335</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jaroslav Moravec</dtt:ojm>
@@ -210,8 +222,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>88196631</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -260,15 +270,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>06321623</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Manuel Lozano</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 484/22</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>07497253</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Zuzana Micková</dtt:ojm>
@@ -277,8 +278,27 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08711003</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Lidia Teleki</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 484/29</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09025154</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MF Services CZ, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 484/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>27</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

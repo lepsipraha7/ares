@@ -14,17 +14,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>14964236</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Jaroslava MALÁKOVÁ</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=465712101</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>16918479</dtt:ico>
 <dtt:pf>105</dtt:pf>
 <dtt:ojm>JOSEF DVOŘÁK</dtt:ojm>
@@ -217,8 +206,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>49229044</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -228,6 +215,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>49549073</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -255,6 +244,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=7308210459</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=66462746</dtt:p_cedr>
 <dtt:szr>0</dtt:szr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -265,14 +256,6 @@
 <dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>70556008</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Ing. Jan Šimek</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Bubenská 1160/13</dtt:jmn>
-<dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -307,7 +290,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>27</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

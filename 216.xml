@@ -22,7 +22,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:rzz>0</dtt:rzz>
+<dtt:rzz>1</dtt:rzz>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=27456943</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
@@ -50,20 +50,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>28929101</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>MELKER Media, s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 216/29</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=28929101</dtt:p_dph>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=28929101</dtt:p_cedr>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>28955480</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>HB84 s.r.o.</dtt:ojm>
@@ -73,15 +59,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=28955480</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>48566004</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Jiří Řeřicha</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 216/29</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -134,15 +111,12 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>02536218</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>SUN development HB s.r.o.</dtt:ojm>
+<dtt:ico>03827321</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Martin Solnička</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 216/29</dtt:jmn>
-<dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=02536218</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -185,7 +159,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>17</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>15</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

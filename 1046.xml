@@ -3,26 +3,16 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>27131238</dtt:ico>
-<dtt:pf>102</dtt:pf>
-<dtt:ojm>Mykhaylo TYTYCHKO</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Komunardů 1046/19</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27304825</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Van Hai Nguyen</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Komunardů 1046/19</dtt:jmn>
 <dtt:or>1</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
+<dtt:rzp>1</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=7202021915</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
+<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>27565548</dtt:ico>
@@ -52,6 +42,17 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=7212232665</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>62570366</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Stanislav Klein</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1046/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7407021193</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -131,17 +132,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-<dtt:S>
-<dtt:ico>07704488</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Yuriy Berezhnyk</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Komunardů 1046/19</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>15</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>14</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

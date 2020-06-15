@@ -12,19 +12,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>14892669</dtt:ico>
-<dtt:pf>205</dtt:pf>
-<dtt:ojm>AUTOSERVIS Veletržní, družstvo</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Veletržní 1396/39</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=14892669</dtt:p_dph>
-<dtt:ir>0</dtt:ir>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>24125733</dtt:ico>
 <dtt:pf>145</dtt:pf>
 <dtt:ojm>Společenství vlastníků Veletržní 39, Praha 7</dtt:ojm>
@@ -90,6 +77,8 @@
 <dtt:jmn>Praha 7, Holešovice, Veletržní 1396/39</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=44273266</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -146,6 +135,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>76561631</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Milan Pišťáček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 1396/39</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>87151723</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jiří Ježek</dtt:ojm>
@@ -154,8 +152,18 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08941301</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Kašpar Nemovitosti, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 1396/39</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>15</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>16</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

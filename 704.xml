@@ -55,18 +55,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>27903711</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>SKAISTA s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Korunovační 704/14</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=27903711</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27921565</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Foxo s.r.o.</dtt:ojm>
@@ -88,6 +76,18 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=28219287</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=28219287</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28887492</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Maria Sîrbu</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 704/14</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -110,6 +110,17 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=29132142</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>42529671</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Petr Beneš</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 704/51</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6702051895</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -158,6 +169,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>87063280</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Barbora Kraus</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 704/51</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>87579294</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Vladimír Janoušek</dtt:ojm>
@@ -178,12 +198,14 @@
 <dtt:S>
 <dtt:ico>88188728</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Tereza Fousková</dtt:ojm>
+<dtt:ojm>Tereza Vrbická</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Korunovační 704/14</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>88387267</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -202,8 +224,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>88881318</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -214,9 +234,27 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>01839969</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin Severýn</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 704/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02002256</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. arch. Robin Remunda</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 704/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>02090147</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Bc. Tereza Řeháková</dtt:ojm>
+<dtt:ojm>Bc. Tereza Nechvátalová</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Korunovační 704/14</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -243,6 +281,15 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=8501160811</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03445046</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vít Vrbický</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 704/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -273,11 +320,22 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>04278542</dtt:ico>
+<dtt:ico>04286791</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Saratov invest s.r.o.</dtt:ojm>
+<dtt:ojm>Andel &amp; partner s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Korunovační 704/14</dtt:jmn>
 <dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04286791</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>04687680</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Karolína Kučerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 704/51</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -286,6 +344,18 @@
 <dtt:ico>04837207</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>REMOTE ORIGIN s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 704/51</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04837207</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05108616</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Asappka s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Bubenská 704/51</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -329,22 +399,17 @@
 <dtt:jmn>Praha 7, Holešovice, Bubenská 704/51</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=684011693</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05953782</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Bada Czech s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Korunovační 704/14</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>06069665</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Spiegelův dvůr, s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Bubenská 704/51</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -398,8 +463,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06908586</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -456,10 +519,59 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07969597</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08183104</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Capta CZ s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 704/51</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08487766</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Figs s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 704/51</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08836841</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Immobiliare Rife s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 704/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09128794</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Viet Anh Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 704/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09161261</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PAMA REALITY s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 704/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>46</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>57</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

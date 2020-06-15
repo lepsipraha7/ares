@@ -25,6 +25,18 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>24273511</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PERMANENT GIG s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1339/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24273511</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>25145215</dtt:ico>
 <dtt:pf>121</dtt:pf>
 <dtt:ojm>ČESKÁ DŘEVAŘSKÁ, a.s.</dtt:ojm>
@@ -60,11 +72,11 @@
 <dtt:S>
 <dtt:ico>26442442</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>SK Consulting, spol. s r.o.</dtt:ojm>
+<dtt:ojm>SK Consulting, spol. s r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Poupětova 1339/3</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
+<dtt:rzp>1</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=26442442</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
@@ -87,7 +99,6 @@
 <dtt:jmn>Praha 7, Holešovice, Poupětova 1339/3</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=27369251</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
@@ -95,7 +106,7 @@
 <dtt:S>
 <dtt:ico>28173694</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>R. V. Management s.r.o.</dtt:ojm>
+<dtt:ojm>R. V. Management s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Poupětova 1339/3</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -125,6 +136,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28881699</dtt:p_dph>
 <dtt:cedr>0</dtt:cedr>
 <dtt:p_cedr>ico=28881699</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
@@ -207,20 +220,21 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
-<dtt:ico>01841262</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Event Selection s.r.o.</dtt:ojm>
+<dtt:ico>65338243</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Farma v jeskyni z.s.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Poupětova 1339/3</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=01841262</dtt:p_dph>
+<dtt:p_dph>dic=65338243</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=65338243</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07037856</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -233,8 +247,30 @@
 <dtt:p_dph>dic=07037856</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08532583</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VOCEL EVENTS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1339/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08533385</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>THE VENUE s.r.o..</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Poupětova 1339/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08533385</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>21</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

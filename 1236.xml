@@ -57,7 +57,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
+<dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=25604601</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -74,9 +74,9 @@
 </dtt:S>
 <dtt:S>
 <dtt:ico>27926061</dtt:ico>
-<dtt:pf>100</dtt:pf>
+<dtt:pf>102</dtt:pf>
 <dtt:ojm>Thu Nguyen Thi Minh</dtt:ojm>
-<dtt:jmn>Praha 9, Vysočany, Pešlova</dtt:jmn>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -105,15 +105,6 @@
 <dtt:ico>60220333</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jana Válová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>61493376</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Václav HARIS</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -151,6 +142,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>69805300</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Anna Kaslová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>70348006</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Daniela NOVÁ</dtt:ojm>
@@ -180,17 +180,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>71672109</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Petr Voják</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=7607101117</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>71831428</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Mgr. Vladimíra Voithová</dtt:ojm>
@@ -199,8 +188,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>74832590</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -210,6 +197,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>76130274</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -244,14 +233,6 @@
 <dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>05817773</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Hana Stejskalová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
-<dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -291,8 +272,17 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08581525</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Fernando Penalva Martinez</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1236/35</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

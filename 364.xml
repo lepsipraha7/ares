@@ -163,18 +163,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>26717379</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>AA - GRANT, spol. s r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Kostelní 364/26</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=26717379</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>29014204</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Robert Lynn Bivens</dtt:ojm>
@@ -202,8 +190,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>42521831</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -213,6 +199,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>47618329</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -229,6 +217,8 @@
 <dtt:jmn>Praha 7, Holešovice, Kostelní 364/26</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=48551503</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -346,17 +336,8 @@
 <dtt:ojm>Zdeněk BUBENÍK</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Kostelní 364/26</dtt:jmn>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>64766306</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Michaela MODÁLKOVÁ</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Kostelní 364/26</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>66026521</dtt:ico>
@@ -396,8 +377,6 @@
 <dtt:p_dph>dic=6612090342</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>66445701</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -418,10 +397,12 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>68867557</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Petr VOTAVA</dtt:ojm>
+<dtt:ojm>Petr Votava</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Kostelní 364/26</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -534,7 +515,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=02471426</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -554,6 +535,8 @@
 <dtt:jmn>Praha 7, Holešovice, Kostelní 364/28</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9608220160</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -576,6 +559,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07417365</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -592,6 +577,24 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Josef Richtr</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Ovenecká 364/28</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08121711</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Sherron Gabrielle Gibbs</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 364/26</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08818061</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Jeníček</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kostelní 364/28</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>

@@ -6,9 +6,24 @@
 <dtt:ico>13206281</dtt:ico>
 <dtt:pf>105</dtt:pf>
 <dtt:ojm>Ing.arch. Chochola Otakar</dtt:ojm>
-<dtt:jmn>Hradec Králové, Nový Hradec Králové, Čajkovského 953/25</dtt:jmn>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6001030563</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>17046173</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Společnost pro plánování rodiny a sexuální výchovu, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=17046173</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=17046173</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -28,7 +43,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=24122742</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -45,21 +60,9 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>24174475</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Silpe s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=24174475</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>24190063</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>REAMOR GROUP s.r.o.</dtt:ojm>
+<dtt:ojm>REAMOR GROUP s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -208,7 +211,6 @@
 <dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=24759805</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
@@ -367,7 +369,7 @@
 <dtt:S>
 <dtt:ico>28897901</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Lexor Group s.r.o.</dtt:ojm>
+<dtt:ojm>Lexor Group s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -413,18 +415,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>29013437</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>NIMEX GROUP s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=29013437</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>29032083</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>AMK Import s.r.o.</dtt:ojm>
@@ -460,8 +450,6 @@
 <dtt:p_dph>dic=29125880</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>29126568</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -474,6 +462,8 @@
 <dtt:p_dph>dic=29126568</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>29151431</dtt:ico>
 <dtt:pf>421</dtt:pf>
@@ -514,7 +504,7 @@
 <dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=7610057598</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -531,7 +521,7 @@
 <dtt:S>
 <dtt:ico>66905061</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Martin Tvrdý</dtt:ojm>
+<dtt:ojm>Bc. Martin Tvrdý</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -561,9 +551,20 @@
 <dtt:ico>71768220</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Lukáš Hyksa</dtt:ojm>
+<dtt:jmn>Dobřichovice, Ke Křížku 370</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>74917447</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Litvák</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6707161527</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -602,7 +603,7 @@
 <dtt:S>
 <dtt:ico>02202280</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Bergen Fleet s.r.o.</dtt:ojm>
+<dtt:ojm>Bergen Fleet s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -631,6 +632,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02288974</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -648,7 +651,7 @@
 <dtt:S>
 <dtt:ico>03658619</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Setralin s.r.o.</dtt:ojm>
+<dtt:ojm>Setralin s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -710,6 +713,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02019060</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -719,10 +724,21 @@
 <dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08314039</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>NOVÁ ADRESA Develop s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Kamenická 656/56</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>64</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>65</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

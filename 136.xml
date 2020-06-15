@@ -34,7 +34,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=28983360</dtt:p_dph>
 <dtt:cedr>0</dtt:cedr>
 <dtt:p_cedr>ico=28983360</dtt:p_cedr>
@@ -43,7 +43,7 @@
 <dtt:S>
 <dtt:ico>71672362</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Karolína HRDLIČKOVÁ</dtt:ojm>
+<dtt:ojm>Ing. Karolína Hrdličková</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Havanská 136/15</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -69,8 +69,17 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>07315538</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ACTIVE Trade s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Havanská 136/15</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>6</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>7</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

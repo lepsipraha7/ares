@@ -33,18 +33,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>25068504</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>MIPAN s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=25068504</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>28425146</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>MHP - Medical Home Products s.r.o.</dtt:ojm>
@@ -122,6 +110,7 @@
 <dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -198,8 +187,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>01778081</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -209,6 +196,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03947882</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -219,6 +208,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=03947882</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=3947882</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -230,8 +221,26 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08150249</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Spolek spolumajitelů Veletržní 405</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09190252</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vojtěch Lebeda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 405/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

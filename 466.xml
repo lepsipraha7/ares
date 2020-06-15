@@ -20,6 +20,7 @@
 <dtt:ojm>Mgr. KAREL MASOPUST, advokát</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U průhonu 466/22</dtt:jmn>
 <dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=8506031391</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
@@ -34,25 +35,13 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>13827561</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Marek Stanislav, Ing.</dtt:ojm>
-<dtt:jmn>Praha-Troja, Troja, Nad Kazankou 173/49</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=5402191993</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>14803828</dtt:ico>
 <dtt:pf>121</dtt:pf>
-<dtt:ojm>Králodvorské železárny, a.s.</dtt:ojm>
+<dtt:ojm>Králodvorské železárny, a.s. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U průhonu 466/22</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:rzz>1</dtt:rzz>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=14803828</dtt:p_dph>
 <dtt:cedr>0</dtt:cedr>
@@ -81,18 +70,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=18622631</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>24185353</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>CKM REAL s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U průhonu 466/22</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=24185353</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -163,18 +140,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>27111229</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>RNK s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U průhonu 466/22</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=27111229</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27173500</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>New Square Associates s.r.o.</dtt:ojm>
@@ -211,6 +176,18 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>27545768</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ISE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 466/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27545768</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>27635660</dtt:ico>
 <dtt:pf>121</dtt:pf>
 <dtt:ojm>REKETY, a.s.</dtt:ojm>
@@ -227,13 +204,10 @@
 <dtt:jmn>Praha 7, Holešovice, U průhonu 466/22</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=27650863</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>28197992</dtt:ico>
 <dtt:pf>121</dtt:pf>
@@ -254,6 +228,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>28400186</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -320,6 +296,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=47121017</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=47121017</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -412,21 +390,9 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>02483734</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>HATARI, s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U průhonu 466/22</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=02483734</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>03995011</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Piaton Capital&amp;Invest s.r.o.</dtt:ojm>
+<dtt:ojm>Piaton Capital&amp;Invest s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U průhonu 466/22</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -457,8 +423,6 @@
 <dtt:p_dph>dic=06253318</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06292895</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -472,16 +436,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>06726267</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>CKM REAL BETA s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U průhonu 466/22</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>07137800</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>ABC Nebušice s.r.o.</dtt:ojm>
@@ -491,8 +445,19 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08588805</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MASOPUST LEGAL s.r.o., advokátní kancelář</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 466/22</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08588805</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>43</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>40</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

@@ -15,15 +15,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>16127935</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Jiřina Schmidová</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 926/12</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>22770062</dtt:ico>
 <dtt:pf>706</dtt:pf>
 <dtt:ojm>Veletržní sobě</dtt:ojm>
@@ -43,18 +34,6 @@
 <dtt:rzz>0</dtt:rzz>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=24229288</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>24252476</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Retro CZ s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=24252476</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -87,8 +66,20 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=25796453</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>26147025</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Pallsome s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26147025</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -140,16 +131,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>28547896</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Alex Toys CZ s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>28878493</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>IrenaDI art Muse s.r.o.</dtt:ojm>
@@ -157,7 +138,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=28878493</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -209,12 +190,10 @@
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:rzz>0</dtt:rzz>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=62419544</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>64741711</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -234,6 +213,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>67265758</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -319,9 +300,9 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>87695880</dtt:ico>
+<dtt:ico>87716089</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Irena Rollo</dtt:ojm>
+<dtt:ojm>Dominik Böttger</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Veletržní 926/10</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -367,7 +348,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>36</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>34</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

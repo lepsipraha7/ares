@@ -47,18 +47,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>27449041</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Xuan Loc Nguyen</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Stupkova 1459/2</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=8603264351</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27654273</dtt:ico>
 <dtt:pf>145</dtt:pf>
 <dtt:ojm>Společenství vlastníků jednotek Jateční 1459/15, Stupkova 1459/2, Praha 7</dtt:ojm>
@@ -132,15 +120,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>66896827</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Miroslav Hovorka</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>69630038</dtt:ico>
 <dtt:pf>107</dtt:pf>
 <dtt:ojm>Lenka Sommerová</dtt:ojm>
@@ -196,8 +175,15 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
+<dtt:S>
+<dtt:ico>71986472</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Barbora Diduchová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1459/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 <dtt:S>
 <dtt:ico>75180421</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -207,6 +193,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>87110695</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -250,7 +238,7 @@
 <dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=8962230002</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -299,8 +287,26 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08477540</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ivana Hochsteigerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jateční 1459/15</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08578869</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Tatiana Kravčenko</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Stupkova 1459/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

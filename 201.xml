@@ -47,7 +47,7 @@
 <dtt:S>
 <dtt:ico>26513323</dtt:ico>
 <dtt:pf>205</dtt:pf>
-<dtt:ojm>Bytové družstvo Strojnická 10</dtt:ojm>
+<dtt:ojm>Družstvo Strojnická 10</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Strojnická 201/10</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -81,7 +81,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=27110621</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -245,8 +245,17 @@
 <dtt:p_dph>dic=07801467</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>09040633</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Martin Gonda</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Strojnická 201/10</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>24</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

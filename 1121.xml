@@ -30,7 +30,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=24288381</dtt:p_dph>
 <dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
@@ -42,6 +42,20 @@
 <dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24813427</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Česká myslivost, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24813427</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=24813427</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -116,7 +130,7 @@
 <dtt:S>
 <dtt:ico>28386183</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>R + R group s.r.o.</dtt:ojm>
+<dtt:ojm>R + R group s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -196,18 +210,6 @@
 <dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>70446695</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Michal Drábek</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=7506224528</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -300,7 +302,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=01914898</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -484,6 +486,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>04167732</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Barbora Charousková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>04355369</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Smetiště REALIT, spol. s r.o.</dtt:ojm>
@@ -555,18 +566,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>06285112</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Zahrady JIFA s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=06285112</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>06521975</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Larasol s.r.o.</dtt:ojm>
@@ -593,6 +592,8 @@
 <dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6301240077</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -603,18 +604,6 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>07061188</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>ITS Controller s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 1, Nové Město, Revoluční 1082/8</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=07061188</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -634,6 +623,8 @@
 <dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=684576052</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -648,8 +639,6 @@
 <dtt:p_dph>dic=07305605</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07513640</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -660,12 +649,25 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07628617</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>NINOSystems CZ s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
 <dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07628617</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07831617</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Vylegal</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -680,8 +682,68 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08336113</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Nailounge Most s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08336113</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08404992</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Merkit Technologies s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08556636</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Fish House Trade s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08600422</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Repay s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08890544</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Gabriela Imramovská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08935891</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Šimůnek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Farského 1121/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>63</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>69</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

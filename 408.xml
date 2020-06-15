@@ -22,15 +22,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>14898071</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>PhDr. Helena SALICHOVÁ</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>16122666</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jan Kostohryz</dtt:ojm>
@@ -86,16 +77,6 @@
 <dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>24728420</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>STAVB-AGENT s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>24744361</dtt:ico>
@@ -181,18 +162,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>27216381</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>DRABAG CZ s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=27216381</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27220656</dtt:ico>
 <dtt:pf>100</dtt:pf>
 <dtt:ojm>Viktor Pastushenko</dtt:ojm>
@@ -201,8 +170,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>1</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>27438279</dtt:ico>
 <dtt:pf>205</dtt:pf>
@@ -221,19 +188,21 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
+<dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=27900983</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>29003873</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>SOBOL-TREND s.r.o.</dtt:ojm>
+<dtt:ojm>SOBOL-TREND s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>60218584</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -253,32 +222,6 @@
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=7402124400</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>62467221</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Mgr. Lukáš Radostný</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>66465389</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Alexandr Gabor</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>67777457</dtt:ico>
-<dtt:pf>701</dtt:pf>
-<dtt:ojm>Českomoravská myslivecká jednota Obvodní myslivecký spolek Praha 7</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
-<dtt:rzp>0</dtt:rzp>
-<dtt:sh>0</dtt:sh>
 </dtt:S>
 <dtt:S>
 <dtt:ico>68866984</dtt:ico>
@@ -343,6 +286,8 @@
 <dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5610087186</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -392,8 +337,6 @@
 <dtt:rzp>1</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05090725</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -453,6 +396,8 @@
 <dtt:p_dph>dic=8406100197</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07880669</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -463,8 +408,27 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08409668</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>ANGELDEN s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08673888</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Šolek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 408/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>47</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>43</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

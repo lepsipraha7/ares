@@ -81,15 +81,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>63094606</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Jan Kimla</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 902/40</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>66441412</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Bohumil Vožický</dtt:ojm>
@@ -126,6 +117,17 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>71617001</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Iva Vančurová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 902/40</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6452161287</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>71798765</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Pavla Dagsson Waldhauserová</dtt:ojm>
@@ -154,11 +156,12 @@
 </dtt:S>
 <dtt:S>
 <dtt:ico>87426528</dtt:ico>
-<dtt:pf>101</dtt:pf>
+<dtt:pf>105</dtt:pf>
 <dtt:ojm>PhDr. Hikmet Příhodová Vavrečková</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Na výšinách 902/4</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -191,7 +194,27 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>20</dtt:Pocet_zaznamu>
+<dtt:V>
+<dtt:S>
+<dtt:ico>06946844</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jan Plzák</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 902/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08458871</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Jelínek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 902/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

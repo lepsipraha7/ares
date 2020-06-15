@@ -18,7 +18,7 @@
 <dtt:jmn>Praha 7, Bubeneč, Šmeralova 344/11</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=5903260506</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -195,6 +195,15 @@
 </dtt:V>
 <dtt:V>
 <dtt:S>
+<dtt:ico>76592863</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michaela Majorová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 344/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>87023075</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Marek Žák</dtt:ojm>
@@ -222,6 +231,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>06312764</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Jakub Major</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Šmeralova 344/11</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>07221916</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Kateřina Pifflová</dtt:ojm>
@@ -240,7 +258,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>27</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

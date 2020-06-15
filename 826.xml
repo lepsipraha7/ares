@@ -81,6 +81,7 @@
 <dtt:jmn>Praha 7, Holešovice, Veletržní 826/61</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -94,6 +95,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>76236838</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Asseel Mhawi</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 826/61</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>86630521</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. arch. Hynek Fetterle</dtt:ojm>
@@ -102,6 +112,17 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=500522212</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88703151</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ing. Jaroslav Hubáček, MBA</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 826/63</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7806164278</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -138,15 +159,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>05414873</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Lukáš Oujeský</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Veletržní 826/61</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>06842551</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jan Pechan</dtt:ojm>
@@ -155,8 +167,38 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08221049</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>SERVIS PRO REKONSTRUKCE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 826/61</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08526966</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>3D FITNESS GYM s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 826/61</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08527148</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>3D FITNESS EVENTS s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 826/61</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>15</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>19</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

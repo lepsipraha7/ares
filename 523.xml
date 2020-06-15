@@ -3,15 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>01484184</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Miroslav Holeček</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Havanská 523/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>13098888</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Milan Holeček</dtt:ojm>
@@ -110,6 +101,7 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ceu>-2</dtt:ceu>
 <dtt:p_ceu>ico=43813658</dtt:p_ceu>
+<dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -169,14 +161,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>72082658</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>MYSLIBOR CHALUPA</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U průhonu 523/6</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>74443798</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Mgr. Rudolf KOVÁŘ</dtt:ojm>
@@ -194,8 +178,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>86608304</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -214,6 +196,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>87263009</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -281,7 +265,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>27</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

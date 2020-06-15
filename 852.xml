@@ -47,26 +47,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>27433951</dtt:ico>
-<dtt:pf>100</dtt:pf>
-<dtt:ojm>Ivan Batryn</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Strojnická 999/11</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>27503771</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Vasyl Dzhuhan</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27603172</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>1.SARMAT XX s.r.o.</dtt:ojm>
@@ -173,16 +153,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>60515180</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Yuriy Soyma</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 852/82</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>66852901</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Liubov Dovgomelia</dtt:ojm>
@@ -211,8 +181,6 @@
 <dtt:p_dph>dic=7811070355</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>87510316</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -240,6 +208,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>87982552</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -313,6 +283,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=02879344</dtt:p_dph>
+<dtt:sd>0</dtt:sd>
+<dtt:p_sd>dic=02879344</dtt:p_sd>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -379,7 +351,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>37</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>34</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

@@ -132,17 +132,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>63063301</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Mgr. Eva Holková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 443/6</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=5554076825</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>63091798</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Petr PRINC</dtt:ojm>
@@ -200,17 +189,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
-<dtt:S>
-<dtt:ico>74829297</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Mgr. Martin Hofr</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 443/6</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
 <dtt:S>
 <dtt:ico>86875680</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -218,8 +196,12 @@
 <dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 443/6</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=501211384</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>87299674</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -360,7 +342,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>37</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>35</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

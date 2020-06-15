@@ -67,7 +67,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=28396049</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -118,15 +118,6 @@
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>43935982</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Jana Němcová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Přístavní 1126/18</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>43941869</dtt:ico>
@@ -181,15 +172,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>64769852</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Miroslav Vránek</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Přístavní 1126/18</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>66461421</dtt:ico>
 <dtt:pf>102</dtt:pf>
 <dtt:ojm>Van Thoai PHAN</dtt:ojm>
@@ -210,8 +192,6 @@
 <dtt:p_cedr>ico=70042667</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>70346089</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -230,6 +210,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>71588400</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -239,15 +221,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=8112060495</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>71642633</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Vítězslav Strejček</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Komunardů 1126/31</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -299,8 +272,8 @@
 </dtt:S>
 <dtt:S>
 <dtt:ico>75858258</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>David Sopouch</dtt:ojm>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Ing.arch. David Sopouch</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Komunardů 1126/31</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -381,15 +354,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>88683401</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Aleš Svoboda</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Přístavní 1126/16</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>88689361</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Hana Felklová</dtt:ojm>
@@ -398,12 +362,10 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>88869512</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Ljudmyla Majoryk</dtt:ojm>
+<dtt:ojm>Liudmyla Matviichuk</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Komunardů 1126/31</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -437,6 +399,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04991621</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -469,6 +433,17 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>06001050</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Mrosko</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1126/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8811171160</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>06540856</dtt:ico>
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Volodymyr Matviichuk</dtt:ojm>
@@ -498,8 +473,26 @@
 <dtt:p_dph>dic=06718167</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08370095</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Roman Flaška</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Komunardů 1126/33</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08639493</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Ozdjan Kahvedjioglu</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 1126/16</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>50</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>49</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

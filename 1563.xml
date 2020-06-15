@@ -41,9 +41,18 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>18635091</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Menclík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1563/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>26501856</dtt:ico>
 <dtt:pf>205</dtt:pf>
-<dtt:ojm>Bytové družstvo Cor</dtt:ojm>
+<dtt:ojm>Bytové družstvo Cor v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U smaltovny 1563/19</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -67,15 +76,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=481127083</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>43926801</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>JUDr. Dagmar MENCLÍKOVÁ</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U smaltovny 1563/19</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -157,6 +157,8 @@
 <dtt:jmn>Praha 7, Holešovice, U smaltovny 1563/19</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8009140194</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -232,7 +234,16 @@
 <dtt:S>
 <dtt:ico>04699513</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Dana Jandová</dtt:ojm>
+<dtt:ojm>Dana Papíková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1563/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07552971</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina Babišová</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U smaltovny 1563/19</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -247,8 +258,26 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08472009</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků U Smaltovny 1563/19</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1563/19</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08717079</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michaela Vopatová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1563/19</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

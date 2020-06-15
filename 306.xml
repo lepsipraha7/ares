@@ -32,15 +32,6 @@
 <dtt:sh>0</dtt:sh>
 </dtt:S>
 <dtt:S>
-<dtt:ico>13116941</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Václav Stodola</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>14891913</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>PULEX Praha spol. s r. o.</dtt:ojm>
@@ -146,7 +137,6 @@
 <dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=25051636</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
@@ -186,18 +176,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>25132857</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>AKAI CZ s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=25132857</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>25145568</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Železářství &quot;U Rotta&quot; - velkoobchod, s.r.o.</dtt:ojm>
@@ -209,21 +187,6 @@
 <dtt:p_dph>dic=25145568</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-<dtt:S>
-<dtt:ico>25395092</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>LINA TRADE, s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=25395092</dtt:p_dph>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=25395092</dtt:p_cedr>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>25649965</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -258,6 +221,8 @@
 <dtt:p_dph>dic=25788060</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>25795309</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -266,7 +231,6 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:rzz>1</dtt:rzz>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=25795309</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
@@ -387,7 +351,6 @@
 <dtt:res>0</dtt:res>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=27200051</dtt:p_dph>
-<dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -444,8 +407,6 @@
 <dtt:p_dph>dic=27938310</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>28175701</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -453,7 +414,7 @@
 <dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
+<dtt:rzp>1</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=28175701</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
@@ -468,6 +429,19 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>28555627</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Spolek Trafačka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=28555627</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
+<dtt:S>
 <dtt:ico>40869466</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jaroslav DUCHÁČEK</dtt:ojm>
@@ -477,25 +451,12 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>41692233</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Printox spol. s r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=41692233</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>41695216</dtt:ico>
 <dtt:pf>205</dtt:pf>
 <dtt:ojm>MONTESO, výrobní družstvo</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=41695216</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
@@ -667,8 +628,6 @@
 <dtt:p_dph>dic=62917081</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>63077558</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -700,6 +659,8 @@
 <dtt:p_dph>dic=65414888</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>69329711</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -807,8 +768,20 @@
 <dtt:p_dph>dic=07157657</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08555605</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HARMONY WATER s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenské nábřeží 306/13</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08555605</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>74</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>72</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

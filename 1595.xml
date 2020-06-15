@@ -205,7 +205,7 @@
 <dtt:S>
 <dtt:ico>27107604</dtt:ico>
 <dtt:pf>121</dtt:pf>
-<dtt:ojm>HQ DEVELOPMENT, a.s.</dtt:ojm>
+<dtt:ojm>HQ DEVELOPMENT, a.s. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1595/14</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -549,7 +549,7 @@
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1595/14</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=683551813</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -687,7 +687,56 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>60</dtt:Pocet_zaznamu>
+<dtt:V>
+<dtt:S>
+<dtt:ico>08182060</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FARMA OLIVER s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1595/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08182060</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08190241</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Unicity Retail s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1595/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08190241</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08392170</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Zelené město 3 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1595/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08392170</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08416940</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Bon Brands s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1595/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08416940</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>64</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

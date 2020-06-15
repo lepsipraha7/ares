@@ -10,8 +10,22 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=24264962</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24669504</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Českomoravská distribuce s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24669504</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=24669504</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -26,6 +40,16 @@
 <dtt:p_dph>dic=24844853</dtt:p_dph>
 <dtt:cedr>0</dtt:cedr>
 <dtt:p_cedr>ico=24844853</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24854581</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TAMABELA Properties s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -50,15 +74,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>27460339</dtt:ico>
+<dtt:ico>45244138</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>LAJES s.r.o.</dtt:ojm>
+<dtt:ojm>REGIE RADIO MUSIC spol. s r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=27460339</dtt:p_dph>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=45244138</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -80,6 +104,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>74678442</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Lukáš Žďárský</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>01704940</dtt:ico>
 <dtt:pf>121</dtt:pf>
 <dtt:ojm>City Holešovice, a.s.</dtt:ojm>
@@ -94,11 +127,13 @@
 <dtt:S>
 <dtt:ico>02044951</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>CityH služby, s.r.o.</dtt:ojm>
+<dtt:ojm>District 7 s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02044951</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -157,6 +192,26 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>05055041</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>Gilraen &amp; Co, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05076625</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Skidor s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>05210721</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>FOTOSFÉRA s.r.o.</dtt:ojm>
@@ -166,6 +221,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05268575</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -215,8 +272,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06175821</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -260,6 +315,16 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=06636543</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06997902</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>CZECH RADIO SERVICES a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -330,6 +395,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08036446</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -338,10 +405,54 @@
 <dtt:ojm>Net Flanders s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
 <dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08232059</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Vietnam Kaolin Invest s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08342903</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>SPV WAY a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
+<dtt:V>
+<dtt:S>
+<dtt:ico>08353735</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>T31 a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08353735</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08721441</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RedHead Kids s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 791/31</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>42</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

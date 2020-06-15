@@ -40,19 +40,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzz>0</dtt:rzz>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>26199688</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>BENE Bohemia , s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:rzz>0</dtt:rzz>
 <dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=26199688</dtt:p_dph>
+<dtt:p_dph>dic=24265845</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -108,7 +97,6 @@
 <dtt:ojm>MUDR.AMCHA, STOMATOLOGICKÁ ORDINACE</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
 <dtt:res>0</dtt:res>
-<dtt:rzz>1</dtt:rzz>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -117,7 +105,6 @@
 <dtt:ojm>MUDR.MICHAELA FRKALOVÁ, STOMATOLOGICKÁ ORDINACE</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
 <dtt:res>0</dtt:res>
-<dtt:rzz>1</dtt:rzz>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -159,7 +146,6 @@
 <dtt:ojm>MUDr. PAVEL PICK- ordinace praktického lékaře</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Tovární 1342/12</dtt:jmn>
 <dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
 <dtt:rzz>0</dtt:rzz>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -214,8 +200,6 @@
 <dtt:rzz>0</dtt:rzz>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04775708</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -226,6 +210,8 @@
 <dtt:rzz>0</dtt:rzz>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05291003</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -237,7 +223,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>21</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

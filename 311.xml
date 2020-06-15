@@ -54,15 +54,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>24762873</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>BrokerPro s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Osadní 311/12</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>24833916</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>VENERE s.r.o.</dtt:ojm>
@@ -70,8 +61,9 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=24833916</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -159,18 +151,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>44850964</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>C.H.S. Praha s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Osadní 311/12</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=44850964</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>48110949</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>TOPSERVIS spol. s r.o.</dtt:ojm>
@@ -217,8 +197,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>61465500</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -237,6 +215,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>86721429</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -261,18 +241,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>02311984</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>STATISTICS COMPANY s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Osadní 311/12</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=02311984</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>03105067</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>VERTOS Group s.r.o.</dtt:ojm>
@@ -280,7 +248,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=03105067</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -341,7 +309,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

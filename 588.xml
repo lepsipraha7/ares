@@ -89,7 +89,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=27068978</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -121,16 +121,6 @@
 <dtt:ico>27865720</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>WheelFun s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Umělecká 588/6</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>28524560</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>ARS-Company s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Umělecká 588/6</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -211,8 +201,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>71576100</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -222,6 +210,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>86700278</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -264,6 +254,7 @@
 <dtt:ojm>IlLIR ALLUSHI</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Umělecká 588/6</dtt:jmn>
 <dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -299,7 +290,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

@@ -354,7 +354,7 @@
 <dtt:jmn>Praha 7, Holešovice, Argentinská 702/1</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=7410060438</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -362,15 +362,6 @@
 <dtt:ico>70346861</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ladislava POSADOVSKÁ</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Argentinská 702/1</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>71617311</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>David PATERA</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Argentinská 702/1</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -413,15 +404,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>03428893</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. arch. Aneta Dvořáková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Argentinská 702/1</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>04576241</dtt:ico>
 <dtt:pf>161</dtt:pf>
 <dtt:ojm>INSTITUT PRO PODPORU INOVATIVNÍHO VZDĚLÁVÁNÍ z.ú.</dtt:ojm>
@@ -442,8 +424,15 @@
 <dtt:p_dph>dic=04821599</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
+<dtt:S>
+<dtt:ico>04900111</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Kříž</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 702/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 <dtt:S>
 <dtt:ico>04933044</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -453,6 +442,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06392032</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -463,8 +454,35 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>07395221</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Nikola Smrčková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 702/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08483922</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MgA. Eva Kolář Burešová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 702/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08574553</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Alina Sutulova</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 702/1</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>42</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>44</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

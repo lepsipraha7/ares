@@ -15,18 +15,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>24269425</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Elite Treatment s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1578/14</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=24269425</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>24750301</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>FRIGO EXPRES s.r.o.</dtt:ojm>
@@ -36,20 +24,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=24750301</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>24783528</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Restaurace U Labutě s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1578/14</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=24783528</dtt:p_dph>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=24783528</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -103,11 +77,10 @@
 <dtt:S>
 <dtt:ico>25455940</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Koja plus, s.r.o.</dtt:ojm>
+<dtt:ojm>Koja plus, s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Varhulíkové 1578/14</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=25455940</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
@@ -156,7 +129,7 @@
 <dtt:S>
 <dtt:ico>27653846</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Krasny dum s.r.o.</dtt:ojm>
+<dtt:ojm>Krasny dum s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Varhulíkové 1578/14</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -224,20 +197,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
-<dtt:S>
-<dtt:ico>28480015</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>ZERKONAT s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1578/14</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=28480015</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
 <dtt:S>
 <dtt:ico>28482735</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -257,6 +216,8 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>28503040</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -345,18 +306,31 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>75370450</dtt:ico>
+<dtt:ico>63929767</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Jan Kolumpek</dtt:ojm>
+<dtt:ojm>Jiří Daniel</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Varhulíkové 1578/14</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7611071413</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>75566125</dtt:ico>
+<dtt:ico>74737538</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Mgr. Renata Janulíková</dtt:ojm>
+<dtt:ojm>Jakub Plzák</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1578/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7709172075</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87555930</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Monika Plzáková</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Varhulíkové 1578/14</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -433,8 +407,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06963714</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -444,8 +416,17 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08265305</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Alina Bondarevych</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Varhulíkové 1578/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>41</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>40</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

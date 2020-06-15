@@ -61,18 +61,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>28376471</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>DAVLE MARINA s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Nad štolou 1277/6</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=28376471</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>43677258</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Barbora Jandíková</dtt:ojm>
@@ -118,15 +106,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>67789846</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Jiří Hopp</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Nad štolou 1277/6</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>67790046</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Petr Boháček</dtt:ojm>
@@ -142,6 +121,8 @@
 <dtt:jmn>Praha 7, Holešovice, Nad štolou 1277/6</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=70886261</dtt:p_cedr>
 <dtt:aris>0</dtt:aris>
 <dtt:p_aris>ico=70886261</dtt:p_aris>
 <dtt:sko>0</dtt:sko>
@@ -196,8 +177,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07450753</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -207,8 +186,17 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>09078517</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Simona Lencová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Nad štolou 1277/6</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>21</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>20</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

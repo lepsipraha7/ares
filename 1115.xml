@@ -41,15 +41,27 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>28465652</dtt:ico>
-<dtt:pf>121</dtt:pf>
-<dtt:ojm>WE invest a.s.</dtt:ojm>
+<dtt:ico>28479351</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>TK Sparta Restaurant s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Za Císařským mlýnem 1115/2</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=28465652</dtt:p_dph>
+<dtt:p_dph>dic=28479351</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28898028</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Sport Institute s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Za Císařským mlýnem 1115/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28898028</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -141,15 +153,6 @@
 <dtt:res>0</dtt:res>
 <dtt:cedr>0</dtt:cedr>
 <dtt:p_cedr>ico=63112221</dtt:p_cedr>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>64766578</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Roman Pokorný</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -276,6 +279,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=5949939</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -296,6 +301,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07794606</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -307,8 +314,17 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>09180087</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Barbora Imrišková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1115/32</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

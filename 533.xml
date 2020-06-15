@@ -67,7 +67,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=27064468</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -176,15 +176,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>47117516</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>HUSKY s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Milady Horákové 533/28</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>62415255</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>VAVA s.r.o.</dtt:ojm>
@@ -220,19 +211,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>64575233</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>ALT s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Milady Horákové 533/28</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=64575233</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-</dtt:V>
-<dtt:V>
-<dtt:S>
 <dtt:ico>69365521</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Josef Nebesář</dtt:ojm>
@@ -252,15 +230,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-<dtt:S>
-<dtt:ico>72095270</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Alena HEZINOVÁ</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Milady Horákové 533/28</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>75389207</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -342,18 +313,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>04653513</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Symphony No. 9 s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Milady Horákové 533/28</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=04653513</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>04778766</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Rebel and Glory s.r.o.</dtt:ojm>
@@ -363,18 +322,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=04778766</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>04778812</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>We are bus s.r.o., v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Milady Horákové 533/28</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=04778812</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -410,7 +357,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>37</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

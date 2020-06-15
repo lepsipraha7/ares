@@ -95,6 +95,8 @@
 <dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17b</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7856274778</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -110,7 +112,7 @@
 <dtt:ico>72858290</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Milan Kajínek</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17b</dtt:jmn>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17a</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -196,15 +198,6 @@
 </dtt:V>
 <dtt:V>
 <dtt:S>
-<dtt:ico>06779662</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Martin Štěrba</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17b</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>07415214</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Valerie Motlová</dtt:ojm>
@@ -222,8 +215,39 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08216720</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Victor Ochievschii</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17a</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08155160</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Epoch Times ČR, z. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17b</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08155160</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09042911</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Gabriel Montaut</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Železničářů 1343/17b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=684900943</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

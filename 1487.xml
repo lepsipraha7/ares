@@ -56,6 +56,28 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>48124893</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Štěpánka Hanišová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6857191979</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>49032313</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ester Weinholdová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=6962020703</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>63933781</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Milan Čedík</dtt:ojm>
@@ -79,6 +101,15 @@
 <dtt:ico>70351252</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Karolína Šípalová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70352216</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jaroslav Bartůněk</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -112,26 +143,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>01914278</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Jaroslav Štěrba</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>03212777</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. arch. Klára Štěrbová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1487/12</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=3212777</dtt:p_cedr>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>07289944</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>one chart s.r.o.</dtt:ojm>
@@ -139,10 +150,12 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07289944</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>14</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>15</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

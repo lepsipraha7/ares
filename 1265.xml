@@ -14,6 +14,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>01379241</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Lucia Fleischhackerová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>11241977</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Olga Hloušková</dtt:ojm>
@@ -66,12 +75,17 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>61492531</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Daniela Šilhánová</dtt:ojm>
+<dtt:ico>45281491</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Bohemia TEAM, s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=45281491</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=45281491</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -92,6 +106,8 @@
 <dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7112100083</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -108,7 +124,7 @@
 <dtt:S>
 <dtt:ico>70353379</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Radek DĚDINA</dtt:ojm>
+<dtt:ojm>Ing. Radek Dědina</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -163,15 +179,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=8153110482</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>76053768</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Matyáš Brenner</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -242,6 +249,17 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>06757855</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Juan Luis Sanchez</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9211111734</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>06978207</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Olga Hloušková</dtt:ojm>
@@ -259,8 +277,17 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08173656</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karel Hloušek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tovární 1265/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>26</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

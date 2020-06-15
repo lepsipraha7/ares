@@ -12,6 +12,20 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>24170348</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Gautama s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>3</dtt:dph>
+<dtt:p_dph>dic=24170348</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=24170348</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>24234656</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Auto Terminal Nymburk, s.r.o.</dtt:ojm>
@@ -50,7 +64,7 @@
 <dtt:S>
 <dtt:ico>24270393</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>KORUNNÍ INVEST s.r.o.</dtt:ojm>
+<dtt:ojm>KORUNNÍ INVEST s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -119,7 +133,7 @@
 <dtt:S>
 <dtt:ico>26178338</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>WestInvest Waterfront Towers s.r.o.</dtt:ojm>
+<dtt:ojm>SCI Lighthouse Towers, s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -134,22 +148,9 @@
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
+<dtt:rzp>1</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=26210614</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>26420635</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Zelená apotéka, s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:rzz>1</dtt:rzz>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=26420635</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -179,18 +180,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>26749190</dtt:ico>
-<dtt:pf>121</dtt:pf>
-<dtt:ojm>Constav, a.s.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=26749190</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27066819</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>USethi Investments, s.r.o.</dtt:ojm>
@@ -198,7 +187,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=27066819</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -229,8 +218,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>27117111</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -245,6 +232,8 @@
 <dtt:p_cedr>ico=27117111</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>27117138</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -252,25 +241,6 @@
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>27118746</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>5C Residence Eden V/25 s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>27119084</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Cafe Pulp Fiction, s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -313,7 +283,7 @@
 <dtt:S>
 <dtt:ico>27140491</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>CELTIC TRADE ABILITY, s.r.o.</dtt:ojm>
+<dtt:ojm>CELTIC TRADE ABILITY, s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -335,23 +305,9 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>27178650</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>RAON s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=27178650</dtt:p_dph>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=27178650</dtt:p_cedr>
-<dtt:ir>0</dtt:ir>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27180433</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Moorczech, s.r.o.</dtt:ojm>
+<dtt:ojm>Moorczech, s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -367,29 +323,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>27208834</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Steinemann CZ s.r.o., v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=27208834</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>27208940</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Maxaugusta Property Investments, s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=27208940</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27252167</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>INEKON SYSTEMS s.r.o.</dtt:ojm>
@@ -399,15 +332,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=27252167</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>27253201</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Pioeucc s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -423,19 +347,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>27582191</dtt:ico>
-<dtt:pf>121</dtt:pf>
-<dtt:ojm>LATIMER a.s.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=27582191</dtt:p_dph>
-<dtt:ir>0</dtt:ir>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27602982</dtt:ico>
 <dtt:pf>121</dtt:pf>
 <dtt:ojm>EDD TRADE a.s.</dtt:ojm>
@@ -447,8 +358,6 @@
 <dtt:p_dph>dic=27602982</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>27622231</dtt:ico>
 <dtt:pf>121</dtt:pf>
@@ -475,18 +384,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>27638324</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Design and Fit out s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=27638324</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>28196678</dtt:ico>
 <dtt:pf>121</dtt:pf>
 <dtt:ojm>ČD Cargo, a.s.</dtt:ojm>
@@ -500,6 +397,42 @@
 <dtt:p_sd>dic=28196678</dtt:p_sd>
 <dtt:cedr>0</dtt:cedr>
 <dtt:p_cedr>ico=28196678</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28503139</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>INFOprofit s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=28503139</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>28741862</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>FHS Exclusive Agents s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=28741862</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>29001218</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MDS Partners s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=29001218</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -524,30 +457,33 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=48535559</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
-<dtt:ico>60276436</dtt:ico>
+<dtt:ico>48591106</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>D - FORBES s.r.o. v likvidaci</dtt:ojm>
+<dtt:ojm>COMPELSON Trade, s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=60276436</dtt:p_dph>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=48591106</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>60464186</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>NEDIMEX, spol. s  r.o.</dtt:ojm>
+<dtt:ojm>NEDIMEX, spol. s r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
+<dtt:rzp>1</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=60464186</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
@@ -555,25 +491,10 @@
 <dtt:S>
 <dtt:ico>61509167</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>K 1208 spol. s r.o.</dtt:ojm>
+<dtt:ojm>K 1208 spol. s r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>61858366</dtt:ico>
-<dtt:pf>121</dtt:pf>
-<dtt:ojm>ISCARE I.V.F. a.s.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:rzz>0</dtt:rzz>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=61858366</dtt:p_dph>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=61858366</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -621,13 +542,14 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>73746126</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Martin Valach</dtt:ojm>
+<dtt:ico>74716573</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. David Hodr</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
 <dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>75933268</dtt:ico>
@@ -639,6 +561,18 @@
 <dtt:rzz>0</dtt:rzz>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=7710258974</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02518040</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KarKeFin Group s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02518040</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -665,9 +599,31 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>03054161</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>REBS - Lead Gen s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=03054161</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03439470</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Listowell Mint s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>03551369</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Arbull s.r.o.</dtt:ojm>
+<dtt:ojm>LeadX Group s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -685,8 +641,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03651461</dtt:ico>
 <dtt:pf>145</dtt:pf>
@@ -732,21 +686,16 @@
 <dtt:p_dph>dic=04210611</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-<dtt:S>
-<dtt:ico>05018412</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Mgr. ONDŘEJ ŘÍHA, advokát</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05018498</dtt:ico>
 <dtt:pf>105</dtt:pf>
 <dtt:ojm>Mgr. RADKA SLAMĚNÍKOVÁ, advokátka</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
 <dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8551174533</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -782,6 +731,18 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>05551421</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>SIRIUS FINANCE, a. s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05551421</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>05873436</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>MOOPPO s.r.o.</dtt:ojm>
@@ -806,6 +767,14 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>06235590</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Denisa Nováková, advokátka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>06418392</dtt:ico>
 <dtt:pf>932</dtt:pf>
 <dtt:ojm>tibiQ Holding SE</dtt:ojm>
@@ -813,6 +782,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06418392</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -872,11 +843,13 @@
 <dtt:S>
 <dtt:ico>06967892</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>KLUB NAPLNO s.r.o.</dtt:ojm>
+<dtt:ojm>LeadX Digital s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06967892</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -899,8 +872,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07198205</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -932,8 +903,12 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08001189</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>08015627</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -965,15 +940,78 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>08086761</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>MUDr. Andranik Sargsjan</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>08139199</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Manta Investments s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
 <dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08139199</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08826463</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Leadmaker s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08826471</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Astrolab s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08950148</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Aleš Matějů Company s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09088733</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Finmaker s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09142291</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Envoice s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1569/2c</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>87</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>90</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

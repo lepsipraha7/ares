@@ -35,28 +35,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>26685621</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>KAPELLA KB, s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Janovského 710/55</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>27442365</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>OSTMARK s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Janovského 710/55</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=27442365</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27452662</dtt:ico>
 <dtt:pf>145</dtt:pf>
 <dtt:ojm>Společenství vlastníků jednotek pro dům č. p. 710 Holešovice, Praha 7</dtt:ojm>
@@ -88,7 +66,7 @@
 <dtt:S>
 <dtt:ico>27949516</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>TVER-PRAHA s.r.o.</dtt:ojm>
+<dtt:ojm>TVER-PRAHA s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Janovského 710/55</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -163,7 +141,7 @@
 <dtt:S>
 <dtt:ico>28404581</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>RIZALIT -INVEST s.r.o.</dtt:ojm>
+<dtt:ojm>RIZALIT -INVEST s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Janovského 710/55</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -181,15 +159,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>28455746</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>ADEPI PLUS s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Janovského 710/55</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>28463935</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>VICHANGE s.r.o. v likvidaci</dtt:ojm>
@@ -198,8 +167,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>28471580</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -220,6 +187,19 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>60217693</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martin ULRYCH</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 710/55</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7107062479</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>66464412</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -294,6 +274,8 @@
 <dtt:jmn>Praha 7, Holešovice, Janovského 710/55</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8608258384</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -307,8 +289,17 @@
 <dtt:p_dph>dic=9101296875</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08515875</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Viktor Veselkov</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 710/55</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

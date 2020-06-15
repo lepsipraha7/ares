@@ -11,6 +11,20 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>24257028</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>PINNAWALA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24257028</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=24257028</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>24285935</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Le bon bouillon s.r.o.</dtt:ojm>
@@ -72,7 +86,7 @@
 <dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=27230147</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -101,29 +115,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>40875750</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Psůtková Ivana, JUDr.</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=6260130503</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>41837657</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Jan Sváček</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=6605090580</dtt:p_dph>
-<dtt:sd>0</dtt:sd>
-<dtt:p_sd>dic=6605090580</dtt:p_sd>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>45690791</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Dagmar Žerdíková</dtt:ojm>
@@ -137,16 +128,6 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Jiří MIKULICA</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>62908324</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>MIKES International ,spol. s r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
-<dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -213,8 +194,6 @@
 <dtt:p_dph>dic=8406010151</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>74894927</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -235,6 +214,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>88002390</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -251,7 +232,7 @@
 <dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
+<dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=682031729</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -262,6 +243,8 @@
 <dtt:jmn>Praha 7, Bubeneč, Milady Horákové 854/78</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7511270052</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -274,12 +257,14 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>04867262</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. arch. Klára Kotlánová</dtt:ojm>
+<dtt:ico>04366140</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Fórum pro lidská práva, z. s.</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=04366140</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -298,6 +283,8 @@
 <dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7711026235</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -306,14 +293,14 @@
 <dtt:ojm>Mgr. Hynek Rajský, BA, advokát</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
 <dtt:res>0</dtt:res>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=8409144029</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>06304290</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Radil &amp; Schmidt, advokátní kancelář s.r.o.</dtt:ojm>
+<dtt:ojm>R/S/R advokátní kancelář s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -329,10 +316,20 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08760535</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Black docks s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 78/33</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

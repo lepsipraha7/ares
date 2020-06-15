@@ -211,22 +211,23 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>65409256</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>ARCHICZECH Group, s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>65991826</dtt:ico>
 <dtt:pf>706</dtt:pf>
 <dtt:ojm>BENET</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>66900387</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavlína Berousková</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 209/31</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7154043050</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -252,15 +253,6 @@
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Michal Sirotek, DiS.</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Jana Zajíce 209/31</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>75316943</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Petr Hnilica</dtt:ojm>
-<dtt:jmn>Praha 8, Bohnice, Katovická 402/22</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -294,8 +286,44 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08180962</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Petra Tichanská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08520399</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Katarína Korlo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08943354</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tetiana Kovarzhikova</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09186204</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Tokpa Korlo</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Veletržní 209/9</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>33</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

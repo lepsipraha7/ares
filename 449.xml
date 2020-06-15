@@ -64,6 +64,8 @@
 <dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26674122</dtt:p_dph>
 <dtt:cedr>0</dtt:cedr>
 <dtt:p_cedr>ico=26674122</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
@@ -131,11 +133,11 @@
 <dtt:S>
 <dtt:ico>60216395</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Přemysl RŮŽIČKA</dtt:ojm>
+<dtt:ojm>Přemysl Růžička</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=470410015</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -146,6 +148,8 @@
 <dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=535320108</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -238,17 +242,8 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>71889698</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Erik Machač</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>87560275</dtt:ico>
-<dtt:pf>424</dtt:pf>
+<dtt:pf>101</dtt:pf>
 <dtt:ojm>Oleg Pletosu</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
 <dtt:res>0</dtt:res>
@@ -304,16 +299,35 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>07222882</dtt:ico>
+<dtt:ico>08168865</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Asia Grand s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08361975</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Lucie Kolářová</dtt:ojm>
+<dtt:ojm>Alessandro Ricci</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08515671</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Podlesný</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U studánky 449/5</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

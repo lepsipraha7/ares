@@ -69,6 +69,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>43055486</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Lochmann</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Malířská 398/3</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>43925472</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Eva SVOBODOVÁ</dtt:ojm>
@@ -115,10 +124,10 @@
 </dtt:S>
 <dtt:S>
 <dtt:ico>69037230</dtt:ico>
-<dtt:pf>102</dtt:pf>
-<dtt:ojm>Ing. Oleg Koval</dtt:ojm>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Oleg Koval</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Malířská 398/3</dtt:jmn>
-<dtt:or>0</dtt:or>
+<dtt:or>1</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -130,6 +139,8 @@
 <dtt:jmn>Praha 7, Bubeneč, Malířská 398/3</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7201210016</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -177,6 +188,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06258263</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -186,8 +199,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06592325</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -198,7 +209,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>21</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

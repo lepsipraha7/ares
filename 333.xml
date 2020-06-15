@@ -32,15 +32,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>16122518</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Martin Liška</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>22691723</dtt:ico>
 <dtt:pf>706</dtt:pf>
 <dtt:ojm>Decorra, o.s.</dtt:ojm>
@@ -89,6 +80,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>26654016</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>&#8222;138. skautský oddíl&#8221;</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>27047474</dtt:ico>
 <dtt:pf>706</dtt:pf>
 <dtt:ojm>Student vizit, o.s.</dtt:ojm>
@@ -104,6 +104,18 @@
 <dtt:jmn>Praha 7, Holešovice, Jablonského 333/3</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27454088</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>INGOLF s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jablonského 333/3</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27454088</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -192,6 +204,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>67592473</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -203,8 +217,6 @@
 <dtt:p_dph>dic=6960134610</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>67790798</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -298,14 +310,14 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>88260216</dtt:ico>
+<dtt:ico>86975773</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Jakub Kolář</dtt:ojm>
+<dtt:ojm>Geoffrey Robinson Case</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=9206150096</dtt:p_dph>
+<dtt:p_dph>dic=7111069966</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -340,7 +352,7 @@
 <dtt:S>
 <dtt:ico>06926690</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Jana Čintalanová</dtt:ojm>
+<dtt:ojm>Jana Case</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -365,8 +377,26 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08948755</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Maxim Alois L Heyns</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08975710</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Fernando Ladron De Guevara Ramirez</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Sochařská 333/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>37</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>40</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

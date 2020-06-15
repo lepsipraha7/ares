@@ -3,20 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>11225114</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Jindřich Eisenreich</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:rzz>1</dtt:rzz>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=520408284</dtt:p_dph>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=11225114</dtt:p_cedr>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>13116762</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Ladislav KVAPIL</dtt:ojm>
@@ -83,7 +69,7 @@
 <dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=511225097</dtt:p_dph>
 <dtt:cedr>0</dtt:cedr>
 <dtt:p_cedr>ico=40862747</dtt:p_cedr>
@@ -208,8 +194,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03757293</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -219,19 +203,12 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04204778</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Šárka Zítková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>06420486</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Jun Wan Kim</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -275,8 +252,17 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>07843844</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Krystsina Ramanava</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 1252/20</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>27</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>26</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

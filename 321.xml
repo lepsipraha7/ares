@@ -64,17 +64,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>27799433</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>RARUKIL s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Přístavní 321/14</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=27799433</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27875857</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Prague Patchwork Meeting, s.r.o.</dtt:ojm>
@@ -131,15 +120,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>66136229</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Mgr. Iveta Tománková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Přístavní 321/14</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>66253276</dtt:ico>
 <dtt:pf>105</dtt:pf>
 <dtt:ojm>JUDr. Petr Voříšek, Ph.D., LL.M.</dtt:ojm>
@@ -169,6 +149,14 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>71466185</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Plajner Tomáš, Mgr., advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 321/14</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>73629669</dtt:ico>
 <dtt:pf>105</dtt:pf>
 <dtt:ojm>JUDr. Lukáš Holý, advokátní kancelář</dtt:ojm>
@@ -195,6 +183,18 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>01740911</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>OFSTONE s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Přístavní 321/14</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=01740911</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>03458466</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Galexum CZ s.r.o.</dtt:ojm>
@@ -202,7 +202,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=03458466</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -219,15 +219,6 @@
 </dtt:S>
 </dtt:V>
 <dtt:V>
-<dtt:S>
-<dtt:ico>06267360</dtt:ico>
-<dtt:pf>118</dtt:pf>
-<dtt:ojm>Nadační fond Subventio</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Přístavní 321/14</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
 <dtt:S>
 <dtt:ico>07077238</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -250,7 +241,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

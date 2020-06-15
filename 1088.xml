@@ -70,6 +70,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>67980961</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>&quot;Centrum pro dopravu a energetiku, z.s.&quot;</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1088/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>68241348</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Marcela Kravciv Janečková</dtt:ojm>
@@ -113,6 +122,24 @@
 <dtt:ico>74786610</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jiří ŠTARK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1088/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>86629557</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Klára Kuncová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1088/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>87165031</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tereza Tyrpeklová</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Heřmanova 1088/8</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -170,6 +197,8 @@
 <dtt:p_cedr>ico=3102238</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04318668</dtt:ico>
 <dtt:pf>706</dtt:pf>
@@ -188,7 +217,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=05065631</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -201,8 +230,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05495075</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -252,8 +279,28 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08532133</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Michal Studnička</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1088/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08874620</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Ladislava Něrgešová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Heřmanova 1088/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7652020519</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

@@ -60,22 +60,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>25632825</dtt:ico>
-<dtt:pf>121</dtt:pf>
-<dtt:ojm>TIS ČR a.s.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=25632825</dtt:p_dph>
-<dtt:ceu>-2</dtt:ceu>
-<dtt:p_ceu>ico=25632825</dtt:p_ceu>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=25632825</dtt:p_cedr>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>25671804</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>R.M. RILKE, spol. s r.o. v likvidaci</dtt:ojm>
@@ -83,7 +67,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=25671804</dtt:p_dph>
 <dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
@@ -122,18 +106,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=26724812</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>27127737</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Odkolkovna s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 9, Vysočany, Pod pekárnami 245/10</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=27127737</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -180,7 +152,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=28527321</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -240,8 +212,6 @@
 <dtt:p_dph>dic=5912130895</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>02423197</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -262,18 +232,22 @@
 <dtt:p_dph>dic=06532641</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
-<dtt:ico>07363061</dtt:ico>
+<dtt:ico>08137072</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>IT Hunter company s.r.o.</dtt:ojm>
+<dtt:ojm>Vestur Austur s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U průhonu 827/5</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08137072</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>21</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

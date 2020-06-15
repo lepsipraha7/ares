@@ -103,7 +103,7 @@
 <dtt:S>
 <dtt:ico>26706229</dtt:ico>
 <dtt:pf>205</dtt:pf>
-<dtt:ojm>Bytové družstvo Nad Štolou 8</dtt:ojm>
+<dtt:ojm>Bytové družstvo Nad Štolou 8 v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Nad štolou 1282/8</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -132,27 +132,9 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>45693293</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Richard Hurt Makuš</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Nad štolou 1282/8</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>47587822</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Renata HAVLOVÁ</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Nad štolou 1282/8</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>61496146</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Hana Musilová</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Nad štolou 1282/8</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -195,8 +177,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>72065222</dtt:ico>
 <dtt:pf>145</dtt:pf>
@@ -215,6 +195,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>02143577</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -272,7 +254,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>26</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

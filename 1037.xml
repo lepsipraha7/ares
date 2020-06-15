@@ -15,29 +15,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>24151793</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>HBO Netherlands Holdings s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=24151793</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>24155241</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Tomaier Legal advokátní kancelář s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=24155241</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>24194409</dtt:ico>
 <dtt:pf>121</dtt:pf>
 <dtt:ojm>DARK SIDE a.s.</dtt:ojm>
@@ -88,13 +65,15 @@
 <dtt:S>
 <dtt:ico>24835528</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Etnetera AppSatori s.r.o.</dtt:ojm>
+<dtt:ojm>AppSatori s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=24835528</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=24835528</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -245,8 +224,6 @@
 <dtt:p_dph>dic=25724291</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>26145359</dtt:ico>
 <dtt:pf>121</dtt:pf>
@@ -259,6 +236,20 @@
 <dtt:p_dph>dic=26145359</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>26177811</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Tulipa Karlin s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=26177811</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>26432277</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -382,20 +373,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=27934420</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>28169662</dtt:ico>
-<dtt:pf>121</dtt:pf>
-<dtt:ojm>ATOBO, a.s. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=28169662</dtt:p_dph>
+<dtt:p_dph>dic=27934420</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -412,8 +391,8 @@
 </dtt:S>
 <dtt:S>
 <dtt:ico>28219597</dtt:ico>
-<dtt:pf>121</dtt:pf>
-<dtt:ojm>Rezidenční projekty a.s.</dtt:ojm>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Tulipa Újezd s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -424,7 +403,7 @@
 <dtt:S>
 <dtt:ico>28391730</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Etnetera Logicworks, s.r.o.</dtt:ojm>
+<dtt:ojm>Logicworks, s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -492,20 +471,6 @@
 <dtt:p_dph>dic=28990005</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
-<dtt:S>
-<dtt:ico>29413575</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Zaplo Finance s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=29413575</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
 <dtt:S>
 <dtt:ico>45799016</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -533,6 +498,8 @@
 <dtt:p_dph>dic=46577459</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>49682342</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -573,18 +540,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>63982501</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>První multimediální s.r.o., v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=63982501</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>66233941</dtt:ico>
 <dtt:pf>105</dtt:pf>
 <dtt:ojm>JUDr. Antonín Hedrlín, Ph.D., advokát</dtt:ojm>
@@ -592,26 +547,6 @@
 <dtt:res>0</dtt:res>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=6908020020</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>71469249</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Jan Tomaier, advokát</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=8012060683</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>71470824</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>JUDr. Klára Tomaierová, advokát</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=8056241017</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -648,15 +583,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>02734311</dtt:ico>
-<dtt:pf>706</dtt:pf>
-<dtt:ojm>Asociace poskytovatelů nebankovních úvěrů, z.s.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>02832020</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Etnetera Motion s.r.o.</dtt:ojm>
@@ -681,17 +607,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>03296636</dtt:ico>
-<dtt:pf>111</dtt:pf>
-<dtt:ojm>TP Insolvence, v.o.s.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=03296636</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>03650979</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Felzer CZ s.r.o.</dtt:ojm>
@@ -699,19 +614,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=03650979</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>03770010</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>MyStay s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=03770010</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -728,8 +632,6 @@
 <dtt:p_cedr>ico=3799174</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04079663</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -752,30 +654,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=04428145</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>04914741</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Just Products, s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Plynární 1617/10</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=04914741</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>05081319</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>C3 Creative Code and Content s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=05081319</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -825,15 +703,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>06186416</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Vrgineers Partners, s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>06422098</dtt:ico>
 <dtt:pf>421</dtt:pf>
 <dtt:ojm>MMD-Monitors &amp; Displays Nederland B.V. - Czech Branch</dtt:ojm>
@@ -865,10 +734,55 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08081719</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>72</dtt:Pocet_zaznamu>
+<dtt:V>
+<dtt:S>
+<dtt:ico>08262691</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>OCA architects Prague s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08269467</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Denisa Vostárková, advokátka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8961100599</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08753571</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MARTOMA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08753571</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08898804</dtt:ico>
+<dtt:pf>145</dtt:pf>
+<dtt:ojm>Společenství vlastníků v domě na pozemku parc. č. 1492/111, k.ú. Strašnice, obec Praha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1037/49</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>64</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

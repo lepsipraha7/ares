@@ -9,8 +9,7 @@
 <dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:rzz>1</dtt:rzz>
+<dtt:rzp>1</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=00000906</dtt:p_dph>
 <dtt:cedr>0</dtt:cedr>
@@ -28,6 +27,29 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>13827561</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Marek Stanislav, Ing.</dtt:ojm>
+<dtt:jmn>Praha-Troja, Troja, Nad Kazankou 173/49</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=5402191993</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24185353</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CKM REAL s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24185353</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>25173162</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>K2 - ALVIN, s.r.o.</dtt:ojm>
@@ -40,7 +62,7 @@
 <dtt:S>
 <dtt:ico>25671464</dtt:ico>
 <dtt:pf>121</dtt:pf>
-<dtt:ojm>GEOSAN STAVEBNÍ a.s.</dtt:ojm>
+<dtt:ojm>DOB CONSTRUCTION a.s.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -49,20 +71,6 @@
 <dtt:p_dph>dic=25671464</dtt:p_dph>
 <dtt:cedr>0</dtt:cedr>
 <dtt:p_cedr>ico=25671464</dtt:p_cedr>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>26106191</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>TLV s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=26106191</dtt:p_dph>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=26106191</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -99,6 +107,18 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=26767562</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>27111229</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>RNK s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27111229</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -150,16 +170,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>28456106</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Your Classic Style s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>28949102</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>EUROCORAL, s.r.o.</dtt:ojm>
@@ -174,7 +184,7 @@
 <dtt:S>
 <dtt:ico>29143063</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Dobřichovická realitní, s.r.o.</dtt:ojm>
+<dtt:ojm>DOB Investment, s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -233,6 +243,8 @@
 <dtt:p_dph>dic=65413288</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>66244498</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -243,8 +255,6 @@
 <dtt:p_dph>dic=5654090519</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>66250315</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -283,6 +293,18 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=02102935</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02483734</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>HATARI, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=02483734</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -329,18 +351,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>04826086</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Trueside s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=04826086</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>04838301</dtt:ico>
 <dtt:pf>105</dtt:pf>
 <dtt:ojm>Mgr. ADAM HRUŠKA, advokát</dtt:ojm>
@@ -356,16 +366,6 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>05416507</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>JUDr. DOMINIK FOJTŮ, advokát</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=8905161408</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -392,6 +392,16 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>06726267</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>CKM REAL BETA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1516/32</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>07266472</dtt:ico>
 <dtt:pf>121</dtt:pf>
 <dtt:ojm>Exemplar Group a.s.</dtt:ojm>
@@ -403,7 +413,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>35</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>36</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

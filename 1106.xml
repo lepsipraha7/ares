@@ -36,7 +36,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
+<dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=28250575</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -90,15 +90,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>71328459</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Dana ČADOVÁ</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Na Maninách 1106/34</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>71618171</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Monika LEFNAROVÁ</dtt:ojm>
@@ -135,33 +126,12 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>04836049</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Lucie Línková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Na Maninách 1106/34</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>06032672</dtt:ico>
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Miroslav Valný</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Na Maninách 1106/34</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>06351298</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Ochránce údajů s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Na Maninách 1106/34</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=06351298</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -183,7 +153,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>19</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>16</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

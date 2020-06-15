@@ -71,18 +71,18 @@
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>International Wellness Center, s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U studánky 620/13</dtt:jmn>
-<dtt:or>0</dtt:or>
+<dtt:or>1</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>1</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=45271917</dtt:p_dph>
 <dtt:ir>0</dtt:ir>
-<dtt:ros>0</dtt:ros>
+<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>48108197</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>OESTERREICHER &amp; spol., s. r. o.</dtt:ojm>
+<dtt:ojm>ZTTR s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U studánky 620/13</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -114,12 +114,14 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>87406128</dtt:ico>
+<dtt:ico>02294885</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Zdeněk Lužný</dtt:ojm>
+<dtt:ojm>Filip Cicvárek</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U studánky 620/13</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7708131233</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -149,8 +151,17 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08824240</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Urszula Jadwiga Idzikowska</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U studánky 620/13</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>14</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>15</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

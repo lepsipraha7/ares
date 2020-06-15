@@ -54,7 +54,6 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:rzz>1</dtt:rzz>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -64,15 +63,6 @@
 <dtt:jmn>Praha 7, Holešovice, Janovského 993/48</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzz>0</dtt:rzz>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>70102325</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>MUDr. Jarmila DOHNALOVÁ - ORDINACE KLINICKÉ ONKOLOGIE</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Janovského 993/48</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzz>1</dtt:rzz>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -91,11 +81,10 @@
 <dtt:ojm>MUDr. Jitka HRACHOVÁ</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Janovského 993/48</dtt:jmn>
 <dtt:res>0</dtt:res>
-<dtt:rzz>1</dtt:rzz>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>9</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>8</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

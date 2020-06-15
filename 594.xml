@@ -3,15 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>01171321</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Tereza Weigová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Heřmanova 594/52</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>01671251</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Felix Čapek</dtt:ojm>
@@ -111,17 +102,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>49598287</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Blažena Slovačíková</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Korunovační 594/26</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=49598287</dtt:p_cedr>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>60220724</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Veronika Dohnalová</dtt:ojm>
@@ -206,8 +186,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>86630954</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -228,6 +206,8 @@
 <dtt:p_dph>dic=7910280378</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>86929852</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -275,17 +255,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-<dtt:S>
-<dtt:ico>07055757</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Jaroslav Mareš</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Korunovační 594/26</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

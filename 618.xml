@@ -116,7 +116,7 @@
 <dtt:S>
 <dtt:ico>28161556</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Anisiya &amp; K s.r.o.</dtt:ojm>
+<dtt:ojm>Anisiya &amp; K s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Umělecká 618/7</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -153,17 +153,6 @@
 <dtt:jmn>Praha 7, Holešovice, Umělecká 618/7</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>49394991</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Mgr. Kateřina Žahourová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Umělecká 618/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=7357182811</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -207,8 +196,6 @@
 <dtt:p_dph>dic=7709040086</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>68864671</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -218,6 +205,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>70367183</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -278,33 +267,13 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>02102773</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Hana Slapničková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Umělecká 618/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=8953290192</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>05554187</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Jonathan Paul Riches</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Umělecká 618/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>06010113</dtt:ico>
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Jessica Blair Johnston</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Umělecká 618/7</dtt:jmn>
-<dtt:res>1</dtt:res>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>1</dtt:ros>
+<dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>06394868</dtt:ico>
@@ -324,8 +293,30 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08271402</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>DK mikro s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Umělecká 618/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08271402</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09027211</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Amygdala Pictures s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Umělecká 618/7</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>32</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

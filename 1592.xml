@@ -29,7 +29,7 @@
 <dtt:jmn>Praha 7, Holešovice, Na Maninách 1592/9a</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=421220022</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -151,6 +151,16 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>29159067</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>KV 5 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na Maninách 1592/9a</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>40497828</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Marcela Podlenová</dtt:ojm>
@@ -160,8 +170,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=6555300235</dtt:p_dph>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=40497828</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -206,6 +214,8 @@
 <dtt:p_dph>dic=7062290686</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>46543546</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -218,8 +228,6 @@
 <dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>49835491</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -246,15 +254,6 @@
 <dtt:ico>61656429</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Arnošt Průša</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Na Maninách 1592/9a</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>71496963</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Jana Kocourková</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Na Maninách 1592/9a</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -312,6 +311,8 @@
 <dtt:jmn>Praha 7, Holešovice, Na Maninách 1592/9a</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9008240021</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -356,15 +357,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>88328473</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Pavel Grmolec</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Na Maninách 1592/9a</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>88605523</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Evžen Novák</dtt:ojm>
@@ -376,15 +368,12 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>02378221</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Krypto exchange s.r.o.</dtt:ojm>
+<dtt:ico>02354551</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Rostislav Zapletal, DiS.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Na Maninách 1592/9a</dtt:jmn>
-<dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=02378221</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -403,6 +392,8 @@
 <dtt:jmn>Praha 7, Holešovice, Na Maninách 1592/9a</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8911031569</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -417,8 +408,6 @@
 <dtt:p_dph>dic=03352005</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07686218</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -429,7 +418,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>41</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>40</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

@@ -3,6 +3,15 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
+<dtt:ico>01313690</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Tomáš Laluch</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U smaltovny 1369/23</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>16179340</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Stanislav SMOLAGA</dtt:ojm>
@@ -133,6 +142,17 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>66467608</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>František Srp</dtt:ojm>
+<dtt:jmn>Úžice 76</dtt:jmn>
+<dtt:res>1</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7708240298</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>70349151</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Miloš ČIHÁK</dtt:ojm>
@@ -172,6 +192,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>76170969</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -190,8 +212,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>87627035</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -221,7 +241,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

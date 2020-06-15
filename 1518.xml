@@ -39,7 +39,7 @@
 <dtt:S>
 <dtt:ico>24201251</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Ergovia s.r.o.</dtt:ojm>
+<dtt:ojm>Ergovia s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -212,16 +212,28 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>44850557</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Společnost pro hospodářský rozvoj (S.H. R.) s.r.o. v likvidaci</dtt:ojm>
+<dtt:jmn>Praha 7, Jankovcova 2, PSČ 17000</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>45277257</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>MACOM-průmyslové stavby, spol. s r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
-<dtt:or>0</dtt:or>
+<dtt:or>1</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:ceu>-2</dtt:ceu>
 <dtt:p_ceu>ico=45277257</dtt:p_ceu>
-<dtt:ros>0</dtt:ros>
+<dtt:ros>1</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>47117044</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -234,8 +246,6 @@
 <dtt:p_dph>dic=47117044</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>48534226</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -309,18 +319,9 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>74745158</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Mgr. Marek Plojhar, advokát</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>75119048</dtt:ico>
-<dtt:pf>733</dtt:pf>
-<dtt:ojm>OS SOO ZV ČR Nejvyšší kontrolní úřad</dtt:ojm>
+<dtt:pf>707</dtt:pf>
+<dtt:ojm>Základní organizace OS státních orgánů a organizací při Nejvyšším kontrolním úřadu (ZO OS SOO při NKÚ)</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -502,22 +503,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>05680565</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Mgr. BARBORA ČERVENÁ, advokát</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>06553036</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Mgr. Tereza Tesaříková, advokát</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>06714838</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>AK Vlasák advokáti s.r.o.</dtt:ojm>
@@ -534,10 +519,38 @@
 <dtt:ojm>JUDr. Pavel ZUSKA, advokát</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
 <dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8909112894</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08247358</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Jan Turyna, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08467978</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>REAMIS reality s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08639914</dtt:ico>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>JUDr. Tomáš Veselý, advokát</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1518/2</dtt:jmn>
+<dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>50</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>51</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

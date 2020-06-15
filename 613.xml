@@ -28,8 +28,6 @@
 <dtt:ojm>Ing. Lev Serbenský</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Na zátorách 613/8</dtt:jmn>
 <dtt:or>0</dtt:or>
-<dtt:res>1</dtt:res>
-<dtt:rzp>1</dtt:rzp>
 <dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -62,7 +60,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=27237371</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -133,21 +131,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>61250988</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>NOVÁK maso - uzeniny s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Na zátorách 613/8</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=61250988</dtt:p_dph>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=61250988</dtt:p_cedr>
-<dtt:szr>0</dtt:szr>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>62587897</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>PB HOLDING s.r.o.</dtt:ojm>
@@ -211,6 +194,16 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=06340504</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08982554</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Oleksii Bezkhmelnytsyn</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Na zátorách 613/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>

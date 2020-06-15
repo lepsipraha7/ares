@@ -83,7 +83,7 @@
 <dtt:S>
 <dtt:ico>48593524</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>SLUMO spol. s r.o.</dtt:ojm>
+<dtt:ojm>SLUMO spol. s r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Na výšinách 890/12</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -167,7 +167,7 @@
 <dtt:S>
 <dtt:ico>74737937</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Zdeněk KOCAN</dtt:ojm>
+<dtt:ojm>Zdeněk Kocan</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Na výšinách 890/12</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -249,6 +249,8 @@
 <dtt:ojm>Mgr. OTA ONDRUŠKA, advokát</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 890/2</dtt:jmn>
 <dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8309300032</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -259,7 +261,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=05509513</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -295,8 +297,45 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08072663</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Gabriela Heclová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 890/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08172544</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Grosman &amp; Partners s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 890/12</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08827222</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Alena Jungrová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 890/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08849552</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>David Gillard</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Na výšinách 890/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>34</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

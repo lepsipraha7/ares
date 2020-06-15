@@ -10,7 +10,6 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:rzz>1</dtt:rzz>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=00027618</dtt:p_dph>
 <dtt:cedr>0</dtt:cedr>
@@ -100,19 +99,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>26703203</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>MD STAV s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Dělnická 1020/54</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=26703203</dtt:p_dph>
-<dtt:ir>0</dtt:ir>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27252515</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>AZ PROMO s.r.o.</dtt:ojm>
@@ -143,7 +129,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=27971317</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -188,7 +174,7 @@
 <dtt:S>
 <dtt:ico>28894715</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>ALL-INCLUSIVE INTERIÉR s.r.o.</dtt:ojm>
+<dtt:ojm>ALL-INCLUSIVE INTERIÉR s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Dělnická 1020/54</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -233,8 +219,6 @@
 <dtt:p_dph>dic=48027545</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>60471166</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -247,6 +231,8 @@
 <dtt:p_dph>dic=60471166</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>61380300</dtt:ico>
 <dtt:pf>741</dtt:pf>
@@ -370,13 +356,16 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>06378455</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Eva Procházková, DiS.</dtt:ojm>
+<dtt:ico>06461450</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Good block s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Dělnická 1020/54</dtt:jmn>
-<dtt:res>1</dtt:res>
-<dtt:rzz>0</dtt:rzz>
-<dtt:ros>1</dtt:ros>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06461450</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>07858035</dtt:ico>
@@ -392,6 +381,18 @@
 <dtt:ico>08002452</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Art interiér s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 1020/54</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08002452</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08694915</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Palm leaves Prague s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Dělnická 1020/54</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>

@@ -76,7 +76,7 @@
 <dtt:S>
 <dtt:ico>25427008</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>KI METAL CZ s.r.o.</dtt:ojm>
+<dtt:ojm>KI METAL CZ s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -103,18 +103,6 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>25695983</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>LAKARSTAV s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=25695983</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -145,6 +133,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7556179994</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -205,8 +195,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>27251098</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -219,6 +207,8 @@
 <dtt:p_dph>dic=8608191405</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>27293335</dtt:ico>
 <dtt:pf>100</dtt:pf>
@@ -269,16 +259,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=27967590</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>27997928</dtt:ico>
-<dtt:pf>100</dtt:pf>
-<dtt:ojm>Hua Le Van</dtt:ojm>
-<dtt:jmn>Nejdek, Nádražní 114</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -386,6 +366,16 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>28906454</dtt:ico>
+<dtt:pf>100</dtt:pf>
+<dtt:ojm>Huan NGUYEN HO</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>28972023</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>MANTOL s.r.o.</dtt:ojm>
@@ -421,8 +411,6 @@
 <dtt:p_dph>dic=29055911</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>46167536</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -432,6 +420,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>48564231</dtt:ico>
 <dtt:pf>102</dtt:pf>
@@ -448,6 +438,16 @@
 <dtt:ojm>Hue Nguyen Thi</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
 <dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60450274</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Duy Hai Pham</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>1</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -544,6 +544,16 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>66385237</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Thi Tuyet Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:or>1</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>66414342</dtt:ico>
 <dtt:pf>102</dtt:pf>
 <dtt:ojm>Thuy Nguyen Thi</dtt:ojm>
@@ -613,6 +623,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>70054193</dtt:ico>
 <dtt:pf>102</dtt:pf>
@@ -621,10 +633,10 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7404089979</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>71531157</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -656,6 +668,15 @@
 <dtt:ico>75275996</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Thi Hai Ly Nguyen</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>75843285</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Xuan Viet Luu</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -715,6 +736,15 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=7401153991</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03499651</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Karolina Šafránková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 868/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -783,7 +813,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>77</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>80</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

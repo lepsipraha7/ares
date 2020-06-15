@@ -9,6 +9,8 @@
 <dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1524/36</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24125547</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -36,12 +38,34 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>27120805</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>A 11 s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1524/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=27120805</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>27927652</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Meat Invest s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1524/36</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>03133168</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Financial Hall s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1524/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -55,18 +79,6 @@
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=03687066</dtt:p_dph>
 <dtt:ir>0</dtt:ir>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>04022726</dtt:ico>
-<dtt:pf>121</dtt:pf>
-<dtt:ojm>Maltezian, a.s.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1524/36</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=04022726</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -88,6 +100,20 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>05435765</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>cm data s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1524/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05435765</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=5435765</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>06024289</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>CEQ Czech, s.r.o.</dtt:ojm>
@@ -105,8 +131,28 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>06842861</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>BNY Czech, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1524/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>07707487</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>BXP Czech, a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ortenovo náměstí 1524/36</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07707487</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>10</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>14</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

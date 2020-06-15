@@ -23,21 +23,9 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>24730939</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Prophone s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Bubenská 1377/37</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=24730939</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27397076</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Ruta invest s.r.o.</dtt:ojm>
+<dtt:ojm>Ruta invest s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Bubenská 1377/37</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -68,18 +56,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=27639754</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>27662331</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>HELITRANS GROUP s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Bubenská 1377/37</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=27662331</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -186,7 +162,7 @@
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=682246334</dtt:p_dph>
+<dtt:p_dph>dic=7006291644</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -201,7 +177,7 @@
 <dtt:S>
 <dtt:ico>74871048</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>MgA. Michaela Gorcová</dtt:ojm>
+<dtt:ojm>MgA. Michaela Richter Gorcová</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Bubenská 1377/37</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -218,33 +194,10 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>87170604</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Karolína Langerová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Bubenská 1377/37</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>02202760</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>SPORTERO s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Bubenská 1377/37</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=02202760</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>02865203</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Tomáš Zajdák</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Bubenská 1377/37</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -259,6 +212,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05976553</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -283,7 +238,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>26</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

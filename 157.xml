@@ -213,6 +213,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=27276031</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=27276031</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -236,18 +238,6 @@
 </dtt:S>
 </dtt:V>
 <dtt:V>
-<dtt:S>
-<dtt:ico>27440893</dtt:ico>
-<dtt:pf>121</dtt:pf>
-<dtt:ojm>LAND TRADE a.s.</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=27440893</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
 <dtt:S>
 <dtt:ico>27443086</dtt:ico>
 <dtt:pf>121</dtt:pf>
@@ -418,16 +408,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>02417294</dtt:ico>
-<dtt:pf>932</dtt:pf>
-<dtt:ojm>LATIBENA SE</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>03702383</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Victoria TECH s.r.o.</dtt:ojm>
@@ -459,8 +439,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>05088399</dtt:ico>
 <dtt:pf>932</dtt:pf>
@@ -471,6 +449,18 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>05523231</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>VS Immobilien s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Letenské náměstí 157/4</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>07688652</dtt:ico>
 <dtt:pf>161</dtt:pf>
@@ -490,7 +480,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>43</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>42</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

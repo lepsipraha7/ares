@@ -47,26 +47,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>26118939</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Onyx West Group s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>26118947</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Vasinis Group s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>26123185</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Kalina Group s.r.o.</dtt:ojm>
@@ -129,7 +109,7 @@
 <dtt:S>
 <dtt:ico>28495161</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>FULL PRODUCTION, s.r.o.</dtt:ojm>
+<dtt:ojm>FULL PRODUCTION, s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -212,8 +192,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>62912747</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -236,6 +214,8 @@
 <dtt:p_dph>dic=6512291786</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>68865481</dtt:ico>
 <dtt:pf>100</dtt:pf>
@@ -281,15 +261,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>73762806</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Bc. Lukáš Josefus</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>73806421</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Vojtěch Votoček</dtt:ojm>
@@ -312,7 +283,7 @@
 <dtt:S>
 <dtt:ico>76188141</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Tereza Vildová</dtt:ojm>
+<dtt:ojm>Tereza Nešporová</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Dukelských hrdinů 904/44</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -372,19 +343,12 @@
 <dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>06645852</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Šárka Hanzlíková</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Korunovační 904/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8605221867</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>38</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>34</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

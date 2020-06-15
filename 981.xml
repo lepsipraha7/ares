@@ -3,16 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>13094394</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Zdeněk Křenek</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, nábřeží Kapitána Jaroše 1000/7</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ceu>-2</dtt:ceu>
-<dtt:p_ceu>ico=13094394</dtt:p_ceu>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>18433057</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Roman Slavík</dtt:ojm>
@@ -114,15 +104,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>43931286</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Štěpánka Ťalská Dreslerová</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Korunovační 981/25</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>45690073</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ivanka Zachovalová</dtt:ojm>
@@ -157,18 +138,6 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>65413954</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>H &amp; H GASTRO s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Pplk. Sochora 981/17</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=65413954</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -210,8 +179,6 @@
 <dtt:p_dph>dic=7807120013</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>71864938</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -239,6 +206,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>74480359</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -315,8 +284,29 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08209995</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Valeria Borovova</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 981/25</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08626898</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>robofrog s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Korunovační 981/25</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08626898</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>31</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

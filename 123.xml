@@ -88,7 +88,7 @@
 <dtt:S>
 <dtt:ico>27393518</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>TATIUS,s.r.o.</dtt:ojm>
+<dtt:ojm>TATIUS,s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, U studánky 123/18</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -130,7 +130,7 @@
 <dtt:S>
 <dtt:ico>28375921</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Art Liga s.r.o.</dtt:ojm>
+<dtt:ojm>European Green Resources s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, U studánky 123/18</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -162,7 +162,7 @@
 <dtt:S>
 <dtt:ico>28901533</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>MIZRACH-VÝCHOD, s.r.o.</dtt:ojm>
+<dtt:ojm>3D management s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, U studánky 123/18</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -233,8 +233,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=7605064742</dtt:p_dph>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=64431860</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -352,6 +350,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>88235645</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Adéla Pavlová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 123/18</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>88306704</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Lloyd S Waldo</dtt:ojm>
@@ -396,6 +403,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>02974801</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -406,8 +415,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03145531</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -430,34 +437,12 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>04020651</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Yulia Skadchenko</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, U studánky 123/18</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=9260044310</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>04142837</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Mikhail Solovarov</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, U studánky 123/18</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>04914937</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Mgr. Michal Veselý</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, U studánky 123/18</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=8103250155</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -477,7 +462,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=05570778</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -485,15 +470,6 @@
 <dtt:ico>05901171</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jakub Novák</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, U studánky 123/18</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>06214053</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Andrey Skripnikov</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, U studánky 123/18</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -524,6 +500,26 @@
 <dtt:ojm>SOLO ESTATE PRAGUE s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, U studánky 123/18</dtt:jmn>
 <dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08573131</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>AYOGA s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 123/18</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08650501</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Veronika Rubášová</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 123/18</dtt:jmn>
+<dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>

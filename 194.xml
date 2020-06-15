@@ -111,7 +111,7 @@
 <dtt:S>
 <dtt:ico>26676095</dtt:ico>
 <dtt:pf>706</dtt:pf>
-<dtt:ojm>Fanclub Anety Langerové, z. s.</dtt:ojm>
+<dtt:ojm>Fanclub Anety Langerové, z. s. - v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Argentinská 194/12</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -129,7 +129,7 @@
 <dtt:S>
 <dtt:ico>27113604</dtt:ico>
 <dtt:pf>145</dtt:pf>
-<dtt:ojm>Společenství Havanská 22/194 - Praha 7</dtt:ojm>
+<dtt:ojm>Společenství vlastníků jednotek Havanská 194/22 - Praha 7</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Havanská 194/22</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -165,6 +165,8 @@
 <dtt:jmn>Praha 7, Holešovice, Dělnická 194/2</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=28934211</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -180,14 +182,27 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>45768838</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Batěk</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 194/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>48121371</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Arnošt Drozd</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Havanská 194/22</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=6010170122</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>48565385</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -197,8 +212,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>49668960</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -217,6 +230,15 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=7102280196</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>60216239</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří JENÍČEK</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 194/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -315,18 +337,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>66869315</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Gavenda Miloš</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Argentinská 194/14</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=510521417</dtt:p_dph>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=66869315</dtt:p_cedr>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>68869401</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Antonín Lex</dtt:ojm>
@@ -391,6 +401,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>74332007</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -400,8 +412,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>74709810</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -427,7 +437,7 @@
 <dtt:jmn>Praha 7, Bubeneč, Havanská 194/22</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
+<dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=7502100166</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -515,6 +525,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>02115271</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vojtěch Šívr</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Argentinská 194/12</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>03311210</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Simona Zajícová</dtt:ojm>
@@ -553,12 +572,14 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>05770157</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Vasyl Ivanchuk</dtt:ojm>
+<dtt:ico>05430607</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Mihály Brajila</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Argentinská 194/14</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9103181483</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -569,8 +590,12 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06322859</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>06491286</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -583,20 +608,6 @@
 <dtt:p_dph>dic=06491286</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-<dtt:S>
-<dtt:ico>06532039</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Royal Intertrade s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Argentinská 194/12</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=06532039</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>06543928</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -673,10 +684,21 @@
 <dtt:jmn>Praha 7, Holešovice, Argentinská 194/14</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8501025643</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08156140</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Petřík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 194/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>68</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>70</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

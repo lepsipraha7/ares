@@ -114,6 +114,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=45281220</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=45281220</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -146,7 +148,7 @@
 <dtt:S>
 <dtt:ico>71562010</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Leon SKUCIUS</dtt:ojm>
+<dtt:ojm>Leon Skucius</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Havanská 857/20</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -156,15 +158,6 @@
 <dtt:ico>74613901</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Markéta Trakslová</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Havanská 857/20</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>74680641</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Christopher William BLAIR</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Havanská 857/20</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -213,8 +206,6 @@
 <dtt:p_dph>dic=02900424</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>02939452</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -224,15 +215,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-<dtt:S>
-<dtt:ico>03030504</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>MgA. Jitka Enochová</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Havanská 857/20</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03084752</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -243,15 +227,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=03084752</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>03137082</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Renata Skuciusová</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Havanská 857/20</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -291,18 +266,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>05042194</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Ray Productions s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Tusarova 857/58</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=05042194</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>06114512</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Václav Sladký</dtt:ojm>
@@ -321,7 +284,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>26</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

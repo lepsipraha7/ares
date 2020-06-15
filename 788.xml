@@ -3,22 +3,9 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>26433940</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>International Medical Services, s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:rzz>1</dtt:rzz>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=26433940</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>26743078</dtt:ico>
 <dtt:pf>121</dtt:pf>
-<dtt:ojm>NORSK CZ a.s.</dtt:ojm>
+<dtt:ojm>NORSK CZ a.s., v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -35,18 +22,6 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>27562174</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Kariola s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=27562174</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -93,6 +68,18 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>70081336</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>MUDr. Juraj Traurig</dtt:ojm>
+<dtt:jmn>Praha 13, Stodůlky, Švejcarovo náměstí 2694/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=490725171</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>70929815</dtt:ico>
 <dtt:pf>105</dtt:pf>
 <dtt:ojm>MUDr. Jindřich Kubasta</dtt:ojm>
@@ -108,7 +95,7 @@
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzz>0</dtt:rzz>
-<dtt:ros>0</dtt:ros>
+<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>75070529</dtt:ico>
@@ -175,7 +162,7 @@
 <dtt:ico>04593111</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>MUDr. Karel Votava, s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Partyzánská 1504/24</dtt:jmn>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 788/16</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzz>0</dtt:rzz>
@@ -210,10 +197,11 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:rzz>0</dtt:rzz>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>20</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>19</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

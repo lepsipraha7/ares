@@ -76,7 +76,6 @@
 <dtt:ojm>Ing. Jiří WIESNER</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
 <dtt:res>0</dtt:res>
-<dtt:rzz>1</dtt:rzz>
 <dtt:szr>0</dtt:szr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -152,7 +151,7 @@
 <dtt:S>
 <dtt:ico>74540289</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>MUDr. Veronika TICHÁ</dtt:ojm>
+<dtt:ojm>MUDr. Veronika Tichá</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -188,14 +187,12 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>87545471</dtt:ico>
+<dtt:ico>86664565</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Zuzana Havlíčková</dtt:ojm>
+<dtt:ojm>Jitka Kinclová</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=8251170158</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
@@ -207,6 +204,17 @@
 <dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>88636127</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Miroslav Macík</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9005026272</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -222,6 +230,15 @@
 <dtt:ico>04601246</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jana Neumanová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>05463360</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kateřina Macíková</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -248,8 +265,17 @@
 <dtt:p_dph>dic=07959281</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08922543</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Antonín Šarman</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 441/5</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

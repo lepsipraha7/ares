@@ -3,15 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>01277235</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Volha Liaudanskaya</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>11538678</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Zdeněk Raška</dtt:ojm>
@@ -48,15 +39,17 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>26434369</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>TIOS servis, s.r.o. v likvidaci</dtt:ojm>
+<dtt:ico>22876618</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Studio Hrdinů z.s.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=26434369</dtt:p_dph>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=22876618</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=22876618</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -118,6 +111,17 @@
 <dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>70320411</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>David Kalika</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=7702255209</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -199,6 +203,8 @@
 <dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=9159120410</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
@@ -232,6 +238,8 @@
 <dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=3806413</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -273,8 +281,17 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08418241</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vanda Binderová</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Ovenecká 376/4</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>27</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

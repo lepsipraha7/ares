@@ -3,17 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>14991161</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Petr Mihalik</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Stupkova 1440/9</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=5604180010</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>16915241</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Jiří VÁVRA</dtt:ojm>
@@ -153,6 +142,8 @@
 <dtt:jmn>Praha 7, Holešovice, Stupkova 1440/9</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8709160020</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -194,8 +185,6 @@
 <dtt:p_dph>dic=04435583</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>04439228</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -205,6 +194,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05051037</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -242,15 +233,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>07446055</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Vladislav Gaus</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Stupkova 1440/9</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>07449372</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Zdeněk Brouček</dtt:ojm>
@@ -268,17 +250,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-<dtt:S>
-<dtt:ico>07844573</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Tereza Matějková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Stupkova 1440/9</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>26</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

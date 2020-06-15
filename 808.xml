@@ -4,7 +4,7 @@
 <dtt:V>
 <dtt:S>
 <dtt:ico>01627040</dtt:ico>
-<dtt:pf>424</dtt:pf>
+<dtt:pf>101</dtt:pf>
 <dtt:ojm>Oksana Khariton</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Dobrovského 808/4</dtt:jmn>
 <dtt:res>0</dtt:res>
@@ -39,28 +39,18 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=24316512</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>26706792</dtt:ico>
 <dtt:pf>205</dtt:pf>
-<dtt:ojm>Bytové družstvo Havanská 6</dtt:ojm>
+<dtt:ojm>Bytové družstvo Havanská 6, v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Havanská 808/6</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>28543998</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Prokopija Nestoroski</dtt:ojm>
-<dtt:jmn>Nová Ves, Staré Ouholice 70</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>1</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>42510414</dtt:ico>
@@ -177,17 +167,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>74935151</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Rudolf Harvan</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Dobrovského 808/4</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=7409267503</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>76434486</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Martin Florek</dtt:ojm>
@@ -198,8 +177,6 @@
 <dtt:p_dph>dic=8009257696</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>87466139</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -219,6 +196,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>03704394</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -265,7 +244,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>27</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

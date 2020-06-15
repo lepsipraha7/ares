@@ -36,6 +36,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>01672584</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Sandra Štefaniková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8b</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>13128434</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Pavel Voldřich</dtt:ojm>
@@ -44,6 +53,19 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=531213100</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>24172952</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Living plus s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>1</dtt:dph>
+<dtt:p_dph>dic=24172952</dtt:p_dph>
+<dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -71,7 +93,7 @@
 <dtt:S>
 <dtt:ico>24702765</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Ráj 7 s.r.o.</dtt:ojm>
+<dtt:ojm>RM Marina Estate s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -110,7 +132,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=24817937</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -203,6 +225,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>27607453</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -225,8 +249,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>28240570</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -259,18 +281,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=28409698</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>28410858</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>LINBERG s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8a</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=28410858</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -435,6 +445,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>67064736</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -444,8 +456,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>67421156</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -544,15 +554,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>73221929</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Denisa Ronaldi</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8b</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>73651494</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Miroslav Stránský</dtt:ojm>
@@ -602,9 +603,9 @@
 </dtt:S>
 <dtt:S>
 <dtt:ico>75341611</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Jan Němec</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8a</dtt:jmn>
+<dtt:pf>105</dtt:pf>
+<dtt:ojm>Mgr. Jan Němec, advokát</dtt:ojm>
+<dtt:jmn>Praha 1, Staré Město, Konviktská 291/24</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -645,7 +646,7 @@
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8c</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=8152067770</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -665,6 +666,8 @@
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8a</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8859232569</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -760,18 +763,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>03400603</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Tissie Park s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=03400603</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>03434419</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>ULTRA MARINE EUROPE s.r.o.</dtt:ojm>
@@ -811,6 +802,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>03779629</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Antonín Raizl</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8d</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>04134532</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Ing. Lucie Nováková</dtt:ojm>
@@ -820,40 +820,10 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>04425073</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Tomáš Jonke</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8c</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>04579411</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Nicholas A Doyon</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-</dtt:V>
-<dtt:V>
-<dtt:S>
 <dtt:ico>05046467</dtt:ico>
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Veronika Kundríková</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8b</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>05090296</dtt:ico>
-<dtt:pf>161</dtt:pf>
-<dtt:ojm>Ictus Help, z.ú.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8c</dtt:jmn>
-<dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
@@ -872,6 +842,8 @@
 <dtt:p_cedr>ico=5299926</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>05516021</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -905,7 +877,7 @@
 <dtt:ico>06098088</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Linberg ČR s. r. o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8a</dtt:jmn>
+<dtt:jmn>Praha 3, Žižkov, Cimburkova 916/8</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -961,6 +933,8 @@
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=684323423</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -994,6 +968,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07356498</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -1011,7 +987,65 @@
 <dtt:S>
 <dtt:ico>07922345</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Mechanikum services s.r.o.</dtt:ojm>
+<dtt:ojm>Outboxers Ventures s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08073198</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>BeRider s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8d</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08073198</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08319413</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Catherine Elizabeth Mattson Casteel</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08324492</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Bartley Eugene Casteel</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08472971</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mark Robert Hudson</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8d</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08562580</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Mgr. Adéla Hrabovská</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8c</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08777713</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>MARTINA DESIGN s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -1019,7 +1053,28 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>97</dtt:Pocet_zaznamu>
+<dtt:V>
+<dtt:S>
+<dtt:ico>08745986</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Kolja Ivani</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8d</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08936081</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Axelrod Advisory s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Jankovcova 1587/8d</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>102</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

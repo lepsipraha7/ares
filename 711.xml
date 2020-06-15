@@ -106,18 +106,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>26206757</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>FLS One s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Letohradská 711/10</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=26206757</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>26461927</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Lyubov Tomyn</dtt:ojm>
@@ -199,18 +187,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>26772167</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>PRO-CAT s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Letohradská 711/10</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=26772167</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>27606911</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>vivalogic s.r.o.</dtt:ojm>
@@ -237,8 +213,6 @@
 <dtt:szr>0</dtt:szr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>27607241</dtt:ico>
 <dtt:pf>112</dtt:pf>
@@ -261,6 +235,8 @@
 <dtt:p_dph>dic=28378423</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>28478932</dtt:ico>
 <dtt:pf>121</dtt:pf>
@@ -288,18 +264,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>29038618</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Czech Facility Services s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Letohradská 711/10</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=29038618</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>29135231</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>SSI Solutions, s.r.o.</dtt:ojm>
@@ -322,17 +286,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=6458181675</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>48072397</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Milan Jarkovský</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Letohradská 711/10</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=6811030622</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -404,18 +357,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>04417101</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>SSI Cleaning, s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Letohradská 711/10</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=04417101</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>04650662</dtt:ico>
 <dtt:pf>706</dtt:pf>
 <dtt:ojm>Bieno z. s.</dtt:ojm>
@@ -457,18 +398,20 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=06253997</dtt:p_dph>
+<dtt:sd>0</dtt:sd>
+<dtt:p_sd>dic=06253997</dtt:p_sd>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>07070551</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Sedecim s.r.o.</dtt:ojm>
+<dtt:ojm>RE-KIDS s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Letohradská 711/10</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07070551</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -478,6 +421,9 @@
 <dtt:jmn>Praha 7, Holešovice, Letohradská 711/10</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=07213603</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -490,8 +436,32 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08678456</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Special Service International OZP, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 711/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08678456</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08678481</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Special Service International Support, s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Letohradská 711/10</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08678481</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>43</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>40</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

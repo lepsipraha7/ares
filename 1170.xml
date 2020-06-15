@@ -19,7 +19,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=24179892</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -47,7 +47,7 @@
 <dtt:S>
 <dtt:ico>28498500</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>LEOENERGO s.r.o.</dtt:ojm>
+<dtt:ojm>LEOENERGO s.r.o. v likvidaci</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Veverkova 1170/29</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -150,15 +150,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>70352658</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Vladimír Parásek</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Veverkova 1170/29</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>71459243</dtt:ico>
 <dtt:pf>145</dtt:pf>
 <dtt:ojm>Společenství vlastníků domu Veverkova č.p. 1170, Praha 7</dtt:ojm>
@@ -194,8 +185,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>74166689</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -207,6 +196,8 @@
 <dtt:p_dph>dic=8457169919</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>74708805</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -217,7 +208,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>22</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>21</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

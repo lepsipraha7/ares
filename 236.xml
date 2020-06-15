@@ -27,7 +27,7 @@
 <dtt:jmn>Praha 7, Bubeneč, Čechova 236/17</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:rzz>1</dtt:rzz>
+<dtt:rzz>0</dtt:rzz>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -72,20 +72,11 @@
 <dtt:S>
 <dtt:ico>26377896</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Hieu Nguyen Dang</dtt:ojm>
+<dtt:ojm>Dang Hieu Nguyen</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Janovského 236/35</dtt:jmn>
 <dtt:or>1</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>26982161</dtt:ico>
-<dtt:pf>706</dtt:pf>
-<dtt:ojm>AQUAMARINE, klub potápěčů</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Čechova 236/17</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -101,7 +92,7 @@
 <dtt:S>
 <dtt:ico>28971108</dtt:ico>
 <dtt:pf>112</dtt:pf>
-<dtt:ojm>Popout s.r.o.</dtt:ojm>
+<dtt:ojm>Sevamed s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Čechova 236/17</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
@@ -198,8 +189,6 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>67787096</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -209,6 +198,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>69354677</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -273,6 +264,15 @@
 <dtt:ojm>Huong Nguyen Thi</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Janovského 236/35</dtt:jmn>
 <dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09225196</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>EDUklinika s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Janovského 236/35</dtt:jmn>
+<dtt:or>0</dtt:or>
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>

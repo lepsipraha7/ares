@@ -244,7 +244,7 @@
 </dtt:S>
 <dtt:S>
 <dtt:ico>74982575</dtt:ico>
-<dtt:pf>101</dtt:pf>
+<dtt:pf>105</dtt:pf>
 <dtt:ojm>Bc. Petr Vojáček</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
 <dtt:res>0</dtt:res>
@@ -318,6 +318,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=05966272</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -362,6 +364,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>06951881</dtt:ico>
+<dtt:pf>424</dtt:pf>
+<dtt:ojm>Vasyl Balakchi</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>1</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>1</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>07330731</dtt:ico>
 <dtt:pf>706</dtt:pf>
 <dtt:ojm>Divadelní soubor Hrobeso, z.s.</dtt:ojm>
@@ -370,8 +381,17 @@
 <dtt:res>0</dtt:res>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08541230</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Bc. Eva Mejstříková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Tusarova 1179/37</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>37</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>39</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

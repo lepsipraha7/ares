@@ -83,15 +83,6 @@
 <dtt:sh>0</dtt:sh>
 </dtt:S>
 <dtt:S>
-<dtt:ico>42521602</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Bedřich Lebeda</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, U průhonu 1141/2</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>45438641</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Michal Sedláček</dtt:ojm>
@@ -200,8 +191,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>66768985</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -211,6 +200,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>70055246</dtt:ico>
 <dtt:pf>102</dtt:pf>
@@ -230,6 +221,15 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=446025028</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>71671897</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Thi Thu Ha Tran</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1141/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -269,13 +269,22 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>05270243</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Gabriela Altman</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U průhonu 1141/2</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>05754186</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Duc Anh Vu</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, U průhonu 1141/2</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=9406284294</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -286,10 +295,12 @@
 <dtt:jmn>Praha 7, Holešovice, U průhonu 1141/2</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=8754161449</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

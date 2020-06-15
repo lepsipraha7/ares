@@ -41,6 +41,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=24144487</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=24144487</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -50,18 +52,6 @@
 <dtt:jmn>Praha 7, Bubeneč, U studánky 212/21</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>24840289</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>COOL DANCE s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, U studánky 212/21</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=24840289</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -124,16 +114,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>27573982</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>U satyra, s.r.o. v likvidaci</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, U studánky 212/21</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>28420047</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>ledvision s.r.o.</dtt:ojm>
@@ -141,7 +121,7 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=28420047</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -206,16 +186,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>66225434</dtt:ico>
-<dtt:pf>105</dtt:pf>
-<dtt:ojm>Prof. JUDr. Oľga Ovečková, DrSc., advokátní kancelář</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, U studánky 212/21</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-</dtt:V>
-<dtt:V>
-<dtt:S>
 <dtt:ico>66228999</dtt:ico>
 <dtt:pf>105</dtt:pf>
 <dtt:ojm>JUDr. Tatiana Tejcová, advokátní kancelář</dtt:ojm>
@@ -241,6 +211,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>71227725</dtt:ico>
 <dtt:pf>105</dtt:pf>
@@ -317,13 +289,22 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>03447251</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Pavel Houdek</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, U studánky 212/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>04645219</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Antonio dance s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, U studánky 212/21</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
+<dtt:rzp>1</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -395,7 +376,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>39</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>37</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

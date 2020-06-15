@@ -47,7 +47,7 @@
 <dtt:ico>27715400</dtt:ico>
 <dtt:pf>100</dtt:pf>
 <dtt:ojm>Mykola Hryhorchuk</dtt:ojm>
-<dtt:jmn>Mořice, Masarykova</dtt:jmn>
+<dtt:jmn>Mořice, Masarykova 841</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=8507144393</dtt:p_dph>
@@ -57,15 +57,6 @@
 <dtt:ico>41778103</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>JUDr. Danuta Syrovátková</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Šimáčkova 906/21</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>43931227</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Ali Douibi</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Šimáčkova 906/21</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -122,16 +113,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>67670172</dtt:ico>
-<dtt:pf>102</dtt:pf>
-<dtt:ojm>Natalia Khokhlacheva</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Šimáčkova 906/21</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>69164231</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Tomáš Opatřil</dtt:ojm>
@@ -149,6 +130,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>0</dtt:dph>
 <dtt:p_dph>dic=6307291837</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=69302189</dtt:p_cedr>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -179,6 +162,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>86987283</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jiří Syrovátka</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Šimáčkova 906/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>87772663</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Hyosooc Yoo</dtt:ojm>
@@ -198,8 +190,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>03373975</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -209,21 +199,13 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>04460529</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>Cereal CZ&amp;SK s.r.o.</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Korunovační 906/11</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>05518407</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>LocoDeLuxe s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Šimáčkova 906/21</dtt:jmn>
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -248,7 +230,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>25</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>23</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

@@ -35,7 +35,7 @@
 <dtt:jmn>Praha 7, Bubeneč, Ovenecká 954/27</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=7054210031</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -209,24 +209,24 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>49683471</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>Management Data Praha spol. s r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 954/18</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=49683471</dtt:p_dph>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>61493554</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Irena POLÁKOVÁ</dtt:ojm>
 <dtt:jmn>Praha 7, Bubeneč, Ovenecká 954/27</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>69522952</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Ioulia DOVLATOVA</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Ovenecká 954/27</dtt:jmn>
-<dtt:or>1</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=7162089946</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
@@ -251,15 +251,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=8104032321</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>87968291</dtt:ico>
-<dtt:pf>424</dtt:pf>
-<dtt:ojm>Timothy Alan Gosling</dtt:ojm>
-<dtt:jmn>Praha 7, Bubeneč, Ovenecká 954/27</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -375,6 +366,8 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=06512763</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -445,8 +438,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>08068763</dtt:ico>
 <dtt:pf>424</dtt:pf>
@@ -457,7 +448,42 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>41</dtt:Pocet_zaznamu>
+<dtt:V>
+<dtt:S>
+<dtt:ico>08766894</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>The Delivery s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 954/18</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=08766894</dtt:p_dph>
+<dtt:sd>0</dtt:sd>
+<dtt:p_sd>dic=08766894</dtt:p_sd>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08799954</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Paleček</dtt:ojm>
+<dtt:jmn>Praha 7, Bubeneč, Ovenecká 954/27</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>09168095</dtt:ico>
+<dtt:pf>112</dtt:pf>
+<dtt:ojm>GentleBIT s.r.o.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, U Uranie 954/18</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+</dtt:V>
+<dtt:Pocet_zaznamu>43</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

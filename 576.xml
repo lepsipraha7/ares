@@ -3,6 +3,20 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
+<dtt:ico>24222992</dtt:ico>
+<dtt:pf>121</dtt:pf>
+<dtt:ojm>MISS EVENTS a.s.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 576/21</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=24222992</dtt:p_dph>
+<dtt:cedr>0</dtt:cedr>
+<dtt:p_cedr>ico=24222992</dtt:p_cedr>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>24235377</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>GIA COMPANY s.r.o.</dtt:ojm>
@@ -36,17 +50,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=26420333</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>27189996</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>GALIUM - domácí péče, s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Bubenská 576/21</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:rzz>0</dtt:rzz>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -123,8 +126,17 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08626537</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Petr Hladovec</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Bubenská 576/21</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>11</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>12</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

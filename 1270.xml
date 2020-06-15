@@ -50,7 +50,7 @@
 <dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=520114153</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -111,15 +111,6 @@
 <dtt:ico>42513057</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Marie KITZLEROVÁ</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>43926835</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ing. Václav Tesárek</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -205,8 +196,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>68869819</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -218,19 +207,12 @@
 <dtt:p_dph>dic=7811220087</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>70352470</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Martin Kitzler</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>74905473</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Michaela Šplíchalová</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -249,15 +231,6 @@
 <dtt:ico>87597586</dtt:ico>
 <dtt:pf>424</dtt:pf>
 <dtt:ojm>Matej Kardelis</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>87779536</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Michal Švec</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Tovární 1270/10</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -294,7 +267,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>26</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

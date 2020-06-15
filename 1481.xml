@@ -3,18 +3,6 @@
 <are:Odpoved>
 <dtt:V>
 <dtt:S>
-<dtt:ico>13798049</dtt:ico>
-<dtt:pf>100</dtt:pf>
-<dtt:ojm>Ing. Alexander Pavlov</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Dělnická 1481/71</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>1</dtt:res>
-<dtt:rzp>1</dtt:rzp>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=6409201656</dtt:p_dph>
-<dtt:ros>1</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>14978415</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>René ELSTNER</dtt:ojm>
@@ -37,7 +25,7 @@
 <dtt:S>
 <dtt:ico>18903436</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Nicanor TODOSI</dtt:ojm>
+<dtt:ojm>Nicanor Todosi</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Dělnická 1481/71</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -198,8 +186,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>01847236</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -209,6 +195,8 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>01866460</dtt:ico>
 <dtt:pf>107</dtt:pf>
@@ -258,15 +246,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>04794427</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Bc. Eleonora Todosiová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Dělnická 1481/71</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>06400728</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Roman Potočný</dtt:ojm>
@@ -287,8 +266,17 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08400610</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Martina Vymyslická</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 1481/71</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>29</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>28</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

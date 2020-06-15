@@ -24,16 +24,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>28408853</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>MEFI-CO 11 spol. s r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Dělnická 775/30</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>48585343</dtt:ico>
 <dtt:pf>112</dtt:pf>
 <dtt:ojm>&quot; Creative Fun International s.r.o. &quot; v likvidaci&quot;</dtt:ojm>
@@ -41,22 +31,6 @@
 <dtt:or>0</dtt:or>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>49681036</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>EKOKRATO s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Dělnická 775/30</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:dph>1</dtt:dph>
-<dtt:p_dph>dic=49681036</dtt:p_dph>
-<dtt:sd>0</dtt:sd>
-<dtt:p_sd>dic=49681036</dtt:p_sd>
-<dtt:cedr>0</dtt:cedr>
-<dtt:p_cedr>ico=49681036</dtt:p_cedr>
-<dtt:ir>0</dtt:ir>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -78,7 +52,7 @@
 <dtt:jmn>Praha 7, Holešovice, Dělnická 775/30</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
+<dtt:dph>1</dtt:dph>
 <dtt:p_dph>dic=6903170494</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
@@ -127,8 +101,17 @@
 <dtt:p_dph>dic=05525365</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>07705514</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Gantulga Ganzorig</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Dělnická 775/30</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>11</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>10</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

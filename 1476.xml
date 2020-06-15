@@ -58,6 +58,8 @@
 <dtt:jmn>Praha 7, Holešovice, Osadní 1476/43</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
+<dtt:dph>0</dtt:dph>
+<dtt:p_dph>dic=7110250213</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -146,15 +148,6 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>74584286</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Veronika Váňová</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Osadní 1476/43</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>75393735</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Klára Radičová</dtt:ojm>
@@ -190,8 +183,6 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
-</dtt:V>
-<dtt:V>
 <dtt:S>
 <dtt:ico>88558444</dtt:ico>
 <dtt:pf>101</dtt:pf>
@@ -201,10 +192,30 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+</dtt:V>
+<dtt:V>
 <dtt:S>
 <dtt:ico>88775721</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Dominik Lexa</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1476/43</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02337614</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Nosek</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1476/43</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>02668246</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Aneta Váchová</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Osadní 1476/43</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -220,21 +231,18 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>03483410</dtt:ico>
-<dtt:pf>112</dtt:pf>
-<dtt:ojm>Myšák Servis s.r.o.</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, Osadní 1476/43</dtt:jmn>
-<dtt:or>0</dtt:or>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=03483410</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>05012708</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Nikol Polášková</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1476/43</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>06293972</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Vasile Popa</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, Osadní 1476/43</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
@@ -277,6 +285,15 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
+<dtt:ico>07801645</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Daniel Sivec</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1476/43</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
 <dtt:ico>07958218</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Robert Šuma</dtt:ojm>
@@ -285,8 +302,35 @@
 <dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
+<dtt:S>
+<dtt:ico>08404178</dtt:ico>
+<dtt:pf>706</dtt:pf>
+<dtt:ojm>Spolek pro ochranu stávající historické podoby Staroměstského náměstí Praha</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1476/43</dtt:jmn>
+<dtt:or>0</dtt:or>
+<dtt:res>0</dtt:res>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08868387</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>PhDr. Jiřina Nováková, Ph.D.</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1476/43</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
+<dtt:S>
+<dtt:ico>08941891</dtt:ico>
+<dtt:pf>101</dtt:pf>
+<dtt:ojm>Jakub Šůs</dtt:ojm>
+<dtt:jmn>Praha 7, Holešovice, Osadní 1476/43</dtt:jmn>
+<dtt:res>0</dtt:res>
+<dtt:rzp>0</dtt:rzp>
+<dtt:ros>0</dtt:ros>
+</dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>30</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>35</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>

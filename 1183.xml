@@ -83,11 +83,11 @@
 <dtt:S>
 <dtt:ico>63093201</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Radim TOMŠEJ</dtt:ojm>
+<dtt:ojm>Radim Tomšej</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, V háji 1183/22</dtt:jmn>
 <dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
+<dtt:rzp>1</dtt:rzp>
+<dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
 <dtt:ico>67786588</dtt:ico>
@@ -107,17 +107,6 @@
 <dtt:ros>1</dtt:ros>
 </dtt:S>
 <dtt:S>
-<dtt:ico>74347675</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Jiří Koutný</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, V háji 1183/22</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=8510151364</dtt:p_dph>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
 <dtt:ico>76571777</dtt:ico>
 <dtt:pf>101</dtt:pf>
 <dtt:ojm>Petr Göttlicher</dtt:ojm>
@@ -128,15 +117,6 @@
 <dtt:p_dph>dic=8103214845</dtt:p_dph>
 <dtt:cedr>0</dtt:cedr>
 <dtt:p_cedr>ico=76571777</dtt:p_cedr>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>88180221</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Martin Tyburec</dtt:ojm>
-<dtt:jmn>Praha 5, Smíchov, Kroftova 342/3</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -151,21 +131,10 @@
 <dtt:S>
 <dtt:ico>03714527</dtt:ico>
 <dtt:pf>101</dtt:pf>
-<dtt:ojm>Angelina Elisabeth Alečková</dtt:ojm>
+<dtt:ojm>Angelina Ludvíková</dtt:ojm>
 <dtt:jmn>Praha 7, Holešovice, V háji 1183/22</dtt:jmn>
 <dtt:res>0</dtt:res>
 <dtt:rzp>0</dtt:rzp>
-<dtt:ros>0</dtt:ros>
-</dtt:S>
-<dtt:S>
-<dtt:ico>05578582</dtt:ico>
-<dtt:pf>101</dtt:pf>
-<dtt:ojm>Ondřej Lodes</dtt:ojm>
-<dtt:jmn>Praha 7, Holešovice, V háji 1183/22</dtt:jmn>
-<dtt:res>0</dtt:res>
-<dtt:rzp>0</dtt:rzp>
-<dtt:dph>0</dtt:dph>
-<dtt:p_dph>dic=8504034858</dtt:p_dph>
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 <dtt:S>
@@ -178,7 +147,7 @@
 <dtt:ros>0</dtt:ros>
 </dtt:S>
 </dtt:V>
-<dtt:Pocet_zaznamu>18</dtt:Pocet_zaznamu>
+<dtt:Pocet_zaznamu>15</dtt:Pocet_zaznamu>
 <dtt:Filtr>1</dtt:Filtr>
 </are:Odpoved>
 </are:Ares_odpovedi>
